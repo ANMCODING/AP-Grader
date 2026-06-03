@@ -14,6 +14,7 @@ import {
   scanSectionsForPreview,
   type SectionPreviewResult,
 } from "@/lib/client/sectionPreview";
+import { gradeInBrowser, STATIC_HOST_NOTE } from "@/lib/client/browserGrading";
 import { pushHistoryFromReport } from "@/lib/client/submissionHistory";
 import { countWords } from "@/lib/grader/text";
 import type {
@@ -25,6 +26,9 @@ import type { PdfSubmissionMeta } from "@/lib/server/pdfCleanTypes";
 
 const PASTE_SHORT_WARNING =
   "Paste may have been cut short by your browser. Try using the Upload File button instead for papers longer than 2,000 words.";
+
+const staticGitHubPagesHost =
+  process.env.NEXT_PUBLIC_STATIC_EXPORT === "true";
 
 function isGoogleDocsUrl(text: string): boolean {
   return /^https?:\/\/(www\.)?docs\.google\.com\/document\/d\/[a-zA-Z0-9_-]+/i.test(
@@ -193,6 +197,12 @@ export function HomePage() {
     async (url: string): Promise<boolean> => {
       const trimmed = url.trim();
       if (!isGoogleDocsUrl(trimmed)) return false;
+      if (staticGitHubPagesHost) {
+        setError(
+          "Google Docs import is not available on GitHub Pages. Open the doc, copy the text, and paste it here.",
+        );
+        return false;
+      }
       setError(null);
       setGoogleDocsMessage(null);
       setGoogleDocsLoading(true);
@@ -366,6 +376,11 @@ export function HomePage() {
           const result = await mammoth.extractRawText({ arrayBuffer: buffer });
           text = result.value;
         } else if (lower.endsWith(".pdf") || file.type === "application/pdf") {
+          if (staticGitHubPagesHost) {
+            throw new Error(
+              "PDF upload is not available on GitHub Pages. Paste your paper text or upload a .docx file.",
+            );
+          }
           setFileLoadingLabel("Extracting PDF…");
           const formData = new FormData();
           formData.append("file", file);
@@ -448,27 +463,39 @@ export function HomePage() {
       const analysisStartedAt = Date.now();
 
       try {
-        const apiUrl =
-          gradingCourse === "seminar" ? "/api/grade-seminar" : "/api/grade";
-        const body =
-          gradingCourse === "seminar"
-            ? { text: submissionText, task: seminarTask }
-            : {
-                text: submissionText,
-                pdfSubmission: pdfSubmissionMeta,
-                joinSoftLineBreaksWordCount,
-              };
-        const res = await fetch(apiUrl, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(body),
-        });
-        const data = (await res.json()) as ScoreReportType & { error?: string };
-        if (!res.ok) {
-          throw new Error(data.error ?? "Grading failed.");
+        let reportData: ScoreReportType;
+        if (staticGitHubPagesHost) {
+          reportData = gradeInBrowser({
+            course: gradingCourse,
+            text: submissionText,
+            seminarTask,
+            joinSoftLineBreaksWordCount,
+            pdfSubmission: pdfSubmissionMeta,
+          });
+        } else {
+          const apiUrl =
+            gradingCourse === "seminar" ? "/api/grade-seminar" : "/api/grade";
+          const body =
+            gradingCourse === "seminar"
+              ? { text: submissionText, task: seminarTask }
+              : {
+                  text: submissionText,
+                  pdfSubmission: pdfSubmissionMeta,
+                  joinSoftLineBreaksWordCount,
+                };
+          const res = await fetch(apiUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(body),
+          });
+          const data = (await res.json()) as ScoreReportType & {
+            error?: string;
+          };
+          if (!res.ok) {
+            throw new Error(data.error ?? "Grading failed.");
+          }
+          reportData = data as ScoreReportType;
         }
-
-        const reportData = data as ScoreReportType;
         if (!isInstantShortRejection(reportData)) {
           await waitForMinimumAnalysisTime(analysisStartedAt);
         }
@@ -704,6 +731,11 @@ export function HomePage() {
               <p className="mt-2 text-xs text-ink-muted">
                 Or paste a Google Docs link
               </p>
+              {staticGitHubPagesHost && (
+                <p className="mt-1 text-xs leading-relaxed text-ink-muted">
+                  {STATIC_HOST_NOTE}
+                </p>
+              )}
               {googleDocsLoading && (
                 <p className="mt-1 flex items-center gap-2 text-xs text-ink-muted" role="status">
                   <Spinner className="border-ink/20 border-t-ink" />
