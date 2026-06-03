@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { gradePaper, gradeResultToApiReport } from "@/lib/grader";
+import { recordPaperGraded } from "@/lib/server/gradeStats";
 
 export const maxDuration = 60;
 
@@ -28,6 +29,7 @@ export async function POST(request: Request) {
       pdfSubmission: body.pdfSubmission ?? null,
       joinSoftLineBreaksWordCount: body.joinSoftLineBreaksWordCount ?? null,
     });
+    void recordPaperGraded("research");
     return NextResponse.json(gradeResultToApiReport(result));
   } catch (err) {
     const message = err instanceof Error ? err.message : "Grading failed.";

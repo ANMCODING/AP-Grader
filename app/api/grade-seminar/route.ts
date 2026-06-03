@@ -4,6 +4,7 @@ import {
   seminarGradeToApiReport,
 } from "@/lib/seminar";
 import type { SeminarTask } from "@/lib/seminar/seminarTypes";
+import { recordPaperGraded } from "@/lib/server/gradeStats";
 
 export const maxDuration = 60;
 
@@ -32,6 +33,9 @@ export async function POST(req: Request) {
       practiceMode,
     });
     const report = seminarGradeToApiReport(result);
+    if (!practiceMode) {
+      void recordPaperGraded("seminar", task);
+    }
     return NextResponse.json({
       ...report,
       practiceMode,
