@@ -11,14 +11,25 @@ const KEYS = {
   lastGradedAt: "apgrader:grades:lastAt",
 } as const;
 
-function getRedis(): Redis | null {
-  if (
-    !process.env.UPSTASH_REDIS_REST_URL?.trim() ||
-    !process.env.UPSTASH_REDIS_REST_TOKEN?.trim()
-  ) {
-    return null;
+function resolveRedisCredentials(): { url: string; token: string } | null {
+  const candidates: [string | undefined, string | undefined][] = [
+    [process.env.UPSTASH_REDIS_REST_URL, process.env.UPSTASH_REDIS_REST_TOKEN],
+    [process.env.KV_REST_API_URL, process.env.KV_REST_API_TOKEN],
+    [process.env.STORAGE_KV_REST_API_URL, process.env.STORAGE_KV_REST_API_TOKEN],
+    [process.env.STORAGE_REST_API_URL, process.env.STORAGE_REST_API_TOKEN],
+  ];
+  for (const [url, token] of candidates) {
+    if (url?.trim() && token?.trim()) {
+      return { url: url.trim(), token: token.trim() };
+    }
   }
-  return Redis.fromEnv();
+  return null;
+}
+
+function getRedis(): Redis | null {
+  const creds = resolveRedisCredentials();
+  if (!creds) return null;
+  return new Redis(creds);
 }
 
 export function isGradeStatsEnabled(): boolean {
