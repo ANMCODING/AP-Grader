@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { SectionPreviewResult } from "@/lib/client/sectionPreview";
 
 interface SectionDetectionPreviewProps {
@@ -79,7 +79,7 @@ function Row({ item, visible }: { item: ChecklistItem; visible: boolean }) {
 }
 
 export function SectionDetectionPreview({ scan, active }: SectionDetectionPreviewProps) {
-  const items = buildItems(scan);
+  const items = useMemo(() => buildItems(scan), [scan]);
   const [visibleCount, setVisibleCount] = useState(0);
 
   useEffect(() => {
@@ -97,7 +97,7 @@ export function SectionDetectionPreview({ scan, active }: SectionDetectionPrevie
       );
     }
     return () => timers.forEach((t) => window.clearTimeout(t));
-  }, [active, scan]);
+  }, [active, items]);
 
   if (!active) return null;
 
