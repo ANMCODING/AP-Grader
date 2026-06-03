@@ -1,0 +1,101 @@
+[
+  {
+    "file": "p01-social-media.txt",
+    "rows": [0, 0, 0, 0, 0, 0, 2],
+    "total": 2,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (421w body)"
+  },
+  {
+    "file": "p02-fast-fashion.txt",
+    "rows": [2, 3, 0, 0, 0, 0, 2],
+    "total": 7,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (438w body)"
+  },
+  {
+    "file": "p03-mandatory-voting.txt",
+    "rows": [2, 3, 3, 0, 6, 3, 2],
+    "total": 19,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path; tests severe WC band (562w)"
+  },
+  {
+    "file": "p04-genetic-testing.txt",
+    "rows": [2, 3, 6, 0, 6, 3, 2],
+    "total": 22,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (610w body)"
+  },
+  {
+    "file": "p05-ubi-norberg.txt",
+    "rows": [2, 3, 6, 0, 6, 3, 2],
+    "total": 22,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (724w body)"
+  },
+  {
+    "file": "p06-solitary-confinement.txt",
+    "rows": [2, 3, 6, 0, 6, 3, 2],
+    "total": 22,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (726w body)"
+  },
+  {
+    "file": "p07-nostalgia-political.txt",
+    "rows": [2, 3, 6, 0, 6, 3, 2],
+    "total": 22,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (778w body)"
+  },
+  {
+    "file": "p08-eyewitness-okafor.txt",
+    "rows": [3, 5, 6, 8, 6, 3, 0],
+    "total": 31,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (988w body)"
+  },
+  {
+    "file": "p09-digital-memory-identity.txt",
+    "rows": [3, 5, 6, 0, 6, 3, 0],
+    "total": 23,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (995w body)"
+  },
+  {
+    "file": "p10-collective-memory-injustice.txt",
+    "rows": [3, 5, 6, 8, 6, 3, 2],
+    "total": 33,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (1135w body)"
+  },
+  {
+    "file": "p11-memory-fallibility-adesanya.txt",
+    "rows": [4, 5, 6, 8, 9, 5, 2],
+    "total": 39,
+    "rebased": true,
+    "rebased_version": "seminar-3.2.23",
+    "rebase_date": "2026-06-03",
+    "note": "Production path with word-count gates (1376w body)"
+  }
+]

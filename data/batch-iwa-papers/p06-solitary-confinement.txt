@@ -1,0 +1,86 @@
+Running head: SOLITARY CONFINEMENT AND HUMAN RIGHTS
+1
+To What Extent Does the Widespread Use of Solitary Confinement in American Prisons
+Constitute a Human Rights Violation That Demands Immediate Legislative Reform?
+AP Seminar Individual Written Argument
+Ms. Thompson
+April 2025
+Word Count: 750
+SOLITARY CONFINEMENT AND HUMAN RIGHTS
+2
+Introduction
+On any given day, approximately 80,000 people in the United States are held in solitary
+confinement — isolated in a cell for 22-24 hours per day, with minimal human contact, often
+for weeks, months, or even years (American Civil Liberties Union, 2014). The United Nations
+Standard Minimum Rules for the Treatment of Prisoners — known as the Nelson Mandela
+Rules — define solitary confinement exceeding 15 days as cruel, inhuman, or degrading
+treatment. By this international standard, which the United States has endorsed, a significant
+portion of American solitary confinement practices constitutes torture. This paper argues that
+widespread solitary confinement in the United States constitutes a human rights violation and
+that legislative reform mandating strict time limits and prohibiting its use for vulnerable
+populations is urgently necessary.
+The Psychological Evidence
+The psychological literature on solitary confinement is remarkably consistent: extended
+isolation produces severe mental health consequences in the vast majority of those who
+experience it. Stuart Grassian, a psychiatrist at Harvard Medical School who has conducted the
+most extensive clinical research on solitary confinement, documented a specific syndrome in
+isolated prisoners: hypersensitivity to stimuli, perceptual distortions and hallucinations,
+SOLITARY CONFINEMENT 2
+paranoia, difficulties with thinking and concentration, and overt psychiatric breakdown
+(Grassian, 2006, p. 330). Critically, Grassian found these symptoms in prisoners who had no
+prior psychiatric history, demonstrating that isolation itself — not pre-existing mental illness
+— produces psychiatric harm.
+Craig Haney, a social psychologist at the University of California Santa Cruz who published a
+systematic review in the American Journal of Public Health, synthesized decades of research
+and found that even relatively short periods of isolation — as few as a few days — can produce
+lasting psychological changes (Haney, 2003, p. 125). These changes include cognitive deficits
+that persist after release, social withdrawal, and difficulty forming relationships — deficits that
+undermine reintegration and increase recidivism.
+The Racial Dimension
+Solitary confinement is not applied neutrally. Black prisoners are incarcerated in solitary
+confinement at 3.8 times the rate of white prisoners, and Hispanic prisoners at 1.9 times, even
+after controlling for disciplinary infractions (Casella and Ridgeway, 2012). This racial
+disparity suggests that solitary confinement functions not merely as a security measure but as a
+mechanism of racial control within already racially imbalanced prison systems.
+The Counterargument: Safety and Security
+Prison administrators consistently defend solitary confinement as necessary for institutional
+safety. The argument is straightforward: some prisoners are genuinely dangerous to staff and
+other prisoners, and removing them from general population protects others. This is not a
+frivolous concern. Prison violence is real, and staff safety is a legitimate institutional interest.
+However, this argument proves too little. The question is not whether any form of separation is
+ever justified but whether 22-24 hours of daily isolation for extended periods — including for
+nonviolent disciplinary infractions, for pretrial detainees who have not been convicted of
+anything, and for people with serious mental illness — is a proportionate and necessary
+response. Evidence from states that have reformed their solitary confinement practices
+suggests that safety can be maintained with much less isolation. Colorado reduced its solitary
+confinement population by 85% between 2011 and 2017 while prison violence rates remained
+stable (Colorado Department of Corrections, 2017).
+SOLITARY CONFINEMENT 3
+Table 1: Solitary Confinement Reform Outcomes in Selected States
+State | Reform Implemented | Reduction in Solitary Population | Change in Violence Rate
+Colorado | Step-down programs | 85% reduction (2011-2017) | No significant increase
+New York | HALT Act (2021) | 67% reduction projected | Under evaluation
+Washington | Time limit regulations | 43% reduction | Slight decrease
+Note: Compiled from state department of corrections annual reports and Vera Institute
+data.
+Conclusion
+The psychological evidence that extended solitary confinement causes severe mental harm is
+overwhelming and consistent. The racial disparities in its application suggest that it functions
+as a mechanism of discrimination within already inequitable systems. The experience of states
+that have reformed their practices demonstrates that safety goals can be achieved with far less
+isolation. Legislative reform mandating strict time limits on solitary confinement, prohibiting
+its use for people with mental illness, pregnant women, and juveniles, and requiring
+meaningful human contact and programming represents a necessary and achievable step
+toward conforming American prison practice with basic human rights standards.
+References
+American Civil Liberties Union. (2014). Stop solitary: The facts about solitary confinement.
+https://www.aclu.org/report/stop-solitary-facts-about-solitary-confinement
+Casella, J., and Ridgeway, J. (2012). The racial disparities of solitary confinement. Solitary
+Watch. https://solitarywatch.org
+Colorado Department of Corrections. (2017). Annual statistical report.
+https://www.colorado.gov/cdoc
+Grassian, S. (2006). Psychiatric effects of solitary confinement. Washington University
+Journal of Law and Policy, 22, 325-383.
+SOLITARY CONFINEMENT 4
+Haney, C. (2003). Mental health issues in long-term solitary and supermax confinement.
+Crime and Delinquency, 49(1), 124-156. https://doi.org/10.1177/0011128702239239

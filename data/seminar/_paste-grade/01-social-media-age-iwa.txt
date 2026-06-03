@@ -1,0 +1,210 @@
+Protecting Young Minds: Why Social Media Platforms
+Must Implement Age Verification for Users Under 18
+
+Maya Thompson
+
+AP Seminar, Period 2
+
+Ms. Rodriguez
+
+Westbrook High School
+
+14 April 2025
+
+Thompson 1
+
+Protecting Young Minds: Why Social Media Platforms
+Must Implement Age Verification for Users Under 18
+
+Maya Thompson
+
+AP Seminar, Period 2
+
+Ms. Rodriguez
+
+Westbrook High School
+
+14 April 2025
+
+Thompson 2
+
+Maya Thompson
+Ms. Rodriguez
+AP Seminar, Period 2
+14 April 2025
+
+Protecting Young Minds: Why Social Media Platforms Must Implement Age Verification
+for Users Under 18
+
+When I was fourteen, I spent an average of six hours a day on Instagram and TikTok. I
+didn't think much of it at the time, but looking back, I can see how much it affected the way I
+saw myself and the world around me. I'm not alone — social psychologist Jonathan Haidt,
+whose research on adolescent mental health has tracked the dramatic rise in teen anxiety and
+depression that began around 2012, argues that the arrival of smartphone-based social media is
+the primary driver of what he calls a 'great rewiring of childhood,' a transformation that has left
+a generation of adolescents more anxious, more depressed, and less capable of real-world
+social interaction (Haidt, 2023). This paper argues that social media platforms have both a
+legal and moral obligation to implement robust age verification systems that prevent children
+under thirteen from accessing their platforms and limit features available to users under
+eighteen — and that the industry's decade-long resistance to meaningful age verification
+reflects a deliberate choice to prioritize growth over the documented wellbeing of adolescent
+users. Haidt's research provides the empirical foundation: the correlation between social media
+adoption and adolescent mental health decline is not a coincidence but a causal relationship
+that the platforms' own internal research confirmed even as their executives publicly denied it.
+
+Haidt and his colleague Jean Twenge have documented the mental health crisis among
+American adolescents with unusual precision, using multiple data sources to establish that
+
+Thompson 3
+
+something fundamentally changed around 2012–2013 — exactly when smartphone ownership
+and social media use became near-universal among American teens. Rates of depression,
+anxiety, self-harm, and suicide among adolescent girls rose sharply and have not recovered.
+The effect is strongest for girls and for the youngest teens, consistent with Haidt's hypothesis
+that social media harms through social comparison, cyberbullying, sleep disruption, and
+replacement of in-person socializing with passive consumption of curated content (Haidt,
+2023). The leaked Facebook research that Frances Haugen brought to Congress in 2021
+confirmed that Meta's own researchers had found Instagram was associated with body image
+problems and depression in teenage girls — and that executives decided not to act because
+doing so would reduce engagement (Haugen, 2021). This is not ignorance of harm; it is a
+deliberate choice of profit over safety.
+
+The age verification technology needed to implement meaningful protections already
+exists. Online alcohol retailers, gambling platforms, and adult content websites all use age
+verification systems that substantially reduce underage access. The UK's Age Appropriate
+Design Code, which went into effect in 2021, required platforms to implement age-appropriate
+safety defaults for users likely to be minors, and platforms complied — demonstrating that
+when regulatory requirements have real teeth, the technical obstacles the industry claimed
+were insurmountable turn out to be solvable. Haidt's policy recommendations include requiring
+age verification, restricting algorithmic recommendation for users under sixteen, and imposing
+a duty of care on platforms for their youngest users, analogous to the duty of care that other
+industries providing products to children already face (Haidt, 2023).
+
+Those who oppose mandatory age verification argue that it creates privacy risks by
+requiring platforms to collect sensitive identity documents, and that teenagers will simply use
+their parents' accounts or find workarounds. These concerns deserve genuine engagement.
+
+Thompson 4
+
+Even granting that age verification is imperfect and that some teenagers will circumvent it, this
+argument does not justify doing nothing. A system that successfully prevents even half of
+underage users from accessing adult-designed features is better than the current system, which
+prevents none. The privacy concerns are manageable through thoughtful design — age
+verification can be done through trusted third-party services that confirm age without
+transmitting identity documents to the platform itself. The choice is not between perfect age
+verification and none at all; it is between making a good-faith effort to protect children and
+hiding behind technical imperfection as an excuse for inaction.
+
+Between 2010 and 2020, the rate of major depressive episodes among girls aged 12 to
+17 increased by more than 50 percent. Emergency room visits for self-harm among adolescent
+girls doubled. These are not minor fluctuations — they represent a genuine crisis in the mental
+health of a generation. The timing, demographics, and cross-national pattern all point in the
+same direction: rapid adoption of social media designed to maximize engagement among
+adolescents who were not ready for it. Social media platforms are the only consumer product
+widely used by children that face essentially no safety requirements specific to their use by
+minors. The reason is not that social media is safe for children — the platforms' own leaked
+internal studies show otherwise. The reason is that the platforms' lobbying power has so far
+prevented the regulation that other child-facing industries routinely face.
+
+I want to acknowledge something that might seem like a complication: not every
+teenager has a bad experience on social media. Many teens use platforms to maintain
+friendships, find communities of people who share their interests, and access support they may
+not find elsewhere. These benefits are real. But when a product has substantial benefits for
+some users and substantial documented harms for others, the appropriate response is targeted
+regulation — not a choice between total prohibition and complete laissez-faire.
+
+Thompson 5
+
+Age-appropriate design and meaningful age verification can preserve the benefits of social
+media for teenagers who can use it safely while reducing exposure for younger adolescents and
+more vulnerable users for whom the harms consistently outweigh the benefits. The connection
+between social media and adolescent mental health is the most important public health crisis
+that is not being treated as one. This paper has argued that Haidt's documentation of the crisis,
+the leaked internal research confirming that platforms knew about the harm, and the successful
+implementation of age-appropriate design in the UK together establish that the obstacle to
+protecting children is not technical — it's political and financial. Even granting the privacy
+concerns raised by age verification's opponents, the argument for doing nothing is not
+available to any platform that has seen its own internal research showing harm to the children
+using its products.
+
+Thompson 1
+
+The research question behind this paper — whether social media platforms have an
+obligation to implement age verification — has a clear answer in the evidence. The platforms
+have known about the harm their products cause to adolescents, they have chosen not to act,
+and the external pressure of regulation has proven effective when it has been applied. Haidt's
+framework gives us both the diagnosis and the prescription: the great rewiring of childhood is
+a structural problem that requires structural solutions. Age verification, later accounts for users
+under sixteen, and algorithmic protections for younger users are not radical proposals. They
+are the minimum that a company with genuine concern for the children using its products
+would already have implemented voluntarily. The fact that these companies have not done so
+voluntarily tells us everything we need to know about what will be required to make them do
+it. Congress has passed COPPA, the Children's Online Privacy Protection Act, requiring
+parental consent for data collection from children under thirteen — but it has not been updated
+since 1998 and does not address the ways social media harms adolescents between thirteen and
+eighteen. The evidence demands an updated legal framework that treats adolescent mental
+health with the same seriousness we bring to adolescent physical safety.
+
+Thompson 1
+
+It is worth being clear about what age verification actually means in practice, because
+critics sometimes characterize it as impossible or as requiring a government surveillance
+infrastructure. What serious proponents of age verification actually advocate for is much more
+modest: require that platforms use third-party age verification services that confirm whether a
+user is above or below a threshold age, without transmitting identity documents to the platform
+itself. This is how age verification works in the UK under the Online Safety Act and how
+several other countries have implemented it. The platform does not need to know who you are
+— only whether you are old enough to use the service. The privacy concerns that civil
+libertarians raise are legitimate and should inform how age verification systems are designed,
+but they do not constitute an argument against age verification in principle. They constitute an
+argument for careful design of age verification systems that protect privacy while
+accomplishing the protective goal. Haidt makes this distinction clearly: the goal is not to
+surveil teenagers but to make it harder for platforms to claim ignorance about who is using
+their products and what those products are doing to them.
+
+Thompson 1
+
+This paper has argued that the evidence assembled by Haidt, Twenge, and Haugen
+establishes clearly that social media platforms have a documented pattern of prioritizing
+engagement over the safety of adolescent users, and that the regulatory tools needed to change
+this behavior exist and have been proven effective in other jurisdictions. The argument is not
+complicated: products that harm children should be subject to safety requirements, and social
+media platforms that knowingly expose children to content and engagement mechanisms that
+cause measurable psychological harm should be no exception. Even granting that age
+verification is imperfect and that teenagers are resourceful in circumventing restrictions, a
+serious regulatory effort would substantially reduce harm compared to the current environment
+of zero requirements. The mental health of a generation cannot be held hostage to the demand
+for a perfect solution when a good-enough solution is available and other countries are already
+implementing it. Congress must act.
+
+Thompson 1
+
+The strongest argument against any protective regulation of social media is the slippery
+slope — that once we allow the government to regulate content platforms in the name of child
+safety, there is no principled stopping point before censorship. This concern is legitimate but
+misapplied here. Age verification and algorithmic protections for minors do not restrict the
+content adults can access or create. They are narrowly targeted at the specific population —
+children and adolescents — for whom the documented harms are greatest and for whom we
+already accept that some restrictions on adult-oriented content are appropriate. The First
+Amendment does not require that every product available to adults be equally available to
+children. We already regulate children's access to alcohol, cigarettes, gambling, and explicit
+sexual content without this being treated as a threat to adult freedom. Social media designed
+for adult engagement patterns should be no different.
+
+Thompson 2
+
+Works Cited
+
+Haidt, Jonathan. The Anxious Generation. Penguin Press, 2023.
+
+Haugen, Frances. "The Facebook Whistleblower." CBS News, 2021.
+
+Twenge, Jean M. iGen. Atria Books, 2017.
+
+Information Commissioner's Office. "Age Appropriate Design." ICO, 2020.
+
+Twenge, Jean M., et al. "Increases in Depressive Symptoms." Clinical Psychological
+Science, vol. 6, 2018.
+
+Rideout, Victoria, and Michael Robb. "Social Media, Social Life." Common Sense
+Media, 2018.

@@ -1,0 +1,85 @@
+Running head: UNIVERSAL BASIC INCOME AND AUTOMATION
+1
+To What Extent Would a Universal Basic Income Adequately Address the Economic
+Disruption Caused by Artificial Intelligence-Driven Automation?
+AP Seminar Individual Written Argument
+Professor Kim
+April 2025
+Word Count: 725
+UNIVERSAL BASIC INCOME AND AUTOMATION
+2
+Introduction
+The World Economic Forum estimates that automation and artificial intelligence will displace
+approximately 85 million jobs globally by 2025 while creating 97 million new ones (World
+Economic Forum, 2020). The net gain of 12 million jobs sounds reassuring until one considers
+the distribution problem: the jobs eliminated are disproportionately concentrated in
+middle-skill, routine, and physical labor categories — truck drivers, cashiers, factory workers,
+data entry clerks — while the jobs created require advanced technical skills that displaced
+workers may lack and take years to acquire. Universal basic income (UBI) — a
+government-provided unconditional cash payment to all citizens — has emerged as a
+prominent policy proposal for managing this transition. This paper argues that while UBI
+addresses important dimensions of automation-driven displacement, it is insufficient as a
+standalone solution and must be paired with retraining and education investments.
+Norberg's Warning About Nostalgia for Lost Jobs
+Johan Norberg's (2021) analysis of how people idealize economic arrangements from the past
+is directly relevant to how policymakers and workers think about automation. Norberg argues
+that we systematically overestimate how good the past was and underestimate the adaptability
+of economies to technological change. Applied to automation, this nostalgic framing explains
+why policy debates are often dominated by fear of job loss rather than by the more productive
+UBI AND AUTOMATION 2
+question of how to distribute the gains from productivity growth. UBI is one mechanism for
+ensuring those gains are widely shared rather than captured entirely by capital owners.
+Evidence For UBI
+The most rigorous evidence for UBI's potential comes from Finland's 2017-2018 randomized
+controlled trial, the first government-run UBI experiment in Europe. Two thousand
+unemployed individuals randomly received a monthly payment of €560 regardless of
+employment status. Compared to a matched control group receiving standard unemployment
+benefits, UBI recipients reported significantly higher wellbeing and mental health scores,
+greater trust in social institutions, and marginally better employment outcomes (Kangas et al.,
+2020, p. 18). This last finding surprised many skeptics who predicted that unconditional cash
+would reduce work incentives.
+Research by Damon Jones and Ioana Marinescu (2022), economists at the University of
+Chicago who published in the American Economic Review, analyzed Alaska's Permanent
+Fund Dividend — a real-world UBI providing Alaska residents an annual cash payment from
+oil revenues. They found no significant reduction in employment due to the dividend, with
+recipients actually showing modest increases in part-time work (p. 83).
+The Case Against UBI as Sufficient
+However, UBI's critics raise important concerns about whether cash transfers alone can
+address automation-driven displacement. Daron Acemoglu and Pascual Restrepo (2019),
+economists at MIT who published in the Journal of Economic Perspectives, argue that the
+central challenge of automation is not income adequacy but skill mismatch: displaced workers
+often lack the technical skills required for the jobs created by automation, and cash transfers do
+not bridge this gap (p. 7). A truck driver receiving a UBI check still cannot write the software
+that automated their route.
+The cost problem is also significant. A UBI of $1,000 per month for all 258 million American
+adults would cost approximately $3.1 trillion annually — roughly 75% of the entire current
+federal budget. Even accounting for elimination of some existing programs, funding a
+meaningful UBI would require substantial tax increases, a redistribution of productivity gains
+through robot taxes, or other major fiscal changes.
+UBI AND AUTOMATION 3
+Figure 1: Estimated Monthly UBI Payment Required for Basic Adequacy Across US
+Regions
+[Figure 1 shows a bar chart with estimated UBI payments needed in different US regions:
+Northeast = $1,847/month, West Coast = $1,723/month, Midwest = $1,243/month, South =
+$1,156/month, Rural = $987/month. Adapted from Economic Policy Institute cost-of-living
+data, 2023.]
+Conclusion
+UBI addresses the income adequacy dimension of automation-driven displacement and may
+reduce the psychological harm of job loss by decoupling basic survival from employment
+status. The Finnish experiment and Alaska's Permanent Fund both suggest that cash transfers
+do not destroy work incentives. However, UBI alone does not solve the skill mismatch
+problem that automation creates, nor does it address the geographic concentration of
+displacement in manufacturing and logistics communities. A comprehensive response to
+automation requires UBI paired with massively expanded workforce retraining, universal
+community college access, and portable benefits that follow workers rather than jobs.
+References
+Acemoglu, D., and Restrepo, P. (2019). Automation and new tasks: How technology displaces
+and reinstates labor. Journal of Economic Perspectives, 33(2), 3-30.
+https://doi.org/10.1257/jep.33.2.3
+Jones, D., and Marinescu, I. (2022). The labor market impacts of universal and permanent cash
+transfers. American Economic Review, 112(1), 83-85. https://doi.org/10.1257/aer.20190240
+Kangas, O., Jauhiainen, S., Simanainen, M., and Ylikannisto, M. (2020). Experimenting with
+unconditional basic income. Finnish Institute for Health and Welfare, Report 6/2020.
+Norberg, J. (2021). False nostalgia. Reason. https://reason.com/2021/12/05/false-nostalgia/
+World Economic Forum. (2020). The future of jobs report 2020.
+https://www.weforum.org/reports/the-future-of-jobs-report-2020

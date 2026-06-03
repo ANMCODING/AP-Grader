@@ -1,0 +1,148 @@
+========================================================================
+[IWA-1] [IWA] [TARGET: 46-48] [1871 WORDS]
+========================================================================
+
+Rewriting the Genome, Rewriting Ethics: The Case for Governed
+Therapeutic Germline Editing Using CRISPR-Cas9
+
+Amara Okonkwo
+
+AP Seminar, Period 2
+
+Dr. Patel
+
+Harrington Academy
+
+Amara Okonkwo
+Dr. Patel
+AP Seminar, Period 2
+13 January 2025
+
+Rewriting the Genome, Rewriting Ethics: The Case for Governed Therapeutic Germline
+Editing Using CRISPR-Cas9
+
+In November 2018, the announcement that Chinese researcher He Jiankui had used
+CRISPR-Cas9 technology to edit the germline of two human embryos that were subsequently born as living children produced what biochemist Jennifer Doudna described as 'a profound responsibility that weighs on all of us who have worked to develop this technology' (Doudna &
+Charpentier, 2012). Doudna's framing of CRISPR's development as a responsibility rather than merely a discovery captures the central ethical tension: the same tool that enables the targeted correction of heritable genetic diseases also enables the heritable modification of human traits in ways that could extend across generations without the consent of those affected. This paper argues
+
+that
+
+the
+
+deployment
+
+of
+
+CRISPR-Cas9
+
+germline
+
+editing
+
+for
+
+therapeutic
+
+purposes—defined strictly as the correction of monogenic disease-causing variants prior to implantation—represents not a categorical ethical violation but a contextually justified extension of medicine's foundational commitment to preventing suffering, provided that an international governance framework with genuine enforcement capacity governs its application. The He Jiankui case did not demonstrate that therapeutic germline editing is inherently unacceptable; it demonstrated that editing conducted without scientific consensus, without ethical oversight, and without transparency is unacceptable—a crucially different claim with profoundly different policy implications. Doudna's own evolution from early moratorium advocate to governance framework advocate, documented across a decade of
+
+public statements and scientific publications, provides the conceptual architecture through which this paper's argument is developed.
+
+CRISPR-Cas9 functions as a programmable molecular scissor system: a guide RNA
+sequence directs the Cas9 endonuclease protein to a specific genomic target, where it introduces a double-strand break that the cell's repair machinery then resolves either through error-prone non-homologous end joining or, when a repair template is provided, through homology-directed repair that incorporates the desired sequence change (Doudna &
+Charpentier, 2012). The precision of this system—orders of magnitude greater than the zinc-finger nucleases and TALENs that preceded it—transformed gene editing from a research curiosity to a clinical prospect within less than a decade of its initial characterization. Figure 1
+illustrates the CRISPR-Cas9 mechanism and the distinction between somatic editing (affecting only the treated individual) and germline editing (heritable through subsequent generations), which is the central distinction for ethical analysis. The distinction matters because germline editing creates an intervention whose effects extend indefinitely into a lineage of people who have not consented and cannot consent to the modification. The National Academies of
+Sciences, Engineering, and Medicine concluded in their 2017 report that heritable human genome editing could be permitted for compelling medical reasons but only under stringent conditions including absence of reasonable alternatives, oversight by an independent body, and ongoing monitoring of edited individuals and their offspring (National Academies, 2017).
+Doudna's subsequent advocacy for an international governance body reflects the same logic:
+the technology's potential to alleviate genetic suffering is genuine and the appropriate response to that potential is governance, not prohibition.
+
+[ Figure — graphical data omitted from text submission ]
+
+Figure 1. CRISPR-Cas9 mechanism of action: guide RNA directs Cas9 to target genomic sequence, inducing double-strand break resolved by either non-homologous end joining
+(NHEJ) or homology-directed repair (HDR). Germline editing introduces heritable modifications; somatic editing affects only the treated individual (Doudna & Charpentier,
+2012).
+
+The National Academies' 2017 framework establishes three conditions that would justify proceeding with human germline editing for therapeutic purposes: the absence of reasonable alternatives for preventing a severe monogenic disease, credible evidence from basic and preclinical research establishing the safety and efficacy of the proposed intervention, and ongoing oversight mechanisms sufficient to monitor long-term outcomes (National
+Academies, 2017). These conditions are demanding. For most monogenic diseases, preimplantation genetic testing already provides an alternative that avoids the need for germline editing, and the conditions under which editing would be medically necessary rather than merely convenient are narrow. But they are not empty: for the small subset of cases in which both parents are homozygous for a dominant disease-causing variant and every embryo they could produce would inherit the disease, editing represents the only route to a biologically related unaffected child. Nuffield Council on Bioethics reached a similar conclusion in 2018, arguing that heritable genome editing 'could be morally permissible' under conditions of robust oversight and genuine medical necessity, provided that it was consistent with the welfare of the future person and did not exacerbate existing inequalities (Nuffield Council, 2018). The convergence of two independent major bioethics bodies on this framework-based permissibility position is significant: it reflects not regulatory capture or enthusiasm for the technology but an honest assessment of what the ethical principles of non-maleficence,
+
+beneficence, and respect for autonomy actually require when applied rigorously to a technology with both genuine therapeutic potential and genuine risks.
+
+The most substantive challenge to the governance-based permissibility position comes from arguments about the limits of consent and the meaning of genetic identity. Eric Lander, in his influential essay 'The Heroes of CRISPR,' raised concerns about the social consequences of normalizing human genetic modification, suggesting that even therapeutically motivated germline editing would initiate a trajectory toward enhancement that governance frameworks would prove unable to contain (Lander, 2015). Michael Sandel's more philosophical version of this argument holds that the drive to eliminate genetic imperfection reflects a problematic disposition of mastery—an unwillingness to accept the giftedness of human life as it presents itself—that threatens values of solidarity and unconditional love that depend on accepting traits we did not choose (Sandel, 2007). Even granting Sandel's philosophical premise that excessive genetic control threatens important moral goods, however, this argument does not establish that therapeutic correction of monogenic disease variants constitutes such excess. The analogy to vaccination or prenatal surgery, which also modify conditions the future person did not choose and which we do not generally regard as violations of giftedness, suggests that the mere fact of modifying a heritable condition cannot be what troubles Sandel—it must be something about enhancement specifically. Therapeutic germline editing, defined as correcting variants that cause severe disease without enhancing traits in the normal range, does not fall on the enhancement side of that distinction. Lander's slippery slope concern is real but it is a governance argument, not a prohibition argument: it supports robust enforcement of the therapeutic/enhancement boundary, not prohibition of all germline intervention, which is precisely what the National Academies framework provides.
+
+Figure 2 maps the current landscape of national regulatory approaches to germline editing, revealing a fragmented governance environment in which some jurisdictions prohibit all germline modification, others permit it under regulatory oversight, and others lack specific legislation entirely. This fragmentation is precisely the condition that makes international governance essential rather than optional: if therapeutic germline editing is permitted in some jurisdictions and prohibited in others, the regulatory pressure created by prohibitions in high-capacity research environments will be relieved by migration to less regulated settings, replicating the conditions that enabled the He Jiankui case. Doudna's most recent proposals for international governance build on the model of the International Atomic Energy Agency, which combines binding treaty obligations, member-state reporting requirements, and inspection authority into a framework that has successfully constrained nuclear weapons proliferation for decades without eliminating civilian nuclear technology (Doudna &
+Charpentier, 2012). An analogous framework for genome editing would distinguish therapeutic from enhancement applications, require member-state reporting of any clinical germline editing, and authorize international technical review of proposed interventions before they proceed. This is ambitious, and the political obstacles to achieving genuinely binding international agreement are substantial. But the alternative—continued national fragmentation while the technology becomes more accessible and less expensive—is not a stable equilibrium.
+
+The research question this paper addressed—whether the deployment of CRISPR-Cas9
+germline editing for therapeutic purposes can be ethically justified—admits a conditioned affirmative answer: it can be, but only under conditions of demonstrated medical necessity, independently verified safety and efficacy, and governance mechanisms capable of enforcing the therapeutic/enhancement distinction across jurisdictions. Doudna's evolution from moratorium advocate to governance architect, tracked across a decade of her published work and public statements, represents the most credible available map of how the scientific
+
+community has processed this question as the technology matured. Lander's and Sandel's concerns about the social trajectory of genetic modification are serious and deserve institutional response—but that response is a robust governance framework, not categorical prohibition of an intervention that could prevent severe heritable disease. The child who would have been born with Huntington's disease, corrected by a therapeutic germline edit conducted under the National Academies' framework, is not an ethical casualty of mastery—they are a beneficiary of medicine doing what medicine has always done when it responsibly could:
+preventing suffering that can be prevented.
+
+[ Figure — graphical data omitted from text submission ]
+
+Figure 2. International regulatory landscape for human germline editing: jurisdictions by regulatory status (prohibited by law, permitted under oversight, no specific legislation).
+Fragmentation creates conditions for regulatory arbitrage analogous to the He Jiankui case
+(National Academies, 2017).
+
+The scientific community's engagement with germline editing governance has produced an unusually rich record of self-regulatory attempts that illuminate both the possibilities and the limits of voluntary moratoriums. The 1975 Asilomar Conference on recombinant DNA, often invoked as the model for scientific self-governance in the face of potentially hazardous technology, produced a voluntary moratorium on certain recombinant
+DNA experiments that held long enough for regulatory frameworks to be established—a success that Doudna and colleagues explicitly drew on when they called for a voluntary pause on clinical germline editing applications in 2015 (Doudna & Charpentier, 2012). The He
+Jiankui case demonstrated the limits of voluntary moratoriums when the researcher in question operated outside the primary institutions and professional networks through which scientific norms are enforced. This does not mean that self-governance is worthless—the strong international condemnation of He's work and the subsequent criminal prosecution in China demonstrate that professional norms have real force—but it does mean that voluntary coordination cannot substitute for legally binding international governance when the technology becomes widely accessible and the institutions enforcing voluntary norms are insufficiently global.
+
+The equity dimensions of therapeutic germline editing deserve attention alongside the governance questions, because the benefits of this technology would initially accrue primarily to families with access to advanced reproductive medicine, and the costs—both the risks of unintended off-target effects and the social costs of normalizing genetic modification of offspring—are distributed more broadly. Savulescu and colleagues have argued from a consequentialist perspective that the moral imperative to continue gene editing research, including germline research, is grounded in the large potential benefit to future generations who would be spared heritable diseases—and that the equity concern, while legitimate, should be addressed through access policies rather than research prohibition (Savulescu et al., 2015).
+
+This argument has force, but it underestimates the feedback loop between early clinical availability and social expectations: technologies that begin as treatments for rare severe conditions have historically expanded toward enhancement applications driven by market demand rather than medical need, and the governance framework that Doudna advocates must be robust enough to contain that expansion if it is to be credible as a constraint on the therapeutic/enhancement distinction over time.
+
+Works Cited
+
+Doudna, J. A., & Charpentier, E. (2012). A programmable dual-RNA-guided DNA
+endonuclease in adaptive bacterial immunity. Science, 337(6096), 816–821.
+https://doi.org/10.1126/science.1225829
+
+Lander,
+
+E.
+
+S.
+
+(2015).
+
+The
+
+heroes
+
+of
+
+CRISPR.
+
+Cell,
+
+164(1),
+
+18–28.
+
+https://doi.org/10.1016/j.cell.2015.12.041
+
+National Academies of Sciences, Engineering, and Medicine. (2017). Human genome editing:
+
+Science,
+
+ethics,
+
+and
+
+governance.
+
+National
+
+Academies
+
+Press.
+
+https://doi.org/10.17226/24623
+
+Nuffield Council on Bioethics. (2018). Genome editing and human reproduction:
+Social and ethical issues. https://www.nuffieldbioethics.org/publications/genome-editi ng-and-human-reproduction
+
+Sandel, M. J. (2007). The case against perfection: Ethics in the age of genetic engineering. Harvard University Press.
+
+Savulescu, J., Pugh, J., Douglas, T., & Gyngell, C. (2015). The moral imperative to continue gene editing research on human embryos. Protein & Cell, 6(7), 476–479.
+https://doi.org/10.1007/s13238-015-0184-y

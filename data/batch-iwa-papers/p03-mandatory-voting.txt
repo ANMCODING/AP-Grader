@@ -1,0 +1,69 @@
+Running head: MANDATORY VOTING AND DEMOCRATIC PARTICIPATION
+1
+To What Extent Would Mandatory Voting Strengthen Democratic Participation in the United
+States?
+AP Seminar Individual Written Argument
+Ms. Patel
+April 2025
+Word Count: 575
+MANDATORY VOTING AND DEMOCRATIC PARTICIPATION
+2
+Introduction
+In the 2020 presidential election, approximately 66.8% of eligible American voters cast ballots
+— the highest turnout in over a century (United States Election Project, 2021). Yet even this
+historic number means that roughly one in three eligible voters did not participate in choosing
+the nation's leadership. In midterm elections, turnout typically falls to around 40-50%. Low
+voter turnout raises fundamental questions about democratic legitimacy: can a government
+truly claim to represent the people when the majority of those people did not vote?
+Mandatory voting — a system in which eligible citizens are legally required to vote or face a
+penalty — has been adopted in over 30 countries worldwide, including Australia, Belgium, and
+Brazil. Supporters argue that mandatory voting would strengthen democracy by ensuring that
+elected governments represent the preferences of the entire population rather than only the
+most politically engaged citizens. Critics argue that forcing people to vote violates individual
+freedom and might produce uninformed or random votes. This paper argues that mandatory
+voting would strengthen democratic participation in the United States, though implementation
+would require careful design.
+Evidence for Mandatory Voting
+MANDATORY VOTING 2
+Australia provides the most studied example of mandatory voting in an English-speaking
+democracy. Since introducing mandatory voting in 1924, Australia has consistently achieved
+turnout above 90% (Jackman, 2001). Australian researchers have found that mandatory voting
+reduces the socioeconomic gap in political participation: without mandatory voting,
+lower-income and less-educated citizens participate at lower rates than wealthier and more
+educated citizens, meaning elected governments are more responsive to the interests of
+advantaged groups. With mandatory voting, all socioeconomic groups participate equally,
+producing governments more responsive to the full population.
+Proponents also argue that mandatory voting reduces the influence of money in politics. When
+campaigns must appeal to all voters rather than motivating their base to turn out, extreme
+positions become less electorally advantageous. Research by Loewen and colleagues (2008),
+published in Political Research Quarterly, found that mandatory voting in Canadian provincial
+elections reduced partisan polarization by requiring candidates to appeal to moderates who
+would not otherwise vote.
+Counterarguments
+Critics of mandatory voting raise legitimate concerns. The most fundamental is that freedom
+includes the freedom not to participate — compelled voting could be seen as a violation of
+First Amendment rights in the American context. The Supreme Court has never directly ruled
+on this question, but the principle that government cannot compel political speech is well
+established.
+A second concern is vote quality. If people are forced to vote without genuine interest or
+knowledge, they may vote randomly, for the candidate whose name they recognize, or for
+whoever is listed first on the ballot. Some research suggests that uninformed voting can
+produce random outcomes that do not reflect genuine public preferences any more than low
+turnout does.
+Conclusion
+Mandatory voting would likely strengthen democratic participation by ensuring all citizens are
+represented in electoral outcomes and reducing socioeconomic disparities in political
+influence. The Australian experience demonstrates that compulsory voting systems can
+function effectively in liberal democracies without producing significant authoritarian
+MANDATORY VOTING 3
+overreach. However, implementation in the United States would require careful constitutional
+analysis and design that protects individual freedoms while broadening participation. A system
+with a meaningful but not excessive penalty, combined with robust civic education, represents
+the most promising path.
+References
+Jackman, S. (2001). Compulsory voting. International Encyclopedia of the Social and
+Behavioral Sciences. Elsevier.
+Loewen, P. J., Milner, H., and Hicks, B. M. (2008). Does compulsory voting lead to more
+informed and engaged citizens? Canadian Journal of Political Science, 41(3), 655-672.
+United States Election Project. (2021). 2020 November general election turnout rates.
+http://www.electproject.org/2020g

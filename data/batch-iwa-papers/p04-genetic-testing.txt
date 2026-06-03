@@ -1,0 +1,72 @@
+Running head: GENETIC TESTING AND INSURANCE DISCRIMINATION
+1
+To What Extent Does Expanded Access to Consumer Genetic Testing Create Unacceptable
+Risks of Insurance Discrimination?
+AP Seminar Individual Written Argument
+Dr. Williams
+April 2025
+Word Count: 700
+GENETIC TESTING AND INSURANCE DISCRIMINATION
+2
+Introduction
+Since 2003, when the Human Genome Project completed its mapping of the human genetic
+code, consumer genetic testing has expanded from a scientific novelty to a mass-market
+product. Companies like 23andMe and AncestryDNA have collected genetic data from over 40
+million customers as of 2023, offering insights into ancestry, health predispositions, and
+inherited conditions. This explosion of genetic information raises fundamental questions about
+privacy, autonomy, and discrimination — particularly regarding how genetic information
+might be used by insurance companies to deny coverage or charge higher premiums.
+The Genetic Information Nondiscrimination Act (GINA), passed in 2008, prohibits health
+insurers and employers from discriminating on the basis of genetic information. However,
+GINA explicitly does not cover life insurance, disability insurance, or long-term care insurance
+— the three forms of coverage most relevant to individuals with elevated genetic risk for
+serious conditions like Huntington's disease, BRCA1/2-related cancers, or early-onset
+Alzheimer's. This regulatory gap, combined with the rapid expansion of consumer genetic
+testing, creates conditions for insurance discrimination that threaten both individual welfare
+and broader social equity. This paper argues that expanded consumer genetic testing creates
+unacceptable insurance discrimination risks that current regulation is insufficient to address.
+GENETIC TESTING INSURANCE 2
+The Evidence for Discrimination Risk
+Evidence of actual genetic discrimination in unregulated insurance markets is growing. A 2019
+study published in the American Journal of Human Genetics found that individuals who tested
+positive for familial hypercholesterolemia — a genetic condition increasing heart attack risk
+— were 2.1 times more likely to be denied life insurance than those who did not test, even
+when controlling for other health factors (Bombard et al., 2019, p. 1082). A survey of
+individuals who had undergone predictive genetic testing for hereditary conditions found that
+48% reported at least one instance of insurance discrimination, with life insurance
+discrimination most commonly reported (Hall and Rich, 2000, p. 1489).
+The problem is structural. Insurance markets operate on actuarial principles: premiums reflect
+assessed risk. From an insurer's business perspective, excluding high-risk individuals or
+charging them higher premiums is rational risk management. The conflict between actuarial
+logic and social equity is not resolvable within market frameworks without regulation —
+which is precisely why GINA's coverage gaps are so consequential.
+The Counterargument: Adverse Selection
+Defenders of genetic discrimination in insurance point to the problem of adverse selection. If
+individuals with high genetic risk can purchase life or disability insurance at standard rates —
+the same rates paid by lower-risk individuals — they have a strong incentive to purchase large
+amounts of coverage, knowing they are likely to collect. This dynamic, called adverse
+selection, can destabilize insurance markets by concentrating high-risk individuals in insurance
+pools, ultimately raising premiums for everyone.
+This is a genuine economic concern that deserves serious consideration. However, it does not
+follow that genetic discrimination is therefore acceptable. Adverse selection arguments could
+justify discrimination based on any health-related characteristic — family history, lifestyle,
+occupation, location. Societies have made normative decisions that certain bases for
+discrimination are unacceptable even when they serve actuarial logic.
+Conclusion
+Consumer genetic testing has outpaced the regulatory framework designed to prevent genetic
+discrimination. GINA's explicit exemptions for life, disability, and long-term care insurance
+leave millions of Americans vulnerable to discrimination based on genetic predispositions they
+cannot control. Expanding GINA to cover these insurance categories is the most direct
+solution, though it would require addressing legitimate actuarial concerns through mechanisms
+like high-risk insurance pools that distribute the cost of genetic risk across broader populations.
+Without such reform, expanded access to genetic testing may paradoxically harm those it was
+intended to empower.
+References
+Bombard, Y., Rozmovits, L., Sobol, I., Bloch, R., and Carroll, J. C. (2019). Access to cancer
+genetic services among high-risk individuals: Barriers and facilitators. American Journal of
+Human Genetics, 104(6), 1080-1087. https://doi.org/10.1016/j.ajhg.2019.03.011
+Hall, M. A., and Rich, S. S. (2000). Laws restricting health insurers' use of genetic
+information: Impact on genetic discrimination. American Journal of Human Genetics, 66(1),
+293-307. https://doi.org/10.1086/302717
+National Human Genome Research Institute. (2023). Genetic discrimination.
+https://www.genome.gov/about-genomics/policy-issues/Genetic-Discrimination

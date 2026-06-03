@@ -1,0 +1,1165 @@
+
+
+
+
+
+
+
+
+
+AP(r)  Research Academic Paper
+Sample Student Responses and Scoring Commentary
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered trademarks of College Board. AP Capstone is a trademark owned by College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+AP(r) Research 2024 Scoring Guidelines
+
+
+Score of 1	Score of 2	Score of 3	Score of 4	Score of 5Report on Existing KnowledgeReport on Existing Knowledge
+with Simplistic Use of a Research MethodIneffectual Argument for a New UnderstandingWell-Supported, Articulate
+Argument Conveying a New UnderstandingRich Analysis of a New
+Understanding Addressing a Gap in the Research Base• Presents an overly broad topic of inquiry.• Presents a topic of inquiry with narrowing scope or focus, that is NOT carried through either in the method or in the overall line of reasoning.• Carries the focus or scope of a topic of inquiry through the method AND overall line of reasoning, even though the focus or scope might still be narrowing.• Focuses a topic of inquiry with clear and narrow parameters, which are addressed through the method and the conclusion.• Focuses a topic of inquiry with clear and narrow parameters, which are addressed through the method and the conclusion.• Situates a topic of inquiry within a single perspective derived from scholarly works OR through a variety of perspectives derived from mostly non-scholarly works.• Situates a topic of inquiry within a single perspective derived from scholarly works OR through a variety of perspectives derived from mostly non-scholarly works.• Situates a topic of inquiry within relevant scholarly works of varying perspectives, although connections to some works may be unclear• Explicitly connects a topic of inquiry to relevant scholarly works of varying perspectives AND logically explains how the topic of inquiry addresses a gap.• Explicitly connects a topic of inquiry to relevant scholarly works of varying perspectives AND logically explains how the topic of inquiry addresses a gap.• Describes a search and report process.• Describes a nonreplicable research method OR provides an oversimplified description of a method, with questionable alignment to the purpose of the inquiry.• Describes a reasonably replicable research method, with questionable alignment to the purpose of the inquiry.• Logically defends the alignment of a detailed, replicable research method to the purpose of the inquiry• Logically defends the alignment of a detailed, replicable research method to the purpose of the inquiry.• Summarizes or reports existing knowledge in the field of understanding pertaining to the topic of inquiry.• Summarizes or reports existing knowledge in the field of understanding pertaining to the topic of inquiry.• Conveys a new understanding or conclusion, with an underdeveloped line of reasoning OR insufficient evidence.• Supports a new understanding or conclusion through a logically organized line of reasoning AND sufficient evidence. The limitations and/or implications, if present, of the new understanding or conclusion are oversimplified.• Justifies a new understanding or conclusion through a logical progression of inquiry choices, sufficient evidence, explanation of the limitations of the conclusion, and an explanation of the implications to the community of practice.• Generally communicates the student's ideas, although errors in grammar, discipline-specific style, and organization distract or confuse the reader.• Generally communicates the student's ideas, although errors in grammar, discipline-specific style, and organization distract or confuse the reader.• Competently communicates the student's ideas, although there may be some errors in grammar, discipline-specific style, and organization.• Competently communicates the student's ideas, although there may be some errors in grammar, discipline-specific style, and organization.• Enhances the communication of the student's ideas through organization, use of design elements, conventions of grammar, style, mechanics, and word precision, with few to no errors.• Cites AND/OR attributes sources (in bibliography/ works cited and/or intext), with multiple errors and/or an inconsistent use of a discipline specific style.• Cites AND/OR attributes sources (in bibliography/ works cited and/or intext), with multiple errors and/or an inconsistent use of a discipline specific style.• Cites AND attributes sources, using a discipline-specific style (in both bibliography/works cited AND intext), with few errors or inconsistencies.• Cites AND attributes sources, with a consistent use of an appropriate discipline-specific style (in both bibliography/works cited AND intext), with few to no errors.• Cites AND attributes sources, with a consistent use of an appropriate discipline-specific style (in both bibliography/works cited AND intext), with few to no errors.
+(c) 2024 College Board
+
+AP(r) Research 2024 Scoring Commentary
+
+Academic Paper
+Overview
+
+This performance task was intended to assess students' ability to conduct scholarly and responsible research and develop an evidence-based argument that clearly communicates a conclusion or new understanding stemming from a clearly articulated research question or project goal. More specifically, this performance task was intended to assess students' ability to:
+
+* Generate a focused research question that is situated within or connected to a larger scholarly context or community;
+
+* Explore relationships between and among multiple works representing multiple perspectives within the scholarly literature related to the topic of inquiry;
+
+* Articulate what approach, method, or process they have chosen to use to address their research question, why they have chosen that approach to answering their question, and how they employed it;
+
+* Develop and present their own argument, conclusion, or new understanding while acknowledging its limitations and discussing its implications to a larger community of practice;
+
+* Support their conclusion through the compilation, use, and synthesis of relevant and significant evidence generated by their research;
+
+* Use organizational and design elements to effectively convey the paper's message;
+
+* Consistently and accurately cite, attribute, and integrate the knowledge and work of others, while distinguishing between the student's voice and that of others;
+
+* Generate a paper in which word choice and syntax enhance communication by adhering to established conventions of grammar, usage, and mechanics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2024 College Board.
+Visit College Board on the web: collegeboard.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mealworm Metabolism of Iron and Calcium
+
+AP Research April 28, 2024
+Word Count: 4717
+
+
+
+
+
+
+
+
+1. Introduction
+
+      Iron-deficiency anemia (IDA) is a worldwide problem. About 800 million women and children were afflicted with anemia as of 2011; iron deficiency caused 42% of those cases in children and 50% of those cases in women (Geneva: WHO, 2015, pp. 3-5). IDA is linked to reduced overall growth and health in those affected women and children, as "anemia has been associated with...maternal mortality, low birth weight and premature birth, as well as delayed child development" (N&FS WHO Team, 2017, p. 5). In addition, IDA has disproportionate negative impacts on low- and
+middle-income countries (LMIC), where anemia's magnitude is most significant worldwide (Geneva: WHO, 2015, p. 6). The lower productivity and delayed cognitive development linked with anemia pose a social and economic cost to these countries (N&FS WHO Team, 2017, p. 7).
+Furthermore, IDA in LMIC is perpetuated because increasing dietary iron (and general nutrient intake) is the primary IDA prevention method and the most common iron-rich food sources are animal-based (meat, fish, and poultry) (p. 29). Because those with micronutrient malnutrition often cannot afford the animal products necessary to provide necessary micronutrients, entomophagy, or the consumption of insects, is a proposed alternative iron source
+(Mwangi et al., 2018, p. 252). It is possible for entomophagy to aid in reducing IDA, particularly because many of those with hunger, and by extension mineral deficiencies, reside in LMIC where insect consumption is more widespread (Mwangi et al., 2018, p. 252). Beyond IDA prevention, entomophagy for dietary supplementation is a wider movement.
+Insects, particularly mealworms, are suggested to be more sustainable than traditional livestock (Oonincx & de Boer,
+
+
+2012, p. 4; Oonincx, 2015, p. 180).
+Furthermore, various insects, including mealworms, have sufficient protein content for use as a possible protein alternative (Khanal et al., 2023, p. 13). Insects' high nutritional value and superior environmental impact have thus led entomophagy to be proposed as a potential measure against world hunger (Mwangi et al., 2018, p. 252).
+This potential importance of entomophagy in anti-hunger and particularly anti-IDA strategies necessitates studies that investigate edible insect iron content
+optimization and the form and absorption of insect iron in humans (Lu et al., 2023, p.
+71). Considering this, studies investigating the impact of iron inhibitors in insects' diets on insect iron content could provide insight into insect iron content optimization and
+thus aid in reducing the worldwide IDA burden. To contribute to this goal, this study tested the effect of the iron inhibitor calcium in mealworms.
+
+2. Literature review
+
+2.1. Insect selection
+
+      Many insect species are considered edible and may aid in this entomophagy movement (van Huis et al., 2021, pp. 553-4). Of these species, yellow mealworms (Tenebrio molitor) were used in this experiment. T. molitor is ideal for use during a short-term project: per interviews with a Dutch insect farm scientist, the mealworms can be grown within their substrate and with more ease and speed than other edible
+insects (House, 2018, p. 85). Mealworms are also a prime example of an edible insect.
+They are "particularly fit for human consumption" and can feasibly be nutritionally altered, as they are receptive to various diets (van Huis et al., 2021, pp. 11, 555). As a result of these properties, mealworms are one of the most commonly
+
+
+
+
+
+
+
+
+produced insects for non-human consumption (e.g., pet feed) and have lent themselves to the edible insect industry as one of the four major species of the European edible insect industry (House, 2018, p. 85; van Huis, 2013, p. 101).
+Though achieving representation of the entire edible insect industry is not feasible,
+T. molitor's widespread use makes it a relatively good choice of species for this experiment. However, there are issues with using T. molitor as the sole subject population. This species became a common edible insect because of their aforementioned easy production and edible qualities, not their taste. Partially due to their poor taste, consistent consumption is uncommon, as seen in a study of edible
+insects in the Netherlands that recommended a complete change in the dominant insects produced by the Western edible insect industry, including mealworms (House,
+2018, p. 90). However, this flavor perception only applies to Western consumers and production techniques, which are still developing and may change to mirror that of tropical countries where
+many insects are much more well-liked (van Huis et al, 2021, p. 565). Regardless, T. molitor is ideal for this experiment due to
+the ease of production needed because of time limitations. However, similar studies over different species must be performed in the future because, based on the variety of insect diet, iron content, and iron form, it is posited that insect iron metabolism systems may be very diverse in their functions (Gorman, 2022, p. 54).
+
+2.2. Insect Iron Systems
+
+      Despite this possible diversity, iron systems in this paper are generalized as
+
+
+insect iron metabolism's genetic and physiological specifics (see Figure 1) (Gorman, 2022, p. 58). In both systems, iron (Fe) is present in two forms: heme (Fe2+), which has higher bioavailability, and
+non-heme (Fe3+) (Roughead et al., 2002, p. 422; Winter et al., 2014, p. 94).1 In the insect system, non-heme iron is the most common; most iron is contained in proteins that are distinct from those in mammalian systems (Mwangi et al., 2018, p. 251). As a result of the different proteins present in mammalian and insect systems, the iron absorption process in each system is unique (see Figure 1). In insects, the main factors manipulated
+to optimize minerals are feed, life stage, and species-specific mineral absorption and content (Lu et al., 2023, pp. 66-69). As in mammals, the most straightforward way to increase iron content is increasing iron in the diet, either short-term (a practice termed "gutloading") or long-term (Oonincx & Finke, 2023, p. 542). Basic insect iron
+content and supplementation have been investigated in various species (Finke, 2002; Keena, 2022; Khanal et al., 2023;
+Latunde-Dada et al., 2016; Stull et al., 2019; Zhou et al., 2019). However, the effect of underlying variables that are well-known to influence iron absorption in humans, such as edible iron-inhibiting compounds, are not well-studied in insects or listed as a major factor in mineral optimization (Gorman, 2022, p. 58; Lu et al., 2023, pp. 66-69). This
+issue could prevent complete optimization of edible insect nutritional content.
+
+2.3. Chelators in the Insect Iron System
+
+      In mammalian systems, iron inhibitors (iron "chelators'') prevent iron absorption through chelation (binding with iron molecules and facilitating their
+
+either 'insect' or 'mammalian' due to the		
+
+"extreme dissimilarities" between the two types and the relative lack of information on
+
+1 Bioavailability is the proportion of a chemical dose that can be effectively used by the body (Doble & Kruthiventi, 2007).
+
+
+
+
+
+
+
+
+
+
+
+
+
+excretion) (see Figure 2 for clarification) (Sharma & Leaf, 2019, pp. 2060-61).
+Dietary iron experiences inhibition by several edible compounds (Piskin et al., 2022, p. 20443). Among iron chelators, calcium (Ca) is unique because it inhibits both types of biological iron (heme and non-heme) and thus affects all dietary iron (Gaitán et al., 2011, pp. 1652-3).
+Furthermore, calcium is of interest as a nutrient that may be provided through insect consumption. As calcium intake is insufficient for many people globally, insect calcium content and calcium optimization have been studied in various insect species
+as an avenue for reducing calcium deficiency (Adámková et al., 2014, p. 237;
+
+Anderson, 2000; Finke, 2003; Klasing et al., 2000). Thus, because both calcium and iron may be optimized in insects through supplementation, knowledge of calcium's effects on insects' iron absorption is pertinent. Should iron and calcium be simultaneously supplemented, it is unknown if any calcium will have an inhibitory effect in the insect iron metabolism system.
+However, although information on mammalian systems is not directly
+applicable to insect systems, it is known that there are genetic similarities between the mammalian iron/calcium chelation-related genes and genes in the insect iron system, indicating that chelation is likely (see Figure
+
+
+
+
+
+
+
+
+
+
+
+
+3).2 Furthermore, calcium may be more likely than other chelators to have an effect
+
+2 Though the mechanism of iron inhibition by calcium within the mammalian iron metabolism system is still not fully understood or confirmed, one major hypothesis is that calcium affects divalent metal transporter 1 (DMT1), which participates in both heme and non-heme iron transport (Gaitán et al., 2011, p. 1655). DMT1 is a homolog, or related gene, of the insect gene Malvolio (Mvl), which is thought to also be involved in both iron uptake and transport and to have similar functions to DMT1 (Gorman, 2022, p. 55; Miguel-Aliaga et al., 2018, p. 373). This connection between the insect and mammalian systems concerning calcium, though not directly applicable, is a link that raises the question of whether calcium may inhibit iron in the insect system (and accordingly the mealworm system) similarly to in the mammalian system (see Figure 3). Although Mvl has not been characterized in T. molitor specifically (as found in the NIH gene database), it is present in almost all insect species, including another beetle, and is likely present in T. molitor (Gorman, 2022, p. 55; Melhferber et al., 2017).
+
+within insect iron systems due to its effect on all biological iron (van Huis et al., 2021,
+p. 560). Thus, because calcium seems likely to act as a chelator in the insect system and is a supplement of interest, calcium was the chelator used in this study. Despite this
+initial hypothesis that chelation would occur in insects (in the context of this study, specifically in mealworms) similarly to in mammals, the distinct genealogy and the weak scientific literature surrounding both the mammalian calcium chelation mechanism and the insect iron metabolism system may reasonably indicate that the insect iron system could interact uniquely with calcium.
+      When studying calcium as a chelator, several factors influence its inhibitory effect, including the calcium compound used, dose administered, and usage length. The type of calcium salt may increase iron inhibition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+For example, calcium supplements provided as calcium citrate increase inhibition compared to calcium chloride and several other salts (Candia et al., 2018, p. 12). The calcium dosage also changes inhibitory effect: in humans, for significant iron inhibition of 5 g non-heme and heme iron, 1000 and 800 g calcium supplements were necessary, respectively (Gaitán et al., 2011, p. 1653; Roughead et al., 2002, p. 420).
+Furthermore, iron content in humans was unaffected by long-term calcium supplementation, in contrast to the significant inhibitory effect seen during short-term studies of 1 meal (Gaitán et al., 2011, p. 1653; Mølgaard et al., 2005, p.
+100). All these factors are relevant when attempting to gauge calcium's inhibitory effect in insects, as their effects, scale, and mechanisms may be unique in the insect iron metabolism system. In the insect iron system, the effects of the different calcium salts are not well-known, and both the dose
+
+threshold for significant inhibition and time to develop resistance against calcium chelation may be different due to the insect system's smaller scale (see Figure 4 for clarification of these concepts). This study therefore specifically considered short-term effects and control for calcium salt and dose while testing calcium's effects on mealworm iron absorption.
+
+3. Methodology
+
+3.1. Experimental Organization
+
+      To test for chelation in the mealworm digestive system, mealworms were split into three experimental groups. Due to the mealworms' commercial source, their long-term diets before purchase would have integrated minerals, including iron,
+into their tissues (Oonincx & Finke, 2023, p. 542). One of the experimental groups therefore needed to be a negative control to
+
+
+
+
+
+
+
+
+
+
+
+
+
+account for the mealworms' unknown mineral concentrations. This control received no iron ("NI'') and no calcium ("NC") and thus was referred to as group NI/NC. The remaining two groups received iron ("I"), but group two received no calcium, while group three received calcium ("C"). Group two was thus I/NC; group three was I/C. I/NC functioned as a positive control for iron supplementation and was expected to have increased iron content as compared to NI/NC, as gutloading iron
+
+minimum sample size of 20 mealworms and minimum replicate of six (Rumbos et al., 2021, p. 3). Each group therefore had six replicate samples. However, to meet the 2.5 g of food recommended to perform iron content testing, sample size was adjusted to 30 as a result of the weight per mealworm, death, and pupation after 48 hours seen in the pre-testing (Purdue University, n.d., p. 2) (see Appendix A).3 Each group thus had 180 mealworms; there were 540 mealworms in total.
+
+should result in increased iron content in the		
+
+gut but not in the tissues, where there would be pre-existing iron that wouldn't be affected by a 48-hour diet (Oonincx & Finke, 2023, p. 542). In contrast, NI/NC should not have increased significantly in iron during the study due to the minimal iron content in the unsupplemented provided diet; NI/NC was thus considered representative of an iron content with negligible amounts of gut iron. (See Figure 5 for clarification of groups.) Replication of the study was based on a
+
+3 Mealworms are not true worms; they are beetle larvae. Mealworms develop from the larva life stage to the pupae stage and then into the adult beetle stage; these stages have different nutritional characteristics (Khanal et al., 2023, p. 5). All subjects in this study are larvae. Any experimental larvae that developed into pupae during the experimental process were no longer usable for data collection, as they are no longer nutritionally equivalent. Mealworm pupation was considered equivalent to death, and any pupated T. molitor were removed from the sample.
+
+
+
+
+
+
+
+
+
+
+
+
+3.2. Sample Preparation
+
+      Each sample was kept in 22.5/14/6.5 cm plastic containers. This height and relative area (cm squared) per mealworm is sufficient based on previous mealworm experimentation (Khanal et al., 2023, p. 3). Each container received 0.03 g carrot per mealworm to provide water (Khanal et al., 2023, p. 2; Rumbos et al., 2021, p. 3).
+Calcium-supplemented samples received 90 g calcium per kg feed; iron-supplemented samples received 51 mg iron per kg feed (Finke, 2003, p. 157). Calcium carbonate was used as a calcium supplement and ferrous fumarate was used as an iron
+supplement (Keena, 2022, p. 809; Klasing et
+
+were mixed well into the respective sample's substrate (Finke, 2003, p. 149).4 The substrate used was potato flakes, as
+potato-based substrate has been found to decrease mortality and delay the
+mealworms' development compared to other substrates (Mlcek et al., 2021, p. 6). This is ideal, as mealworms that become pupae or adults are no longer equivalent to the rest of the sample and cannot be used, and a larger sample was necessary for iron testing
+(Purdue University, n.d., p. 2; Khanal et al., 2023, p. 5). Potatoes came in potato flake form, which are effective feed for T. molitor (see Appendix B) (Kröncke & Benning, 2022, p. 11). A minimum of 0.8 g substrate per mealworm was used (Khanal et al.,
+2023, p. 2). Substrate filled about a 1/4 inch
+
+al., 2000, p. 513). Before the mealworms'		
+
+addition to the container, supplement(s)
+
+4 "Substrate" refers to the feed layer that the mealworms live in and consume.
+
+
+
+
+
+
+
+
+of the container's height to provide sufficient separation between mealworms and the container's bottom; this height is effective based on pretesting (see Appendix A). This minimum height and g per mealworm resulted in 75 g substrate being provided per sample. Once containers were arranged, "large mealworms" purchased from
+PetSmart (packages of 100) were divided into samples of 30.5 Each sample was then weighed, put into the containers, and left for 48 hours in a lab classroom unexposed to direct sunlight. This feeding strategy was based on the gutloading method of insect mineral supplementation due to time constraints and mammalian evidence of calcium chelation only occurring with
+short-term diets (Oonincx & Finke, 2023, p. 542). 48 hours was used in this experiment as it is the optimal mealworm gutloading length (Finke, 2003, p. 149; Klasing et al., 2000, p. 517). After samples had been set
+up, all unused mealworms were disposed of in soapy water; pupated and dead sample worms were similarly disposed of after the 48-hour gutloading.
+
+3.3. Iron Content Testing
+
+      After 48 hours, samples were weighed and then frozen to decrease cruelty when burning samples and to preserve
+samples for spectrophotometry (Finke, 2003, p. 149).6 Due to equipment availability, spectrophotometry was used to measure
+
+5 Any pupated, dead, or disproportionately small mealworms were avoided, as they were considered non-equivalent to the population of "large mealworms".
+6 A spectrophotometer measures the light absorbance by a solution (Urry et al., 2020, p. 192). Different materials absorb specific wavelengths (different colors) of light. A spectrophotometer can measure the degree to which a certain color of light is absorbed by a solution, allowing for the calculation of a material's abundance (in this case, iron) in the solution.
+
+
+sample iron content. Spectrophotometry procedures were based on lab procedures from Purdue University (n.d., pp. 1-2). It is important to note that although biological iron is either in ferrous form (Fe2+) as heme iron or ferric form (Fe3+) as non-heme iron and cycles through both forms within organisms, the iron content test was specific to ferric iron, or Fe3+ (Gorman, 2022, p. 52; Winter et al., 2014, p. 94). The test may convert some Fe2+ to Fe3+ (Purdue University, n.d., p. 1). Regardless, results may not be fully applicable to heme (Fe2+) iron. Furthermore, because the iron being tested is already in a biological system, iron may not have been available to bind to KSCN because it was already bound to proteins such as ferritin. However, the iron testing process began with reducing the samples to ash with a Bunsen Burner, crucible, and pestle. This could have denatured the proteins that iron is already bound to, making the iron more available.
+This is possible, as higher bioavailability after heat treatment has been shown for both plant and animal ferritin (Ji et al., 2023, p. 33) (see Figure 6 for clarification). As a whole, however, some iron likely was not measured, so conclusions originated from relative comparisons of iron content only.
+      After samples were reduced to ash, their dry weight was recorded; they were then tested for absorbance using spectrophotometry (see Appendix C). For each sample, the ash was placed in a beaker; 10 mL 2 M HCl was then added and stirred for one minute. 10 mL distilled water was then added and stirred in. Filtrate was collected and then 2.5 mL 0.1 M KSCN was added to the solution and stirred in. Solution
+was then transferred into a test tube. The test tube's absorbance at 460 nm was tested and recorded.7 Steps from container set-up to
+
+7 460 nm is the frequency of light at which a solution's iron content can be tested (Sulistyarti et al., 2020, p. 3).
+
+
+
+
+
+
+
+Figure 6: Iron Binding Pathways
+
+Diagram created with BioRender.com.
+
+
+
+Figure 7: Iron Content Testing Procedures
+
+Diagram created with BioRender.com.
+
+
+
+
+
+
+
+
+absorbance testing were repeated separately for each sample. (See Figure 7 for visual depiction.)
+      To convert the spectrophotometer's absorbance measurements to iron concentrations, a standard curve was developed. Solutions of 0.00, 0.25, 0.50,
+
+
+study was approved by a Scientific Review Committee.
+
+4. Results
+
+      To test the correlation between the utilized iron and calcium supplements and
+
+0.75, and 1.00 mM/L Fe(NO )
+3 3
+
+were
+
+iron content, trends in three areas of data
+were collected and statistically compared.
+
+prepared in 0.1 M HCl using .001 M
+
+The primary two data sets compared were:
+
+Fe(NO )
+3 3
+
+and water. The 0.00 mM solution
+
+(1) the iron content (mg Fe per 100 g dry
+
+was prepared using 0.1 M HCl instead of water. Each solution totaled 20 mL and was prepared for testing by stirring in 2.5 mL 0.1 M KSCN. (See Figure 8.)
+      Throughout testing, proper safety precautions were taken and PPE was used. Mealworms and other substances were properly disposed of using soapy water and/or sealed containers (see Appendix D).
+Throughout the experiment, mealworms
+were moved using tweezers and spoons. The
+
+matter (DM)) and (2) the weight change after gutloading; (3) initial sample weights were also compared to test for bias caused by non-random sample assignment. For all data, Analysis of Variance (ANOVA) tests were used. ANOVA was used because it enables comparison of two or more
+quantitative groups; this was necessitated by the three groups utilized in this study (Leedy et al., 2019, p. 334). Subsequently to all ANOVA tests, group means were compared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pair-wise to ascertain more specific trends (p. 334). For ANOVA and pairwise tests (done through the Social Science Statistics website), a p-value below .05 was considered statistically significant and the null hypothesis was that there were no differences between the groups. See Appendix E for full statistical test results.
+
+4.1. Iron Content
+
+      To compare mealworm iron contents, the standard curve generated was used to create a linear formula relating measured absorbance and iron concentration in samples. Using dimensional analysis, each sample's iron concentration was calculated
+in mg Fe/100 g DM, a standard iron content measurement utilized for ease of comparison to previous mealworm iron content studies (Latunde-Dada et al., 2016, p. 8422; Lu et
+al., 2023, p. 67; Mwangi et al., 2018, p. 249).8 The groups' calculated mean Fe/DM contents were then statistically compared.
+      When the mean iron content trends were statistically analyzed, both ANOVA (F
+= 0.84993, p = .447034) and pairwise comparisons (NI/NC:I/NC p = .94652; NI/NC:I/C p = .62602; I/NC:I/C p = .44163)
+showed weak differences between all groups. This did not support the idea that iron or calcium supplements had an impact on iron concentration. However, the spectrophotometer measurements and standard curve used were relatively imprecise and data between groups was variable, causing a high standard deviation relative to each group's means. In combination with the low sample size used
+to form each group's mean (n=6), it was thus
+
+
+unlikely that any statistical difference could be seen in the data. When means were compared without considering statistical significance, I/C had lower dry matter iron content than NI/NC and I/NC (see Figure 9). This would be the expected trend if iron supplements had increased iron content and calcium had caused iron chelation and a consequent decrease in iron content.
+
+4.2. Weight Gain
+
+      Unlike the iron content analysis of mean iron contents, the groups' mean
+weight gains revealed statistical significance (ANOVA F = 4.84464, p = .023816). NI/NC
+and I/NC's mean weight gains were statistically similar (p = .99911), but I/C's mean weight gain was significantly lower (NI/NC:I/C p = .03874; I/NC:I/C p =.04184)
+(see Figure 10). To ensure that the initial weights were not a confounding factor, the initial weights were compared.9 All differences between the initial weights of each were found to be non-significant (ANOVA F = 0.29699, p = .747322; NI/NC:I/NC p = .95499; NI/NC:I/C p =
+.88462; I/NC:I/C p = .73055), giving
+stronger credence to the aforementioned statistical test over the final weight changes. From the differences in weight changes between groups, it appeared that calcium's addition to the sample mealworm diet reduced weight gain regardless of iron supplementation but iron's addition did not increase weight gain.
+
+
+
+
+8 To convert iron concentrations to mg Fe/100 g DM, each measurement was converted to g Fe per sample. The g iron was then converted to mg, and divided by per 100 g dry matter (which was measured after burning each sample and then multiplied by 100). The resulting number was the mg Fe/100 g DM.
+
+
+
+9 Mealworm distribution into groups was not fully randomized due to the study's nature, as pupated, dead, and underdeveloped mealworms had to be avoided. Mealworm selection was also possibly influenced by their pre-existing assortment in their packaging.
+
+
+
+
+
+
+
+
+
+Figure 9: Mean Dry Matter Iron Contents Bars represent ± 2 SE.
+
+
+
+Figure 10: Mean Final Weight Changes Bars represent ± 2 SE.
+
+
+
+
+
+
+
+
+4.3. Other Variables
+
+      Considering only groups NI/NC and I/NC, no statistical or visible differences were present for either weight change or
+iron content. This lack of differentiation indicates that the iron supplementation was ineffective, which may owe either to the form or amount of iron administered.10 It is
+possible that mealworms are not biologically receptive to, or will not consume, powder ferrous fumarate. No previous studies on
+iron gutloading in mealworms could be identified, so the iron's form was based on precedent of powder supplements in mealworms and ferrous fumarate's use in other insects (Finke, 2003, p. 149; Keena, 2022, p. 809; Klasing et al., 2000, p. 513). Furthermore, the iron dosage was based on statistical regression created from supplementing other minerals and has not been tested in other studies (Finke, 2003). The dosage may therefore not have been enough to measurably increase iron content. Alternatively, Finke's calculations may be accurate, but loss when transferring powder to substrate might have caused the supplemented iron to become insufficient, as the dose was measured to the thousandth of the milligram.
+      Regardless of the cause, the iron supplementation's ineffectiveness has implications for the results. Considering the trends in the iron content data with the assumption that chelation occurred and reduced iron content, calcium's effect was not in line with earlier assumptions about gut iron vs tissue iron (see Figure 5).
+According to the established understanding of insect mineral metabolism, only gut iron should be affected by a short-term diet (Oonincx & Finke, 2023, p. 542). As such, the supplemented iron, which was the primary dietary iron source, should have
+
+10 Iron was administered as approximately 0.0117 mg powder-form ferrous fumarate.
+
+
+been the only biological iron affected by calcium. Thus, since supplemented iron did not appear in the dry matter, there should have been little to no iron available for chelation, theoretically. That iron content and weight gain nevertheless dropped after calcium supplementation raises questions
+about the biological range of chelation in the mealworm iron system versus the mammalian iron system. These trends may,
+however, be a result of trace amounts of iron in the eaten carrot and substrate, as although feed without iron content was chosen, iron isn't listed to or past the tenth of a milligram on nutritional labels.
+      Another issue that must be considered in the data analysis is a trend of gradual increase visible in iron content from samples 1-6 (Figure 11). This trend may be due to the storage method or timeframe of samples. Samples were gutloaded chronologically in groups of 2 every week (e.g., samples 1 and 2 were gutloaded over week 1) for three weeks. After gutloading, each sample was kept frozen until the fourth week, at which point burning was
+completed.
+      Time-correlated differences between samples (e.g., age of mealworms obtained from PetSmart and/or length of time frozen) may have impacted the measured iron content, causing the trend of increase in iron contents as sample numbers increased. The container in which mealworms were stored
+is another possible contributor. Samples 1-2 were stored in unused weigh boats from freezing until filtration, whereas the containers used to hold samples 3-6 from freezing to filtration were the containers previously used to store them during gutloading (containers were reused after being wiped out). Though relative iron content between groups could still be reliably measured despite the chronological changes, this trend contributes to the inaccuracy of individual DM iron contents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Discussion
+
+      Because of the divergence in statistical significance between weight gain data and iron content data, it was important to make conclusions while considering both data sets. Looking individually at the weight change data, it was supported that calcium decreased weight gain. However, the weight gain reduction may have been caused by non-chelation-related phenomena that are related to calcium in the insect system. To support that chelation was the cause of weight gain reduction, further research quantifying the effect of chelation on weight gain would need to be conducted.
+Regardless, general trends in the data were congruent, as NI/NC and I/NC were similar for both data sets, whereas I/C had much
+
+less iron content and weight gain. For lack of statistical differences in iron content, the data is not fully conclusive. However, supported by the weight change data, which indicates that calcium affected the mealworm metabolism as a whole, the trends seen in iron content indicate that calcium did impact iron content and therefore may possibly act as a chelator in the mealworm iron system as hypothesized.
+      However, in relation to existing literature, both in mammals and insects, the conclusion becomes more complex. Though there is no other literature on insect chelation, the results agree with the iron content decrease caused by chelation which is seen in mammalian studies (Gaitán et al., 2011). However, the weight data do not directly support chelation, as iron and
+
+
+
+
+
+
+
+
+calcium's effects on weight are contentious across mammalian and insect literature.
+      Calcium's effects on body fat metabolism and consequent weight gain are debated. Some studies found a positive correlation between calcium and lipolysis; however, that relationship was impacted by calcium's form (e.g., calcium salt vs dairy) (Toprak et al., 2020, p. 37; Zemel, et al., 2000, pp. 1136-1137).11 Other studies found little or no correlation (Reid et al., 2005, p. 3826; Shapses et al., 2004, pp. 5-7). In insects, a study found positive relationships between calcium and fat metabolism (Baumbach et al., 2014, p. 335). Thus, calcium, by affecting fat metabolism, may decrease insect (and therefore mealworm) weight gain without chelation.
+      However, iron loss due to chelation may reasonably have impacted weight gain as well. In mammals, literature is sparse and shows both increases and decreases in
+weight gain connected to iron supplementation (Aukett et al., 1986, p. 854; Kitamura et al., 2021, p. 9). Literature on insects showed that iron's impact on weight gain varies by species, geographic
+population within a species, initial iron content, and iron dose (Keena, 2022, pp.
+809-813; Zhou et al., 2019, pp. 1505-1506).
+The above literature indicates no
+clear consensus on iron and calcium's effects on weight gain. Furthermore, no literature
+on the subject utilized mealworms as a subject population. As such, it is not possible to assert whether calcium's effect on weight loss was through fat metabolism, chelation, or a combination of the two pathways. The data thus support a possibility of the initially hypothesized mealworm chelation but is not fully conclusive and leaves room for further inquiry.
+
+
+11 Lipolysis refers to the metabolism, or breakdown for use, of fats.
+
+
+      Several factors limit this conclusion's scope. As previously discussed, calculated iron contents were imprecise and likely inaccurate. For comparison between groups, they are adequate; however, they cannot be directly compared to iron contents seen in other studies. Furthermore, calcium contents were not measured. It is therefore
+impossible to identify the initial iron and calcium contents at which the results occurred. This is an impactful stipulation, as in mammals and insects, mineral supplementation's effects vary based on: (1) parental mineral content and (2) mineral intake before supplementation, which were both uncontrolled because mealworms were taken from PetSmart, as well as (3) mineral intake during experimentation, which is identified through supplementation dose alone in this experiment and not precise iron or calcium content measurements (Gaitán et al., 2011, p. 1653; Keena, 2022, p. 810;
+Mølgaard et al., 2005, p. 100). It is also not possible to identify the conclusion's scope with regard to biological iron types. As previously explained (see page 9), the spectrophotometry procedures were not designed to identify all biological iron types, although it is plausible that the test
+accounted for some or most iron through protein denaturation and chemical reactions. In mammals, calcium is unique in its chelation of all iron types (heme and
+non-heme); this experiment's conclusion cannot be applied to a specific iron form due to the mentioned method complexities. As a result of the above limitations, the
+conclusion indicates a possibility of chelation in mealworms but cannot identify said chelation's biochemical conditions.
+      The conclusion also cannot be definitively applied to all insect species. Previous insect supplementation experiments have shown that the trends in mineral content and secondary effects such as weight vary between species and even
+
+
+
+
+
+
+
+
+between members of the same species from different geographic populations (Finke, 2003, pp. 150-153; Keena, 2022, pp.
+810-811). It is therefore possible that the iron and weight trends seen in mealworms will not be seen in other species, and it's likely that if similar trends are seen in other species or populations, they will be mathematically distinct. The conclusion, though it may indicate a possibility of calcium chelation's existence as a whole in insects, cannot definitively indicate chelation or its trends in any species but T. molitor.
+       This possibility of chelation, though not definitive, is the first to be suggested in the literature for any insect species. It provides insight into mealworm iron metabolism's possible biochemical and genetic structures. The weight results
+provide further insight into the disputed biological relationship between calcium and weight by introducing the possible involvement of chelation-associated iron loss's effect on weight and expanding the related literature's breadth of species to mealworms. The possibility that calcium supplementation could reduce iron content
+or weight gain is also an important factor for mealworm producers determining a nutrition program; this has wider impacts in the context of entomophagy's importance in LMIC for obtaining key minerals like iron and calcium.
+      Considering these implications, further study into insect chelation's nature is necessary. Experiments testing a range of calcium doses' effects on weight and iron content should be performed over a range of initial iron contents and weight statuses.
+This may require a series of experiments; it should aid in identifying chelation's biochemical mechanism and extent in insects. Such experiments should be done with more accuracy in data collection so as to provide the mineral content statistics not
+
+
+identified in this study with which to aid in mineral content and growth optimization. This higher accuracy should be obtained through larger sample sizes, more sensitive technology, and any other available means. The study also raised questions about the extent of mealworm chelation regarding iron forms and storage. It's necessary to identify such trends in a variety of species, particularly those most utilized for entomophagy. The literature on iron supplementation should also be expanded to
+a variety of species, including mealworms, as comprehensive studies only cover a few insects, and existing mathematical calculations extrapolated for mealworms appeared ineffective at increasing iron content (Finke, 2003, p. 157). The mentioned supplementation testing for a
+range of calcium and iron dosages over time would be best modeled by Keena (2022) and modified to identify other variables as needed.
+
+
+
+
+
+
+
+References
+
+
+Adámková, A., Kourimská, L., Borkovcová, M., Mlcek, J., & Bednárová, M. (2014). Calcium in edible insects and its use in human nutrition.
+Potravinarstvo, 8(1). https://doi.org/10.5219/366
+Anderson, S. J. (2000). Increasing calcium levels in cultured insects. Zoo Biology, 19(1), 1-9. https://doi.org/10.1002/(sici)1098-23 61(2000)19:1%3C1::aid-zoo1%3E3.
+0.co;2-f
+Arnold Van Huis. (2013). Edible insects: future prospects for food and feed security. Food And Agriculture Organization Of The United Nations.
+Aukett, M. A., Parks, Y. A., Scott, P. H., & Wharton, B. A. (1986). Treatment with iron increases weight gain and psychomotor development. Archives of Disease in Childhood, 61(9), 849-857.
+      https://doi.org/10.1136/adc.61.9.849 Baumbach, J., Hummel, P., Bickmeyer, I.,
+Kowalczyk, K., Frank, M., Knorr, K., Hildebrandt, A., Riedel, D., Jäckle, H., & Kühnlein, R. P. (2014). A Drosophila in vivo screen identifies store-operated calcium entry as a key regulator of adiposity. Cell Metabolism, 19(2), 331-343.
+https://doi.org/10.1016/j.cmet.2013.1 2.004
+Candia, V., Ríos-Castillo, I., Carrera-Gil, F., Vizcarra, B., Olivares, M., Chaniotakis, S., & Pizarro, F. (2018).
+Effect of various calcium salts on non-heme iron bioavailability in fasted women of childbearing age. Journal of Trace Elements in Medicine and Biology, 49, 8-12.
+https://doi.org/10.1016/j.jtemb.2018. 04.029
+
+Doble, M., & Kruthiventi, A. K. (2007). Chapter 8 - Inherent Safety. Green Chemistry and Engineering, 193-244.
+https://doi.org/10.1016/b978-012372 532-5/50009-2
+Finke, M. D. (2002). Complete nutrient composition of commercially raised invertebrates used as food for insectivores. Zoo Biology, 21(3), 269-285.
+      https://doi.org/10.1002/zoo.10031 Finke, M. D. (2003). Gut loading to enhance
+the nutrient content of insects as food for reptiles: A mathematical
+approach. Zoo Biology, 22(2), 147-162.
+      https://doi.org/10.1002/zoo.10082 Gaitán, D., Flores, S., Saavedra, P., Miranda,
+C., Olivares, M., Arredondo, M., López de Romaña, D., Lönnerdal, B., & Pizarro, F. (2011). Calcium does not inhibit the absorption of 5
+milligrams of nonheme or heme iron at doses less than 800 milligrams in nonpregnant women. The Journal of Nutrition, 141(9), 1652-1656.
+https://doi.org/10.3945/jn.111.13865 1
+Geneva: World Health Organization. (2015). The global prevalence of anaemia in 2011.
+https://iris.who.int/bitstream/handle/ 10665/177094/9789241564960_eng.
+pdf?sequence=1
+Gorman, M. J. (2022). Iron homeostasis in insects. Annual Review of Entomology, 68(1). https://doi.org/10.1146/annurev-ento- 040622-092836
+House, J. (2018). Insects as food in the Netherlands: Production networks and the geographies of edibility.
+Geoforum, 94, 82-93. ScienceDirect.
+
+
+
+
+
+
+
+
+https://doi.org/10.1016/j.geoforum.2 018.05.011
+Ji, R., Sun, M., Zang, J., Lv, C., & Zhao, G. (2023). Effects of heat treatment on the structure, digestive property, and absorptivity of holoferritin. Food Innovation and Advances, 2(1), 28-35.
+https://doi.org/10.48130/fia-2023-00 05
+Keena, M. A. (2022). Effects of dietary iron quantities and sources on Lymantria dispar (Lepidoptera: Erebidae) survival and development.
+Environmental Entomology, 51(4),
+806-814.
+      https://doi.org/10.1093/ee/nvac043 Khanal, P., Pandey, D., Næss, G., Cabrita, A.
+R. J., Fonseca, A. J. M., Maia, M. R. G., Timilsina, B., Veldkamp, T., Sapkota, R., & Overrein, H. (2023).
+Yellow mealworms (Tenebrio
+molitor) as an alternative animal feed source: A comprehensive characterization of nutritional values and the larval gut microbiome.
+Journal of Cleaner Production, 389, 136104.
+https://doi.org/10.1016/j.jclepro.2023
+.136104
+Kitamura, N., Yokoyama, Y., Taoka, H., Nagano, U., Hosoda, S., Taworntawat, T., Nakamura, A.,
+Ogawa, Y., Tsubota, K., & Watanabe,
+M. (2021). Iron supplementation regulates the progression of high fat diet induced obesity and hepatic steatosis via mitochondrial signaling pathways. Scientific Reports, 11(1), 10753.
+https://doi.org/10.1038/s41598-021-8 9673-8
+Klasing, K. C., Thacker, P., Lopez, M. A., & Calvert, C. C. (2000). Increasing the calcium content of mealworms (Tenebrio molitor) to improve their
+
+
+nutritional value for bone mineralization of growing chicks. Journal of Zoo and Wildlife Medicine, 31(4), 512-517. https://doi.org/10.1638/1042-7260(2 000)031[0512:itccom]2.0.co;2
+Kröncke, N., & Benning, R. (2022).
+Self-Selection of feeding substrates by Tenebrio molitor larvae of different ages to determine optimal macronutrient intake and the influence on larval growth and protein content. Insects, 13(7), 657. https://doi.org/10.3390/insects13070 657
+Latunde-Dada, G. O., Yang, W., & Vera Aviles, M. (2016). In vitro iron availability from insects and sirloin beef. Journal of Agricultural and Food Chemistry, 64(44), 8420-8424. https://doi.org/10.1021/acs.jafc.6b03 286
+Leedy, P. D., Jeanne Ellis Ormrod, & Johnson, L. R. (2019). Practical research: planning and design (12th ed.). New York Pearson Education, Inc.
+Lu, M.-X., Zhu, C.-X., Smetana, S., Zhao,
+M., Zhang, H.-B., Zhang, F., & Du, Y.-Z. (2023). Minerals in edible insects: review of content and potential for sustainable sourcing. Food Science and Human Wellness, 13(1), 1-18.
+https://doi.org/10.26599/fshw.2022.9 250005
+Mehlferber, E. C., Benowitz, K. M.,
+Roy-Zokan, E. M., McKinney, E. C., Cunningham, C. B., & Moore, A. J. (2017). Duplication and sub/neofunctionalization of
+Malvolio, an insect homolog of Nramp, in the subsocial beetle Nicrophorus vespilloides. G3, 7(10), 3393-3403.
+
+
+
+
+
+
+
+
+https://doi.org/10.1534/g3.117.30018 3
+Miguel-Aliaga, I., Jasper, H., & Lemaitre, B. (2018). Anatomy and physiology of the digestive tract of Drosophila melanogaster. Genetics, 210(2),
+357-396.
+https://doi.org/10.1534/genetics.118. 300224
+Mlcek, J., Adámek, M., Adámková, A., Matyáš, J., Bucková, M., Mrázková, M., Vícha, R., Vychodil, R., Knížková, I., & Volek, Z. (2021).
+Feed parameters influencing the breeding of mealworms (Tenebrio molitor). Sustainability, 13(23),
+12992.
+      https://doi.org/10.3390/su132312992 Mwangi, M. N., Oonincx, D. G. A. B.,
+Stouten, T., Veenenbos, M.,
+Melse-Boonstra, A., Dicke, M., & van Loon, J. J. A. (2018). Insects as sources of iron and zinc in human nutrition. Nutrition Research Reviews, 31(2), 248-255.
+https://doi.org/10.1017/s0954422418 000094
+Mølgaard, C., Kæstel, P., & Michaelsen, K.
+F. (2005). Long-term calcium supplementation does not affect the iron status of 12-14-y-old girls. The American Journal of Clinical Nutrition, 82(1), 98-102. https://doi.org/10.1093/ajcn/82.1.98
+Nutrition and Food Safety WHO Team. (2017). Nutritional anaemias: tools for effective prevention and control. 1-96.
+https://www.who.int/publications/i/it em/9789241513067
+Oonincx, D. G. A. B. (2015). Insects as food and feed: Nutrient composition and environmental impact.
+Oonincx, D. G. A. B., & de Boer, I. J. M. (2012). Environmental impact of the production of mealworms as a
+
+
+protein source for humans - a life cycle assessment. PLoS ONE, 7(12), e51145.
+https://doi.org/10.1371/journal.pone. 0051145
+Oonincx, D. G. A. B., & Finke, M. D. (2023). Insects as a complete nutritional source. Journal of Insects as Food and Feed, 9(5), 541-543.
+      https://doi.org/10.3920/jiff2023.x002 Piskin, E., Cianciosi, D., Gulec, S., Tomas,
+M., & Capanoglu, E. (2022). Iron absorption: Factors, limitations, and improvement methods. ACS Omega, 7(24), 20441-20456.
+https://doi.org/10.1021/acsomega.2c 01833
+Purdue University. (n.d.). Analysis of iron in foods. Purdue.edu. https://www.purdue.edu/science/scie nce-express/labs/labs/ANALYSIS%2 0OF%20IRON%20IN%20FOODS.d
+oc
+Reid, I. R., Horne, A., Mason, B., Ames, R., Bava, U., & Gamble, G. D. (2005). Effects of calcium supplementation on body weight and blood pressure
+in normal older women: A randomized controlled trial. The Journal of Clinical Endocrinology & Metabolism, 90(7), 3824-3829. https://doi.org/10.1210/jc.2004-2205
+Roughead, Z. K. (Fariba), Zito, C. A., & Hunt, J. R. (2002). Initial uptake and absorption of nonheme iron and absorption of heme iron in humans are unaffected by the addition of calcium as cheese to a meal with
+high iron bioavailability. The American Journal of Clinical Nutrition, 76(2), 419-425. https://doi.org/10.1093/ajcn/76.2.419
+Rumbos, C. I., Bliamplias, D., Gourgouta, M., Michail, V., & Athanassiou, C.
+G. (2021). Rearing Tenebrio molitor and Alphitobius diaperinus larvae on
+
+
+
+
+
+
+
+
+seed cleaning process byproducts. Insects, 12(4), 293. https://doi.org/10.3390/insects12040 293
+Shapses, S. A., Heshka, S., & Heymsfield,
+S. B. (2004). Effect of calcium supplementation on weight and fat loss in women. The Journal of Clinical Endocrinology and Metabolism, 89(2), 632-637. https://doi.org/10.1210/jc.2002-0211 36
+Sharma, S., & Leaf, D. E. (2019). Iron chelation as a potential therapeutic strategy for AKI prevention. Journal of the American Society of Nephrology, 30(11), 2060-2071. https://doi.org/10.1681/asn.2019060 595
+Shrestha, Y. K., & Shrestha, S. K. (2023). Fundamentals of colorimetry - 4. Principle of colorimetry. IntechOpen EBooks. https://doi.org/10.5772/intechopen.1 12344
+Stull, V. J., Kersten, M., Bergmans, R. S., Patz, J. A., & Paskewitz, S. (2019). Crude protein, amino acid, and iron content of Tenebrio molitor (Coleoptera, Tenebrionidae) reared on an agricultural byproduct from maize production: An exploratory study. Annals of the Entomological Society of America, 112(6), 533-543.
+      https://doi.org/10.1093/aesa/saz024 Sulistyarti, H., Retnowati, R., Sulistyo, E.,
+Wulandari, E. R., & Nashukha, H. L. (2020). Development of indirect spectrophotometric method for mercury determination based on the formation of iron(III)-thiocyanate complex. IOP Conference Series: Materials Science and Engineering,
+
+
+833(1), 012047.
+https://doi.org/10.1088/1757-899x/8 33/1/012047
+Toprak, U., Hegedus, D. D., Dogan, C., & Güney, G. (2020). A journey into the world of insect lipid metabolism.
+Archives of Insect Biochemistry and Physiology, 104(2). https://doi.org/10.1002/arch.21682
+Urry, L. A., Cain, M. L., Wasserman, S. A., Minorsky, P. V., Orr, R. B., & Campbell, N. A. (2020). Campbell biology (12th ed., pp. 192-201).
+Pearson.
+van Huis, A., Rumpold, B., Maya, C., & Roos, N. (2021). Nutritional qualities and enhancement of edible insects.
+Annual Review of Nutrition, 41(1). https://doi.org/10.1146/annurev-nutr- 041520-010856
+Winter, W. E., Bazydlo, L. A. L., & Harris,
+N. S. (2014). The molecular biology of human iron metabolism. Laboratory Medicine, 45(2), 92-102. https://doi.org/10.1309/LMF28S2GI MXNWHMM
+Zemel, M. B., Shi, H., Greer, B., Dirienzo,
+D., & Zemel, P. C. (2000).
+Regulation of adiposity by dietary calcium. The FASEB Journal, 14(9), 1132-1138.
+https://doi.org/10.1096/fasebj.14.9.1 132
+Zhou, Y., Wang, Y., Li, X., Frank Addai Peprah, Wang, X., Liu, H., Lin, F.,
+Gu, J., Yu, F., & Shi, H. (2019).
+Applying microarray-based technique to study and analyze silkworm (Bombyx mori)
+transcriptomic response to long-term high iron diet. Genomics, 111(6), 1504-1513.
+https://doi.org/10.1016/j.ygeno.2018. 10.005
+
+
+
+
+
+
+
+Appendix
+
+
+Appendix A: Prestesting
+
+      Two pretesting sessions were performed prior to full method development and experimentation. The first session was preliminary testing to establish that minimum feed and space amounts were
+sufficient to sustain a sample of mealworms; a 41-mealworm sample was maintained until the majority pupated and died. This session lasted 16 days. The second session was shorter, used identical conditions to actual testing (e.g., container height, substrate amount), and consisted of 2 samples of 30 mealworms each. One sample received ferrous fumarate and the other received calcium carbonate. Results after 2 days aligned with those of the last session and the mealworms were disposed of. Beyond verifying capacity to raise mealworms with the available materials, the pretesting also provided information about the weight per mealworm, which generally varied between
+0.08 and 0.10 g per mealworm within the first two days, and the death and pupation
+per sample, which averaged about 1-2 out of 30 over the two day gutloading period. This expected weight was used to determine the experimental sample size.
+
+Appendix B: Nutritional Facts
+
+      Feed was based on precedent but exact nutritional matches were not obtainable. Below is the feed used in previous research and feed used in this research. Nutritional values are provided as available.
+      Precedent of use for the potato flakes identified nutritional facts as: "raw ware potatoes-energy value 374 kJ/89 kcal, fat
+0.2 g, of which saturated fatty acids 0.0 g, carbohydrates 19 g, of which sugars 1.0 g, fiber 2.0 g, protein 2.0 g, salt 0.05 g. The
+
+values were taken from the product packaging" (Mlcek et al., 2021, p. 4). Potato flakes used in this experiment were Onuva Premium Potato Flakes (see Figure B1).
+H-E-B Organics Carrots were the carrot brand. Calcium carbonate used was NOW Supplements Calcium Carbonate Pure Powder and contained 600 mg calcium per
+1.7 g calcium carbonate. Ferrous fumarate used was Bulk Supplements.com Ferrous Fumarate Powder and contained 18 mg iron per 55 mg ferrous fumarate.
+      To calculate needed ferrous fumarate and calcium carbonate dosages for 75 g substrate, dimensional analysis was used.
+Substrate weight was converted to kg, then the g mineral per kg substrate was used to find the necessary mineral dosage(s). To calculate the g of supplement powder, the ratio of g pure mineral to g supplement
+
+
+
+
+
+
+
+
+
+
+
+powder was used. This was performed for each mineral and the resulting number was the ferrous fumarate or calcium carbonate dosage.
+
+Appendix C: Iron Testing Procedures
+
+I. Iron Nitrate Creation
+
+      The majority of the necessary solutions were readily available within the school's chemical lab. However, .001 M
+
+
+2. The fume hood was turned on. The gas source was turned on and the bunsen burner was lit with lighter. While using a bunsen burner and heated materials from this point forward, basic PPE was used, as were tongs (and hot pads and/or heat-resistant gloves as needed).
+3. A mealworm sample was placed into the crucible over the flame. Sample was heated for between 10 and 15 minutes; a pestle was used to crush
+
+Fe(NO )
+3 3
+
+in .1 M HCl was not. As a result,
+
+the sample 3-4 times over the heating
+period. Flame intensity and crucible
+
+the solution had to be created using the available .1 M HCl and hydrated solid
+Fe(NO ) . 100 mL of the needed solution
+3 3
+were created. The steps taken to prepare the solution are below:
+1. 0.0404 g Hydrated solid iron nitrate was prepared
+2. 0.1 M HCl was poured into a 100 mL volumetric flask, filling only partially.
+3. Iron nitrate was poured into the flask.
+4. The stopper was placed onto the flask and mixed gently.
+5. The stopper was removed and the flask was filled to the 100 mL mark; the flask was once again stoppered and mixed gently.
+6. Flask was stored securely.
+
+II. Sample Reduction to Ash
+
+      After samples were frozen, they were reduced to ash prior to iron testing in the spectrophotometer. More detailed
+instructions for reducing mealworm samples to ash are below:
+1. A bunsen burner was set up next to a gas source within a fume hood. A clay triangle was placed over a ring stand's ring, and then a crucible (no lid) was placed over the clay
+triangle.
+
+height were adjusted as needed to ensure that sample was reduced entirely to ash.
+4. Once the sample was reduced to ash, the crucible was removed from flame and allowed to cool. When the
+sample and crucible were sufficiently cool to safely handle, the sample was transferred to another container and weighed. The sample was enclosed and stored securely.
+5. The used crucible and pestle were washed with soapy water, then rinsed with distilled water. They were left
+to dry.
+6. Steps 3-5 were repeated individually for each sample.
+
+III. Iron Content Measurement
+
+      After samples were reduced to ash, spectrophotometry was used to test their iron content. A standard curve was developed using the spectrophotometer to calculate the mealworms' relative iron contents.
+Mealworm samples were filtered to prepare them for spectrophotometry. More detailed instructions for the standard curve and samples' solution preparation and testing are below:
+
+
+
+
+
+
+
+
+1. The spectrophotometer was turned on and allowed to warm up for 15 minutes.
+2. The test tubes were rinsed by flushing with 70% isopropyl
+solution, then left to dry. Throughout
+
+
+When spectrophotometer readings begin to vary, the blank test tube was used to
+re-calibrate (refer to step 3d).
+4. A standard curve was prepared. See Figure C1 for concentrations.
+
+the experiment, test tubes were
+rinsed again as needed between
+a. 
+0.001 M Fe(NO )
+3 3
+
+in .1 M
+
+samples.
+3. A blank was prepared for the spectrophotometer to calibrate it to the sample solutions.
+a. 20 mL 0.1 M HCl was
+
+HCl solution was poured into one beaker; distilled water was poured into another.
+b. Graduated cylinders were used to measure out the
+
+prepared in a beaker.
+
+Fe(NO )
+3 3
+
+and water amounts
+
+b. 2.5 mL 0.1 M KSCN was
+added to the beaker using a disposable syringe and stirred well with a stir rod.
+c. Solution was transferred to
+the test tube up to the fill line.
+d. Test tube was wiped with lens-cleaning paper, then placed in the spectrophotometer. The spectrophotometer was calibrated so that it read
+100% transmittance and 0.00 absorbance at 460 nm.
+e. The test tube was removed from the spectrophotometer and kept in the test tube rack.
+
+needed to create solutions of varying concentrations (see table).
+c. 2.5 mL 0.1 M KSCN was
+added to the beaker using a disposable syringe. Solution was stirred well with a stir rod.
+d. Solution was transferred to
+the test tube up to the fill line.
+Each test tube was wiped
+with lens-cleaning paper then placed in the spectrophotometer.
+Absorbance and transmittance were then recorded.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Each sample was prepared and tested in the spectrophotometer.
+a. A ring stand with a funnel and beaker underneath were
+set up. The funnel and beaker were rinsed with soapy and distilled water as needed,
+then left to dry. The funnel was wet slightly with distilled water. A filter paper was prepared by folding twice to create a quarter-circle, then opening up one fold so a cone shape was created. The cone was placed into the funnel.
+b. A small beaker was rinsed out and one sample's ashes were poured into the beaker.
+c. Using a graduated cylinder, 10 mL 2 M HCl was
+measured out and poured into the small beaker. The
+solution was stirred carefully for one minute with a stir rod.
+d. Using another graduated cylinder, 10 mL diluted water was measured out and poured into the small beaker. The solution was stirred well. Stir rod was rinsed with distilled water.
+e. The resulting solution was poured into the funnel; care was taken not to let the solution splash over the filter paper cone. If necessary, the poured portion of the solution was allowed to filter before pouring the rest of the
+solution into the funnel.
+f. Once the filtrate had filtered into a beaker, 2.5 mL 0.1 M KSCN was added to the beaker that had collected the filtrate using a disposable
+
+
+syringe. The solution was stirred well with a stir rod.
+g. The filtrate was poured into a test tube up to the fill line. The test tube was wiped with lens-cleaning paper, then
+each test tube was placed in the spectrophotometer and absorbance and transmittance were recorded.
+h. Steps 5a-5g were repeated for each sample. Between samples, filter paper was disposed of. After finishing, used beakers, funnel, and stir rod were rinsed with soapy water and distilled water; test tubes were flushed with 70% isopropyl solution.
+
+Appendix D: Safety Precautions
+
+      To maintain researcher safety, basic safety precautions were utilized. Gloves, goggles, and aprons were used when interacting with mealworms and any substances or equipment related to iron content spectrometry. Waste resulting from raising mealworms was disposed of in a sealed container as biowaste. Pupae and remaining live mealworms not needed after experimentation were killed through soapy water and disposed of in a sealed container. Once solutions made for standard curve and from mealworm samples were tested, they were disposed of appropriately and safely based on their respective chemicals and the facility's capabilities. This also applies to isopropyl used for test tube cleaning. Flinn Safety Data Sheets were used to inform disposal protocol for each solution. Garbage disposal of excess materials, sink flushing of after disposal of used solutions, and lab storage of unused excess solutions were performed.
+
+
+
+
+
+
+
+Appendix E: Statistical Results
+
+I. ANOVA and Pairwise Results for Iron Content Data
+
+Table E1Summary of DataTreatments1 (NI/NC)2 (I/NC)3 (I/C)45TotalN66618?X23.082325.777715.097763.9577Mean3.84714.29632.51633.553?X2116.3899144.352667.5304328.2728Std.Dev.2.34912.59242.43072.4377Result DetailsSourceSSdfMSBetween-treatme nts
+10.2824
+2
+5.1412
+F = 0.84993p-value =
+.447034Within-treatment s
+90.7355
+15
+6.049Total101.017917Pairwise ComparisonsHSD.05 = 3.6884 HSD.01 = 4.8556
+
+Q.05 = 3.6734
+Q.01 = 4.8359
+
+
+T1:T2
+
+M1 = 3.85
+M2 = 4.30
+
+
+0.45
+
+Q = 0.45 (p =
+.94652)
+T1:T3M1 = 3.85
+M3 = 2.52
+1.33Q = 1.33 (p =
+.62602)
+T2:T3M2 = 4.30
+M3 = 2.52
+1.78Q = 1.77 (p =
+.44163)
+II. ANOVA and Pairwise Results for Weight Gain Data
+
+Table E2Summary of DataTreatments1 (NI/NC)2 (I/NC)3 (I/C)45TotalN66618?X0.05520.05450.01460.1244
+
+
+
+
+
+
+Mean0.00920.00910.00240.007?X20.00060.00060.00010.0013Std.Dev.0.0050.0050.00250.0052Result DetailsSourceSSdfMSBetween-treatme nts
+0.0002
+2
+0.0001
+F = 4.84464p-value =
+.023816Within-treatment s
+0.0003
+15
+0Total0.000517Pairwise ComparisonsHSD.05 = 0.0065 HSD.01 = 0.0085
+
+Q.05 = 3.6734
+Q.01 = 4.8359
+
+
+T1:T2
+
+M1 = 0.01
+M2 = 0.01
+
+
+0
+
+Q = 0.06 (p =
+.99911)
+T1:T3M1 = 0.01
+M3 = 0.00
+0.01Q = 3.86 (p =
+.03874)
+T2:T3M2 = 0.01
+M3 = 0.00
+0.01Q = 3.81 (p =
+.04184)
+III. ANOVA and Pairwise Results for Initial Weight Data
+
+Table E3Summary of DataTreatments1 (NI/NC)2 (I/NC)3 (I/C)45TotalN66618?X13.7313.5414.0441.31Mean2.28832.25672.342.295?X231.527930.755633.080495.3639Std.Dev.0.14770.20020.2130.1811Result DetailsSourceSSdfMSBetween-treatme nts
+0.0212
+2
+0.0106
+F = 0.29699p-value =
+.747322Within-treatment s
+0.5362
+15
+0.0357Total0.557417
+
+
+
+
+
+
+Pairwise ComparisonsHSD.05 = 0.2835 HSD.01 = 0.3733
+
+Q.05 = 3.6734
+Q.01 = 4.8359
+
+M1 = 2.29
+M2 = 2.26
+
+
+0.03
+
+Q = 0.41 (p =
+.95499)
+
+M1 = 2.29
+M2 = 2.26M1 = 2.29
+M3 = 2.34
+0.05Q = 0.67 (p =
+.88462)M1 = 2.29
+M3 = 2.34M2 = 2.26
+M3 = 2.34
+0.08Q = 1.08 (p =
+.73055)M2 = 2.26
+M3 = 2.34
+
+Academic Paper
+Note: Student samples are quoted verbatim and may contain spelling and grammatical errors.
+
+Sample: B Score: 5
+
+This paper earned a score of 5. A clear, focused topic of inquiry is carried through the methods and conclusion. A thorough evaluation of scholarly sources characterizes a gap in the research and leads to the development of a clear focused project goal that is grounded in background research. This justification is exemplified on p. 2, top of the second column, "This potential importance of entomophagy in anti-hunger and particularly anti-IDA strategies necessitates studies that investigate edible insect iron content optimization and the form and absorption of insect iron in humans (Lu et al., 2023, p. 71) ... studies investigating the impact of iron inhibitors in insects' diets on insect iron content could provide insight into insect iron content optimization and thus aid in reducing the worldwide IDA burden ... this study tested the effect of the iron inhibitor calcium in mealworms."
+
+Further justification for the research focus is provided in the literature review on pp. 2-6 via a detailed discussion of scientific literature related to insect selection, insect and mammalian iron absorption systems, and iron absorption inhibitors (chelators) such as calcium. The detailed analysis of what is known, and what is yet to be studied, from the scientific literature further justifies the establishment of a gap in the research and sets up the justification for the inquiry choices outlined in the method.
+
+Thus, the method choices on pp. 6-11 are replicable, defended, and grounded in background research from the literature review. Furthermore, the paper displays a hypercritical awareness of how method choices can impact the research outcomes. For example, the establishment of control groups on p. 7, "Due to the mealworms' commercial source, their long-term diets before purchase would have integrated minerals, including iron, into their tissues (Oonincx & Finke, 2023, p. 542). One of the experimental groups therefore needed to be a negative control to account for the mealworms' unknown mineral concentrations."
+
+The results and data analysis on pp. 11-13 provide sufficient evidence to support the development of nuanced and detailed new understandings/conclusions that are thoroughly discussed and justified in light of previous research, limitations, and implications on pp. 15-17. See p. 15. top of second column, "Several factors limit this conclusion's scope. As previously discussed, calculated iron contents were imprecise and likely inaccurate. For comparison between groups, they are adequate; however, they cannot be directly compared to iron contents seen in other studies. Furthermore, calcium contents were not measured...."
+
+Furthermore, the paper establishes the significance of the research to the community of practice from the beginning of the paper, see p. 2 "Because those with micronutrient malnutrition often cannot afford the animal products necessary to provide necessary micronutrients, entomophagy ... is a proposed alternative iron source (Mwangi et al., 2018, p. 252)." The discussion section of the paper displays a meta-awareness in that the paper does not overstate its conclusions, and clearly defines how the study added to the body of research being conducted to accomplish this larger goal.
+
+
+This paper did not earn a score of 4 because the new understanding is justified through a logical progression of inquiry choices. The paper draws nuanced conclusions and demonstrates a hypercritical awareness of the limitations and implications of those conclusions. The level of evaluation in the "other variables" section on p. 14 and the "discussion" section on pp. 15-17 displays an awareness of how limitations may have impacted the study's results and the conclusions that could be drawn from the results. The discussion section begins with this awareness on p. 15, "Because of the divergence in statistical significance between weight gain data and iron content data, it was important to make conclusions while considering both data sets ..." This hypercritical analysis continues throughout the discussion section, "However, in relation to existing literature, both in mammals and insects, the conclusion becomes more complex. Though there is no other literature on insect chelation, the results agree with the iron content decrease caused by chelation which is seen in mammalian studies (Gaitán et al., 2011). However, the weight data do not directly support chelation, as iron and calcium's effects on weight are contentious across mammalian and insect literature."
+
+The section titles, charts, figures, graphs also enhance communication by helping to clearly explain steps in the research process. For example, see the diagram on page 8 which clearly describes how the control and experimental groups were set-up. Thus, the diagrams help to explain technical concepts to the non-expert. Additionally, footnotes were added when needed to explain necessary information and enhance the communication as can be on pp. 5 and 7.
+
+This paper is a rich analysis of a new understanding and addresses a gap in the research base.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

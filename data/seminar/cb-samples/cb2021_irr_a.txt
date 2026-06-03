@@ -1,0 +1,151 @@
+The Political Implications of the Privatization of Space
+
+6443V02U
+AP Seminar
+Word Count: 1305
+
+Introduction
+According to NASA’s Chief Historian, Steven J. Dick, space exploration is a necessity
+for self-preservation of society and avoidance of stagnation. The initial need for exploration of a
+new frontier came with uncertainty and required the creation of new international agreements. In
+1967, the United Nations’ Outer Space Treaty was signed by over one hundred countries, setting
+in place two fundamental principles for international space law: 1) general international law
+extends into space, and 2) celestial bodies are free for exploration and use but cannot be claimed
+by any nation (Lee). This treaty specifically addressed individual countries. However, as a
+half-century has passed, national space programs are no longer the only entities interested in
+space exploration. With the introduction of NewSpace, the industry composed of many new
+private space companies such as Elon Musk’s SpaceX and Jeff Bezo’s Blue Origin, the Outer
+Space Treaty’s vague nature has made its enforcement increasingly complicated (Krause)
+(Dovey). However, the importance of space exploration and scientific advancement remains. If
+the private sector is able to aid scientific progress, it must be allowed to fulfill this purpose. Yet,
+with the current nature of international space law, unspecified regulations pave a path for serious
+international conflict rising from possible legal disputes and damages of intellectual property
+(Reinert). Thus, when analyzing the privatization of space from a political standpoint, the
+question arises: what does the current rise in private space companies in the United States
+suggest about a need for government regulation of space exploration?
+
+Promotion of Private Space Companies
+While the introduction of private companies has complicated the space industry, it has
+also introduced much opportunity. It is in the government’s interest to work alongside private
+
+companies for the country’s scientific advancement, which yields political gain. In his research
+on liability laws in outer space, Alexander P. Reinhart of William and Mary Law School
+highlights that NASA no longer monopolizes the space industry. A second kind of space race is
+occurring among private companies such as SpaceX, Blue Origin, and Virgin Galactic
+(Reinhart). These companies are at the forefront of space technology with SpaceX becoming the
+first private entity to deliver supplies to the International Space Station (Reinhart). Hence,
+partnership with private companies provides state-of-the-art resources and technology needed by
+the government. The U.S. therefore increases its capacity to advance science by utilizing private
+space exploration endeavors. Furthermore, this technology provides political gain. According to
+Harvard Law School researcher Yong Bum Lee, under the Registration Convention of the Outer
+Space Treaty, private companies have the ability to register their intellectual property, or ‘space
+objects’, under the country of their choosing, creating regulatory competition. Governments then
+have incentive to adjust their patent framework to meet private company desires (Lee). Having
+some authority over these corporations allows the country to obtain the wealth of knowledge
+their technology provides. Knowledge then increases political prestige internationally while
+partnership assists the private sector, creating a mutually beneficial relationship. However, it
+creates conflicting governmental interests, meaning a decision between political prestige or
+international integrity.
+Along with this new technology comes unprecedented objectives in space for which the
+government must account. Intending to work with and support private companies, the U.S.
+government attempts to pass laws that specify its understanding of the Outer Space Treaty for the
+NewSpace industry’s benefit. The American Space Commerce Free Enterprise Act was passed
+by the House of Representatives in 2018; it is a bill seeking to allow private companies less
+
+regulation and limitation of freedom in space. Hao Liu, Director at the Institute of Aviation Law
+and Standard, and Fabio Tronchetti, Co-Director at the Institute of Space Law and Strategy,
+argue that this bill does not fully align with the Outer Space Treaty’s basic foundation, allowing
+U.S. citizens unconditional usage of resources from outer space (Hao and Tronchetti). The bill
+instead removes the burden from the private space sector in the U.S. and is, therefore, a
+governmental attempt to promote private space companies. Along with this Act, the ABA Journal
+by the American Bar Association identifies an additional bill known as the American Space
+Renaissance Act which seeks to specify the Outer Space Treaty’s interpretation in the U.S. It
+looks to increase the budgets of the Department of Transportation and the Commerce
+Department in order to grow their involvement in the protection of the commercial space
+industry (Krause). The government promotes private space endeavors while aiming to protect the
+companies responsible for them. Though intended to benefit the privatization of space, these acts
+have created controversy internationally, and the U.S. government must therefore ensure
+regulation and its own fidelity.
+
+Government Regulation
+Not only must the government oversee its relationship with private companies, but it
+must also maintain authority through national regulations. Under the Outer Space Treaty, the
+U.S. government has the responsibility to uphold international space law. Discussing intellectual
+property laws in outer space, Julie D. Cromer Young, J.D., professor at American University
+Washington College of Law, emphasized that the Outer Space Treaty sets overarching guidelines,
+but individual countries create their own domestic laws on space exploration (Young).
+Governments under the treaty have obligations to other countries, and therefore they must
+
+regulate private companies to avoid inciting international legal issues stemming from contrasting
+interpretations of the Outer Space Treaty. These issues include both vague patent and liability
+laws. Lee expands on this idea, explaining that, because ‘space objects’ can be registered where
+conditions are most beneficial to the company, there is a great chance of problems in which a
+space company registers under one country, but services another where its technology infringes
+upon patent laws (Lee). While regulatory competition is, in some cases, positive in promoting
+the NewSpace industry, it can create international disputes based on domestic patent laws.
+Similarly with liability laws, Reinert explains that companies are likely to register in a country
+with the most lenient policies on intellectual property damages (Reinert). Under the Outer Space
+Treaty, both national and private endeavors, along with their hazards, are the responsibility of the
+state (Avveduto). However, the states offering lenient conditions are often less likely to pay
+damages, jeopardizing the compensation of victims (Reinert). Thus, government regulation of
+private space companies, as well as international collaboration, are critical in preventing
+international space law complications.
+The U.S. government must also ensure it does not become fully dependent upon
+privatized companies for space exploration. Organizations such as NGOs, Non-Governmental
+Organizations, which are not directly related to space exploration, are able to pressure the
+government through lobbyists to pursue greater space exploration. In this way, government
+organizations themselves are regulated (Reibaldi and Grimard). Thus, the importance of
+maintaining a national space program remains. Young reinforces that national space programs
+are more stable and are essential in the event that private actors cease cooperation with the
+government, which could pose a safety threat (Young). Therefore government regulation and
+
+agencies, as well as private companies, are necessary to fuel scientific advancement, the overall
+goal of space exploration.
+
+Conclusion
+The U.S. government should overall regulate the privatization of space. While the Outer
+Space Treaty should remain a foundation for international space law because of its altruistic
+principles, it must be updated to fit the modern infrastructure of space exploration, accounting
+for private companies (Krause). This includes solidifying patent and liability laws. The
+implementation of global patent protection would mitigate degradation of patents from
+international competition for private companies (Lee). Additionally, holding private entities
+accountable for damages rather than their countries of origin would simplify and improve
+liability laws in space (Reinert). While limited by the requirement of large-scale cooperation of
+countries with individual, varying laws, these changes would make progress in updating the
+Outer Space Treaty, and could ultimately assist in solving the political issues of modern
+international space law brought about by the privatization of space.
+
+Works Cited
+Avveduto, Rosario. “Past, Present, and Future of Intellectual Property in Space: Old Answers to
+New Questions.” Washington International Law Journal, vol. 29, no. 1, Dec. 2019, pp.
+203–246. EBSCOhost,
+search.ebscohost.com/login.aspx?direct=true&db=asn&AN=141353241&site=ehost-live.
+Dick, Steven J. “The Importance of Exploration.” NASA.
+www.nasa.gov/missions/solarsystem/Why_We_01pt1.html. Accessed 19 May 2021.
+Dovey, Ceridwen. “The Privatisation of Space: Does NewSpace Create Companies or Cults?”
+Journal & Proceedings of the Royal Society of New South Wales, vol. 153, no. 1, July
+2020, pp. 97–99. EBSCOhost,
+search.ebscohost.com/login.aspx?direct=true&db=asn&AN=145102939&site=ehost-live.
+Hao, Liu, and Fabio Tronchetti. “The American Space Commerce Free Enterprise Act of 2017:
+The Latest Step in Regulating the Space Resources Utilization Industry or Something
+More?” Space Policy, vol. 47, Feb. 2019, pp. 1–6. EBSCOhost,
+doi:10.1016/j.spacepol.2018.02.004.
+Krause, Jason. “The Outer Space Treaty Turns 50. Can It Survive a New Space Race?” ABA
+Journal, Apr. 2017, p. 1. EBSCOhost,
+search.ebscohost.com/login.aspx?direct=true&db=asn&AN=122282645&site=ehost-live.
+Lee, Yong Bum. “Public Space, Private Patents: Updating International Space Law to Protect
+Patents in Outer Space.” Harvard Journal of Law & Technology, vol. 33, no. 1, Fall 2019,
+pp. 293–209. EBSCOhost,
+search.ebscohost.com/login.aspx?direct=true&db=asn&AN=142243762&site=ehost-live.
+
+Reibaldi, Giuseppe, and Max Grimard. “Non-Governmental Organizations Importance and
+Future Role in Space Exploration.” Acta Astronautica, vol. 114, Sept. 2015, pp. 130–137.
+EBSCOhost, doi:10.1016/j.actaastro.2015.04.023.
+Reinert, Alexander P. “Updating the Liability Regime in Outer Space: Why Spacefaring
+Companies Should Be Internationally Liable for Their Space Objects.” William & Mary
+Law Review, vol. 62, no. 1, Oct. 2020, pp. 325–356. EBSCOhost,
+search.ebscohost.com/login.aspx?direct=true&db=asn&AN=147242329&site=ehost-live.
+Young, Julie D. Cromer. “Charting the Course of Intellectual Property Laws in the Privatization
+of Outer Space.” Ateneo Law Journal, vol. 64, no. 3, Feb. 2020, pp. 925–948.
+EBSCOhost,
+search.ebscohost.com/login.aspx?direct=true&db=asn&AN=148294392&site=ehost-live.

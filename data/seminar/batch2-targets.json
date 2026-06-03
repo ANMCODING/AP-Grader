@@ -1,0 +1,75 @@
+{
+  "tolerance": 3,
+  "papers": [
+    {
+      "file": "iwa_7_high_algorithmic_bias.txt",
+      "task": "iwa",
+      "label": "Bias by Design (Rivera)",
+      "totalBand": [44, 48],
+      "rowGuidance": {
+        "row1_stimulus": [4, 5],
+        "row3_perspective": [9, 9],
+        "row4_argument": [8, 12]
+      }
+    },
+    {
+      "file": "iwa_9_low_social_media_age.txt",
+      "task": "iwa",
+      "label": "Should Social Media Platforms (Torres)",
+      "totalBand": [19, 25],
+      "rowGuidance": {
+        "row1_stimulus": [1, 2],
+        "row2_context": [5, 5],
+        "row3_perspective": [0, 0],
+        "row4_argument": [0, 0],
+        "row5_evidence": [0, 0],
+        "row6_citation": [5, 5],
+        "row7_style": [3, 3]
+      }
+    },
+    {
+      "file": "iwa_8_mid_fast_fashion.txt",
+      "task": "iwa",
+      "label": "The Cost of Cheap (Park)",
+      "totalBand": [42, 48],
+      "rowGuidance": {
+        "row3_perspective": [9, 9],
+        "row4_argument": [8, 8],
+        "row5_evidence": [6, 9]
+      }
+    },
+    {
+      "file": "irr_7_high_microplastics.txt",
+      "task": "irr",
+      "label": "Invisible Contaminants",
+      "totalBand": [21, 30],
+      "rowGuidance": {
+        "row1_context": [4, 6],
+        "row2_argument": [4, 6],
+        "row3_sources": [4, 6],
+        "row4_perspective": [4, 6]
+      }
+    },
+    {
+      "file": "irr_8_mid_ubi.txt",
+      "task": "irr",
+      "label": "Cash and Consequences (UBI)",
+      "totalBand": [15, 20],
+      "rowGuidance": {
+        "row2_argument": [4, 6],
+        "row3_sources": [4, 6]
+      }
+    },
+    {
+      "file": "irr_9_low_video_games.txt",
+      "task": "irr",
+      "label": "Video Games and Learning",
+      "totalBand": [6, 10],
+      "rowGuidance": {
+        "row1_context": [0, 2],
+        "row2_argument": [0, 2],
+        "row4_perspective": [0, 0]
+      }
+    }
+  ]
+}

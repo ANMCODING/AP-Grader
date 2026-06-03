@@ -1,0 +1,35 @@
+The Relationship Between Sleep Duration and Working Memory in High School Students
+AP Research
+April 2025
+Word Count: 4,200
+
+Introduction
+Working memory is central to classroom learning and test performance during adolescence. This study investigates whether nightly sleep duration predicts working memory accuracy among high school juniors enrolled in AP Psychology courses at a suburban high school.
+
+What Scientists Have Learned About Sleep and the Adolescent Brain
+Research on adolescent sleep has expanded substantially over the past two decades. Carskadon et al. (2004) documented that puberty shifts circadian timing later, producing biologically driven sleep pressure that conflicts with early school start times. Wolfson and Carskadon (1998) surveyed high school students and found that students reporting more than eight hours of sleep earned higher grades than peers reporting six hours or fewer. Dewald et al. (2010) meta-analyzed studies linking sleep quality and duration to school performance and reported small but consistent negative associations between sleep restriction and achievement outcomes. Walker (2017) reviewed neuroscience evidence showing that sleep supports hippocampal consolidation processes required for next-day learning and memory retrieval. Taras and Potts-Datema (2005) summarized educational research indicating that sleep loss impairs attention, reaction time, and complex cognitive tasks common in secondary classrooms. Short and Blunden (2011) examined sleep patterns across cultures and found that academic calendars and homework demands predict chronic sleep restriction in adolescents worldwide. Mindell and Owens (2010) reviewed clinical interventions for delayed sleep phase in teenagers and argued that school policies must account for developmental biology rather than adult sleep norms alone. Beebe (2011) experimentally restricted sleep in adolescent participants and observed declines on sustained attention and working memory tasks after only a few nights of partial deprivation. Lo et al. (2016) used actigraphy in a large school-based sample and demonstrated that later school start times increased total sleep and reduced daytime sleepiness without reducing instructional time. Gradisar et al. (2013) evaluated delayed start policies in Australian schools and found improvements in mood and attendance alongside modest academic gains. Owens et al. (2014) reviewed policy statements from medical organizations recommending eight and a half to nine and a half hours of sleep for teenagers and emphasized that chronic restriction produces cumulative cognitive deficits across a semester. Kurth et al. (2010) used neuroimaging to show that sleep deprivation reduces prefrontal activation during working memory tasks in healthy adults, suggesting a plausible mechanism for adolescent performance declines. Beebe et al. (2013) measured sleep in high school students during exam weeks and found that students who slept less than six hours performed worse on attention tasks than students who slept more than seven hours. Perkinson-Gloor et al. (2013) linked poor sleep to emotional regulation difficulties that can indirectly undermine academic engagement. Hagenauer et al. (2009) tracked sleep and achievement longitudinally and reported that persistent short sleep predicted lower GPA trajectories. Urrila et al. (2015) found associations between sleep disturbances and symptoms of depression that may compound academic stress. Shochat et al. (2014) reviewed school-based sleep education programs and concluded that knowledge alone rarely changes behavior without structural schedule changes. Crowley et al. (2018) summarized circadian science for educators and recommended aligning assessment schedules with sleep biology when possible. Together these studies establish that adolescent sleep is constrained by biology and school structure and that insufficient sleep harms cognitive processes required for classroom learning.
+
+What the Research Has Not Examined
+While Carskadon et al. (2004) focused on circadian mechanisms, and Wolfson and Carskadon (1998) described population-level associations between sleep and grades, few studies have tested whether experimentally tracked nightly sleep duration during a high-stakes testing week predicts trial-level working memory accuracy within the same suburban high school sample using a computerized n-back task. No study has examined whether sleep duration during finals week predicts working memory accuracy among AP Psychology students while controlling for baseline achievement and caffeine use.
+
+Methodology
+Participants were 48 juniors enrolled in AP Psychology at Westridge High School. Sleep duration was measured with wrist actigraphy for seven nights during finals week. Working memory was assessed using a computerized two-back task administered on the final school day. Control variables included semester GPA and self-reported caffeine consumption. Data were analyzed using hierarchical multiple regression in SPSS version 28.
+
+Results
+Average sleep duration was 6.4 hours per night. Regression results indicated that sleep duration significantly predicted working memory accuracy after controlling for GPA and caffeine, beta = .41, p = .003. Participants sleeping at least seven hours committed fewer omission errors than participants sleeping less than six hours.
+
+Discussion
+These findings extend prior sleep research by linking objectively measured sleep during finals week to working memory accuracy in a high school AP sample. Results align with Beebe (2011) and Kurth et al. (2010) regarding prefrontal-dependent cognition.
+
+Limitations
+The sample came from one school. Actigraphy cannot distinguish sleep from quiet wakefulness in all cases.
+
+Implications
+School administrators considering temporary schedule adjustments during finals week may use these findings to emphasize sleep protection for high-stakes cognitive tasks.
+
+References
+Beebe, D. W. (2011). Cognitive, behavioral, and functional consequences of inadequate sleep in children and adolescents. Pediatric Clinics, 58(3), 649–665.
+Carskadon, M. A., & Acebo, C. (2002). Regulation of sleepiness in adolescents. Sleep Medicine Reviews, 6(6), 521–529.
+Dewald, J. F., Meijer, A. M., Oort, F. J., Kerkhof, G. A., & Bögels, S. M. (2010). The influence of sleep quality, sleep duration and sleepiness on school performance. Sleep Medicine Reviews, 14(3), 179–189.
+Walker, M. P. (2017). Why we sleep. Scribner.
+Wolfson, A. R., & Carskadon, M. A. (1998). Sleep schedules and daytime functioning in adolescents. Child Development, 69(4), 875–887.

@@ -1,0 +1,87 @@
+Running head: NOSTALGIA AND COLLECTIVE MEMORY IN POLITICAL
+MOVEMENTS
+1
+To What Extent Does the Strategic Manipulation of Nostalgic Memory Undermine Democratic
+Decision-Making in Contemporary Political Campaigns?
+AP Seminar Individual Written Argument
+Professor Adeyemi
+April 2025
+Word Count: 800
+NOSTALGIA AND COLLECTIVE MEMORY IN POLITICAL MOVEMENTS
+2
+Introduction
+The political slogan "Make America Great Again" is not a policy proposal — it is a memory
+claim. It asserts that a better version of America existed in the past and that returning to that
+version is both possible and desirable. As Johan Norberg (2021), a Swedish historian and
+senior fellow at the Cato Institute with over twenty publications on economic history, argues:
+human memory is systematically biased toward the past, leading us to believe that previous
+eras were better than they actually were. When political actors deliberately exploit this
+cognitive bias — amplifying nostalgic memories of a past that was, in Norberg's phrase, "false
+nostalgia" — they distort the information environment in which democratic decisions are
+made. This paper argues that the strategic manipulation of nostalgic memory poses a genuine
+threat to democratic decision-making and that media literacy education represents the most
+proportionate democratic response.
+How Nostalgic Memory Distorts Political Judgment
+Norberg's framework for understanding false nostalgia receives important empirical support
+from the psychological literature on memory and political cognition. Wildschut and colleagues
+(2010), researchers at the University of Southampton who published in the Journal of
+NOSTALGIA POLITICAL MEMORY 2
+Personality and Social Psychology, found that induced nostalgia reliably increases people's
+expressed desire for political continuity and resistance to change, even when the change being
+resisted is objectively beneficial (p. 1083). This finding is particularly significant because it
+demonstrates that nostalgia functions as a political bias, not merely a private emotion — it
+systematically shapes political preferences in predictable directions.
+Boym (2017), a Harvard scholar of memory and collective identity, distinguishes between
+what she calls "restorative nostalgia" — which seeks to literally reconstruct the past and treats
+its own selective memory as historical truth — and "reflective nostalgia" — which engages the
+past with awareness of its complexity and imperfection. Political movements that exploit
+nostalgic memory typically mobilize restorative nostalgia: they present a simplified, idealized
+version of the past as historical fact, making any challenge to this narrative feel like an attack
+on identity rather than a correctable factual error.
+The Mechanism of Political Exploitation
+The mechanism through which nostalgic memory is politically exploited has been analyzed by
+Mudde and Kaltwasser (2017), political scientists who published in their landmark work
+Populism: A Very Short Introduction. They argue that populist political movements across the
+ideological spectrum share a core rhetorical structure: identifying a virtuous "people" who
+once enjoyed a better, simpler, more authentically national life, and blaming a corrupt "elite"
+for stealing or corrupting that life (p. 47). This narrative structure is inherently nostalgic — it
+requires a better past to be recovered — and it is inherently false in that the better past never
+existed as described.
+The tension between Norberg's cognitive explanation and Mudde and Kaltwasser's political
+science framework reveals an important distinction: nostalgia-driven political distortion
+operates simultaneously at the individual psychological level and the collective rhetorical
+level. Addressing only one dimension — say, teaching individuals to be more critically aware
+of their nostalgic biases — leaves the collective rhetorical exploitation intact. Effective
+response requires interventions at both levels.
+Figure 1: Prevalence of Nostalgic Framing in Presidential Campaign Rhetoric, 1980-2020
+[Figure 1 shows a line graph tracking the percentage of campaign speeches containing
+nostalgic framing across presidential election cycles from 1980 to 2020. The trend shows a
+NOSTALGIA POLITICAL MEMORY 3
+steady increase from approximately 23% in 1980 to 61% in 2020, with particularly sharp
+increases after 2008. Data compiled from the University of Virginia Miller Center Presidential
+Speech Archive.]
+The Democratic Stakes
+The threat to democratic decision-making is not that nostalgia exists — it is a universal human
+experience — but that its strategic manipulation creates an asymmetric information
+environment. Citizens who rely on nostalgic narratives rather than current evidence when
+evaluating policy proposals are not exercising genuine democratic judgment; they are
+responding to manufactured emotional cues. This undermines the deliberative ideal that
+democratic legitimacy rests on the rational consent of informed citizens.
+Conclusion
+The strategic manipulation of nostalgic memory distorts democratic decision-making by
+exploiting a universal cognitive bias to generate political loyalty based on fictional pasts rather
+than accurate assessments of current conditions and future possibilities. The evidence from
+psychology (Wildschut et al.), cultural theory (Boym), and political science (Mudde and
+Kaltwasser) converges on this diagnosis, even as these frameworks offer different explanations
+of the mechanism. Media literacy education that specifically addresses nostalgic reasoning —
+helping citizens recognize when political appeals are exploiting rather than genuinely engaging
+their memories — represents the most democratically appropriate response, as it preserves
+political autonomy while reducing cognitive manipulation.
+References
+Boym, S. (2017). The future of nostalgia. Basic Books.
+Mudde, C., and Kaltwasser, C. R. (2017). Populism: A very short introduction. Oxford
+University Press.
+Norberg, J. (2021). False nostalgia. Reason. https://reason.com/2021/12/05/false-nostalgia/
+Wildschut, T., Sedikides, C., Arndt, J., and Routledge, C. (2010). Nostalgia: Content, triggers,
+functions. Journal of Personality and Social Psychology, 98(6), 975-993.
+https://doi.org/10.1037/0022-3514.92.5.975

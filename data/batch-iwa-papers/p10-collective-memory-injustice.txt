@@ -1,0 +1,126 @@
+Running head: COLLECTIVE MEMORY AND HISTORICAL INJUSTICE
+1
+To What Extent Does the Selective Reconstruction of Collective Memory About Historical
+Injustices Determine Whether Societies Are Capable of Genuine Reconciliation?
+AP Seminar Individual Written Argument
+Professor Vasquez
+April 2025
+Word Count: 1,100
+COLLECTIVE MEMORY AND HISTORICAL INJUSTICE
+2
+Introduction
+In 2021, the city of Tulsa, Oklahoma commemorated the centennial of the 1921 Tulsa Race
+Massacre — an event in which a prosperous Black neighborhood known as Black Wall Street
+was burned to the ground by a white mob, killing between 100 and 300 people and leaving
+10,000 Black residents homeless. For seventy years, this event had been systematically erased
+from Oklahoma history textbooks, excluded from public commemoration, and actively
+suppressed from both official and informal memory. When survivors and descendants finally
+achieved recognition, what they were demanding was not only justice for a specific historical
+wrong but the right to have their collective memory acknowledged as real.
+Johan Norberg (2021), analyzing how memory shapes our understanding of the present, argues
+that we systematically construct versions of the past that serve our current needs —
+emphasizing what confirms our preferred self-narrative and suppressing what contradicts it.
+What Norberg identifies as an individual psychological tendency, scholars of collective
+memory have documented as a systematic social and political process. Societies construct
+official memories that legitimate existing power arrangements and suppress memories that
+challenge them. The question this paper investigates is whether the deliberate, evidence-based
+reconstruction of suppressed collective memory is a precondition for genuine societal
+reconciliation, or whether it produces destabilization that undermines rather than advances
+COLLECTIVE MEMORY 2
+social healing. This paper argues that the deliberate reconstruction of suppressed collective
+memory is a necessary precondition for genuine reconciliation — but that its effectiveness
+depends critically on the quality and integrity of implementation.
+Memory, Power, and Suppression
+Paul Connerton (2008), a sociologist at Cambridge University who published in Memory
+Studies, distinguishes between seven types of forgetting, arguing that the most socially
+significant is what he calls "repressive erasure" — the deliberate suppression of collective
+memory by those with power to do so (p. 59). Repressive erasure differs from ordinary
+forgetting in that it is intentional, structured, and maintained through institutions — textbooks
+that omit, archives that classify, monuments that commemorate only some (Connerton, 2008,
+p. 60). The Tulsa Massacre represents a textbook case of repressive erasure, but the pattern
+extends across societies: the denial of the Armenian Genocide in Turkish official history, the
+suppression of apartheid-era atrocities in South African school curricula before the Truth and
+Reconciliation Commission, the absence of slavery from the American memory of the Civil
+War.
+Howe and Knott (2015), memory researchers at the University of Portsmouth who published in
+Memory, establish the psychological stakes of this social process: when individuals are
+prevented from integrating difficult memories into their self-narrative, the result is not healing
+but fragmentation — a sense of identity built on unresolved contradictions that produce
+ongoing psychological harm (p. 641). Scaled to communities, this individual process becomes
+collective: societies that cannot acknowledge traumatic history are bound to it, unable to move
+forward because the unacknowledged wound continues to shape present behavior in ways that
+cannot be understood or addressed without naming them.
+Reconciliation and the Evidence from Truth Commissions
+The most systematic evidence for the relationship between collective memory reconstruction
+and reconciliation comes from transitional justice research. Gibson (2004), a political scientist
+at Washington University in St. Louis who published in the American Journal of Political
+Science, analyzed the South African Truth and Reconciliation Commission using survey data
+from 3,727 South Africans. He found that exposure to TRC truth-telling — acknowledging
+specific crimes, perpetrators, and victims — significantly increased reconciled attitudes among
+both Black and white South Africans, and that the relationship between truth acknowledgment
+COLLECTIVE MEMORY 3
+and reconciliation was causal: those who received more information about specific truths
+showed greater reconciliation regardless of their prior attitudes (p. 392).
+Clark (2010), a transitional justice researcher at Oxford University who published in The
+International Journal of Transitional Justice, analyzed the Rwandan Gacaca court system,
+which combined truth-telling, accountability, and community-level reconciliation processes
+for genocide-related crimes. Clark found that communities that engaged most fully with the
+Gacaca process showed the greatest improvements in interethnic relations and collective
+wellbeing five years later, though he also documented cases where poorly implemented
+truth-telling processes exacerbated rather than healed community divisions (p. 812).
+The tension between Gibson's findings and Clark's more qualified conclusions reveals an
+important condition: collective memory reconstruction supports reconciliation only when it is
+conducted with genuine commitment to accuracy and procedural fairness. Selective
+truth-telling — acknowledging some harms while suppressing others, or conducting processes
+that feel performative rather than genuine — may reproduce the dynamics of repressive
+erasure rather than providing an alternative.
+Figure 1: Reconciliation Outcomes Following Truth Commission Processes in Selected
+Countries
+[Figure 1 shows a scatter plot comparing depth of truth-telling process (x-axis, scale 1-10) with
+reconciliation index score (y-axis, scale 1-10) for 14 countries that implemented truth
+commission processes between 1983 and 2015. Countries implementing comprehensive
+truth-telling (scoring 7-10) cluster in the upper right quadrant with reconciliation scores of 6-9.
+Countries with limited or performative processes cluster in the lower left. A line of best fit
+(r=0.74) indicates a strong positive relationship. Countries labeled include South Africa,
+Rwanda, Chile, Argentina, and Sierra Leone. Compiled from Transitional Justice Research
+Collaborative, 2019.]
+Table 1: Comparison of Truth Commission Approaches and Reconciliation Outcomes
+Country | Commission Type | Depth of Truth-Telling | Reconciliation Outcome (5-year) | Key
+Factor
+South Africa | Amnesty-for-truth | High (individual crimes named) | Moderate to high |
+Amnesty provision created participation incentive
+COLLECTIVE MEMORY 4
+Rwanda | Community-based | Very high | High in participating communities | Community
+ownership; implementation quality varied
+Chile | Documentation only | Moderate | Moderate | No perpetrator accountability limited
+impact
+Argentina | Prosecutorial | High | High among survivors; variable elsewhere | Prosecution
+complemented truth-telling
+Note: Compiled from Gibson (2004), Clark (2010), and Transitional Justice Research
+Collaborative (2019).
+Conclusion
+The evidence from political science and memory studies converges on a nuanced conclusion:
+the deliberate reconstruction of suppressed collective memory is a necessary but not sufficient
+condition for genuine reconciliation. Gibson's data demonstrates the causal relationship
+between truth-acknowledgment and reconciled attitudes. Clark's more qualified findings show
+that implementation quality matters enormously. Connerton and Howe and Knott together
+establish the mechanism: unacknowledged collective wounds do not heal through suppression
+but through integration into a shared historical narrative that all affected communities can
+recognize as genuine. The experience of Tulsa, South Africa, Rwanda, and Chile suggests that
+societies capable of facing their suppressed memories directly — however uncomfortable that
+process — are more capable of reconciliation than those that perpetuate selective forgetting.
+What Norberg identifies as the cognitive tendency to construct flattering memories of the past,
+societies must learn to resist collectively if they are to build futures that are not condemned to
+repeat the injustices of suppressed histories.
+References
+Clark, P. (2010). The Gacaca courts, post-genocide justice and reconciliation in Rwanda.
+Cambridge University Press.
+Connerton, P. (2008). Seven types of forgetting. Memory Studies, 1(1), 59-71.
+https://doi.org/10.1177/1750698007083889
+Gibson, J. L. (2004). Overcoming apartheid: Can truth reconcile a divided nation? American
+Journal of Political Science, 48(2), 380-398. https://doi.org/10.2307/1519886
+COLLECTIVE MEMORY 5
+Howe, M. L., and Knott, L. M. (2015). The fallibility of memory in judicial processes: Lessons
+from the past and their modern consequences. Memory, 23(5), 633-656.
+https://doi.org/10.1080/09658211.2014.1003
+Norberg, J. (2021). False nostalgia. Reason. https://reason.com/2021/12/05/false-nostalgia/

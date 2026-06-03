@@ -1,0 +1,32 @@
+# AP Seminar IWA grading policy (Sections 1–12 Q&A)
+# Consumed by engineers; row logic lives in lib/seminar/
+version: seminar-2.5.6
+regression:
+  iwa_tolerance: 3
+  irr_tolerance: 3
+quality_bands_iwa:
+  below_minimum: [0, 15]
+  developing: [16, 30]
+  strong: [31, 42]
+  high: [43, 48]
+row1_stimulus:
+  max_score: 5
+  wrong_prior_year_packet: zero_score
+  howe_match_requires: ["Howe and", "Howe ("]
+  knott_requires_howe_and_knott_or_year: true
+  johnson_requires_year_or_initial: true
+  shaw_requires_year_or_porter: true
+anchor:
+  score_override: false
+  validation_only: true
+  high_profile_reference: [5, 5, 9, 12, 9, 5, 3]
+row5_nine:
+  credibility_points_min: 12
+  scholarly_ratio_min: 0.5
+  analysis_depth_min: 2
+  min_scholarly_sources: 2
+row6:
+  primary_signal: linking_ratio
+  linking_ratio_five: 0.9
+  linking_ratio_three: 0.7
+  missing_count_three_cap: 3

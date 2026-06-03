@@ -1,0 +1,80 @@
+========================================================================
+[IRR-3] [IRR] [TARGET: 17-20] [1300 WORDS]
+========================================================================
+
+Minimum Wage Increases and Employment:
+Revisiting the Evidence After Seattle
+
+Priya Patel
+
+AP Seminar, Period 4
+
+Mr. Johnson
+
+Edison High School
+
+Priya Patel
+Mr. Johnson
+AP Seminar, Period 4
+7 February 2025
+
+Minimum Wage Increases and Employment: Revisiting the Evidence After Seattle
+
+The federal minimum wage has remained at $7.25 per hour since 2009, while numerous states and cities have enacted minimum wages substantially above the federal floor, with Seattle's phased increases to $15 per hour between 2015 and 2021 providing one of the most studied natural experiments in labor economics. The central debate about minimum wage policy concerns its employment effects: standard economic theory predicts that price floors above the market-clearing wage will reduce employment, but an influential body of empirical research has found minimal employment effects from moderate minimum wage increases in the United States. This investigation asks: what does the empirical evidence from the Seattle minimum wage increases and comparable policies indicate about the employment effects of minimum wage increases on low-wage workers? The research presents two credible but conflicting answers that reveal how research design choices can generate different conclusions from the same policy change.
+
+Arindrajit Dube, one of the leading researchers in favor of minimum wage increases, argues that properly designed studies—those that compare counties or regions within the same labor market rather than using national averages as the comparison group—consistently find minimal employment effects from minimum wage increases within a range below approximately 60 percent of the local median wage (Dube, 2019). Dube's methodology involves comparing contiguous counties across state lines, exploiting state minimum wage
+
+differences while holding local labor market conditions relatively constant. This approach, he argues, avoids the key confound in national studies: regions that raise minimum wages tend to have stronger economies, so national comparisons may underestimate negative employment effects by comparing high-wage-growth regions to low-wage-growth regions. Applied to
+Seattle, Dube's team found modest positive effects on worker earnings with minimal employment reductions, consistent with monopsonistic labor market models that predict limited employment effects from minimum wage increases in markets where employers have wage-setting power.
+
+David Neumark and colleagues, who have published extensively on the negative employment effects of minimum wage increases, found different results from the same Seattle policy using administrative data from Washington state's unemployment insurance records.
+The University of Washington team found that while the $13 minimum wage increased hourly wages for affected workers, it also reduced hours worked sufficiently that average earnings among the lowest-wage workers actually fell by approximately $125 per month—a finding that generated significant media attention and policy debate (Neumark & Shirley, 2022). The key methodological difference between the two research teams' approaches involved the treatment of multi-location businesses: the University of Washington team excluded large businesses from its comparison group, which generated a cleaner control group but also raised questions about generalizability to workers employed by chains, who represent a large fraction of minimum wage employment. Subsequent research by both teams and others has attempted to reconcile these findings, with most analysts concluding that the employment effects of the
+Seattle increases were small at the wage levels studied but that the research methodology question—how to construct an appropriate control group—remains unsettled.
+
+The divergence between Dube's and Neumark's interpretations of the Seattle evidence reflects a broader methodological debate in minimum wage research that has significant policy implications. If Dube's low-elasticity findings are correct, minimum wage increases up to approximately 60 percent of the local median wage are primarily redistributive—transferring income from business owners to low-wage workers with minimal employment effects—and represent an effective poverty reduction tool. If Neumark's higher-elasticity findings are correct, minimum wage increases reduce hours and employment among the most vulnerable workers, particularly those with the lowest skill levels, partially or fully offsetting the wage gains. This investigation found that the Seattle evidence is consistent with both interpretations depending on research design choices, and that the most defensible conclusion is that employment effects from minimum wage increases in the range studied are likely small but uncertain, with the direction and magnitude depending on local labor market conditions that the current research cannot fully specify.
+
+The Seattle experience has also generated important research on the distributional effects of minimum wage increases beyond employment levels. Reich and colleagues' analysis of the Seattle food service industry found that while restaurant employment showed minimal effects, there were significant increases in worker earnings and reductions in worker turnover—consistent with efficiency wage models that predict employers benefit from higher wages through reduced recruitment and training costs (Reich et al., 2017). This finding suggests that the minimum wage debate focused primarily on employment levels may miss important mechanisms through which wage increases benefit workers without necessarily showing up in employment counts. Turnover reductions, in particular, represent a quality-of-work benefit that matters significantly for low-wage workers who bear high costs of job loss and who benefit from employment stability in ways that aggregate employment statistics do not capture.
+
+The broader question raised by the minimum wage research is what level of wage increase is supportable before employment effects become significant, and how this threshold varies with local economic conditions. Dube's 60 percent of median wage guideline provides a useful benchmark for policy calibration, but the Seattle experience tested a higher ratio—the
+$15 minimum wage represented approximately 75-80 percent of Seattle's median wage at the time of implementation—and produced ambiguous rather than clearly negative employment results, suggesting that the threshold may be higher than the conservative 60 percent estimate
+(Dube, 2019). Jardim and colleagues' longitudinal analysis, which found more negative effects on hours and earnings for the lowest-wage workers than earlier Seattle studies detected, serves as a reminder that the employment effects of large minimum wage increases may operate through hours reduction rather than job elimination—a mechanism that earlier research focused on employment counts may have systematically missed (Jardim et al., 2022). The policy implication is that monitoring minimum wage effects requires tracking hours worked
+
+and earnings as well as employment headcounts.
+
+The Seattle experience has also generated important research on the distributional effects of minimum wage increases beyond employment levels. Reich and colleagues' analysis of the Seattle food service industry found that while restaurant employment showed minimal effects, there were significant increases in worker earnings and reductions in worker turnover—consistent with efficiency wage models that predict employers benefit from higher wages through reduced recruitment and training costs (Reich et al., 2017). This finding suggests that the minimum wage debate focused primarily on employment levels may miss important mechanisms through which wage increases benefit workers without necessarily showing up in employment counts. Turnover reductions, in particular, represent a quality-of-work benefit that matters significantly for low-wage workers who bear high costs of job loss and who benefit from employment stability in ways that aggregate employment statistics do not capture.
+
+The broader question raised by the minimum wage research is what level of wage increase is supportable before employment effects become significant, and how this threshold varies with local economic conditions. Dube's 60 percent of median wage guideline provides a useful benchmark for policy calibration, but the Seattle experience tested a higher ratio—the
+$15 minimum wage represented approximately 75-80 percent of Seattle's median wage at the time of implementation—and produced ambiguous rather than clearly negative employment results, suggesting that the threshold may be higher than the conservative 60 percent estimate
+(Dube, 2019). Jardim and colleagues' longitudinal analysis, which found more negative effects on hours and earnings for the lowest-wage workers than earlier Seattle studies detected, serves as a reminder that the employment effects of large minimum wage increases may operate through hours reduction rather than job elimination—a mechanism that earlier research focused on employment counts may have systematically missed (Jardim et al., 2022). The policy implication is that monitoring minimum wage effects requires tracking hours worked
+
+and earnings as well as employment headcounts.
+
+Works Cited
+
+Dube, A. (2019). Impacts of minimum wages: Review of the international evidence.
+Independent Report for HM Treasury. https://www.gov.uk/government/publications/im pacts-of-minimum-wages-review-of-the-international-evidence
+
+Neumark, D., & Shirley, P. (2022). Myth or measurement: The new economics of the minimum
+
+wage—twenty-five
+
+years
+
+later.
+
+ILR
+
+Review,
+
+75(4),
+
+825–874.
+
+https://doi.org/10.1177/00197939211065126
+
+Reich, M., Allegretto, S., & Godøy, A. (2017). Seattle's minimum wage experience
+2015–16. IRLE Policy Brief. University of California, Berkeley.
+
+Jardim, E., Long, M. C., Plotnick, R., van Inwegen, E., Vigdor, J., & Wething, H.
+(2022). Minimum wage increases and individual employment trajectories. RAND
+Journal of Economics, 53(4), 324–356. https://doi.org/10.1111/1756-2171.12405

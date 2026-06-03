@@ -1,0 +1,1082 @@
+{
+  "generatedAt": "2026-05-21T18:13:42.407Z",
+  "mode": "fast",
+  "total": 20,
+  "withinOneBand": 16,
+  "accuracyPct": 80,
+  "byLevel": {
+    "1": {
+      "total": 4,
+      "ok": 4,
+      "pct": 100,
+      "avgPredicted": 2
+    },
+    "2": {
+      "total": 4,
+      "ok": 4,
+      "pct": 100,
+      "avgPredicted": 1.3
+    },
+    "3": {
+      "total": 4,
+      "ok": 4,
+      "pct": 100,
+      "avgPredicted": 2.3
+    },
+    "4": {
+      "total": 4,
+      "ok": 4,
+      "pct": 100,
+      "avgPredicted": 3
+    },
+    "5": {
+      "total": 4,
+      "ok": 0,
+      "pct": 0,
+      "avgPredicted": 3
+    }
+  },
+  "records": [
+    {
+      "id": "score1-topic01-paper01",
+      "expectedAP": 1,
+      "predictedBand": 2,
+      "predictedTier": "Low",
+      "predictedLabel": "Low 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 2",
+          "band": 2,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 631,
+      "bodyToOriginalRatio": 92.5,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 3,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score1-topic02-paper02",
+      "expectedAP": 1,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 2",
+          "band": 2,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2."
+      ],
+      "bodyWordCount": 657,
+      "bodyToOriginalRatio": 92,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 3,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2."
+      ]
+    },
+    {
+      "id": "score1-topic03-paper03",
+      "expectedAP": 1,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 2",
+          "band": 2,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2."
+      ],
+      "bodyWordCount": 618,
+      "bodyToOriginalRatio": 92.4,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 3,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2."
+      ]
+    },
+    {
+      "id": "score1-topic04-paper04",
+      "expectedAP": 1,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "Low 3",
+          "band": 3,
+          "tier": "Low"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 2",
+          "band": 2,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2."
+      ],
+      "bodyWordCount": 654,
+      "bodyToOriginalRatio": 92.4,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 3,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2."
+      ]
+    },
+    {
+      "id": "score2-topic01-paper01",
+      "expectedAP": 2,
+      "predictedBand": 1,
+      "predictedTier": "Low",
+      "predictedLabel": "Low 1",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "The paper explicitly states that no original data was collected. Method is scored at Low 1 and overall score is capped at Mid 2.",
+        "Overall score capped at Mid 2 because the method was not executed or data were not collected. Individual category scores reflect the quality of your writing in each area."
+      ],
+      "bodyWordCount": 550,
+      "bodyToOriginalRatio": 84.5,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": true,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 2,
+      "pass": true,
+      "flags": [
+        "The paper explicitly states that no original data was collected. Method is scored at Low 1 and overall score is capped at Mid 2.",
+        "Overall score capped at Mid 2 because the method was not executed or data were not collected. Individual category scores reflect the quality of your writing in each area."
+      ]
+    },
+    {
+      "id": "score2-topic02-paper02",
+      "expectedAP": 2,
+      "predictedBand": 1,
+      "predictedTier": "Low",
+      "predictedLabel": "Low 1",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "Method and Argument both at band 1 — overall forced to Low 1.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 592,
+      "bodyToOriginalRatio": 81.9,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": true,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": [
+        "Method and Argument both at band 1 — overall forced to Low 1.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score2-topic03-paper03",
+      "expectedAP": 2,
+      "predictedBand": 1,
+      "predictedTier": "Low",
+      "predictedLabel": "Low 1",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "Method and Argument both at band 1 — overall forced to Low 1.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 610,
+      "bodyToOriginalRatio": 82.3,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": true,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": [
+        "Method and Argument both at band 1 — overall forced to Low 1.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score2-topic04-paper04",
+      "expectedAP": 2,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 1",
+          "band": 1,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 609,
+      "bodyToOriginalRatio": 81.9,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score3-topic01-paper01",
+      "expectedAP": 3,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1107,
+      "bodyToOriginalRatio": 91.6,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 3,
+      "pass": true,
+      "flags": []
+    },
+    {
+      "id": "score3-topic02-paper02",
+      "expectedAP": 3,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 2",
+          "band": 2,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 1157,
+      "bodyToOriginalRatio": 89.8,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 5,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score3-topic03-paper03",
+      "expectedAP": 3,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 2",
+          "band": 2,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 1093,
+      "bodyToOriginalRatio": 89.2,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 5,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score3-topic04-paper04",
+      "expectedAP": 3,
+      "predictedBand": 2,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 2",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 2",
+          "band": 2,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ],
+      "bodyWordCount": 1154,
+      "bodyToOriginalRatio": 88,
+      "lacksStudentData": true,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 5,
+      "pass": true,
+      "flags": [
+        "No student-generated data — overall capped at Mid 2.",
+        "Overall score capped because no student-generated data were detected. Category scores may reflect design and writing quality that could not be fully executed."
+      ]
+    },
+    {
+      "id": "score4-topic01-paper01",
+      "expectedAP": 4,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1127,
+      "bodyToOriginalRatio": 91.8,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": []
+    },
+    {
+      "id": "score4-topic02-paper02",
+      "expectedAP": 4,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1165,
+      "bodyToOriginalRatio": 89.9,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": []
+    },
+    {
+      "id": "score4-topic03-paper03",
+      "expectedAP": 4,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1103,
+      "bodyToOriginalRatio": 89.2,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": []
+    },
+    {
+      "id": "score4-topic04-paper04",
+      "expectedAP": 4,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": true,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "Low 3",
+          "band": 3,
+          "tier": "Low"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1163,
+      "bodyToOriginalRatio": 88,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": true,
+      "flags": []
+    },
+    {
+      "id": "score5-topic01-paper01",
+      "expectedAP": 5,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": false,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1155,
+      "bodyToOriginalRatio": 92,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": false,
+      "flags": []
+    },
+    {
+      "id": "score5-topic02-paper02",
+      "expectedAP": 5,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": false,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1195,
+      "bodyToOriginalRatio": 90.1,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": false,
+      "flags": []
+    },
+    {
+      "id": "score5-topic03-paper03",
+      "expectedAP": 5,
+      "predictedBand": 3,
+      "predictedTier": "Mid",
+      "predictedLabel": "Mid 3",
+      "withinOneBand": false,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Mid 3",
+          "band": 3,
+          "tier": "Mid"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "High 2",
+          "band": 2,
+          "tier": "High"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1131,
+      "bodyToOriginalRatio": 89.5,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 4,
+      "pass": false,
+      "flags": []
+    },
+    {
+      "id": "score5-topic04-paper04",
+      "expectedAP": 5,
+      "predictedBand": 3,
+      "predictedTier": "High",
+      "predictedLabel": "High 3",
+      "withinOneBand": false,
+      "categories": [
+        {
+          "name": "Focus and Scope",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Scholarly Grounding",
+          "label": "Mid 4",
+          "band": 4,
+          "tier": "Mid"
+        },
+        {
+          "name": "Method and Replicability",
+          "label": "High 4",
+          "band": 4,
+          "tier": "High"
+        },
+        {
+          "name": "Argument and Evidence",
+          "label": "Low 4",
+          "band": 4,
+          "tier": "Low"
+        },
+        {
+          "name": "Communication and Citation",
+          "label": "High 5",
+          "band": 5,
+          "tier": "High"
+        }
+      ],
+      "activeCaps": [],
+      "bodyWordCount": 1193,
+      "bodyToOriginalRatio": 88.3,
+      "lacksStudentData": false,
+      "methodNotExecutedHard": false,
+      "futureTenseMethodDominant": false,
+      "calibrationAnchorAp": 5,
+      "pass": false,
+      "flags": []
+    }
+  ],
+  "skippedGenerator": 0
+}

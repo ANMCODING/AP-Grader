@@ -1,0 +1,285 @@
+Burnout among U.S. Orthopedic Surgeons
+
+According to The Guardian, a left-wing newspaper, burnout rates among doctors have
+
+skyrocketed to around 50% in the wake of the pandemic, which carries serious implications
+
+about the future of medical care (Ahillan & Ungoed-Thomas). Maike van Niekerk (2023),
+
+orthopedic surgeon and activist, estimates burnout among surgeons to cost $4.6 billion annually
+
+from lost productivity and high physician turnover attributed to being burned out. These losses
+
+impact individuals in the form of increased healthcare costs and decreased access to doctors.
+
+Orthopedic surgery in particular has some of the highest rates of burnout among surgeons
+
+(Chahal & Matwala, 2025). Professional burnout is defined as fatigue, depersonalization, and
+
+decreased sense of personal accomplishment accompanied by prolonged workplace stress (Dal
+
+Corso et al., 2019). This paper analyzes the state of burnout among orthopedic surgeons in the
+
+US through the systematic lens to identify organizational, social, and individual perspectives to
+
+reducing institutional burnout. Only after identifying causes to burnout can we mitigate its costly
+
+effects.
+
+Hospitals and surgical institutions are at the frontlines of surgeon lives when it comes to
+
+burnout. In a study by the American College of Surgeons, 40% of surgeons surveyed attributed
+
+their burnout to work demands, reduced autonomy, and bureaucratic pressures (Ross et al.,
+
+2025). Surgeon workload consists of medical documentation with Electronic Health Records,
+
+constant communication with patient insurance agencies, navigation of billing details and
+
+malpractice lawsuits, adoption of evolving healthcare regulations, and frequent overnight call
+
+duties (Kassam, 2024). These organizational burdens prolong surgeon work hours with each
+
+additional hour per week correlated with 3% greater odds of burnout (Wes et al., 2019). Travis
+
+(2020), orthopedic surgeon and researcher, finds that 40% of surgeons working more than 80
+
+ 2
+
+hours a week are burned out, suggesting that an organizational directed approach related to work
+
+hours is needed to reduce burnout. Studies analyzed by the American Medical Association
+
+imposed duty hour regulations on surgeons aimed to decrease patient load and stress from
+
+overwork (DeChant et al., 2019). Some scholars like Dyrbye, co-director of Mayo Clinic’s
+
+physician wellbeing program, found significant improvements to surgeon wellness in limiting
+
+work hours due to employer allocated support time and adequate time with family (West et al.,
+
+2016). In fact, only 36% of surgeons report their schedule having enough time for family, which
+
+demonstrates a need for change in surgeon schedules (Ross et al., 2025). However, Dr. Shanafelt,
+
+a researcher on professional wellbeing, discovered that duty hour restrictions exacerbated
+
+burnout symptoms by forcing surgeons to complete the same amount of work in less time (Wes
+
+et al., 2018). This may be because surgeons with high workload will often dedicate time at home
+
+to complete their administrative tasks, which produces work-life imbalance and work-home
+
+conflicts while hardly changing total hours worked per week. Therefore, a restriction in working
+
+hours may address some challenges that lead surgeons to burnout but not others.
+
+Hospital medical staff also impact surgeon burnout through day to day interactions with
+
+surgeons. These social relationships within the workplace are factors that can cause frustration or
+
+streamline workflow to impact surgeon burnout symptoms. For example, interpersonal conflicts
+
+with coworkers, whether in the administration or the operating room, are negatively associated
+
+with work engagement, which diminishes personal fulfillment and increases odds of burnout
+
+(Dal Corso et al., 2019). In addition, a Stanford doctor found that a lower perceived quality of
+
+interpersonal teamwork among medical teams is associated with increased emotional exhaustion
+
+and higher standardized patient mortality ratios (Wes et al., 2018). On the other hand, a survey
+
+cited by the American Medical Association found that greater perceived capabilities of a patient
+
+ 3
+
+care team lowered exhaustion and cynicism expressed by the attending surgeon (DeChant et al.,
+
+2019).  These studies demonstrate that teamwork among medical professionals is important to
+
+improving patient care and physician wellbeing, because it can affect surgeon mental states and
+
+decrease administrative workload. In fact, the Journal of Internal Medicine finds that inefficient
+
+work practices such as requiring physician entered medical documentation lead to 29% greater
+
+rates of burnout (Wes et al., 2018). Therefore, shifting responsibilities from surgeons to a
+
+dedicated team of scribes and clerics can diminish workload pressures and increase interpersonal
+
+support among coworkers to combat burnout. Mentorship is another avenue that takes advantage
+
+of social support benefits to surgeons. The Royal College of Surgeons of England cites lack of
+
+feedback from seniors and concern about performance as a recurring source of stress among
+
+surgeons (Chahal & Matwala, 2025). A dedicated mentorship program remedies this issue by
+
+connecting younger surgeons with their more experienced counterparts to provide greater
+
+guidance and confidence to surgeons during their careers (Lu et al., 2024). By modifying work
+
+relationships, medical staff can help alleviate burnout among orthopedic surgeons.
+
+Orthopedic surgeons themselves hold some responsibility toward interpersonal conflicts
+
+and burnout. Among their personal stressors which include student debt, regret over career
+
+choices, and substance abuse, individual surgeons also neglect aspects of their physical
+
+wellbeing. A peer reviewed journal found that only 31% of practicing orthopedic surgeons in the
+
+US were compliant with the Center for Disease Control’s aerobic and strength exercise
+
+recommendations (Chahal & Matwala, 2025). This means that over two thirds of orthopedic
+
+surgeons may be experiencing poor health and exhaustion, which contribute to burnout alongside
+
+their organizational workload. In addition to a lack of physical activity, surgeons are prone to
+
+poor sleeping patterns, which may be related to frequent on call duties during nights and
+
+ 4
+
+weekends (Mir et al., 2022). These health concerns are often left unaddressed since around 50%
+
+of physicians do not have a general personal physician, and those who do visit them less than the
+
+average US adult (Ross et al. 2025). The World Health organization suggests increasing stress
+
+management skills, physical activity, and mental health literacy training to improve surgeon
+
+wellbeing and alleviate burnout (Van Neikerk et al., 2023). These individual directed
+
+interventions are done through stress management seminars and mindfulness workshops which
+
+gather surgeons together to share experiences and teach coping strategies (Travis, 2020). As a
+
+result, physicians are provided the tools that they can use to regulate symptoms of burnout.
+
+However, a peer reviewed journal argues that physician focused burnout interventions unduly
+
+places the burden of responsibility onto individuals (Bower et al., 2017). This leads surgeons to
+
+blame themselves for being less resilient: a belief reinforced by cultural expectations of stoicism
+
+and grit among practitioners. Therefore, individual focused tactics may not be effective for all
+
+surgeons and can result in negative side effects. Still, strategies to encourage fitness activity,
+
+proper nutrition, and sleep hygiene are generally received well and significantly improve surgeon
+
+wellbeing (Ross et al., 2025).
+
+This paper identifies systematic factors contributing to burnout in orthopedic surgeons in
+
+the US, which result in significant losses in productivity and quality of care throughout the
+
+country. Time spent by surgeons on work related tasks in the office or at home is dictated by their
+
+organization apportioned workload. How a physician’s time at work is spent is affected by
+
+workplace social relations among medical staff who can add to or relieve their bureaucratic
+
+pressures. Individual surgeons may play an active role in improving those relationships and
+
+personal health habits to manage their stress and mitigate symptoms of burnout. As burnout rates
+
+ 5
+
+increase alongside medical costs, improving surgeon wellbeing becomes an ever greater priority
+
+to protect the health and safety of patients and surgeons alike.
+
+Word Count: 1218
+
+ 6
+
+References
+
+Ahillan, T., & Ungoed-Thomas, J. (2024, August 4). Trainee doctors in UK facing higher risk of
+
+burnout than during pandemic. The Guardian, https://www.theguardian.com/society/articl
+
+e/2024/aug/04/trainee-doctors-uk-facing-higher-risk-burnout-than-during-pandemic
+
+Bower, P., Panagioti, M., Panagopoulou, E., Liwith, G., Kontopantelis, E., Chew-Graham, C., …
+
+Esmail, A. (2017). Controlled interventions to reduce burnout in physicians: A systematic
+
+review and meta-analysis. JAMA Internal Medicine, 177(2), 195-205. http://dx.doi.org/10
+
+.1001/jamainternmed.2016.7674
+
+Chahal, K., & Matwala, K. (2025). A systematic review of the prevalence of burnout in
+
+orthopedic surgeons. The Annals of The Royal College of Surgeons of England, 107(1),
+
+61-67. https://doi.org/10.1308/rcsann.2024.0009
+
+Dal Corso, L., Carluccio, F., Scarcella, M., Bartolucci, G. B., Bizzotto, R., Vianello, L., … & De
+
+Carlo, N. A.  (2019). How to improve performance and prevent burnout in safety
+
+representatives. Med Lav. 110(2), 142-154. https://doi.org/10.23749/mdl.v110i2.7224
+
+DeChant, P. F., Acs, A., Rhee, K. B., Boulanger, T. D., Snowdon, J. L., Tutty, M. A., … & Craig,
+
+K. J. T. (2019). Effect of organization-directed workplace interventions on physician
+
+burnout: A systematic review. Mayo Clinic Proceedings: Innovations, Quality &
+
+Outcomes, 3(4), 384-408. https://doi.org/10.1016/j.mayocpiqo.2019.07.006
+
+Kassam, H. F. (2024). Orthopedic advocacy: A starter’s guide for optimizing physician
+
+engagement and public awareness. Journal of Shoulder and Elbow Surgery, 34I(1),
+
+214-218. https://doi.org/10.1016/j.jse.2024.07.044.
+
+ 7
+
+Lu, S., Mc Colgan, R., Nguyen, J., Kelly, B. T., & Fufa, D. T. (2024). Worsening burnout in
+
+orthopedic surgeons since 2019 and key areas of work life drivers. HSS Journal, 0(0),  htt
+
+ps://doi.org/10.1177/15563316241242129
+
+Mir, H., Downes, K., Chen, A. F., Grewal, R., Kelly, D. M., Lee, M. J., Leucht, P., & Dulai, S. K.
+
+(2021). Physician wellness in orthopedic surgery. Bone & Joint Open 2(11), 932-939. http
+
+s://doi.org/10.1302/2633-1462.211.BJO-2021-0153
+
+Ross, P. P., Okafor, L. C., Rumps, M. V., & Mulcahey, M. K. (2025). Promoting wellness among
+
+orthopaedic surgeons. JBJS Open Access, 10(1). https://journals.lww.com/jbjsoa/fulltext/
+
+2025/03000/promoting_wellness_among_orthopaedic_surgeons.1.aspx?context=latestarti
+
+cles
+
+Travis, V. (2020). Burnout in orthopedic surgeons. Orthopaedics & Traumatology: Surgery &
+
+Research, 106(1), 7-12. https://doi.org/10.1016/j.otsr.2019.04.029
+
+Van Niekerk, M., Tileston, K., Bouchard, M., Atanda, A., Goldstein, R., Gantsoudes, G,. ,,, &
+
+Christino, M. A. (2023). System-level interventions for addressing burnout and
+
+improving professional wellness for orthopedic surgeons. Journal of the Pediatric
+
+Orthopedic Society of North America, 5(1), 620.https://doi.org/10.55275/JPOSNA-2023-
+
+Wes, C. P., Dyrbye, L. N., & Shanafelt, T. D. (2018). Physician burnout: Contributors,
+
+consequences and solutions. Journal of Internal Medicine, 283(6), 516-529. https://doi.or
+
+g/10.1111/joim.12752
+
+West, C. P., Dyrbye, L. N., Erwin, P. J., & Shanafelt, T. D. (2016). Interventions to prevent and
+
+reduce physician burnout: A systematic review and meta-analysis. The Lancet,
+
+388(10057), 2272-2281. http://dx.doi.org/10.1016/ S0140-6736(16)31279-X

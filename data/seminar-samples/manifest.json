@@ -1,0 +1,25 @@
+{
+  "iwa": [
+    { "file": "ap25-iwa-sample-a.txt", "officialTotal": 48, "examYear": 2025 },
+    { "file": "ap25-iwa-sample-b.txt", "officialTotal": 33, "examYear": 2025 },
+    { "file": "ap25-iwa-sample-c.txt", "officialTotal": 0, "examYear": 2025 },
+    { "file": "ap24-iwa-sample-a.txt", "officialTotal": 48, "examYear": 2024 },
+    { "file": "ap24-iwa-sample-b.txt", "officialTotal": 35, "examYear": 2024 },
+    { "file": "ap24-iwa-sample-c.txt", "officialTotal": 0, "examYear": 2024 },
+    { "file": "ap23-iwa-sample-a.txt", "officialTotal": 48, "examYear": 2023, "note": "Engine Row 1 = 5 (content-based integration); CB official Row 1 = 0 (no packet stimulus)" },
+    { "file": "ap23-iwa-sample-b.txt", "officialTotal": 35, "examYear": 2023 },
+    { "file": "ap23-iwa-sample-c.txt", "officialTotal": 0, "examYear": 2023 }
+  ],
+  "irr": [
+    { "file": "ap25-irr-sample-a.txt", "officialTotal": 30 },
+    { "file": "ap25-irr-sample-b.txt", "officialTotal": 20 },
+    { "file": "ap25-irr-sample-c.txt", "officialTotal": 10 },
+    { "file": "ap24-irr-sample-a.txt", "officialTotal": 30 },
+    { "file": "ap24-irr-sample-b.txt", "officialTotal": 20 },
+    { "file": "ap24-irr-sample-c.txt", "officialTotal": 10 },
+    { "file": "ap23-irr-sample-a.txt", "officialTotal": 30 },
+    { "file": "ap23-irr-sample-b.txt", "officialTotal": 20 },
+    { "file": "ap23-irr-sample-c.txt", "officialTotal": 10 }
+  ],
+  "note": "Official College Board seminar samples 2023–2025 (18 papers). Regression tolerances: IWA ±3, IRR ±3."
+}

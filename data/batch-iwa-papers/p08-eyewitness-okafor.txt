@@ -1,0 +1,109 @@
+Running head: MEMORY DISTORTION IN EYEWITNESS TESTIMONY
+1
+To What Extent Does Scientific Evidence About Memory Distortion Demand Fundamental
+Reform of How Eyewitness Testimony Is Used in American Criminal Trials?
+AP Seminar Individual Written Argument
+Dr. Okafor
+April 2025
+Word Count: 975
+MEMORY DISTORTION IN EYEWITNESS TESTIMONY
+2
+Introduction
+Eyewitness misidentification is the leading cause of wrongful convictions in the United States.
+The Innocence Project, which uses DNA evidence to exonerate wrongfully convicted
+individuals, reports that eyewitness misidentification contributed to approximately 69% of the
+more than 375 wrongful convictions overturned through DNA evidence since 1989 (Innocence
+Project, 2023). These are not merely legal statistics: they represent innocent people who spent
+years or decades in prison for crimes they did not commit, based in significant part on the
+sincere but mistaken testimony of witnesses who genuinely believed what they reported.
+The scientific understanding of memory has advanced dramatically since eyewitness testimony
+was established as a cornerstone of criminal evidence. We now know, with the same
+confidence we know anything in behavioral science, that human memory is not a recording
+device — it is a reconstructive process that is systematically vulnerable to distortion,
+suggestion, and post-event contamination. As Norberg (2021) argues about memory more
+broadly, we mistake familiar reconstructions for accurate records, treating the stories we tell
+ourselves about the past as transparent windows onto what actually happened. In the
+courtroom, this cognitive error has consequences measured in decades of human freedom. This
+paper argues that the scientific consensus on memory fallibility obligates the American
+criminal justice system to implement fundamental reforms in how eyewitness identification
+EYEWITNESS TESTIMONY 2
+evidence is gathered, presented, and evaluated.
+The Science of Memory Distortion
+Elizabeth Loftus, a cognitive psychologist at the University of California Irvine and one of the
+most cited researchers in psychology with over 600 publications, has demonstrated through
+hundreds of experiments spanning four decades that human memory is profoundly malleable.
+Her foundational experiments showed that the phrasing of questions asked after an event
+systematically alters witnesses' memories of the event itself: asking "how fast were the cars
+going when they smashed into each other?" produced higher speed estimates and more
+frequent reports of broken glass than asking "how fast were the cars going when they hit each
+other?" — even when no broken glass was present (Loftus and Palmer, 1974, p. 586). The
+implication is profound: every interview of a witness, conducted by police, prosecutors, or
+defense attorneys, is not merely a retrieval of stored information but a reconstruction that is
+shaped by how questions are asked.
+Garry and Gerrie (2005), memory researchers at Victoria University of Wellington who
+published in Psychological Science in the Public Interest, reviewed the literature on the
+misinformation effect — the tendency of post-event information to contaminate memories of
+the original event — and found that it occurs reliably across thousands of experiments, affects
+both children and adults, and becomes stronger when witnesses are repeatedly interviewed or
+when significant time passes between the event and the testimony. Crucially, witnesses who
+have been exposed to misinformation report their distorted memories with as much confidence
+as witnesses who have accurate memories, making confidence an unreliable indicator of
+accuracy.
+Table 1: Summary of Major Sources of Eyewitness Error and Their Documented Effects
+Source of Error | Effect on Memory | Studies Documenting Effect
+Post-event questioning | 10-40% false memory induction | Loftus and Palmer (1974); Garry
+and Gerrie (2005)
+Line-up composition | 20-35% misidentification rate | Wells and Olson (2003)
+Stress at time of event | Impairs facial recognition by 25-30% | Deffenbacher et al. (2004)
+Cross-race identification | 1.56x higher error rate | Meissner and Brigham (2001)
+EYEWITNESS TESTIMONY 3
+Confidence inflation | No correlation with accuracy | Sporer et al. (1995)
+Note: Adapted from National Academy of Sciences, Identifying the Culprit (2014).
+The Current Legal Response Falls Short
+Despite this scientific consensus, American courts continue to treat eyewitness testimony as
+highly reliable evidence. In most jurisdictions, jurors receive no instruction explaining that
+memory is reconstructive, that confidence does not predict accuracy, or that certain
+identification procedures are more likely than others to produce false identifications. Expert
+testimony on memory science is routinely excluded as unhelpful or prejudicial.
+A 2014 National Academy of Sciences report, convened by some of the most distinguished
+scientists in the field, concluded that eyewitness identifications are significantly less reliable
+than generally assumed, that interview procedures profoundly affect accuracy, and that
+substantial reforms in both police procedures and courtroom practices are warranted (National
+Academy of Sciences, 2014). Yet reforms have been adopted unevenly, with some
+jurisdictions implementing science-based identification procedures while others continue
+practices known to increase false identifications.
+The Counterargument: Practical Necessity
+Critics of aggressive reform argue that eyewitness testimony, despite its imperfections, is often
+the only available evidence in cases where no physical evidence exists. Eliminating or severely
+restricting eyewitness testimony would make many serious crimes unprosecutable, allowing
+dangerous offenders to escape accountability. This is a legitimate concern that a responsible
+policy response must address.
+However, the argument for reform is not that eyewitness testimony should be eliminated — it
+is that it should be gathered using procedures known to minimize distortion, evaluated by
+courts with full knowledge of its limitations, and corroborated wherever possible with physical
+evidence. These reforms do not make prosecution impossible; they make prosecution more
+reliable. A conviction based on properly gathered, appropriately evaluated eyewitness
+testimony is more trustworthy, not less, than a conviction based on evidence gathered through
+procedures known to induce false memories.
+EYEWITNESS TESTIMONY 4
+Conclusion
+The scientific evidence that human memory is reconstructive, systematically vulnerable to
+distortion, and corrupted by common investigative practices is overwhelming and consistent
+across decades of research. Norberg's insight that we mistake familiar reconstructions for
+accurate records is not merely a philosophical observation — it is the mechanism through
+which innocent people are wrongfully convicted. Fundamental reform of eyewitness testimony
+procedures, including mandatory adoption of blind lineup administration, recorded interviews,
+and expert testimony about memory, is demanded not by abstract principle but by the same
+scientific standard of evidence that makes prosecution possible in the first place.
+References
+Garry, M., and Gerrie, M. P. (2005). When photographs create false memories. Current
+Directions in Psychological Science, 14(6), 321-325.
+https://doi.org/10.1111/j.0963-7214.2005.00384.x
+Innocence Project. (2023). Eyewitness misidentification.
+https://innocenceproject.org/eyewitness-misidentification/
+Loftus, E. F., and Palmer, J. C. (1974). Reconstruction of automobile destruction: An example
+of the interaction between language and memory. Journal of Verbal Learning and Verbal
+Behavior, 13(5), 585-589. https://doi.org/10.1016/S0022-5371(74)80011-3
+National Academy of Sciences. (2014). Identifying the culprit: Assessing eyewitness
+identification. National Academies Press. https://doi.org/10.17226/18891
+Norberg, J. (2021). False nostalgia. Reason. https://reason.com/2021/12/05/false-nostalgia/

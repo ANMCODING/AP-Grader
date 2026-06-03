@@ -1,0 +1,115 @@
+{
+  "tolerance": 3,
+  "papers": [
+    {
+      "file": "iwa_1_predictive_policing.txt",
+      "task": "iwa",
+      "label": "IWA-1 IWA Predictive Policing",
+      "totalBand": [
+        46,
+        48
+      ],
+      "claimedWords": 1848,
+      "topic": "Predictive Policing"
+    },
+    {
+      "file": "iwa_2_universal_healthcare.txt",
+      "task": "iwa",
+      "label": "IWA-2 IWA Universal Healthcare",
+      "totalBand": [
+        38,
+        43
+      ],
+      "claimedWords": 1913,
+      "topic": "Universal Healthcare"
+    },
+    {
+      "file": "iwa_3_remote_work.txt",
+      "task": "iwa",
+      "label": "IWA-3 IWA Remote Work",
+      "totalBand": [
+        30,
+        36
+      ],
+      "claimedWords": 1856,
+      "topic": "Remote Work"
+    },
+    {
+      "file": "iwa_4_junk_food_marketing.txt",
+      "task": "iwa",
+      "label": "IWA-4 IWA Junk Food Marketing",
+      "totalBand": [
+        20,
+        27
+      ],
+      "claimedWords": 1792,
+      "topic": "Junk Food Marketing"
+    },
+    {
+      "file": "iwa_5_standardized_testing.txt",
+      "task": "iwa",
+      "label": "IWA-5 IWA Standardized Testing",
+      "totalBand": [
+        10,
+        18
+      ],
+      "claimedWords": 1822,
+      "topic": "Standardized Testing"
+    },
+    {
+      "file": "irr_1_mindfulness_working_memory.txt",
+      "task": "irr",
+      "label": "IRR-1 IRR Mindfulness & Working Memory",
+      "totalBand": [
+        27,
+        30
+      ],
+      "claimedWords": 1140,
+      "topic": "Mindfulness & Working Memory"
+    },
+    {
+      "file": "irr_2_universal_pre_k.txt",
+      "task": "irr",
+      "label": "IRR-2 IRR Universal Pre-K",
+      "totalBand": [
+        22,
+        26
+      ],
+      "claimedWords": 1132,
+      "topic": "Universal Pre-K"
+    },
+    {
+      "file": "irr_3_exercise_depression.txt",
+      "task": "irr",
+      "label": "IRR-3 IRR Exercise & Depression",
+      "totalBand": [
+        16,
+        20
+      ],
+      "claimedWords": 1094,
+      "topic": "Exercise & Depression"
+    },
+    {
+      "file": "irr_4_arts_education.txt",
+      "task": "irr",
+      "label": "IRR-4 IRR Arts Education",
+      "totalBand": [
+        10,
+        14
+      ],
+      "claimedWords": 1100,
+      "topic": "Arts Education"
+    },
+    {
+      "file": "irr_5_social_media_body_image.txt",
+      "task": "irr",
+      "label": "IRR-5 IRR Social Media & Body Image",
+      "totalBand": [
+        6,
+        10
+      ],
+      "claimedWords": 1099,
+      "topic": "Social Media & Body Image"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+[IRR-5] [IRR] [TARGET: 6-10] [1099 WORDS] [Social Media & Body Image]
+========================================================================
+
+Social Media and Body Image:
+Understanding the Connection
+
+Sofia Garcia
+
+AP Seminar, Period 5
+
+Mr. Lee
+
+Sunridge High School
+
+Sofia Garcia
+Mr. Lee
+AP Seminar, Period 5
+19 March 2025
+
+Social Media and Body Image: Understanding the Connection
+
+Social media has become a major part of life for teenagers and young adults around the world, with platforms like Instagram, TikTok, and Snapchat being used by billions of people to share photos and videos of themselves and others. One topic that has received a lot of attention from researchers, parents, and mental health professionals is the relationship between social media use and body image—how people feel about their own bodies and appearance.
+According to Wikipedia, body image refers to a person's perceptions, feelings, and thoughts about their own body and is an important component of self-esteem and mental health
+(Wikipedia, 2024). Many people have expressed concern that social media exposes young people, especially girls and young women, to unrealistic beauty standards and edited images that make them feel bad about their own bodies. This is an interesting and important topic to investigate because body image issues can affect mental health and wellbeing in significant ways. This investigation asks what social media does to teenage body image and whether social media use is associated with worse body image outcomes among teenagers. There is some research on this topic that provides useful insights, though the research does not all point in the same direction.
+
+Some research has found that spending more time on social media is associated with worse body image among teenagers, particularly girls. The idea is that social media platforms show a lot of highly edited and filtered photos of attractive people with idealized bodies, and
+
+when young people constantly compare themselves to these images they may feel worse about their own appearance. This is sometimes called social comparison, and it is something that researchers have studied in various contexts. Fardouly and colleagues have done research suggesting that exposure to images of thin or toned bodies on social media can increase body dissatisfaction among women who engage in appearance comparisons (Fardouly et al., 2015).
+This research found that looking at Facebook was associated with increased body dissatisfaction and more negative mood in a laboratory experiment where participants were randomly assigned to browse Facebook or a website about travel. The experiment suggests a causal relationship, though the short-term laboratory setting may not perfectly reflect how social media affects body image in real life over longer periods of time.
+
+Not all research has found that social media is harmful to body image, and some researchers have suggested that the relationship is more complicated than it might seem. Some studies have found that body-positive content on social media, which shows diverse body types and promotes self-acceptance rather than comparison, can actually improve body satisfaction among users who are exposed to it. This suggests that what kind of content people see on social media might matter as much or more than how much time they spend on social media. Some researchers have also pointed out that social media can provide communities of support for people who struggle with body image issues, where they can find others who share their experiences and receive encouragement. The picture seems to be that social media can be either harmful or helpful for body image depending on the content that people are exposed to and how they engage with that content.
+
+In conclusion, this investigation found that social media use is associated with body image concerns among teenagers in some research, particularly when use involves exposure to idealized images and upward social comparisons. The research question asked what social
+
+media does to teenage body image, and the answer seems to be that it depends a lot on what kind of content is being viewed and how the person is engaging with it. Negative social comparison with idealized images appears to be one pathway through which social media can worsen body image, but body-positive content and community support can have positive effects. More research is needed to better understand these relationships across different platforms and populations, and to determine what kinds of interventions might be most effective in helping young people have healthier relationships with social media and their own body image.
+
+Researchers have also looked at how social media platforms might be designed or used differently to reduce harm to body image. Some studies have suggested that Instagram's introduction of features that hide public like counts reduced some aspects of social comparison behavior, though the evidence on whether this actually improved body image outcomes is limited. Others have proposed that media literacy education—teaching young people how images on social media are edited, filtered, and curated to present idealized versions of appearance—might help reduce the impact of exposure to unrealistic images. There is some research suggesting that this kind of education can help people feel less affected by social comparison after seeing idealized images, though the long-term effects and the effectiveness in real-world conditions are not well established. The challenge is that media literacy education requires sustained intervention and cannot eliminate the fundamental dynamic of exposure to a large volume of appearance-focused content that characterizes many young people's social media use.
+
+The research on social media and body image continues to develop as platforms change and as researchers develop better methods for studying media effects in real-world conditions rather than just in laboratory experiments. The basic finding from the available research—that social comparison with idealized images is associated with worse body image—seems fairly consistent, though the magnitude of these effects and their relationship to serious mental health outcomes like eating disorders is less clear. Parents, educators, and young people themselves would benefit from more research on which specific patterns of social media use are most harmful and most protective for body image, and on what kinds of interventions are most effective in different contexts. The conversation about social media and body image is likely to remain an important one as these platforms continue to play a central role in how young people communicate, form social connections, and understand expectations about appearance and identity.
+
+Given what the research shows, parents and educators can encourage young people to be more thoughtful about how they use social media and what kinds of accounts they follow.
+Choosing to follow accounts that show diverse body types and promote self-acceptance rather than idealized or heavily edited images may help reduce the negative comparison effects that research has identified. These are practical steps that individuals can take while the larger conversations about platform design and regulation continue.
+
+Works Cited
+
+Fardouly, J., Diedrichs, P. C., Vartanian, L. R., & Halliwell, E. (2015). Social comparisons on social media: The impact of Facebook on young women's body image concerns
+
+and
+
+mood.
+
+Body
+
+Image,
+
+13,
+
+https://doi.org/10.1016/j.bodyim.2014.12.002
+
+Wikipedia. (2024). Body image. https://en.wikipedia.org/wiki/
+Body_image
+
+38–45.

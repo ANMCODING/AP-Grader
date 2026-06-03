@@ -1,0 +1,205 @@
+Animal Testing: The Laws of Experimentation
+
+Word Count: 1095
+
+Animal Testing: The Laws of Experimentation
+
+80 million tests are done on animals annually, but only 8%  have been deemed successful
+
+(Animal Legal Defense Fund, 2022). Animal testing has been an issue, not always accurately
+
+predicting human symptoms. The American Anti-Vivisection Society (2024) claims that patients
+
+and physicians should be wary of products resulting from animal testing because it does not
+
+always replicate well in human clinical research. Animal testing is a global problem as they are
+
+being tested everywhere, and the risk to animals’ health is not worth the harm inflicted on them.
+
+Even if animal testing does not guarantee success, it is still helpful in predicting effects on
+
+humans. A recent example has been the COVID-19 vaccines. Animals were used to test new
+
+vaccinations to remain within the legal and ethical guidelines set by governments. This begs the
+
+question; what is the best way to mitigate harmful testing done to animals while ensuring human
+
+safety? Many patterns found in legal acts, laws, and guidelines include the Animal Welfare Act,
+
+the use of the International Animal Care and Use Committee (IACUC), and the administration of
+
+drugs to the animal before the testing.
+
+Created in 1966 to mitigate animal testing, the Animal Welfare Act (AWA) has many
+
+laws and rules on how to treat animals. It defines “laboratory animals” and gives circumstances
+
+where animals can be used. The Food and Agriculture Organization, a specialized agency in the
+
+United Nations, published a copy of the AWA from the United States Congress, including the
+
+basic provisions concerning animal management and treatment. The AWA states that animals
+
+should not go through unnecessary pain without an ethical cause (Food and Agriculture
+
+Organization, n.d). They argue that the AWA has a large impact on the treatment of animals in
+
+testing laboratories. The United States Department of Agriculture put out regulations that keep
+
+animals safe and ethically treated. (Foundation for Biomedical Research, n.d). By setting high
+
+ethical standards for animals, animals receive equal treatment to humans. This was implemented
+
+to keep animals safe, unharmed, and ethically treated. Supervisors are needed to ensure ethical
+
+care. Andrew D. Cardon, a researcher at the National Association for Biomedical Research,
+
+wrote that the AWA has requirements for research facilities including registrations,  IACUC,
+
+veterinary care, and annual reports (Cardon, 2012). However, Naoko Kagiyama and Tatsuji
+
+Nomura, both researchers of animal testing in Japan, claim that animal regulations are regulated
+
+by law but the IACUC, registration, and legal inspections are not regulated by law (2004). The
+
+AWA in America has created many high standards created to keep animals safe and mitigate
+
+unneeded cruelty.
+
+Laws and acts are made to set guidelines in society, but the enforcement of these acts is
+
+not brought to light. Like other acts, the AWA is set in place by the US Government, but
+
+enforcement falls under the administrator of APHIS (Cardon, 2012). The inspections of the lab
+
+are done by veterinary medical officers who then report to NCI, and are turned to the
+
+Investigative and Enforcement Services. The AWA and other acts are being enforced with fines
+
+and charges. Additionally, various administrative laws are put in place to ensure smooth cohesion
+
+in the process of animal testing. The Foundation of Biomedical Research said that institutions are
+
+required to state their reasons for the use of animals in testing. The IACUC is required by law to
+
+oversee the experiments done on the animal. IACUC committees consist of one veterinarian and
+
+one community representative, unaffiliated with the institution. They have the power to reject a
+
+proposal or cancel the project entirely (Foundation for Biomedical Research). The IACUC
+
+ensures that the testing is ethical and if the proper standards are not met, the test and project are
+
+scrapped. With the IACUC in place to enforce the AWA, many other acts follow to make their
+
+enforcers. The Health Research Extension Act of 1985, posted by the National Institute of
+
+Health, stated that there must be a chief executive officer, a veterinarian, and a person
+
+unaffiliated with the group. These people must review the care and treatment of the animals
+
+alongside keeping files to prove that the reviews have been conducted (NIH, n.d). Much like the
+
+IACUC, this committee was created for the enforcement of the Health Research Extension Act
+
+of 1985. Roles and committees have been created for the sake of animal safety. All employed
+
+conduct reviews and careful analysis to make sure ethical care is provided. With the enactment of
+
+the AWA and enforcement of the laws, animal care has been the number 1 priority in
+
+laboratories. The National Institute of Health made a guideline so that it can be ensured that the
+
+animals are treated safely with health being prioritized. Testing of animals is considered a
+
+privilege, institutions must care for the animals in the most ethical, humane way possible (NIH,
+
+2012). If deemed unethical, facilities may close from their visible neglect.  The care of animals is
+
+important all around. The AWA has set high standards for housing, feeding, cleanliness,
+
+ventilation, and medical care (The Foundation of Biomedical Research, n.d). The AWA caused
+
+many changes in the scientific community that provided ethical and medical care while also
+
+providing basic necessities. The National Institute of Health stated that investigators must
+
+presume procedures will be harmful unless scientifically or medically proven otherwise. They
+
+also make sure that animals are sedated and that surgery or painful procedures can only be done
+
+on anesthetized animals. They argue that with procedures, surgery, and research, pain/distress
+
+levels in animals can be reduced. The creation of the AWA sparked an uproar over guidelines and
+
+the care of animals in testing. Following the AWA, many guidelines and rules were created to
+
+help the animals decrease unnecessary pain or distress. With the inclusion of housing, feeding,
+
+cleanliness, and ventilation along with sedation, animals are calmer and more open to
+
+cooperating.
+
+With the AWA, the IACUC enforcing it, proper care decreases the harmful and painful
+
+effects of testing. The IACUC has veterinarians, unaffiliated committee members, and executive
+
+officers. They enforce the guidelines and rules planted by the Animal Welfare Act. The
+
+guidelines offer animals basic living requirements and ethical treatment. It also offers proper care
+
+like housing and cleanliness. The implication of this is the better treatment of animals and
+
+possibly less testing. The solution is to make better laws that fully cover the minute details that
+
+can further the care of animals. The consequences would be less testing and possibly more illegal
+
+testing. The information presented can help the overall team as without these laws, the
+
+environmental and ethical lenses would not be possible.
+
+References
+
+American Anti-Vivisection Society. (2024, October 16). Problems with animal research -
+
+American Anti-Vivisection Society.
+
+https://aavs.org/animals-science/problems-animal-research/
+
+Animal Legal Defense Fund. (2022, August 9). Animals used in research - Animal Legal Defense
+
+Fund.
+
+https://aldf.org/focus_area/animals-used-in-research/#:~:text=According%20to%20the%2
+
+0U.S.%20Food,use%20%E2%80%94%2092%25%20are%20not.
+
+Cardon, A. D., Bailey, M. R., & Bennett, B. T. (2012). The Animal Welfare Act: From enactment
+
+to enforcement. Journal of the American Association for Laboratory Animal Science:
+
+JAALAS, 51(3), 301–305.
+
+Foundation for Biomedical Research. (n.d.) About animal testing regulations. FBR
+
+https://fbresearch.org/animal-care/animal-testing-regulations
+
+H.R.724 - 116th congress (2019-2020): PACT act. library of congress. Library of Congress.
+
+https://www.congress.gov/bill/116th-congress/house-bill/724
+
+Health Research Extension Act of 1985 | OLAW. (n.d).
+
+https://olaw.nih.gov/policies-laws/hrea-1985.htm
+
+International guiding principles for biomedical research ... (n.d.-d).
+
+https://grants.nih.gov/grants/olaw/guiding_principles_2012.pdf
+
+National Academies Press (US). (2004). Japanese regulations on animal experiments: Current
+
+status and perspectives. The Development of Science-based Guidelines for Laboratory
+
+Animal Care - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK25422/
+
+The Animal Welfare Act. (n.d.-b). https://faolex.fao.org/docs/pdf/swe19544E.pdf

@@ -1,0 +1,293 @@
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 1
+
+The Effect of Artificial Sweeteners on Aquatic Ecosystems
+
+AP Seminar
+
+February 2023
+
+Word Count: 1294
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 2
+
+Introduction
+
+From just 2009 to 2012, around 25.1% of children and 41.4% of adults reported
+
+consuming artificial sweeteners (ASWs) in the U.S. alone (Sylvetsky et al., 2017, p. 443). ASWs
+
+are a broad class of sugar substitutes either derived naturally or synthetically and have
+
+sweetnesses ranging from slightly less than sucrose to thousands of times it. Despite their
+
+sweetness, ASWs like aspartame, sucralose, and stevia are resistant to bodily breakdown giving
+
+them little to no caloric value; henceforth, they have seen use in diet food products. However,
+
+this inability to decompose poses an environmental threat as these sweeteners can persist in
+
+ecosystems and have already been discovered to pollute aquatic ecosystems (Naik et al., 2021).
+
+As the obesity epidemic rages on and a greater awareness around health and sugar consumption
+
+grows, it is expected the ASWs market will continue to grow globally (Sylvetsky et al., 2017, p.
+
+444). With the growing use of ASWs and the growing amounts of research questioning the safety
+
+of these substances within our bodies and the environment, it begs the question: “To what extent
+
+do artificial sweeteners affect aquatic ecosystems?” ASWs are resistant to degradation in
+
+wastewater treatment plants and the environment, and although ASWs are not a threat at current
+
+concentrations, they could become a tremendous risk to aquatic ecosystems if trends continue.
+
+Resistance to Degradation
+
+Many ASWs are resistant to degradation within the environment and wastewater
+
+treatment plants, and when these sweeteners do degrade, the byproducts could be more toxic than
+
+the original sweeteners. Noora Perkola et al. (2016), a lead researcher at the Finnish
+
+Environment Institute with researchers from the Department of Environmental Science at the
+
+University of Helsinki, studied the photodegradation rate of four different ASWs under UV light
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 3
+
+in surface water conditions finding that while acesulfame would photodegrade in these
+
+conditions, cyclamate, saccharin, and sucralose showed only minimal amounts of
+
+photodegradation. This unwillingness to degrade even when exposed to ionizing radiation
+
+indicates ASWs will persist not only in the environment but also in wastewater treatment plants
+
+that use UV radiation to degrade dissolved substances. Further extending this view, Shaoli Li et
+
+al. (2018), researchers at the State Key Laboratory of Pollution Control and Resource Reuse at
+
+Nanjing University, assert that ASWs are also resistant to biological degradation in wastewater
+
+treatment plants finding that while cyclamate and saccharin “were easily degraded and
+
+completely removed,” acesulfame and sucralose had a removal rate of “lower than 20%” in their
+
+bioremoval tests. Although the use of sequencing batch reactors greatly aided the degradation of
+
+acesulfame and sucralose (Li et al., 2018), the results show that certain ASWs can make it
+
+through wastewater treatment plants and persist in the environment due to biodegradation
+
+resistance. Moreover, the byproducts of these degradations are potentially more toxic than the
+
+original sweetener. In agreement, Ziye Sang et al. (2014), researchers at the Department of
+
+Chemistry at Hong Kong Baptist University, found that the toxicity of sucralose was
+
+“significantly enhanced” through its breakdown (p. 9), and they found acesulfame degraded into
+
+“compounds much more toxic” than it (p. 11). ASWs have been shown to persist in the
+
+environment as they resist degradation. Not only do these non-degraded ASWs pose a toxicity
+
+risk, but their breakdown products also could become more toxic than the parent sweeteners.
+
+Ecotoxicity of Artificial Sweeteners
+
+The introduction of potentially toxic ASWs and their byproducts to aquatic ecosystems
+
+creates an undeniable hazard to the organisms living in them. According to Klára Kobetičová et
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 4
+
+al. (2016), researchers in the Department of Environmental Chemistry at the University of
+
+Chemistry and Technology Prague, aspartame can inhibit the growth of duckweed through
+
+“biochemical changes” in the plant, and saccharin, though not directly as toxic, put stress on
+
+duckweeds potentially due to its presence and caused a “30%” chance of immobilization in
+
+common water fleas (p. 152). Just between these two organisms, several negative effects were
+
+observed when they were exposed to ASWs. As the overall ASW concentration increases in
+
+aquatic ecosystems over time, these kinds of effects could be seen among several other
+
+microorganisms and macroorganisms which would be extremely detrimental to the health of
+
+these ecosystems. Expanding on the effect on duckweeds, Cherisse Amy-Sagers et al. (2017),
+
+researchers at the Department of Biological Sciences at Idaho State University, observed that
+
+duckweed would absorb sucralose after a period of time as a sugar source leading to it having a
+
+“greater photosynthetic capacity” (p. 81). While seemingly trivial, if the concentration of
+
+sucralose increases in the environment, it could cause blooms not only among duckweeds but
+
+also other photosynthetic organisms starving other organisms of oxygen and other nutrients.
+
+However, the opposite may occur in some plants. Anke Reinders et al. (2006), a researcher with
+
+a Ph.D. in botany from the University of Basel working with researchers from the University of
+
+Minnesota Twin Cities and researchers from Queensland, observed sucralose “inhibits the
+
+transport of sucrose” in sugarcane by acting as sucrose in sucrose transporters (specifically the
+
+ShSUT1 transporters). These transporters are vital to the transportation of sucrose within plants,
+
+and if sucralose prevents the transport of ordinary saccharides, it can kill plants over time. ASWs
+
+do pose a toxicity risk to common organisms that live within aquatic environments. Additionally,
+
+they may allow certain organisms to thrive while inhibiting others leading to a disruption of the
+
+ecological balance.
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 5
+
+Opposing Evidence
+
+Despite literature pointing to the toxicity and danger of ASWs, these claims may be
+
+overblown as the current concentration of ASWs in the environment is too little to elicit effects.
+
+In corroboration, Stefan Stolte et al. (2013), a chemistry professor at the University of Gdańsk
+
+with researchers from chemistry and environmental departments at the University of Bremen, the
+
+University of Gdańsk, and the University of Veterinary Medicine Hannover, found that the
+
+concentrations of acesulfame, cyclamate, sucralose, saccharin, and stevia in the environment
+
+were well below the concentration needed to cause toxicity indicating “a low hazard and risk
+
+potential” (p. 126). While ASWs could be toxic to aquatic organisms, their concentration is so
+
+low, it produces little to no ill effects. Furthering this claim, a systematic review over several
+
+ASWs by Kathy Lewis and John Tzilivakis (2021), researchers at the Agriculture and
+
+Environment Research Unit at the University of Hertfordshire, states that while ASWs are “at
+
+worryingly high concentrations in the global environment,”there are stark differences in their
+
+environmental profiles” (p. 126). Aspartame was the only ASW determined to be potentially
+
+toxic to flora, fauna, and ecosystems, and most ASWs could not be uptaken by plants (Lewis &
+
+Tzilivakis, 2021, p. 126). Even though ASWs are increasing in concentrations globally, the
+
+current of them in aquatic ecosystems is too little to present a great threat to aquatic organisms.
+
+In addition, they may not be as toxic to flora and fauna as previously shown and rarely uptaken
+
+by plants thereby presenting a low risk.
+
+Conclusion
+
+As ASWs continue to be used in food products, their concentrations in aquatic
+
+ecosystems will also continue to increase. Though ASWs at their current concentrations may not
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 6
+
+present an environmental risk, they persist in wastewater treatment plants and the environment
+
+which can lead to a buildup of these sweeteners in aquatic ecosystems negatively affecting
+
+organisms within them. Consequently, addressing the use of ASWs requires an environmental
+
+perspective along with health, political, and economic perspectives. Current solutions include
+
+UV treatment and activated sludge as they have been used to degrade ASWs and other
+
+substances. The use of sequence batch reactors could also significantly remove ASWs from
+
+effluents as well (Li et al., 2018). Not to mention, the use of titanium dioxide as a catalyst while
+
+under UV light could also improve the degradation of ASWs (Sang et al., 2014). Likewise, ferric
+
+iron also creates a similar effect (Perkola et al., 2016). However, these solutions do not address
+
+the removal of toxic breakdown products.
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 7
+
+References
+
+Amy-Sagers, C., Reinhardt, K., & Larson, D. M. (2017). Ecotoxicological assessments
+
+show sucralose and fluoxetine affect the Aquatic Plant, Lemna Minor. Aquatic
+
+Toxicology, 185, 76–85. https://doi.org/10.1016/j.aquatox.2017.01.008
+
+Kobetičová, K., Mocová, K. A., Mrhálková, L., Fryčová, Z., & Kočí, V. (2016). Artificial
+
+sweeteners and the environment. Czech Journal of Food Sciences, 34(2), 149–153.
+
+https://doi.org/10.17221/220/2015-cjfs
+
+Lewis, K., & Tzilivakis, J. (2021). Review and synthesis of data on the potential
+
+environmental impact of artificial sweeteners. EFSA Supporting Publications,
+
+18(10). https://doi.org/10.2903/sp.efsa.2021.en-6918
+
+Li, S., Geng, J., Wu, G., Gao, X., Fu, Y., & Ren, H. (2018). Removal of artificial
+
+sweeteners and their effects on microbial communities in sequencing batch reactors.
+
+Scientific Reports, 8(1). https://doi.org/10.1038/s41598-018-21564-x
+
+Naik, A. Q., Zafar, T., & Shrivastava, V. K. (2021). Environmental impact of the presence,
+
+distribution, and use of artificial sweeteners as emerging sources of pollution.
+
+Journal of Environmental and Public Health, 2021, 1–11.
+
+https://doi.org/10.1155/2021/6624569
+
+Perkola, N., Vaalgamaa, S., Jernberg, J., & Vähätalo, A. V. (2016). Degradation of artificial
+
+sweeteners via direct and indirect photochemical reactions. Environmental Science
+
+and Pollution Research, 23(13), 13288–13297.
+
+https://doi.org/10.1007/s11356-016-6489-4
+
+THE EFFECT OF ARTIFICIAL SWEETENERS ON AQUATIC ECOSYSTEMS 8
+
+Reinders, A., Sivitz, A. B., Hsi, A., Grof, C. P., Perroux, J. M., & Ward, J. M. (2006).
+
+Sugarcane SHSUT1: Analysis of sucrose transport activity and inhibition by
+
+sucralose. Plant, Cell and Environment, 29(10), 1871–1880.
+
+https://doi.org/10.1111/j.1365-3040.2006.01563.x
+
+Sang, Z., Jiang, Y., Tsoi, Y.-K., & Leung, K. S.-Y. (2014). Evaluating the environmental
+
+impact of artificial sweeteners: A study of their distributions, photodegradation and
+
+toxicities. Water Research, 52, 260–274.
+
+https://doi.org/10.1016/j.watres.2013.11.002
+
+Stolte, S., Steudte, S., Schebb, N. H., Willenberg, I., & Stepnowski, P. (2013). Ecotoxicity
+
+of artificial sweeteners and stevioside. Environment International, 60, 123–127.
+
+https://doi.org/10.1016/j.envint.2013.08.010
+
+Sylvetsky, A. C., Jin, Y., Clark, E. J., Welsh, J. A., Rother, K. I., & Talegawkar, S. A.
+
+(2017). Consumption of low-calorie sweeteners among children and adults in the
+
+United States. Journal of the Academy of Nutrition and Dietetics, 117(3).
+
+https://doi.org/10.1016/j.jand.2016.11.004

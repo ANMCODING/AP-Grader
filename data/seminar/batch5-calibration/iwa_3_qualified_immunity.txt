@@ -1,0 +1,85 @@
+Shielded from Accountability: The Judicial Doctrine of
+Qualified Immunity and Its Corrosive Effects on Police Reform
+
+Zara Mbeki
+
+AP Seminar, Period 2
+
+Ms. Harrington
+
+Lincoln Prep Academy
+
+Zara Mbeki
+Ms. Harrington
+AP Seminar, Period 2
+13 March 2025
+
+Shielded from Accountability: The Judicial Doctrine of Qualified Immunity and Its
+Corrosive Effects on Police Reform
+
+From 2005 to 2019, plaintiffs who filed Section 1983 civil rights claims against law enforcement officers in federal court succeeded in obtaining compensation in fewer than one percent of cases—a success rate so low that civil rights attorney Joanna Schwartz, who has conducted the most comprehensive empirical study of qualified immunity's practical operation, found it difficult to identify any functional accountability relationship between constitutional violations and officer liability (Schwartz, 2017). Qualified immunity, the judicially-created doctrine that protects government officials from civil liability unless they violated 'clearly established' law, was invented by the Supreme Court in 1967 and has been substantially expanded in subsequent decades into a near-absolute shield against civil accountability for constitutional violations. Schwartz's empirical research on how qualified immunity actually operates—which cases it affects, who bears its costs, and what accountability effects it has—provides the evidentiary foundation for this paper's central argument: qualified immunity as currently formulated does not serve the legitimate policy goals that the Supreme Court articulated when creating it, and its continuation imposes severe costs on constitutional rights enforcement while generating no documented benefits that could justify those costs. This paper argues that Congress should abrogate qualified immunity for law enforcement officers through legislation amending Section 1983, because the judicial doctrine rests on a fabricated historical foundation, fails its stated functional objectives, and denies constitutional redress to
+
+individuals whose rights have been violated in ways that a democratic society committed to the rule of law cannot accept.
+
+Schwartz's analysis of qualified immunity's empirical operation upended several foundational assumptions that courts have used to justify the doctrine's expansion. The
+Supreme Court's rationale for broad qualified immunity has rested on three premises: that without it, officers would be deterred from making reasonable law enforcement decisions; that governments would struggle to recruit and retain officers who face personal liability risk; and that the indemnification of officers by governments means liability would fall on individual officers rather than on government. Schwartz examined each premise empirically and found no supporting evidence for any of them: officers in jurisdictions with more robust civil liability face no documented recruitment difficulties; governments indemnify officers in virtually all cases where judgment is entered; and there is no evidence that officers make different operational decisions based on civil liability risk compared to officers protected by qualified immunity (Schwartz, 2017). Figure 1 illustrates the distribution of outcomes in Section 1983
+cases in Schwartz's dataset, demonstrating that qualified immunity bars claims in a substantial fraction of cases where constitutional violations have been factually established—cases where the only reason no remedy is available is the absence of a prior case with nearly identical facts.
+The 'clearly established law' standard that qualified immunity imposes requires not merely that a constitutional right existed but that courts had previously held that right to apply in circumstances virtually identical to the case at hand—a standard so demanding that novel constitutional violations can never be clearly established on their first occurrence, creating a perpetual immunity machine that Schwartz documents in careful detail.
+
+[ Figure — graphical data omitted from text submission ]
+
+Figure 1. Disposition of Section 1983 claims against law enforcement in federal district courts, 2005–2015: claims dismissed on qualified immunity grounds (41%), dismissed on other grounds (31%), settled before decision (22%), and plaintiff verdict (6%). In cases dismissed on QI grounds, constitutional violation was factually established but law not
+'clearly established' in 68% (Schwartz, 2017).
+
+Beyond Schwartz's empirical critique, qualified immunity rests on a historical foundation that subsequent scholarship has shown to be largely fabricated. William Baude's doctrinal analysis establishes that the Supreme Court invented qualified immunity in 1967 with no historical basis in the text or original understanding of Section 1983, which was enacted in
+1871 to provide civil remedies for constitutional violations by state officials and contains no immunity provision (Baude, 2018). The Supreme Court's subsequent decisions expanding qualified immunity relied on policy rationales—protecting reasonable official action, preventing deterrence of law enforcement—rather than on historical or textual interpretation, and Baude's analysis shows that these policy rationales were themselves based on empirical premises that Schwartz's research has since shown to be unfounded. Joanna Schwartz's earlier work on indemnification practices documented that the individual financial exposure that qualified immunity's architects sought to prevent never materializes in practice—governments pay in virtually every case—meaning the doctrine protects governments from paying for their officers' constitutional violations rather than protecting individual officers from personal financial ruin (Schwartz, 2017). This collapse of the empirical premises that justify qualified immunity makes it, in Baude's characterization, a free-floating judicial policy choice with no statutory authorization—precisely the kind of judicial legislation that critics of activist courts have historically opposed.
+
+The institutional defense of qualified immunity argues that without broad protection from civil liability, law enforcement officers would be paralyzed by indecision in rapidly evolving situations requiring split-second judgments, and that the societal benefit of active and effective law enforcement would be sacrificed to the individual interest in compensation for rights violations. This argument is advanced most forcefully by police unions and by the
+Supreme Court's own institutional reasoning in the cases that expanded the doctrine. Even granting that some protection against liability for reasonable mistakes in genuine emergencies is appropriate—which Schwartz herself acknowledges—the current doctrine provides far more protection than this rationale requires. The 'clearly established law' standard does not protect officers who make reasonable errors in genuine emergencies; it protects officers who commit deliberate constitutional violations as long as they can claim no court has previously condemned exactly the same violation in exactly the same circumstances. A reformed immunity standard that protected reasonable good-faith action while imposing liability for deliberate or reckless constitutional violations would serve the legitimate protective purpose without the sweeping immunity that Schwartz documents produces near-zero accountability.
+The institutional concern for effective law enforcement is real, but as Schwartz's research establishes, the current doctrine does not serve it—it serves the interest of avoiding payment for proven constitutional violations, which is a different thing entirely.
+
+The legislative path to qualified immunity reform is clear in principle: Congress enacted Section 1983 and can amend it to eliminate or modify the judicially-created immunity that has been grafted onto it. Several states have already done the equivalent at the state law level, providing natural experiments in whether accountability-focused liability standards produce the predicted operational harms. Colorado eliminated qualified immunity for state constitutional claims in 2020; New York and New Mexico have enacted comparable reforms;
+
+and none of these jurisdictions has experienced the recruitment crises or operational paralysis that qualified immunity's defenders predicted. Schwartz's analysis of the reform evidence confirms that the absence of qualified immunity has not demonstrably impaired law enforcement operations in states that have modified or eliminated it at the state level
+(Schwartz, 2017). The logical structure of the reform argument follows from the empirical premises Schwartz has established: if qualified immunity does not serve the policy purposes that justify it, if it rests on a fabricated historical foundation, and if it systematically denies redress for proven constitutional violations, then the cost-benefit analysis of the doctrine is decisively negative and the case for abolition or fundamental reform is overwhelming.
+
+The research question this paper addressed—whether qualified immunity should be abrogated by congressional legislation—admits a clear affirmative answer grounded in
+Schwartz's empirical demolition of the doctrine's foundational premises and Baude's historical critique of its constitutional legitimacy. This paper has established that qualified immunity does not protect officers from personal financial liability (they are indemnified), does not prevent recruitment difficulties (these are not observed where immunity is limited), and does not protect reasonable action under uncertainty (it protects deliberate violations for which no exact factual precedent exists). What it does is prevent constitutional redress in a substantial fraction of cases where violations have been factually established, producing the near-zero accountability rate that Schwartz documented. Even granting that some immunity for reasonable emergency action is appropriate, the current doctrine is indefensible on either its stated historical or its functional grounds. The Supreme Court has shown no willingness to reform a doctrine of its own creation; Congress must act.
+
+The judicial process by which qualified immunity's 'clearly established law' standard has evolved illustrates how courts can construct doctrine that systematically favors defendants without any explicit policy decision to do so. The standard requires not merely that a constitutional right existed at the time of the alleged violation but that the right was clearly established in the specific context at issue—interpreted by many courts to mean there must be a prior case with nearly identical facts. This standard creates a logical paradox: because novel fact patterns can never be clearly established the first time they arise, officers can commit constitutional violations in any sufficiently unusual circumstance without civil liability, because no previous case established the right in those exact circumstances. Reinert's analysis of how courts apply the 'clearly established' standard found significant inconsistency across circuits in what level of factual specificity is required, with some circuits demanding near-identical precedent and others accepting that general constitutional principles can clearly establish rights without case-specific precedent (Reinert, 2019). The Supreme Court's decision in Pearson v. Callahan allowing lower courts to grant qualified immunity without first deciding whether a constitutional violation occurred further entrenched the doctrine by allowing courts to avoid creating constitutional precedent that would help future plaintiffs.
+
+The comparison between federal qualified immunity and state law alternatives illuminates what accountability without qualified immunity actually looks like in practice.
+Several states have long-standing civil rights statutes that provide broader civil remedies against government officials with more limited immunity protections—California's Bane Act,
+New York's civil rights framework, and now Colorado's amended Section 13-21-131.
+MacLean's analysis of outcomes under state law alternatives to federal qualified immunity found that these jurisdictions have not experienced the recruitment crises or operational paralysis that the doctrine's defenders predict would follow from federal reform (MacLean,
+2021). The experience of civil rights enforcement under these state regimes provides direct
+
+empirical refutation of the theoretical concerns that justify qualified immunity: officers in states with more robust civil liability operate effectively, municipalities recruit and retain officers, and constitutional violations are litigated and compensated without the government defending-the-world operational paralysis that qualified immunity was supposedly designed to prevent. The federal doctrine's defenders cannot point to harms from states with more limited immunity precisely because none of the predicted harms have materialized in the states that have operated without them.
+
+Schwartz's indemnification research deserves extended analysis because it directly refutes the financial protection rationale that is most intuitively appealing to qualified immunity's supporters. The argument that officers need protection from personal financial ruin due to civil rights judgments fails empirically at every step: officers are almost never personally served with lawsuits (municipalities are the typical defendants), and in the rare cases where personal judgments are entered, municipalities pay virtually all of them
+(Schwartz, 2017). Schwartz's dataset found that individual officers paid less than one percent of civil rights judgments from their personal funds; municipalities absorbed the remainder.
+This means qualified immunity protects municipalities from paying for their officers'
+constitutional violations—which is a different policy choice with different normative implications than protecting individual officers from personal financial ruin. If municipalities bear the cost of constitutional violations, they have financial incentives to prevent those violations through training, supervision, and discipline—incentives that qualified immunity eliminates by removing the financial consequences. Schwartz's indemnification finding therefore not only refutes the personal financial protection rationale but also establishes that qualified immunity removes one of the primary mechanisms through which civil liability would otherwise create accountability incentives within police departments.
+
+The judicial culture surrounding qualified immunity presents a final obstacle to reform that the evidentiary case alone cannot overcome. Judges who have developed institutional familiarity with qualified immunity as a case-management tool—a way to dispose of civil rights cases early in litigation without engaging the merits—have developed interpretive practices that extend the doctrine beyond what even its creators intended. Schwartz's empirical analysis of how courts apply the 'clearly established' standard found that courts in circuits that apply the standard most demandingly dismiss civil rights claims at rates two to three times higher than courts in circuits that apply it less demandingly—a divergence that reflects judicial culture and institutional practice rather than any statutory or constitutional requirement
+(Schwartz, 2017). This divergence confirms both the doctrinal arbitrariness that Baude's analysis identifies and the practical unworkability of a standard that produces dramatically different outcomes depending on which circuit the plaintiff's case is filed in. Congressional reform that replaced the judicially-created 'clearly established law' standard with a statutory good-faith standard applicable uniformly across circuits would address both the arbitrariness and the systematically low accountability that Schwartz's research documents—and it would restore to Section 1983 the civil rights enforcement function that Congress designed it to serve in 1871.
+
+Works Cited
+
+Schwartz, J. C. (2017). How qualified immunity fails. Yale Law Journal, 127(1), 2–76.
+
+Baude, W. (2018). Is qualified immunity unlawful? California Law Review, 106(1),
+45–90. https://doi.org/10.15779/Z38QN5ZB8W
+
+Harlow v. Fitzgerald, 457 U.S. 800 (1982).
+
+Joanna C. Schwartz, (2014). Police indemnification. New York University Law Review,
+89(3), 885–1005.
+
+Reinert, A. A. (2019). Qualified immunity at trial. Notre Dame Law Review, 93(5),
+2063–2110.
+
+MacLean, R. A. (2021). Qualified immunity reform in the states. Harvard Journal on
+Legislation, 58(2), 439–492.
+
+========================================================================

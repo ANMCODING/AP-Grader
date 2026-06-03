@@ -1,0 +1,54 @@
+========================================================================
+[IRR-4] [IRR] [TARGET: 11-14] [1153 WORDS]
+========================================================================
+
+Homework and Student Performance:
+An Examination of the Research
+
+David Kim
+
+AP Seminar, Period 3
+
+Mrs. Chen
+
+Jefferson High School
+
+David Kim
+Mrs. Chen
+AP Seminar, Period 3
+10 February 2025
+
+Homework and Student Performance: An Examination of the Research
+
+Homework is one of the most commonly used educational practices in American schools, yet it is also one of the most debated. Most students in grades K through 12 are assigned homework on a regular basis, and the amount of homework assigned has generally increased over the past several decades, with surveys finding that high school students in the
+United States report spending an average of two to three hours on homework per night. Despite how widespread homework is, researchers have reached different conclusions about whether it actually helps students learn and perform better academically. Some researchers, like Harris
+Cooper who has conducted some of the most comprehensive reviews of homework research, have found positive relationships between homework and academic achievement, particularly for high school students (Cooper et al., 2006). Other researchers and education advocates have questioned whether homework is worth the time it takes and whether it might even have negative effects on student wellbeing. This investigation asks what the research shows about how homework affects student academic performance. The research suggests that homework can have some positive effects on achievement, particularly at the high school level, but that the relationship is more complicated than it might seem.
+
+Harris Cooper's meta-analysis of over 100 studies on homework examined the relationship between homework and academic achievement and found that the relationship varies significantly by grade level (Cooper et al., 2006). For high school students, Cooper
+
+found a positive relationship between homework completion and academic achievement, suggesting that homework may help reinforce learning and develop study skills. For middle school students, the relationship was weaker, and for elementary school students, Cooper found little to no relationship between homework and academic achievement. This grade-level pattern has led many researchers to suggest that homework may be most beneficial when students are developmentally ready to benefit from independent practice, which tends to be more true for older students. Cooper's research also found that the relationship between homework and achievement depended on factors like the amount of homework assigned, the subject matter, and whether students had adequate support for completing homework at home.
+Critics of this research have pointed out that many studies on homework rely on correlational data, making it difficult to determine whether homework causes better performance or whether students who perform better are simply more likely to complete their homework. The research also does not always distinguish between different types of homework assignments, which may have very different effects on learning.
+
+Some researchers and education advocates have raised concerns about the effects of heavy homework loads on student wellbeing, stress, and family life. Alfie Kohn, an education critic who has written extensively about homework, argues that the research does not support the widespread assignment of homework, particularly at the elementary level, and that homework may actually undermine students' intrinsic motivation to learn by turning education into an obligation associated with stress and family conflict rather than a source of genuine curiosity and engagement (Kohn, 2006). Kohn's critique has been influential in some educational circles and has led some schools and districts to experiment with homework reduction or elimination policies, particularly at the elementary level. Research on student stress has found that many high-achieving students in competitive academic environments report that homework contributes significantly to their overall stress levels, and some studies
+
+have found that high homework loads are associated with reduced sleep and physical activity, which could offset any academic benefits. The question of how to balance the potential academic benefits of homework practice with concerns about student wellbeing and equity—since access to a quiet study space and parental support for homework varies significantly across socioeconomic groups—is one that researchers and educators continue to debate.
+
+In conclusion, the research on homework and student performance suggests that homework can have some positive effects on academic achievement, particularly for high school students and when it is appropriately matched to students' learning needs, but that the relationship is not straightforward and depends on many factors including grade level, subject matter, homework quality, and individual student characteristics. The research question asked what the evidence shows about homework and student performance, and the honest answer is that the evidence is mixed and the picture is complicated. More recent research with stronger methodologies would be helpful for understanding when and for whom homework is most beneficial, and educators and policymakers should be thoughtful about homework assignments rather than simply defaulting to traditional practices. What seems clear is that homework quality and appropriate targeting matter more than quantity, and that concerns about student wellbeing and equity deserve to be weighed alongside potential academic benefits in homework policy decisions.
+
+The homework debate also intersects with questions about educational equity in important ways. Research has consistently found that students from higher-income households complete more homework and receive more parental support for homework than students from lower-income households, and this differential completion rate may contribute to achievement gaps if homework assignments assume access to a quiet study space, a computer with internet access, and parents with time and educational background to assist. Critics of homework have argued that homework effectively extends the advantages of students from resource-rich households while compounding the disadvantages of students from resource-limited households, and that its purported academic benefits may therefore operate primarily through socioeconomic rather than educational mechanisms. Some districts have experimented with in-school homework completion time or no-homework policies specifically to address this equity concern, with mixed results that have not clearly resolved whether eliminating homework reduces achievement gaps or simply reduces the academic reinforcement that benefits all students.
+
+Given the mixed findings in the research, many education researchers have moved away from the question of whether homework should or should not be assigned toward the more nuanced question of what types of homework assignments are most effective for different age groups and subject areas. Cooper's work suggests that homework that reinforces skills already taught in class is more effective than homework that introduces new material, and that short, frequent assignments may be more beneficial than long, infrequent ones
+(Cooper et al., 2006). Flipped classroom models, in which students watch instructional content at home and do practice activities in class with teacher support, represent one approach to rethinking the homework function that has generated some positive research attention, though the evidence base for this model is still developing. The field seems to be moving toward a consensus that homework policy should be evaluated at the level of specific assignment types
+
+and contexts rather than as a single uniform practice, which makes the general debate about whether homework is beneficial somewhat less useful for practical educational decision-making than more granular research about what works for whom and under what conditions.
+
+Works Cited
+
+Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987–2003. Review of Educational Research,
+76(1), 1–62. https://doi.org/10.3102/00346543076001001
+
+Kohn, A. (2006). The homework myth: Why our kids get too much of a bad thing. Da
+Capo Press.
+
+Trautwein, U., & Köller, O. (2003). The relationship between homework and achievement: Still much of a mystery. Educational Psychology Review, 15(2),
+115–145.

@@ -1,0 +1,40 @@
+The Relationship Between Extracurricular Activity Participation and Academic GPA in High School Students
+AP Research
+April 2025
+Word Count: 3,847
+Introduction
+Extracurricular activities are a central part of high school life for millions of American students. These activities include sports, music, drama, debate, student government, academic clubs, community service, and many others. High school students who participate in extracurricular activities often report feeling more connected to their school and more motivated academically. However whether extracurricular participation actually improves academic outcomes including GPA remains a question that researchers have examined with mixed results. This paper investigates the following research question: Is there a significant relationship between the number of extracurricular activities a high school student participates in and their GPA?
+Literature Review
+Research on Extracurricular Activities and Academics
+Research has shown that extracurricular participation is associated with academic outcomes. Eccles et al. (2003) studied extracurricular participation and found that students who participated in activities showed better academic outcomes than non-participants. Mahoney and Cairns (1997) studied at-risk students and found that extracurricular participation was associated with reduced dropout rates. Cooper et al. (1999) found that homework completion was related to academic achievement, suggesting that time management skills developed through extracurricular activities might transfer to academic tasks.
+Other researchers have also looked at this topic. Marsh and Kleitman (2002) studied extracurricular activities in high school and found positive associations with academic outcomes including grades and educational aspirations. Guest and Schneider (2003) found that the relationship between extracurricular participation and academics depended on the type of activity and the school context. Broh (2002) found that sports participation specifically was associated with better grades for some students but not others.
+Some researchers have found negative associations. There is concern that too much extracurricular participation may take time away from studying and lead to lower grades. Fredricks and Eccles (2006) found that the relationship between extracurricular participation and academics is complex and depends on many factors including the quality of the activity, the student's existing academic performance, and family background.
+Gap
+There is a gap in the research because most studies have looked at extracurricular participation generally without examining how the number of activities specifically relates to GPA in a single school context. This study fills that gap by surveying students at one high school about how many extracurricular activities they participate in and their current GPA.
+Methodology
+This study used a survey design. A survey was created using Google Forms with two main questions: how many extracurricular activities the student currently participates in (zero, one, two, three, four or more) and what their current GPA is (below 2.0, 2.0 to 2.9, 3.0 to 3.9, 4.0). The survey also asked for grade level and gender.
+The survey was distributed to students at one suburban high school in Ohio through homeroom teachers. Students completed the survey voluntarily during homeroom period. A total of 94 students responded. Responses were anonymous.
+Data was analyzed using a chi-square test of independence to examine whether GPA category was independent of extracurricular activity count category. A Pearson correlation was also calculated between activity count (coded as 0, 1, 2, 3, 4 for four or more) and GPA midpoint (1.5, 2.5, 3.5, 4.0).
+Results
+Table 1 presents the distribution of GPA categories by extracurricular activity count.
+The chi-square test of independence was statistically significant, chi-square(12) = 24.37, p = .018, indicating that GPA category was not independent of extracurricular activity count. Students participating in more activities tended to report higher GPA categories.
+The Pearson correlation between activity count and GPA midpoint was r = .31, p = .002, indicating a small to moderate positive relationship between number of extracurricular activities and GPA.
+Figure 1 displays the distribution of GPA categories by activity count showing the trend toward higher GPAs among students with more extracurricular activities.
+The most common number of activities reported was two (31.9% of students) followed by one (25.5%), three (19.1%), four or more (14.9%), and zero (8.5%).
+Discussion
+The results suggest a small but statistically significant positive relationship between extracurricular activity participation and GPA in this sample. Students who participated in more activities tended to report higher GPAs. This is consistent with the findings of Eccles et al. (2003) and Marsh and Kleitman (2002) who found positive associations between extracurricular participation and academic outcomes.
+However the correlation is small (r = .31) and the study cannot establish causation. It is possible that students with higher GPAs have more time and resources to participate in extracurricular activities rather than activities improving GPA. The cross-sectional design prevents causal conclusions.
+Limitations
+The sample is from one school limiting generalizability. GPA was self-reported and students may misremember or misreport their GPA. The measure of extracurricular participation was limited to counting activities without examining quality, time commitment, or type of activity. The study did not control for socioeconomic status, prior academic achievement, or other variables that might explain the relationship.
+Implications
+These findings suggest that extracurricular activities may be positively associated with academic performance. Schools should consider supporting extracurricular programs as part of a broader strategy for academic achievement. Future research should examine the type and quality of activities and use longitudinal designs.
+Conclusion
+This study found a small but statistically significant positive relationship between the number of extracurricular activities high school students participate in and their self-reported GPA. The findings are consistent with prior research but the cross-sectional design and self-reported measures limit the conclusions that can be drawn. More research is needed to understand the mechanisms through which extracurricular activities may influence academic outcomes.
+References
+Broh, B. A. (2002). Linking extracurricular programming to academic achievement: Who benefits and why? Sociology of Education, 75(1), 69–95. https://doi.org/10.2307/3090254
+Cooper, H., Valentine, J. C., Nye, B., & Lindsay, J. J. (1999). Relationships between five after-school activities and academic achievement. Journal of Educational Psychology, 91(2), 369–378. https://doi.org/10.1037/0022-0663.91.2.369
+Eccles, J. S., Barber, B. L., Stone, M., & Hunt, J. (2003). Extracurricular activities and adolescent development. Journal of Social Issues, 59(4), 865–889. https://doi.org/10.1046/j.0022-4537.2003.00095.x
+Fredricks, J. A., & Eccles, J. S. (2006). Is extracurricular participation associated with beneficial outcomes? Developmental Psychology, 42(4), 698–713. https://doi.org/10.1037/0012-1649.42.4.698
+Guest, A., & Schneider, B. (2003). Adolescents' extracurricular participation in context. Sociology of Education, 76(2), 89–109. https://doi.org/10.2307/3090271
+Mahoney, J. L., & Cairns, R. B. (1997). Do extracurricular activities protect against early school dropout? Developmental Psychology, 33(2), 241–253. https://doi.org/10.1037/0012-1649.33.2.241
+Marsh, H. W., & Kleitman, S. (2002). Extracurricular school activities: The good, the bad, and the nonlinear. Harvard Educational Review, 72(4), 464–514. https://doi.org/10.17763/haer.72.4.051388703v7v7736

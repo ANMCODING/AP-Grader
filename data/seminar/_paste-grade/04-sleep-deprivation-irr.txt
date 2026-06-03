@@ -1,0 +1,146 @@
+Kim 1
+
+Not Enough Sleep: How Chronic Sleep Deprivation
+Impairs Academic Performance in High School Students
+
+James Kim
+
+AP Seminar, Period 3
+
+Dr. Johnson
+
+Eastside Academy
+
+April 2025
+
+Kim 2
+
+James Kim
+Dr. Johnson
+AP Seminar, Period 3
+17 April 2025
+
+Not Enough Sleep: How Chronic Sleep Deprivation Impairs Academic Performance in
+High School Students
+
+Approximately 73% of high school students in the United States report sleeping fewer
+than the recommended eight to ten hours per night, making adolescent sleep deprivation one of
+the most widespread and underaddressed public health problems affecting students today
+(CDC, 2023). Sleep neuroscientist Matthew Walker, whose research on the cognitive effects of
+sleep has established many of the foundational mechanisms through which sleep loss impairs
+memory consolidation and learning, argues that inadequate sleep is not a minor inconvenience
+but a fundamental threat to brain development during the adolescent years, when the prefrontal
+cortex is still maturing and sleep-dependent memory processes are especially critical (Walker,
+2017). This investigation asks: to what extent does chronic sleep deprivation — defined as
+consistently sleeping fewer than seven hours per night — impair academic performance,
+working memory, and executive function in high school students aged 14 to 18? The available
+evidence from longitudinal studies, controlled sleep restriction experiments, and natural
+experiments in school start time changes establishes a robust causal relationship between
+insufficient sleep and reduced academic performance, with effects that accumulate over time
+and are not fully reversed by weekend recovery sleep.
+
+Walker's research on sleep and memory consolidation provides the neurobiological
+foundation for understanding why sleep deprivation harms academic performance. During
+
+Kim 3
+
+slow-wave and REM sleep, the brain transfers information from the hippocampus — the
+brain's short-term memory storage — to the neocortex for long-term storage, a process Walker
+calls sleep-dependent memory consolidation. When this process is disrupted by insufficient
+sleep, students may be able to acquire new information during the day but fail to consolidate it
+overnight, effectively losing much of what they learned. Walker's laboratory experiments
+using sleep restriction protocols found that students who slept six hours per night for six nights
+showed cognitive impairments equivalent to being awake for 24 hours straight, while
+subjectively feeling only moderately tired — meaning students are often unaware of how
+significantly their cognition is impaired (Walker, 2017). This disconnect between perceived
+and actual impairment is particularly concerning for academic contexts, where students may
+believe they are performing adequately when their test-taking, writing, and problem-solving
+abilities are in fact substantially compromised.
+
+Mary Carskadon, the chronobiologist whose research on adolescent circadian rhythms
+established the scientific basis for later school start times, has studied the relationship between
+sleep and school performance extensively using both laboratory and field methods. Her
+research found that adolescents undergo a biological shift in their circadian rhythms during
+puberty that makes it physiologically difficult for most teenagers to fall asleep before 11 p.m.
+— meaning that early school start times do not just inconvenience teenagers who stay up late
+by choice but actively conflict with the biological reality of adolescent sleep architecture
+(Carskadon, 1999). Her longitudinal studies found that students attending schools with earlier
+start times showed lower grades, more absences, and worse performance on standardized
+measures of cognitive function compared to the same students after start times were delayed —
+providing quasi-experimental evidence that the relationship between sleep loss and academic
+performance is causal, not merely correlational. Wendy Troxel's research on the consequences
+of sleep deprivation in adolescents, including a large-scale analysis of school district data
+
+Kim 4
+
+following start time changes, confirms Carskadon's findings: districts that moved to later start
+times consistently saw improvements in attendance, graduation rates, and academic
+performance (Troxel et al., 2020).
+
+The perspectives of Walker, Carskadon, and Troxel address different dimensions of the
+same underlying problem and together build a stronger case than any single research program
+could alone. Walker provides the neurobiological mechanism — sleep deprivation disrupts the
+specific brain processes that academic learning depends on. Carskadon establishes the
+physiological reality that adolescent sleep loss is not primarily a behavioral problem but a
+structural mismatch between biological circadian rhythms and school scheduling. Troxel
+provides the policy evidence that when schools accommodate adolescent sleep biology by
+starting later, measurable academic and wellbeing improvements follow. The disagreement
+between these researchers is not about whether sleep deprivation harms academic performance
+— all three agree that it does — but about the relative weight of neurobiological versus
+environmental factors and the most effective policy responses. This convergence across three
+distinct research traditions using different methodologies is unusually strong evidence for a
+causal claim.
+
+This investigation has established that chronic sleep deprivation significantly impairs
+academic performance in high school students through well-documented neurobiological
+mechanisms, and that the impairment is both more severe and more consistent than most
+students and educators recognize. The research question asked to what extent this impairment
+occurs: Walker's memory consolidation research, Carskadon's longitudinal studies, and
+Troxel's school district analyses all point to substantial and consistent negative effects. The
+policy implication is straightforward: later school start times that accommodate adolescent
+circadian biology are not a luxury but an evidence-based intervention with demonstrated
+
+Kim 5
+
+academic and health benefits. The American Academy of Pediatrics, the American Medical
+Association, and the American Academy of Sleep Medicine have all called for middle and
+high schools to start no earlier than 8:30 a.m. — a recommendation grounded in exactly the
+research this investigation has reviewed.
+
+Kim 1
+
+The public health implications of this research are significant. If sleep deprivation is
+impairing the academic performance of nearly three quarters of American high school students
+on a chronic basis, then the academic achievement gaps that educators, policymakers, and
+parents spend enormous resources trying to address through curriculum reform, tutoring, and
+extended school days may be partially or substantially attributable to a problem with a
+relatively straightforward solution: let teenagers sleep later. Walker, Carskadon, and Troxel all
+converge on this recommendation, and the evidence from school districts that have
+implemented later start times is consistent and compelling. The American Academy of
+Pediatrics issued a formal policy statement recommending that middle and high schools start
+no earlier than 8:30 a.m., citing exactly the research this investigation has reviewed. That
+recommendation was issued in 2014. More than a decade later, the majority of American high
+schools still start before 8:30 a.m. The gap between what the evidence recommends and what
+school systems actually do is a policy failure with measurable academic and health
+consequences for millions of students every school day.
+
+Kim 2
+
+Works Cited
+
+Carskadon, Mary A. "When Worlds Collide: Adolescent Need for Sleep Versus
+Societal Demands." Phi Delta Kappan, vol. 80, no. 5, 1999, pp. 348–353.
+
+Centers for Disease Control and Prevention. "Sleep in Middle and High School
+Students." CDC, 2023, www.cdc.gov/healthyschools/sleep.htm.
+
+Troxel, Wendy M., et al. "Evidence for the Benefits of Later School Start Times on
+Teens' Health and Academic Performance." Sleep Health, vol. 6, no. 1, 2020, pp.
+92–97. doi:10.1016/j.sleh.2019.11.002.
+
+Walker, Matthew. Why We Sleep: Unlocking the Power of Sleep and Dreams. Scribner,
+2017.
+
+Wahlstrom, Kyla, et al. "Examining the Impact of Later High School Start Times on
+the Health and Academic Performance of High School Students." START Sleep
+Research, University of Minnesota, 2014.

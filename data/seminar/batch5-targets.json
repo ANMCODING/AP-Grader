@@ -1,0 +1,115 @@
+{
+  "tolerance": 3,
+  "papers": [
+    {
+      "file": "iwa_1_solitary_confinement.txt",
+      "task": "iwa",
+      "label": "IWA-1 IWA Solitary Confinement",
+      "totalBand": [
+        46,
+        48
+      ],
+      "claimedWords": 1958,
+      "topic": "Solitary Confinement"
+    },
+    {
+      "file": "iwa_2_carbon_pricing.txt",
+      "task": "iwa",
+      "label": "IWA-2 IWA Carbon Pricing",
+      "totalBand": [
+        44,
+        48
+      ],
+      "claimedWords": 2153,
+      "topic": "Carbon Pricing"
+    },
+    {
+      "file": "iwa_3_qualified_immunity.txt",
+      "task": "iwa",
+      "label": "IWA-3 IWA Qualified Immunity",
+      "totalBand": [
+        44,
+        48
+      ],
+      "claimedWords": 2173,
+      "topic": "Qualified Immunity"
+    },
+    {
+      "file": "iwa_4_pharma_patents.txt",
+      "task": "iwa",
+      "label": "IWA-4 IWA Pharma Patents",
+      "totalBand": [
+        44,
+        48
+      ],
+      "claimedWords": 2121,
+      "topic": "Pharma Patents"
+    },
+    {
+      "file": "iwa_5_ranked_choice_voting.txt",
+      "task": "iwa",
+      "label": "IWA-5 IWA Ranked-Choice Voting",
+      "totalBand": [
+        44,
+        48
+      ],
+      "claimedWords": 2154,
+      "topic": "Ranked-Choice Voting"
+    },
+    {
+      "file": "irr_1_epigenetics.txt",
+      "task": "irr",
+      "label": "IRR-1 IRR Epigenetics",
+      "totalBand": [
+        28,
+        30
+      ],
+      "claimedWords": 1162,
+      "topic": "Epigenetics"
+    },
+    {
+      "file": "irr_2_soda_taxes.txt",
+      "task": "irr",
+      "label": "IRR-2 IRR Soda Taxes",
+      "totalBand": [
+        27,
+        30
+      ],
+      "claimedWords": 1193,
+      "topic": "Soda Taxes"
+    },
+    {
+      "file": "irr_3_implicit_bias_training.txt",
+      "task": "irr",
+      "label": "IRR-3 IRR Implicit Bias Training",
+      "totalBand": [
+        27,
+        30
+      ],
+      "claimedWords": 1142,
+      "topic": "Implicit Bias Training"
+    },
+    {
+      "file": "irr_4_restorative_justice.txt",
+      "task": "irr",
+      "label": "IRR-4 IRR Restorative Justice",
+      "totalBand": [
+        28,
+        30
+      ],
+      "claimedWords": 1138,
+      "topic": "Restorative Justice"
+    },
+    {
+      "file": "irr_5_lead_exposure.txt",
+      "task": "irr",
+      "label": "IRR-5 IRR Lead Exposure",
+      "totalBand": [
+        27,
+        30
+      ],
+      "claimedWords": 1213,
+      "topic": "Lead Exposure"
+    }
+  ]
+}

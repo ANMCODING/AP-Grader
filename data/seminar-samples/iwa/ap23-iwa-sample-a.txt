@@ -1,0 +1,455 @@
+Breaking Car Dependency: An Evaluation of Mass Passenger and Freight Transportations
+
+Effectiveness in Reducing Greenhouse Gas Emissions
+
+AP Seminar
+
+May 1st, 2023
+
+Word Count: 2173
+
+According to a study authored by Professor James Hansen of Columbia University's
+
+Earth Institute, and additional collaborators, published in the Proceedings of the National
+
+Academy of Sciences, the average global surface temperature of the Earth has risen by
+
+approximately 0.2 degrees Celsius per decade over the past thirty years (Hansen et al. 1). This
+
+phenomenon is indicative of the broader impacts of global anthropogenic climate change as a
+
+consequence of industrialization as greenhouse gas emissions have subsequently and
+
+substantially increased. Such emissions then produce adverse climate effects as the United
+
+Nations Climate Reports finds, “As greenhouse gas emissions blanket the Earth, they trap the
+
+sun’s heat…Warmer temperatures over time are changing weather patterns and disrupting the
+
+usual balance of nature,”(Causes and Effects of Climate Change 1). This disruptive and abjectly
+
+harmful effect thus necessitates a significant response, especially within highly industrialized
+
+nations such as the United States. Within U.S. cities the impacts of climate change are already
+
+far-reaching as cities often serve as harbingers for the future effects of a warming climate, as Eric
+
+Bender, former editor of the MIT Technology Review, writes in an article published in Knowable
+
+Magazine, “Cities are kind of the key for understanding responses to global climate
+
+change…This city is giving you the global climate warming that we would expect by 2050 or
+
+2070 or 2100,” (Bender 2). Therefore, innovative solutions to the climate emergency fast
+
+approaching the United States will be the cornerstone of humanity's adaptation and ability to
+
+resist the threats of a changing climate. Moreover, within the United States explicitly, this burden
+
+largely falls upon the transportation sector as it has consistently shown to be the highest emitting
+
+segment of the economy. The United States Environmental Protection Agency’s Inventory of
+
+U.S. Greenhouse Gas Emissions and Sinks corroborates this, noting, “Transportation activities
+
+accounted for 38.6 percent of U.S. CO2 emissions from fossil fuel combustion in 2021,”
+
+(Inventory of U.S. Greenhouse Gases 43). Without action within this sector, the United States
+
+will continue to face the detrimental effects of a warming climate, illustrating the necessity for
+
+the implementation of adaptive technologies as a measure to prevent disaster. As a potential
+
+solution to this complication stands the technologies of high-speed rail and electrified urban
+
+buses. Each of these innovations in transportation has priorly seen prominence within both Asian
+
+and European nations, but have thus remained unprecedented on a large scale within the United
+
+States. Moreover, to reduce individual passenger travel, freight transportation emissions, and the
+
+United States' reliance upon fossil fuels, the most optimal solution is a modal shift in passenger
+
+and freight transportation to high-speed rail as well as an accompanying electrification of urban
+
+commuter buses.
+
+The most devastating subdivision of transportation in terms of raw greenhouse gas
+
+emissions is derived from individual passenger vehicles. The Congressional Budget Office of the
+
+United States corroborates this notion, writing that 58% of all carbon dioxide emissions in 2019
+
+were generated solely by individual personal vehicles (Shirley and Gecan 15). Offering
+
+governmental statistical analysis, this data reveals the severe detriment that car dependency
+
+within America has generated. Additionally, this complication created by individual personal
+
+vehicles exists as a consequence of the automobile industry as a whole, rather than specific
+
+products or models, as Dr. Giulio Mattioli, a research fellow at the Department of Transportation
+
+Planning of the University of Dortmund Germany, and colleagues confirmed in an article
+
+published within Energy Research and Social Science, noting how the automobile industry is
+
+incentivized to lobby to prevent legislation against environmental issues, thus making the current
+
+industry unsustainable (Mattioli et al. 5). Offering a purely academic analysis, the perspective
+
+proposed by Mattioli and his fellow researchers clearly outlines that the current state of
+
+automobile-centric development continues to perpetrate environmental injustice, thus requiring
+
+an adaptive modal shift towards more sustainable rail development. High-speed rail as a solution
+
+to this complication created by automobiles has proven to be highly effective in achieving
+
+greenhouse gas emission reductions by drawing substantial traffic away from individual vehicles.
+
+This is verified by a study conducted by Meiyu Liu of Tsinghua University and additional
+
+collaborators published within Public Library of Science One which noted, “HSR will reduce
+
+carbon emissions by substituting highway passenger traffic, but the more significant the carbon
+
+reduction effect of HSR is in cities with a higher volume of highway passenger traffic,” (M. Liu
+
+et al. 12). The conclusions drawn from the academic perspective and literature of this study thus
+
+illustrate the immense impact high-speed rail could have upon American cities as rail lines
+
+siphon passengers away from personal vehicles. The findings established by Meiyu and her
+
+colleagues are further supported by an article authored by Senior Policy Fellow Richard Nunno
+
+of the Environmental and Energy Study Institute that reports that California’s current attempts at
+
+constructing a high-speed rail line could reduce vehicles miles traveled by ten million miles per
+
+day upon completion, saving approximately four-hundred billion vehicles miles over a fifty-eight
+
+year period (Nunno). Both authors act in conjunction with one another's perspective to unveil the
+
+degree to which high-speed rail would be exceptionally beneficial to the United States
+
+transportation system. Furthermore, by investing in such transportation technologies, the United
+
+States would be propelling its capability to reduce transportation emissions as reduced personal
+
+vehicle travel will consequently decrease the most significant portion of transportation
+
+emissions. An article authored by Yatang Lin, an assistant professor of Economics at Hong Kong
+
+University of Science and Technology, and additional associates and published in Nature notes
+
+that the construction of high-speed rail lines in China led to an annual reduction of about 11.183
+
+million tons of carbon dioxide with great potential for significantly greater reductions provided
+
+greener energy sources than those most prominently used in China (Lin et al. 1). Moreover, Lin
+
+and her colleagues' findings illustrate the extent to which high-speed rail could impactfully
+
+reduce the United States quantity of greenhouse gas emissions generated by transportation.
+
+Furthermore, high-speed rail for passenger transportation could serve as a propellant to human
+
+resistance against climate change while simultaneously improving America's ability to adapt
+
+transportation modes to a heating globe.
+
+Subsequent to the environmental degradation created by passenger transportation therein
+
+lies the emissions created through freight transportation in the United States. Freight in the
+
+United States is primarily transported via commercial trucking, as economist Andrew Hait and
+
+supervisory statistician Lynda Lee, both of the American Census Bureau, write in a census
+
+article, “Trucks transported 71.6%...of all goods shipped in the United States in 2017,” (Hait and
+
+Lee). Both authors present a governmental and economic perspective on the issue of freight
+
+transportation within the United States, and the data they unveil illustrates the extent to which
+
+commercial trucking dominates the freight sector. Furthermore, this monopoly over the mode of
+
+freight transit the trucking industry holds is extensively detrimental to the state of climate change
+
+in America. Commercial trucking contributes immense quantities of carbon dioxide, as was
+
+noted by Rui Jiang, a researcher at the Shenzhen Institute of Advanced Technology, and several
+
+colleagues in a study published in the International Journal of Environmental and Public Health
+
+Research which found, “Freight transport…contribute[s] an average of…27.5% to total road
+
+transport CO2 emissions,” (Jiang et al. 7) The data presented via Jiang and their colleagues thus
+
+reveals how the data detailed by Hait and Lee causes excessive greenhouse gas emissions,
+
+further indicating the need for a modal shift in freight transportation. High-speed rail has
+
+additionally illustrated significant plausibility as both a reprieve to the trucking industry's
+
+dominance of freight transit, but also as a solution to its immense carbon footprint. Rail
+
+transportation of freight has previously been noted to be exceptionally beneficial in terms of
+
+reducing carbon emissions, as was noted by Dr. Sakirdat Kaewunruen of the University of
+
+Birmingham’s Department of Civil Engineering and several other contributors in a study
+
+published in Frontiers In Built Environment which found, “Each tonne of freight moved by rail
+
+reduces carbon emissions by 76% in comparison with road transport,” (Liu et al. 12). Moreover,
+
+the academic perspective offered by the data represented in this study further indicates the
+
+superlative environmental benefits high-speed rail would generate. Moreover, a further pivot
+
+towards high-speed rail development rather than trucking infrastructure would serve to propel the
+
+United States' ability to plausibly reduce its transportation greenhouse gas emissions. However,
+
+the notion that high-speed rail and other advanced technological solutions to climate change are
+
+the optimal solutions to these complications is heavily negated by The University of Colombia’s
+
+Julia Watson, a leading expert in the field of indigenous nature-based technologies. In Watson’s
+
+2020 Ted talk she notes how seemingly beneficial high-tech solutions to the issues generated by
+
+climate change can often be more detrimental than more natural sustainable practices (Watson).
+
+Therefore, the perspective offered by Watson directly contradicts that of Liu and represents a
+
+potential complication high-speed rail may generate in preventing human adaptation to the rising
+
+climate emergency. However, this notion is again directly contradicted by Professor of data
+
+engineering Mathias Boehm of the Berlin Institute of Technology and several colleagues in a
+
+study published in the European Transport Research Review which found that the replacement of
+
+road transportation with a predominantly high-speed rail network of cargo transit could reduce
+
+carbon emissions by seventy-nine percent (Boehm et al. 8). Moreover, the angle offered by this
+
+data directly coordinates with that offered by Liu and their colleagues, revealing how a genuine
+
+modal transition towards greater application of high-speed rail technologies for freight transport
+
+would reprieve freight transportation emissions. Additionally, both studies unveil how
+
+high-speed rail could thus bolster American cities' ability to combat the growing effects of
+
+climate change, thus indicating its plausibility as an adaptive technological solution.
+
+Accompanying the further promotion of high-speed rail as a technical solution to the
+
+complications of climate change lies a pivot towards electrified urban buses as a further measure
+
+to incentivize greener inner-city public transportation. Under the status quo, non-electric urban
+
+buses not only stand as substantial polluters within inner-city traffic but also sabotage ambient
+
+air quality with further detrimental effects on local environments. Associate Professor of public
+
+health at Drexel University Gina Lovasi and additional collaborators confirm this notion within a
+
+study published in the Journal of Exposure Science and Environmental Epidemiology which
+
+purported, “emissions from diesel buses themselves can be a source of air pollution, including
+
+nitrogen oxides and black carbon,” (Lovasi et al. 1). Through the simultaneously medical and
+
+academic perspective offered by Lovasi and her colleagues, this study illustrates the necessity for
+
+improvements within current public transportation modes to best combat pollutants and harmful
+
+transportation emissions. Through the electrification of urban bus fleets, the United States would
+
+be further propelling the resilience of American cities to the threats posed by climate change, as
+
+electric buses generally result in less fuel consumption, and thus fewer emissions. An article
+
+published in Transport Reviews Journal and authored by Dr. Katerina Deliali of the Department
+
+of Transportation Planning and Engineering at the National Technical University of Athens, and
+
+several additional collaborators corroborates this assertion, arguing that battery electric urban
+
+buses always exhibited a fuel efficiency that was three times greater than that of diesel buses
+
+while additionally maintaining zero tailpipe emissions (Deliali et al. 22). Deliali and her
+
+co-authors' extensive experience explicitly within the field of transportation thus reveals the
+
+genuinely positive effects electrification of urban buses could hold over United States
+
+transportation networks. Moreover, the use of such adaptive technologies will require
+
+significantly less energy generation than conventional buses, thus resulting in fewer carbon
+
+emissions as a byproduct of the United States’s predominantly fossil fuel-based energy grids.
+
+This phenomenon was reported by Dr. Adrian Todorut of the Technical University of
+
+Cluj-Napoca and two colleagues in a study published in the Polish Journal of Environmental
+
+Studies which noted, “The emission of CO2 generated by the production of electric power
+
+consumed by electric buses is 2.605 times lower than that generated by diesel buses,” (Todorut et
+
+al. 11). Todorut and his collaborators academic perspective thus coordinates with that offered by
+
+Deliali to reveal the strong improvements in fuel efficiency that electric buses create. This is
+
+indicative of the fact that electric buses could serve a strong role as a remedy for the
+
+consequences of climate change within urban areas in conjunction with high-speed rail
+
+technologies.
+
+The effects of anthropogenic climate change are swiftly approaching, marking the
+
+necessity for immediate action against its chief causes. Within the United States, the
+
+transportation sector underpins the United States' failures to adequately combat this growing
+
+threat. Thus, through the implementation of highly adaptive technologies such as high-speed rail
+
+for both passenger and freight transportation as well as electrified urban buses for inner-city
+
+transit, the United States would be propagating strengthened transportation networks that can
+
+effectively reduce the immense burden of transportation emissions within America. Moreover,
+
+by propelling and incentivizing such modes of transportation, the United States would be acting
+
+in conjunction with much of the rest of the world in a coalition against the looming consequences
+
+of mass and uninhibited industrialization.
+
+Works Cited
+
+Bender, Eric. “Urban Evolution: How Species Adapt to Survive in Cities.” Knowable Magazine,
+
+2022, https://doi.org10.1146/knowable-031822-1. Accessed 9 Apr. 2023.
+
+Boehm, Mathias et al. “The Potential of High-Speed Rail Freight in Europe: How Is a Modal
+
+Shift from Road to Rail Possible for Low-Density High Value Cargo?” European
+
+Transport Research Review, vol. 13, no. 1, 2021,
+
+https://doi.org10.1186/s12544-020-00453-3. Accessed 9 Apr. 2023.
+
+Deliali, Aikaterini et al. “Transitioning to Zero-Emission Bus Fleets: State of Practice of
+
+Implementations in the United States.” Transport Reviews, vol. 41, no. 2, 2021, pp.
+
+164–191, https://doi.org10.1080/01441647.2020.1800132. Accessed 9 Apr. 2023.
+
+Hait, Andrew and Lynda Lee. “Most Goods Americans Use in Their Daily Lives Are
+
+Transported and Delivered by Truck.” Census.gov, 2021,
+
+https://www.census.gov/library/stories/2021/02/what-is-in-that-truck-i-just-passed-on-the
+
+-highway.html. Accessed 9 Apr. 2023.
+
+Hansen, James et al. “Global Temperature Change.” Proceedings of the National Academy of
+
+Sciences of the United States of America, vol. 103, no. 39, 2006, pp. 14288–14293,
+
+https://doi.org10.1073/pnas.0606291103. Accessed 9 Apr. 2023.
+
+Jiang, Rui et al. “Driving Factors behind Energy-Related Carbon Emissions in the U.S. Road
+
+Transport Sector: A Decomposition Analysis.” International Journal of Environmental
+
+Research and Public Health, vol. 19, no. 4, 2022, p. 2321,
+
+https://doi.org10.3390/ijerph19042321. Accessed 9 Apr. 2023.
+
+Lin, Yatang et al. “Impact of High-Speed Rail on Road Traffic and Greenhouse Gas Emissions.”
+
+Nature Climate Change, vol. 11, no. 11, 2021, pp. 952–957,
+
+https://doi.org10.1038/s41558-021-01190-8. Accessed 9 Apr. 2023.
+
+Liu, Meiyu et al. “Revealing the Transmission Mechanism and Spatial Spillover of Carbon
+
+Emission Reduction Caused by High-Speed Rail Opening.” PloS One, vol. 17, no. 8,
+
+2022, p. e0271585, https://doi.org10.1371/journal.pone.0271585. Accessed 9 Apr. 2023.
+
+Liu, Rucheng et al. “Sensitivity of a High-Speed Rail Development on Supply Chain and
+
+Logistics via Air-Rail-Road Freight Transportation.” Frontiers in Built Environment, vol.
+
+7, 2021, https://doi.org10.3389/fbuil.2021.685884. Accessed 9 Apr. 2023.
+
+Lovasi, Gina et al. “Clean Fleets, Different Streets: Evaluating the Effect of New York City’s
+
+Clean Bus Program on Changes to Estimated Ambient Air Pollution.” Journal of
+
+Exposure Science & Environmental Epidemiology, 2022,
+
+https://doi.org10.1038/s41370-022-00454-5. Accessed 9 Apr. 2023.
+
+Mattioli, Giulio et al. “The Political Economy of Car Dependence: A Systems of Provision
+
+Approach.” Energy Research & Social Science, vol. 66, no. 101486, 2020, p. 101486,
+
+https://doi.org10.1016/j.erss.2020.101486. Accessed 9 Apr. 2023.
+
+Nunno, Richard. “Fact Sheet | High Speed Rail Development Worldwide.” Environmental and
+
+Energy Study Institute, 19 July 2018,
+
+https://www.eesi.org/papers/view/fact-sheet-high-speed-rail-development-worldwide.
+
+Accessed 9 Apr. 2023.
+
+Shirley, Chad and Ron Gecan. “Emissions of Carbon Dioxide in the Transportation Sector.”
+
+Congressional Budget Office, 13 Dec. 2022, https://www.cbo.gov/publication/58861.
+
+Accessed 9 Apr. 2023.
+
+Todoruț, Adrian et al. “Replacing Diesel Buses with Electric Buses for Sustainable Public
+
+Transportation and Reduction of CO2 Emissions.” Polish Journal of Environmental
+
+Studies, vol. 29, no. 5, 2020, pp. 3339–3351, https://doi.org10.15244/pjoes/112899.
+
+Accessed 9 Apr. 2023.
+
+United Nations. “Causes and Effects of Climate Change.”
+
+https://www.un.org/en/climatechange/science/causes-effects-climate-change. Accessed 9
+
+Apr. 2023.
+
+United States of America, Environmental Protection Agency, Office of Atmospheric Protection.
+
+“Draft Inventory of U.S. Greenhouse Gas Emissions and Sinks.” Environmental
+
+Protection Agency, 2023,
+
+https://www.epa.gov/system/files/documents/2023-02/US-GHG-Inventory-2023-Main-Te
+
+xt.pdf. Accessed 9 Apr. 2023.
+
+Watson, Julia. “How to Build a Resilient Future Using Ancient Wisdom.” Ted.com, 11 Aug.
+
+2020.
+
+https://www.ted.com/talks/julia_watson_how_to_build_a_resilient_future_using_ancient
+
+_wisdom. Accessed 9 Apr. 2023.

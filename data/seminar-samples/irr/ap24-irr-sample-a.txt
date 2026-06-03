@@ -1,0 +1,271 @@
+Artificial Intelligence In Healthcare: How Much has AI Advanced the Medical Field?
+
+AP Seminar
+
+Feb 2, 2024
+
+Word Count: 1299
+
+Artificial intelligence has made a recent uprising in many sectors of the world expanding
+
+over areas like business, transport, and health care. Currently, people think of AI as a tool that
+
+can answer questions, or give them ideas on business cases. Riaz from the University of
+
+California Riverside states, Artificial intelligence has a multitude of applications within medicine
+
+and healthcare, many being in medical imaging, disease detection and diagnosis, and treatment
+
+planning (Riaz et al., 2023, p. 43-44). The use of artificial intelligence has made a significant
+
+impact on the medical field with major improvements in the fields of radiology, endoscopy,
+
+cardiology, and diagnosis.
+
+Within the healthcare industry, artificial intelligence has become prominent in areas of
+
+patient data analysis and general practice. While the population uses AI, they are not fully aware
+
+of the workings and functions of the intelligence that could be learning from their data
+
+constantly. Much of artificial intelligence used in practice consists of algorithms and software to
+
+estimate how clinicians think while analyzing medical data (Loh, 2018, p. 59). This kind of AI
+
+modeling is used in radiology or medical imaging, and paves a way for AI to involve itself in
+
+areas similar to imaging. For a long time, physicians were visually assessing and analyzing
+
+medical images to conclude their findings, sometimes being subjective, but with the introduction
+
+of AI, complex patterns and visuals in imaging data can be recognized by AI with more accurate
+
+and quantitative results (Hosny et al., 2018, p. 2). According to a study by Koichiro Yasaka from
+
+the University of Tokyo, deep learning AI models can detect significant abnormalities using
+
+chest radiographs, the most employed piece of equipment in radiology, performing on a
+
+near-human level. Subsequently, Yasaka states that these models of AI can benefit radiology,
+
+becoming a training tool for educating radiologists to gain confidence in difficult scenarios, and a
+
+higher percentage of agreement among clinicians (2018, p. 1). As a professional from the
+
+Canbera Health Services states, self-learning artificial intelligence can also be seen in AI-CAD
+
+systems and their ability to reduce the number of false results per medical image by almost 69%.
+
+The usage of AI-CAD was seen to reduce case reading time by almost 17%, contributing to a
+
+faster and more reliable form of diagnosis (Najjar, 2023, p. 10). With improved ability, medical
+
+professionals are able to expedite the treatment process and deployment of medication.
+
+AI also has its own benefits and improvements that are brought to cardiology and
+
+cardiovascular healthcare. As Kipp Johnson, a physician at Northwestern University, says, AI
+
+and machine learning in cardiology is to be used as a set of tools to expand the effectiveness of
+
+the cardiologist, resulting more efficient, convenient, personalized, and effective clinical practice
+
+as a result of growing demand for faster and personalized care from patients (2018, p. 1). This
+
+speed up is evident in the electrocardiogram (ECG), a vital tool in clinical practice recording
+
+electrical signals from the heart to check for heart conditions, bringing more attention to the
+
+non-human version of healthcare. The ECG is used for the prediction and identification of
+
+cardiovascular emergencies, for example, a heart attack (MI). AI models in echocardiography
+
+have been taught to recognize certain images and patterns of cardiac diseases (Yasmin et al.,
+
+2021, p. 8). From a research journal developed at Transilvania University, deep learning
+
+networks in diagnosing MI use past ECG data to learn from 10,546 signals of regular heartbeat
+
+signals, and 40,182 MI signals with and without sound, producing high accuracy rates in the
+
+diagnosis of a heart attack at around 93.53% for a diagnosis with sound, and 95.22% without the
+
+sound of heartbeats (Hatfaludi et al., 2023, p. 3). Indicating AI’s accuracy in recognizing cardiac
+
+emergency symptoms. With the upbringing of AI into the space, cardiologists and clinicians
+
+alike are able to accurately predict early stages of different heart conditions and work on
+
+treatment plans for patients.
+
+As the impact of AI continues to unfold in the area of cardiology, its applications extend
+
+far beyond cardiovascular health care. Artificial intelligence has taken large strides in endoscopy,
+
+and by using AI’s capabilities in these fields, endoscopic procedures and the diagnosing of their
+
+illnesses will become far more precise and efficient, shown by recent advancements. As said by
+
+the Saudi Journal of Gastroenterology, the AI it is based on is called computer-aided detection
+
+(CAD), and is split into three categories, CADe for detection of abnormalities, CADx is for
+
+predicting diagnoses by characterizing abnormalities, and CADq for improving overall
+
+endoscopic procedure (Arif et al., 2023, p. 2). All applications assist endoscopists in recognizing
+
+polyps, a mass found in the colon, of which, neoplasms, can develop into cancer. The usage of
+
+the CAD systems yielded an equal or higher percentage of accuracy than endoscopists while
+
+detecting early forms of neoplasms in the esophagus (Arif et al., 2023, p. 2). As a result of this
+
+accuracy difference, the ability of AI to provide a significant advantage to endoscopists will help
+
+identify overlooked early stages of cancer, then being able to provide a diagnosis much earlier.
+
+Along with its usage in identifying polyps in the esophagus, it also plays a role in the recognition
+
+of gastric cancer in the stomach. From the department of Gastroenterology and Hepatology, as
+
+the CAD system was deployed for the detection of gastric cancer, it produced a diagnostic
+
+accuracy of 91% rather than 87% from expert endoscopists, and 74% from non experts (Tokat, et
+
+al., 2021, p. 8). Most procedural trials conducted with AI or CAD systems have yielded a
+
+positive result, sometimes doing better than experts in the field, portraying its potential benefits
+
+to identifying early gastric cancer within patients.
+
+Finally, AI is also impactful in the field of diagnosing severe or rare illnesses, such as
+
+cancer. In a recent study by Magda Wojtara and her peers, she said AI in these scenarios work by
+
+acting as a support system for the practitioner, providing lists of relevant differential diagnoses.
+
+She mentions that similar AI have been used in the detection and diagnosis of the COVID-19
+
+disease by tracking demographic, clinical, and epidemiological characteristics of patients
+
+(Wojtara et al., 2023, p. 2). As the system is used, patients are provided with treatment plans that
+
+could result in a positive outcomes. Lung cancer is one of the most common cancers in the US
+
+with high fatality rates. In recent years, artificial intelligence has been found to be able to detect
+
+malignant pulmonary nodules from chest CT images, allowing accurate diagnosis and prediction
+
+(Pei et al., 2022, p. 2-3). Although AI has not been a fully reliable source for treatments, it still
+
+provides a much faster alternative to manually deciding which compounds to use for a
+
+personalized lung cancer treatment (Pei et al., 2022, p. 6). Additionally, with the population
+
+growth and the shortage of medical practitioners, AI can serve as a great partner to help with
+
+initial diagnoses, speeding up the treatment plan for patients.
+
+As the healthcare field is constantly changing and adapting to new challenges, artificial
+
+intelligence has served as a great partner in improving patient care, access, and ultimately
+
+improving medical outcomes. With the introduction of artificial intelligence into the medical
+
+field, it has brought along a number of improvements, like accurate cancer and disease detection
+
+from scans or procedures and early cardiovascular emergency prediction. With the case studies
+
+presented, it clearly indicates the contribution of AI to healthcare, improving the efficiency of a
+
+patient’s personal healthcare plan. While AI is in a constant state of evolution, it may develop a
+
+stronger relationship with the healthcare field and may be seen growing into people’s daily lives
+
+that can further help to provide effective and fast patient care without leaving their homes,
+
+creating a safer environment in and out of the hospital.
+
+References
+
+Arif, A. A., Jiang, S. X., & Byrne, M. F. (2023). Artificial intelligence in endoscopy: Overview,
+
+applications, and future directions. Saudi journal of gastroenterology : official journal of
+
+the Saudi Gastroenterology Association, 29(5), 269–277.
+
+https://doi.org/10.4103/sjg.sjg_286_23
+
+Hatfaludi, C.-A., Danu, M.-D., Leonte, H.-A., Popescu, A.-B., Condrea, F., Aldea, G.-D., Sandu,
+
+A.-E., Leordeanu, M., Suciu, C., Rodean, I.-P., & Itu, L.-M. (2023). Applications of
+
+Artificial Intelligence in Cardiovascular Emergencies – Status Quo and Outlook. Journal
+
+of Cardiovascular Emergencies, 9(4), 83–102. https://doi.org/10.2478/jce-2023-0019
+
+Hosny, A., Parmar, C., Quackenbush, J., Schwartz, L. H., & Aerts, H. J. W. L. (2018). Artificial
+
+intelligence in radiology. Nature reviews. Cancer, 18(8), 500–510.
+
+https://doi.org/10.1038/s41568-018-0016-5
+
+Johnson, K. W., Torres Soto, J., Glicksberg, B. S., Shameer, K., Miotto, R., Ali, M., Ashley, E.,
+
+& Dudley, J. T. (2018). Artificial Intelligence in Cardiology. Journal of the American
+
+College of Cardiology, 71(23), 2668–2679. https://doi.org/10.1016/j.jacc.2018.03.521
+
+Loh, E. (2018). Medicine and the rise of the robots: a qualitative review of recent advances of
+
+artificial intelligence in health. BMJ Leader, 2(2), 59–63.
+
+doi:10.1136/leader-2018-000071
+
+Najjar, R. (2023). Redefining Radiology: A Review of Artificial Intelligence Integration in
+
+Medical Imaging. Diagnostics (2075-4418), 13(17), 2760.
+
+https://doi.org/10.3390/diagnostics13172760
+
+Pei, Q., Luo, Y., Chen, Y., Li, J., Xie, D., & Ye, T. (2022). Artificial intelligence in clinical
+
+applications for lung cancer: diagnosis, treatment and prognosis. Clinical chemistry and
+
+laboratory medicine, 60(12), 1974–1983. https://doi.org/10.1515/cclm-2022-0291
+
+Riaz, T., Akram, M., Laila, U., Khalil, M. T., Zainab, R., Iftikhar, M., Ozdemir, F. A., Sołowski,
+
+G., Alinia-Ahandani, E., Altable, M., Egbuna, C., Sfera, A., Adnan, M., & Parmar, P. (2023).
+
+Transforming Healthcare with Artificial Intelligence (AI). International Archives of Integrated
+
+Medicine, 10(11), 41–50.
+
+Tokat, M., van Tilburg, L., Koch, A. D., & Spaander, M. C. W. (07 2021). Artificial Intelligence
+
+in Upper Gastrointestinal Endoscopy. Digestive Diseases, 40(4), 395–408.
+
+doi:10.1159/000518232
+
+Wojtara, M., Rana, E., Rahman, T., Khanna, P., & Singh, H. (2023). Artificial intelligence in rare
+
+disease diagnosis and treatment. CTS: Clinical & Translational Science, 16(11),
+
+2106–2111. https://doi.org/10.1111/cts.13619
+
+Yasaka, K., & Abe, O. (11 2018). Deep learning and artificial intelligence in radiology: Current
+
+applications and future directions. PLOS Medicine, 15(11), 1–4.
+
+doi:10.1371/journal.pmed.1002707
+
+Yasmin, F., Shah, S. M. I., Naeem, A., Shujauddin, S. M., Jabeen, A., Kazmi, S., Siddiqui, S. A.,
+
+Kumar, P., Salman, S., Hassan, S. A., Dasari, C., Choudhry, A. S., Mustafa, A., Chawla,
+
+S., & Lak, H. M. (2021). Artificial intelligence in the diagnosis and detection of heart
+
+failure: the past, present, and future. Reviews in cardiovascular medicine, 22(4),
+
+1095–1113. https://doi.org/10.31083/j.rcm2204121

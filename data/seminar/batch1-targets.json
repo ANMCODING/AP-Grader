@@ -1,0 +1,29 @@
+{
+  "tolerance": 3,
+  "papers": [
+    {
+      "file": "iwa_4_high_eyewitness_memory.txt",
+      "task": "iwa",
+      "label": "Eyewitness memory (IWA High)",
+      "totalBand": [44, 48]
+    },
+    {
+      "file": "iwa_6_low_nuclear_energy.txt",
+      "task": "iwa",
+      "label": "Nuclear energy (IWA Low)",
+      "totalBand": [0, 8]
+    },
+    {
+      "file": "irr_4_high_sleep_deprivation.txt",
+      "task": "irr",
+      "label": "Sleep deprivation (IRR High)",
+      "totalBand": [27, 30]
+    },
+    {
+      "file": "irr_6_low_single_sex_education.txt",
+      "task": "irr",
+      "label": "Single-sex education (IRR Low)",
+      "totalBand": [6, 10]
+    }
+  ]
+}

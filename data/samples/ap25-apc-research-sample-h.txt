@@ -1,0 +1,586 @@
+2025
+
+AP Research
+Academic Paper
+®
+
+Sample Student Responses
+and Scoring Commentary
+
+Inside:
+Sample H
+☑5 Scoring Guidelines
+☑5 Student Samples
+☑5 Scoring Commentary
+
+© 2025 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered trademarks of
+College Board. AP Capstone is a trademark owned by College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+AP® Research 2025 Scoring Guidelines
+
+Academic Paper
+
+5 Points
+
+Report on Existing Knowledge
+
+Report on Existing Knowledge
+with Simplistic Use of a Research
+Method
+
+Score of 2
+
+Score of 3
+
+Ineffectual Argument for a New
+Understanding
+
+Well-Supported, Articulate
+Argument Conveying a New
+Understanding
+
+Score of 4
+
+Score of 5
+
+• Presents an overly broad topic of
+inquiry.
+
+• Presents a topic of inquiry with
+narrowing scope or focus, that is
+NOT carried through either in the
+method or in the overall line of
+reasoning.
+
+• Carries the focus or scope of a
+topic of inquiry through the
+method AND overall line of
+reasoning, even though the focus
+or scope might still be narrowing.
+
+• Focuses a topic of inquiry with
+clear and narrow parameters,
+which are addressed through the
+method and the conclusion.
+
+• Focuses a topic of inquiry with
+clear and narrow parameters,
+which are addressed through the
+method and the conclusion.
+
+• Situates a topic of inquiry within
+a single perspective derived from
+scholarly works OR through a
+variety of perspectives derived
+from mostly non-scholarly works.
+
+• Situates a topic of inquiry within
+a single perspective derived from
+scholarly works OR through a
+variety of perspectives derived
+from mostly non-scholarly works.
+
+• Situates a topic of inquiry within
+relevant scholarly works of
+varying perspectives, although
+connections to some works may
+be unclear
+
+• Explicitly connects a topic of
+inquiry to relevant scholarly
+works of varying perspectives
+AND logically explains how the
+topic of inquiry addresses a gap.
+
+• Explicitly connects a topic of
+inquiry to relevant scholarly
+works of varying perspectives
+AND logically explains how the
+topic of inquiry addresses a gap.
+
+• Describes a search and report
+process.
+
+• Describes a nonreplicable
+research method OR provides an
+oversimplified description of a
+method, with questionable
+alignment to the purpose of the
+inquiry.
+
+• Describes a reasonably replicable
+research method, with
+questionable alignment to the
+purpose of the inquiry.
+
+• Logically defends the alignment
+of a detailed, replicable research
+method to the purpose of the
+inquiry
+
+• Logically defends the alignment
+of a detailed, replicable research
+method to the purpose of the
+inquiry.
+
+• Summarizes or reports existing
+knowledge in the field of
+understanding pertaining to the
+topic of inquiry.
+
+• Summarizes or reports existing
+knowledge in the field of
+understanding pertaining to the
+topic of inquiry.
+
+• Conveys a new understanding or
+conclusion, with an
+underdeveloped line of reasoning
+OR insufficient evidence.
+
+• Supports a new understanding or
+conclusion through a logically
+organized line of reasoning AND
+sufficient evidence. The
+limitations and/or implications, if
+present, of the new
+understanding or conclusion are
+oversimplified.
+
+• Justifies a new understanding or
+conclusion through a logical
+progression of inquiry choices,
+sufficient evidence, explanation
+of the limitations of the
+conclusion, and an explanation of
+the implications to the
+community of practice.
+
+• Generally communicates the
+student’s ideas, although errors
+in grammar, discipline-specific
+style, and organization distract or
+confuse the reader.
+
+• Generally communicates the
+student’s ideas, although errors
+in grammar, discipline-specific
+style, and organization distract or
+confuse the reader.
+
+• Competently communicates the
+student’s ideas, although there
+may be some errors in grammar,
+discipline-specific style, and
+organization.
+
+• Competently communicates the
+student’s ideas, although there
+may be some errors in grammar,
+discipline-specific style, and
+organization.
+
+• Enhances the communication of
+the student’s ideas through
+organization, use of design
+elements, conventions of
+grammar, style, mechanics, and
+word precision, with few to no
+errors.
+
+• Cites AND/OR attributes sources
+(in bibliography/ works cited
+and/or intext), with multiple
+errors and/or an inconsistent use
+of a discipline specific style.
+
+• Cites AND/OR attributes sources
+(in bibliography/ works cited
+and/or intext), with multiple
+errors and/or an inconsistent use
+of a discipline specific style.
+
+• Cites AND attributes sources,
+using a discipline-specific style (in
+both bibliography/works cited
+AND intext), with few errors or
+inconsistencies.
+
+• Cites AND attributes sources,
+with a consistent use of an
+appropriate discipline-specific
+style (in both bibliography/works
+cited AND intext), with few to no
+errors.
+
+• Cites AND attributes sources,
+with a consistent use of an
+appropriate discipline-specific
+style (in both bibliography/works
+cited AND intext), with few to no
+errors.
+
+Score of 1
+
+Rich Analysis of a New
+Understanding Addressing a Gap
+in the Research Base
+
+© 2025 College Board
+
+Research Sample H 1 of 14
+
+Thrombolysis and Frostbite: A Systematic Review
+AP Research
+Word count:3119
+
+Research Sample H 2 of 14
+
+Abstract
+The purpose of this paper is to provide a contribution of new knowledge to the current pool of
+medical research involving thrombolysis’ effect on frostbite recovery. In order to do this a
+content analysis of existing case studies and literature will be performed. The content analysis is
+designed to be as unbiased as possible through the use of almost entirely quantitative data and
+through the use of a standardizing tool called PRISMA. PRISMA ( Preferred Reporting Items for
+Systematic Reviews and Meta-Analysis). PRISMA provided a standard that is used by other
+researchers that allowed me to add a great deal of credibility to my research. While researching
+another paper it cited PRISMA as a resource and this led me to research it and to decide to use it
+to enhance my paper. PRISMA allowed me to greatly reduce the amount of bias in my research
+paper and I would highly recommend it to future researchers. I did not follow the guidelines
+perfectly as they were designed for Meta-Analysis but as far as my research got I did use it. I
+used a series of inclusion and exclusion criteria in order to determine what case studies and
+literature to include in my data collection. After collecting data the data will be used to analyze
+the research question To what extent does the effectiveness of thrombolysis with frostbite differ
+between young adults and middle aged people. The most important data that will be collected is
+the age of the patients and the data used to determine how effective the thrombolysis treatment
+is. In order to determine this the data collected will be as follows: The degree of frostbite and
+then the amount of extremities, in this case likely fingers and toes, that had to be amputated due
+to the extent of the frostbite injuries. Using this criteria and method a research process will entail.
+My hypothesis is that thrombolysis will be a more effective treatment for young adults than for
+middle aged people. The results of the paper will be outlined in a data table that will likely show
+a clear difference between the effectiveness of the thrombolysis treatment. Ideally this will
+
+Research Sample H 3 of 14
+
+involve data points from at least 50-100 cases from various case studies and other literature.
+These case studies and reports will be pulled from pubmed and google scholar sources.
+
+Literature review:
+Frostbite is defined as “a local tissue injury caused by cold exposure with freezing”.
+(Regli et al., 2023a) It has an extremely high morbidity as it can occur anywhere that there are
+substances or environments that have a cold temperature. Frostbite also commonly occurs with
+people who are intoxicated or have otherwise impaired judgement. It can be caused by a variety
+of conditions including excessive cold, excessive wind and a high humidity level that, when
+combined, can create an environment that is highly hazardous to the human body. When faced
+with these threats for a prolonged period of time the body can cool to a dangerous temperature. It
+responds by taking the warm blood from extremities and bringing it closer to the core in order to
+keep the vital organs healthy.(Drinane et al., 2019) This “sacrifice” of the outer extremities is
+often necessary to keep vital organs intact and functioning but can cause the freezing of body
+tissue which in many cases can be extremely harmful as “Intra and extracellular ice formation
+cause electrolyte and pH shifts as well as cell membrane disruption, resulting in cell death and
+tissue destruction”(Regli et al., 2023a). In order to treat frozen tissue effectively, medical
+attention is needed as soon as possible. The longer that it takes for medical attention to be
+provided the more likely that lasting damage will occur. For a very long time the best known
+treatment for frostbite was “tissue rewarming, prolonged watchful waiting, and often delayed
+amputation”(Lee & Higgins, 2020) This treatment is effective in the sense that it does save lives
+and was the best treatment for a very long time but the common result of delayed amputation
+leaves a lot of room for improvement by modern medicine. In order to protect itself “The body
+
+Research Sample H 4 of 14
+
+responds to such cold-related thermal insults with alternating cycles of vasoconstriction and
+vasodilation”(Lee & Higgins, 2020). While it is beneficial for the body as the whole this is
+detrimental to the bodily tissue involved. During the stage of rewarming the extent of this
+damage becomes apparent and due to the nature of rewarming numerous ailments can and likely
+will result from the tissue being rewarmed and being reintroduced to blood flow after a period
+without it. (Regli et al., 2023a). Much of the time blood flow to these affected areas does not
+come easily even after the rewarming of tissue. In the majority of cases that proper medical care
+is available more treatment than just rapid rewarming is necessary. After the period of prolonged
+observation it will become obvious whether or not the patient needs further treatment. In many
+cases amputation of affected extremities becomes necessary in order to preserve the life of the
+patient. The amputation of extremities can severely affect a person's quality of life and can
+possibly or even likely become traumatic for the patient.(Drinane et al., 2019) However, a
+substantial amount of research is showing that thrombolysis is a viable and beneficial option to
+help reduce the incidence of amputation of extremities (Zhang et al., 2019).Thrombolysis is a
+very general definition but for the purpose of this study I will only be examining papers that
+make use of IV thrombolysis. Trans-catheter is also a viable option for thrombolysis but is used
+less with frostbite as it is less effective. As seen in Lee and Higgins study the most common
+option to identify the need of thrombolysis is an Angiography with the second most common
+option being a bone scan. (Lee et al., 2019). An angiography is a medical test where a special
+dye called a contrast is injected into an artery in the area of the body to be studied and an X-Ray
+is taken of that part of the body. The contrast allows for the blood flow in the area to show up on
+an X-ray so that the extent of the frostbite damage may be studied. (Extremity Angiography:
+MedlinePlus Medical Encyclopedia, n.d.)
+
+Research Sample H 5 of 14
+
+There are numerous studies that I found that were similar to my own study as they share
+similar methods and a similar interest in frostbite. Most of those studies focused almost
+exclusively on the general effectiveness of thrombolytics such as tPA. These papers evaluated the
+effectiveness of thrombolysis by using the number of extremities amputated and the kind of
+treatment that they received. They did not evaluate any variables except for the success and fail
+of the treatment and the kind of treatment. None of these studies evaluated any kinds of variables
+such as differences in patients' ages or ethnicities. This left a gap that could be filled by further
+research by another researcher. I chose to fill this gap by imitating their methods but isolating a
+different variable in patient ages. These studies were extremely helpful with the making of my
+paper as they provided inspiration for my topics and showed me the most effective way to study
+the topic that I eventually decided to take my time and study. Each of the aforementioned studies
+were peer reviewed and came from respected databases. This helped to ensure that my basis of
+research was strong and helped to reduce the likelihood of the possibility that my research
+foundation was flawed. One such study was called Frostbite Treatment: a systematic review with
+meta-analysis. This study also followed the guidelines outlined in the PRISMA study. This study
+had a similar method and topic to the research study that I decided to do. It was written by
+medical professionals who have a great deal of experience with frostbite and have medical
+degrees. This study evaluated the effectiveness of thrombolysis treatment in general and while it
+did also have data points that showed the difference of effectiveness between males and females
+it did not show the differences between any other variable. It also showed the use of multiple
+kinds of thrombolytics and it showed how effective each one was.
+Gap in existing research
+
+Research Sample H 6 of 14
+
+While there are many studies that show how effective thrombolysis is in the general
+public there are no studies that compare the effectiveness of thrombolysis between middle aged
+people, aged 40-59, and young adults, aged 18 to 25.
+
+Assumptions
+In this study I make a series of assumptions such as I assume that there is an obvious difference
+in the effectiveness of thrombolysis with middle aged people and young adults, I assume that
+thrombolysis is used in a similar fashion with both parties, I assume that the patients will have a
+similar enough nature of injury that the results will be comparable, and I assume that there will
+be no overlap in the patient data used in the studies that I will be using.
+
+Significance
+This study has the potential to impact how doctors treat patients of different age groups. Ideally
+this study will show that there is a possible difference in the effectiveness of the treatment of
+frostbite with thrombolytics between the two age groups. If it does show that then it can provide
+another part to the larger research of thrombolytic effectiveness and hopefully contribute some
+knowledge for further researchers. If my hypothesis is proven correct and further research is
+established it is possible that the age of the patient may provide further consideration for the
+doctor to decide whether or not to prescribe thrombolytics. Understanding this new difference
+could influence a doctors decision on whether or not to provide the patient with thrombolytic
+treatment and it could influence the result of the treatment. The results of the treatment could be
+life changing for those patients that receive it.
+
+Research Sample H 7 of 14
+
+Method
+I will perform a quantitative content analysis on 50 medical research papers or case
+studies that include patient data summarizing their Age, injuries, treatment and the outcome of
+said treatment. In order to reduce the possibility of bias in this study and to ensure that it is as
+professional as possible I chose to follow the guidelines of the Preferred Reporting Items for
+Systematic Reviews and Meta-Analysis (PRISMA–www.prisma-statement.org). This provides a
+standardized outline for the creation of a systematic review and will help to ensure that I am not
+biased and that the creation of this paper is as professional as possible. While bias is largely
+unavoidable a standardized approach will help to minimize it and allow for a better overall paper.
+Using a proven method or a standardized approach allows you to use a time tested method that
+has already been proven. PRISMA is overseen by two professors from Monash University.
+During the course of this study I will get each of the papers or case studies from either Google
+Scholar, or Pubmed. Ideally I would include Elseviers medical database as well but due to
+limited access Elseviers database and case studies were not included in the research process.
+Exclusion Criteria
+In order to ensure that the data that I found would provide only the data that I needed I chose to
+exclude some papers or patient data that had insufficient information for my research. In order to
+do this I chose to exclude data from patients with severe comorbidities, patients that had injuries
+that involved flash freezing incidents that may have been caused by dry ice or liquid nitrogen and
+patients who were not in the correct age group. The treatments for these injuries are not the same
+treatments as for general frostbite and those said treatments would likely affect the outcome of
+the thrombolytic treatment and would damage the integrity of the study. These factors may also
+
+Research Sample H 8 of 14
+
+influence whether or not a patient would receive thrombolysis, again affecting the integrity of the
+study.
+Inclusion Criteria
+For the purpose of this study I chose to include only the necessary data. This includes the
+patient's age, body parts involved, frostbite grade, hospital treatment and outcome. The data that
+is the patients age provides the basis of this research project. The difference of effectiveness of
+the frostbite is the research part of the research project. The body parts that are most commonly
+affected by frostbite are the extremities that give off the most heat and are the farthest from the
+core. These are most often the hands and feet, or more specifically the fingers and the toes. The
+number of these affected digits and the outcome of the treatment will be collected and put in a
+table that is meant to detail the effectiveness of the treatment. The frostbite grade is another point
+of data that will help to add context and relevance to this study. It will allow for the
+categorization of the injuries to be shown in the table next to the results so that they can be seen
+side by side and can help add context to it. The frostbite grade can also be a factor that helps to
+determine whether or not an individual patient is selected to undergo the process of thrombolysis
+in addition to the rest of the necessary treatment. The frostbite grade can be determined by the
+depth of the frostbite injury in relation to the skin. The depth of the frozen tissue in the affected
+areas will determine the grade of the aforementioned frostbite. The hospital treatment is also
+definitely a massive factor in the data for this research project. Generally in this research method
+the point is to isolate a variable to allow it to be studied but treatment almost definitely will vary
+in quality and form from hospital to hospital. A patient could possibly be taken care of in a small
+hospital or emergency care center or when possible they could be sent to a burn center that
+specializes in treating injuries that have a similar likeness to frostbite injuries. While this is not
+
+Research Sample H 9 of 14
+
+the focus of the study it can also be a significant factor that influences the outcome of each
+individual patients recovery from their injuries. The outcome is the culmination of all of these
+other factors. In most cases this is the main point of data that will determine whether or not the
+treatment of the patient was effective. The outcome can end up being several different things but
+the most common results will likely be either a full or partial amputation that would show that
+the treatment was not effective or it could be a full recovery or an eventual recovery that would
+be shown as an effective treatment in the context of this study. Each of these factors will be
+essential to the research method and the results of this study as each of these factors are directly
+related.
+
+Limitations
+When I was studying this topic I ran into a few limitations that provided obstacles to the
+research process. I found that much of the research and studies that I used were based in America
+limiting the diversity of the project. Another limitation is that many of the medical research
+databases that i found that had the case studies that contained the data necessary for my study
+required a sign-in as part of an organization, such as a hospital or university. As I have yet to be a
+part of either of those things gaining access to any of those databases proved to be impossible.
+Advice
+I would advise future researchers to expand on my research by incorporating more research
+databases from a larger variety of sources. Specifically sources from different parts of the world
+and places that have different standards of medical care. As my sources largely came from
+American sources I feel that if someone were to expand that to sources from places such as
+Russia, China, Norway, or other places in the world that have a significant amount of frostbite
+
+Research Sample H 10 of 14
+
+they could gain a greater understanding of frostbite treatment in places all over the world. They
+could also do studies based in places that generally don’t get cold enough to have frostbite but
+for some reason with the weather they have an influx of cases. The effectiveness of thrombolysis
+with those that are unaccustomed to cold could be an interesting variable that could produce yet
+another research project. Another item I feel would greatly add to the topic is how the
+effectiveness of thrombolysis with frostbite differs with multiple ethnicities. The variations of
+demographics that would affect this topic that can be studied are extremely numerous and would
+take much time and effort to study but would produce much data that could be profitable to the
+medical community, specifically those that specialize in burn care. This would also be especially
+important to the patients that would be affected by the results of the data.
+Results
+I am hypothesizing that the results of this study will be that thrombolysis is more effective in
+young adults than in middle aged people. The results of this study will be in a table format with a
+section for Young adults and for Middle aged people. There would be numbers of patients with
+each previously outlined data point included. Then the percentage of amputations for each
+section, along with the considerations of frostbite grade will be shown at the end. These two
+percentages will be the basis for the new understanding of whether or not the treatment was
+effective. My hypothesis that there will be an obvious difference very well may be entirely
+wrong but even if that happens then this research project is still a beneficial study. The
+understanding that there is a negligible difference could be just as important as the understanding
+that there is not a difference between the effectiveness of thrombolysis with frostbite between
+young adults and middle aged people. While the method outlined in this study was regrettably
+not performed this avenue of research is still very viable and could later be performed when
+
+Research Sample H 11 of 14
+
+more resources are available. The ability to have access to the necessary data points is very
+valuable and is not something that I gained access to.
+Conclusion
+While this research project is deficient as it does not provide a new understanding of the
+topic nor does it provide viable research it does have a strong foundation. This basis for a
+research project is something that is still valuable to the research field primarily as a lit review.
+This research project was not a failure and is something that provided a great deal of insight and
+learning to the researcher involved. This research project could provide valuable insight into the
+field of frostbite treatment.
+
+Research Sample H 12 of 14
+
+Works Cited
+angiography. (2025). In Merriam-Webster Dictionary.
+https://www.merriam-webster.com/dictionary/angiography
+Bruen KJ, Ballard JR, Morris SE, Cochran A, Edelman LS, Saffle JR. Reduction of the incidence
+of amputation in frostbite injury with thrombolytic therapy. Arch Surg. 2007
+Jun;142(6):546-51; discussion 551-3. doi: 10.1001/archsurg.142.6.546. PMID:
+17576891.
+Carmichael H, Michel S, Smith TM, Duffy PS, Wiktor AJ, Lambert Wagner A. Remote Delivery
+of Thrombolytics Prior to Transfer to a Regional Burn Center for Tissue Salvage in
+Frostbite: A Single-center Experience of 199 Patients. J Burn Care Res. 2022 Jan
+5;43(1):54-60. doi: 10.1093/jbcr/irab041. PMID: 33657205.
+Cauchy, E., Cheguillaume, B., & Chetaille, E. (2011). A controlled trial of a prostacyclin and
+RT-PA in the treatment of severe frostbite. New England Journal of Medicine, 364(2),
+189–190. https://doi.org/10.1056/nejmc1000538
+Extremity angiography: MedlinePlus Medical Encyclopedia. (n.d.).
+https://medlineplus.gov/ency/article/003772.htm
+Heard J, Shamrock A, Galet C, Pape KO, Laroia S, Wibbenmeyer L. Thrombolytic Use in
+Management of Frostbite Injuries: Eight Year Retrospective Review at a Single
+Institution. J Burn Care Res. 2020 May 2;41(3):722-726. doi: 10.1093/jbcr/iraa028.
+PMID: 32030427.
+James Drinane, Vasanth S Kotamarti, Casey O’Connor, Lakshmi Nair, Alex Divanyan, Malcolm
+Z Roth, Ashit Patel, Joseph A Ricci, Thrombolytic Salvage of Threatened Frostbitten
+
+Research Sample H 13 of 14
+
+Extremities and Digits: A Systematic Review, Journal of Burn Care & Research, Volume
+40, Issue 5, September/October 2019, Pages 541–549, https://doi.org/10.1093/jbcr/irz097
+Lee, J., & Higgins, M. C. S. S. (2020). What Interventional Radiologists Need to know about
+Managing Severe Frostbite: A Meta-Analysis of Thrombolytic Therapy. American
+Journal of Roentgenology, 214(4), 930–937. https://doi.org/10.2214/ajr.19.21592
+NCI Dictionary of Cancer Terms. (n.d.). Cancer.gov.
+https://www.cancer.gov/publications/dictionaries/cancer-terms/def/thrombolysis
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D.,
+Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J.,
+Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E.,
+McDonald, S., . . . Moher, D. (2021). The PRISMA 2020 statement: an updated guideline
+for reporting systematic reviews. BMJ, n71. https://doi.org/10.1136/bmj.n71
+Paine, R. E., Turner, E. N., Kloda, D., Falank, C., Chung, B., & Carter, D. W. (2020). Protocoled
+thrombolytic therapy for frostbite improves phalangeal salvage rates. Burns & Trauma, 8.
+https://doi.org/10.1093/burnst/tkaa008
+Patel, N., Srinivasa, D. R., Srinivasa, R. N., Gemmete, J. J., Krishnamurthy, V., Dasika, N.,
+Reddy, S. N., Osher, M. L., Sears, E. D., & Chick, J. F. B. (2017). Intra-arterial
+thrombolysis for extremity frostbite decreases digital amputation rates and hospital length
+of stay. CardioVascular and Interventional Radiology, 40(12), 1824–1831.
+https://doi.org/10.1007/s00270-017-1729-7
+Regli, I. B., Oberhammer, R., Zafren, K., Brugger, H., & Strapazzon, G. (2023). Frostbite
+treatment: a systematic review with meta-analyses. Scandinavian Journal of Trauma
+
+Research Sample H 14 of 14
+
+Resuscitation and Emergency Medicine, 31(1).
+https://doi.org/10.1186/s13049-023-01160-3
+Sean Hickey, Amy Whitson, Larry Jones, Lucy Wibbenmeyer, Colleen Ryan, Ryan Fey, Jeffrey
+Litt, Renata Fabia, Lee Cancio, William Mohr, John Twomey, Anne Wagner, Amalia
+Cochran, J Kevin Bailey, Guidelines for Thrombolytic Therapy for Frostbite, Journal of
+Burn Care & Research, Volume 41, Issue 1, January/February 2020, Pages 176–183,
+https://doi.org/10.1093/jbcr/irz148
+Tawfik, G. M., Dila, K. a. S., Mohamed, M. Y. F., Tam, D. N. H., Kien, N. D., Ahmed, A. M., &
+Huy, N. T. (2019). A step by step guide for conducting a systematic review and
+meta-analysis with simulation data. Tropical Medicine and Health, 47(1).
+https://doi.org/10.1186/s41182-019-0165-6
+Teresa P. Gonzaga, Kamrun Jenabzadeh, Christopher P. Anderson, William J. Mohr, Frederick
+W. Endorf, David H. Ahrenholz, Use of Intra-arterial Thrombolytic Therapy for Acute
+Treatment of Frostbite in 62 Patients with Review of Thrombolytic Therapy in Frostbite,
+Journal of Burn Care & Research, Volume 37, Issue 4, July-August 2016, Pages
+e323–e334, https://doi.org/10.1097/BCR.0000000000000245
+Tucker, M. E. (2008). Thrombolytic therapy saves frostbitten limbs. In Trauma HOSPITALIST
+NEWS. https://cdn.mdedge.com/files/s3fs-public/issues/articles/70084_main_32.pdf
+Zhang JL, Fu JX, Yuan K, Yuan B, Wang MQ. [Advances in the research of transcatheter arterial
+thrombolysis for severe frostbite therapy]. Zhonghua Shao Shang Za Zhi. 2019 Jan
+20;35(1):74-76. Chinese. doi: 10.3760/cma.j.issn.1009-2587.2019.01.015. PMID: 30678407.
+
+AP RESEARCH 2025 • SCORING COMMENTARY
+
+Academic Paper
+Note: Student samples are quoted verbatim and may contain spelling and grammatical errors.
+Overview
+NEW for 2025: The question overviews can be found in the Chief Reader Report on Student Responses on
+AP Central.
+Sample: H
+Score: 2
+This paper earns a score of 2. The research question is found on p. 6: “... [to] compare the effectiveness
+of thrombolysis between middle aged people, aged 40-59, and young adults, aged 18 to 25.” This
+question is situated in a literature review of mostly scholarly sources. A method is described on p. 7: “...a
+quantitative content analysis on 50 medical research papers or case studies that include patient data
+summarizing their Age, injuries, treatment and the outcome of said treatment.” Part of content analysis is
+to develop sample selection criteria. Exclusion criteria and inclusion criteria for what studies to include
+in the systematic review are described on pp. 7-8: “ I will get each of the papers or case studies from
+either Google Scholar, or Pubmed” and “This includes the patient’s age, body parts involved, frostbite
+grade, hospital treatment and outcome.” The inclusion of the selection criteria demonstrates limited
+use of the method as part of the coding development. The method was not carried out beyond this step,
+and thus the only results presented are hypothetical (p. 10). The paper as a whole is a report on existing
+knowledge with simplistic use of a method.
+This paper does not earn a score of 1. The methods described go beyond a search and report method.
+There is a narrowing scope about thrombolysis and simplistic method use.
+This paper does earn a score of 3. The presented hypothesized results are on p. 10 which do not
+competently convey a new understanding. The communication is general and not competent. For
+example, PRISMA is introduced on p. 5 but not explained until p. 7.
+
+© 2025 College Board.
+
+Visit College Board on the web: collegeboard.org.	
+
+

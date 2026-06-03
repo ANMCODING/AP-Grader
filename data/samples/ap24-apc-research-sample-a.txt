@@ -1,0 +1,580 @@
+
+
+
+
+
+
+
+
+
+AP(r)  Research Academic Paper
+Sample Student Responses and Scoring Commentary
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered trademarks of College Board. AP Capstone is a trademark owned by College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+AP(r) Research 2024 Scoring Guidelines
+
+
+Score of 1	Score of 2	Score of 3	Score of 4	Score of 5Report on Existing KnowledgeReport on Existing Knowledge
+with Simplistic Use of a Research MethodIneffectual Argument for a New UnderstandingWell-Supported, Articulate
+Argument Conveying a New UnderstandingRich Analysis of a New
+Understanding Addressing a Gap in the Research Base• Presents an overly broad topic of inquiry.• Presents a topic of inquiry with narrowing scope or focus, that is NOT carried through either in the method or in the overall line of reasoning.• Carries the focus or scope of a topic of inquiry through the method AND overall line of reasoning, even though the focus or scope might still be narrowing.• Focuses a topic of inquiry with clear and narrow parameters, which are addressed through the method and the conclusion.• Focuses a topic of inquiry with clear and narrow parameters, which are addressed through the method and the conclusion.• Situates a topic of inquiry within a single perspective derived from scholarly works OR through a variety of perspectives derived from mostly non-scholarly works.• Situates a topic of inquiry within a single perspective derived from scholarly works OR through a variety of perspectives derived from mostly non-scholarly works.• Situates a topic of inquiry within relevant scholarly works of varying perspectives, although connections to some works may be unclear• Explicitly connects a topic of inquiry to relevant scholarly works of varying perspectives AND logically explains how the topic of inquiry addresses a gap.• Explicitly connects a topic of inquiry to relevant scholarly works of varying perspectives AND logically explains how the topic of inquiry addresses a gap.• Describes a search and report process.• Describes a nonreplicable research method OR provides an oversimplified description of a method, with questionable alignment to the purpose of the inquiry.• Describes a reasonably replicable research method, with questionable alignment to the purpose of the inquiry.• Logically defends the alignment of a detailed, replicable research method to the purpose of the inquiry• Logically defends the alignment of a detailed, replicable research method to the purpose of the inquiry.• Summarizes or reports existing knowledge in the field of understanding pertaining to the topic of inquiry.• Summarizes or reports existing knowledge in the field of understanding pertaining to the topic of inquiry.• Conveys a new understanding or conclusion, with an underdeveloped line of reasoning OR insufficient evidence.• Supports a new understanding or conclusion through a logically organized line of reasoning AND sufficient evidence. The limitations and/or implications, if present, of the new understanding or conclusion are oversimplified.• Justifies a new understanding or conclusion through a logical progression of inquiry choices, sufficient evidence, explanation of the limitations of the conclusion, and an explanation of the implications to the community of practice.• Generally communicates the student's ideas, although errors in grammar, discipline-specific style, and organization distract or confuse the reader.• Generally communicates the student's ideas, although errors in grammar, discipline-specific style, and organization distract or confuse the reader.• Competently communicates the student's ideas, although there may be some errors in grammar, discipline-specific style, and organization.• Competently communicates the student's ideas, although there may be some errors in grammar, discipline-specific style, and organization.• Enhances the communication of the student's ideas through organization, use of design elements, conventions of grammar, style, mechanics, and word precision, with few to no errors.• Cites AND/OR attributes sources (in bibliography/ works cited and/or intext), with multiple errors and/or an inconsistent use of a discipline specific style.• Cites AND/OR attributes sources (in bibliography/ works cited and/or intext), with multiple errors and/or an inconsistent use of a discipline specific style.• Cites AND attributes sources, using a discipline-specific style (in both bibliography/works cited AND intext), with few errors or inconsistencies.• Cites AND attributes sources, with a consistent use of an appropriate discipline-specific style (in both bibliography/works cited AND intext), with few to no errors.• Cites AND attributes sources, with a consistent use of an appropriate discipline-specific style (in both bibliography/works cited AND intext), with few to no errors.
+(c) 2024 College Board
+
+AP(r) Research 2024 Scoring Commentary
+
+Academic Paper
+Overview
+
+This performance task was intended to assess students' ability to conduct scholarly and responsible research and develop an evidence-based argument that clearly communicates a conclusion or new understanding stemming from a clearly articulated research question or project goal. More specifically, this performance task was intended to assess students' ability to:
+
+* Generate a focused research question that is situated within or connected to a larger scholarly context or community;
+
+* Explore relationships between and among multiple works representing multiple perspectives within the scholarly literature related to the topic of inquiry;
+
+* Articulate what approach, method, or process they have chosen to use to address their research question, why they have chosen that approach to answering their question, and how they employed it;
+
+* Develop and present their own argument, conclusion, or new understanding while acknowledging its limitations and discussing its implications to a larger community of practice;
+
+* Support their conclusion through the compilation, use, and synthesis of relevant and significant evidence generated by their research;
+
+* Use organizational and design elements to effectively convey the paper's message;
+
+* Consistently and accurately cite, attribute, and integrate the knowledge and work of others, while distinguishing between the student's voice and that of others;
+
+* Generate a paper in which word choice and syntax enhance communication by adhering to established conventions of grammar, usage, and mechanics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2024 College Board.
+Visit College Board on the web: collegeboard.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Significance of Shoe Stiffness Deterioration in Carbon-Rodded and Carbon-Plated Shoes Word Count: 4,709
+
+
+
+
+
+
+
+Literature Review
+
+      Throughout the past decade, the main goal of several shoe companies, including Nike and Adidas, has been simple: efficiency. This increased priority on the efficiency of shoes, rather
+than their weight, has resulted in the development of new technologies, like carbon plating, being more commonly included. Though the first carbon-plated shoes were made in the 1990s, they didn't receive much media attention or widespread use until they were more publicly released in 2016 (Thompson, 2022), with the launch of the Nike Zoom Vaporfly 4%. These new shoes are
+commonly referred to as "super shoes" because of their high energy return induced by the carbon fiber inserts, commonly in the form of plates or rods, causing improvements in performance (Bermon et al., 2021). In conjunction with the development of super shoes, super spikes were
+also created for greater energy efficiency on the track. These spikes employ similar technology to super shoes, but in a simplified, lightweight form (Healey et al., 2022). Since their introduction
+in 2015, most track events-especially events 800 meters or longer-have seen a massive
+
+increase in the number and frequency of elite performances, which is defined by achieving an
+
+event-specific time standard (Thompson, 2022). The aforementioned increase in the frequency of elite performances may have likely stemmed from the effect that the inserted carbon fiber has on an individual's running economy. Running economy is a physiological measure of the oxygen
+consumption needed to maintain a certain speed or velocity. There are several factors affecting running economy with some being aspects of the shoes, such as shoe mass, stiffness, and
+cushioning, and some being biomechanical variables (Barnes & Kilding, 2015; Saunders et al., 2004; Conley & Krahenbuhl, 1980; Hoogkamer et al., 2017). Since certain types of super shoes have been found to improve running economy to a greater extent than that of super spikes (Barnes & Kilding, 2019), it can be surmised that super shoes have caused at least slightly
+
+
+
+
+
+
+
+improved performances compared to those of super spikes. Thus, if an athlete is interested in optimizing performance, super shoes are the best option.
+Running Economy Overview
+
+Running economy is considered an important measure in running that indicates fitness
+
+and helps predict performance; it is also a complex measurement that has several definitions. The traditional definition of running economy is the amount of oxygen required to maintain a given speed or velocity in milliliters of oxygen per kilogram per minute, or O2/kg/min (Hoogkamer et
+al., 2017; Conley & Krahenbuhl, 1980), or it can be defined as the steady state volume of oxygen consumption, VO2, at a given running speed (Barnes & Kilding, 2019; Saunders et al., 2004).
+However, other researchers have described running economy as the energetic cost in watts per kilogram (W/kg) needed to maintain a given velocity (Hoogkamer et al., 2017). Nevertheless, each definition references how efficiently someone's muscles consume oxygen while running
+(Barnes & Kilding, 2019), and several factors affect an athlete's running economy. As previously mentioned, biomechanical factors like training style, heart rate, and running mechanics, such as stride length and strike pattern, are factors that impact running economy (Barnes & Kilding, 2019). Strike patterns are categorized into three groups: forefoot strikers, who land more on their toes; midfoot strikers, who land more flat-footed; and rearfoot strikers, who land closer to their heels (Bovalino & Kingsley, 2021). These groups all impact running economy differently because of the amount of force output when they land (Xu et al., 2021). Logically, stride length
+impacts running economy because shorter strides mean that more are needed to cover the same distance as someone who takes longer strides, and as a result, more energy would need to be
+expended.
+
+
+
+
+
+
+
+Running Economy vs. Shoe Stiffness
+
+      Along with physical factors, shoe characteristics affect running economy (Hoogkamer et al., 2016). One major shoe component affecting running economy is longitudinal bending stiffness (LBS), which is often described as a shoe's resistance to bending (Agresta et al., 2022).
+Several studies have concluded that LBS plays, at least, a minor part in improving the running economy of an athlete, for example by returning some expended energy through the spring-like effect of the carbon inserts (Chen et al., 2022; Hoogkamer et al., 2016; Rodrigo-Carranza et al., 2023; Roy & Stefanyshyn, 2006). However, some researchers have concluded that rather than
+improving running economy, carbon inserts in the form of rods or plates, the most common methods used to increase stiffness, do not significantly affect running economy (Beck et al.,
+2020). These claims are backed by trials that show minimal difference in any muscular measures despite an increase in stiffness (Beck et al., 2020). Nevertheless, previous research found that
+lower LBS could be more beneficial for certain, often age-related, demographics, such as
+
+adolescent runners (Chen et al., 2022; Beltran, 2021), while other studies have found that higher LBS can benefit more serious, professional runners (Rodrigo-Carranza et al., 2023). This is
+likely due to the increase in force needed to bend shoes with higher LBS, which less experienced runners may lack. Therefore, most research has shown that a shoe's stiffness positively affects an athlete's running economy. Despite this general common ground, the results of studies vary (Chen et al., 2022; Beltran, 2021; Hoogkamer et al., 2016; Rodrigo-Carranza et al., 2023; Roy & Stefanyshyn, 2006).
+Determining Optimal Longitudinal Bending Stiffness
+
+      Despite all the factors that play into optimal longitudinal bending stiffness, more is not always better. At some point, the increase in stiffness becomes a burden that requires extra
+
+
+
+
+
+
+
+energy to be expended and leads to worse overall performances (Stefanyshyn & Fusco, 2007), creating a problem for athletic footwear designers in determining when stiffness becomes a hindrance. Instead of going for the stiffest shoe possible, designers must determine when shoes reach a runner's lowest metabolic cost, which is when the lowest amount of energy is used for running at a given speed (Arones et al., 2020). This point where the metabolic cost of the shoes is lowest is considered the optimal bending stiffness (McLeod, 2020). As reported by several researchers, this optimal stiffness value tends to be speed-dependent (Day & Hahn, 2019; McLeod, 2020). Some studies have also claimed that age (Chen et al., 2022; Beltran, 2021),
+strike pattern (McLeod, 2020), and stiff plate location (Flores et al., 2019; Song et al., 2023) can also be defining factors. Another study proposes the idea that optimal stiffness is almost arbitrary and different for each individual (McLeod, 2020). Nonetheless, the majority of existing studies support the idea that optimal stiffness is heavily dependent on speed, and that slower speeds
+correlate with a lower bending stiffness, while higher speeds are the opposite.
+
+Gap
+
+      In spite of substantial research into the newer super shoes and how factors such as stiffness affect their running economy, no current studies explore how the stiffness of the shoes is affected over time. This void invoked the question of how the Nike Vaporfly 3, which has carbon plates, compares to the Adidas Adizero Adios Pro 3, which has carbon rods, when it comes to
+their deterioration of stiffness when worn by a midfoot striker. It is hypothesized that there will be no significant difference between the results of the different stiffening methods; rather, it is expected that carbon rods and plates will nearly equally deteriorate as they are worn, due to
+similar materials being used not only for the carbon insert but also for the surrounding foams. If the deterioration of shoe stiffness is better understood, shoe developers could further increase the
+
+
+
+
+
+
+
+longevity and effectiveness of the shoes and consumers would have a better understanding of when to replace their shoes to optimize performance throughout their running careers.
+Methodology
+
+      This study aims to accurately compare the deterioration of stiffness between carbon rods and carbon plates in shoes through the analysis of the Nike Vaporfly 3, containing carbon plates, and the Adidas Adizero Adios Pro 3, containing carbon rods, when worn by a midfoot striker.
+These shoes were chosen for this study not only because they allowed insight into different stiffening methods, but they are also some of the newest shoes from their respective brands, they are popular among professional and amateur runners, and were made as parallels of each other. While other devices can measure stiffness automatically, such as SATRA's Dynamic Footwear Stiffness Test Machine, they were unattainable due to cost. This resulted in the need to find an
+alternative, such as the three-point bending test, which is the most common test in similar studies (Ortega, 2022). The three-point bending test requires placing whatever object is being measured, the shoe in this case, on two pivots and then applying pressure in the middle of the object between the pivot points (Ezenwa et al., 2022). However, due to the need for two pivots and some way to apply accurate, consistent pressure, the two-point test was considered as an
+alternative. The two-point test requires clamping one end of an object, the shoe, to a sturdy, flat surface, and then applying force to the other end (Ezenwa et al. 2022). Ultimately, greater access to materials needed for the two-point test led to a configuration similar to traditional two-point
+tests being used, which was modeled off previous research and can be seen in Figure 1 (Day & Hahn, 2019). Along with Day and Hahn's research, this inquiry was partially modeled off an
+earlier study conducted by Mark Cornwall and Thomas McPoil (Cornwall & McPoil, 2017).
+
+Cornwall and McPoil's study was used as a model, because it is one of few interval studies, with
+
+
+
+
+
+
+
+them examining the cushion of a shoe's midsole as it was used over time in 160 kilometer, or 100 mile, intervals. However, since the current consensus among athletes of when to replace
+carbon-plated shoes is at 100 miles and there was an extreme time constraint on the current study, this study only examines shoe stiffness over 100 miles total, or 160 kilometers, resulting in the shoes being examined every 10 miles or 16 kilometers. This allowed the shoes enough time
+to deteriorate in stiffness a significant amount and created enough data points that could be compared in order to determine if there was a significant difference in the deterioration of stiffness or not.
+
+Figure 1. Image of Stiffness Test Setup
+
+Stiffness Measurements
+
+      Despite the general agreement that optimal stiffness is speed-dependent, there is no definite value for optimal bending stiffness at any given speed, mainly due to the aforementioned variance from person to person. Certain researchers report longitudinal bending stiffness in newton-meters per radian, N-m/rad (Day & Hahn, 2019), while others report stiffness in newtons
+
+
+
+
+
+
+
+per millimeter, N/mm (Nagahara et al., 2018; McLeod, 2020). Due to this study being heavily modeled on the research performed by Day and Hahn, the same units that they used, N-m/rad, will be reported in this study.
+Longitudinal Bending Stiffness Test
+
+      The focus of this study is on the longitudinal bending stiffness of shoes over time, so the main emphasis was placed on finding an accurate and effective measuring system. Consequently,
+Day and Hahn's research was used as a model. As previously stated, their research utilized a custom setup, similar to a traditional two-point stiffness test, to calculate the stiffness of the shoes (Day & Hahn, 2019). Although Day and Hahn's test was modeled, some minor changes
+were made to eliminate conversions later in the study. For instance, they employed a strain gauge to measure the force put on the shoe in pounds and converted that value to newtons. To eliminate the need for a conversion to newtons, this study chose to utilize a Vernier Dual Force Sensor and run it with Logger Pro software. Similarly, while Day and Hahn used an imperial tape measure to help calculate the displacement of the shoe's tip, this study opted to use meter sticks since the
+later calculations required values to be in metric units rather than imperial units. Furthermore, since the shoes of the study lacked a heel loop, small slits had to be cut into each shoe so that a zip tie could be fed through to attach the Vernier Dual Force Sensor, as seen in Figure 2. Similar to the experiment, the calculations were also modeled off of Day and Hahn's study. One such
+calculation reciprocated from their study is the bending degree in radians, which was calculated
+
+
+by the equation:
+
+
+?	= tan-1   ? y
+
+bend
+
+L-?x
+
+
+"Where 'L' is the distance from the heel tip to the forefoot rotation axis of the shoe, and ?x and
+
+?y are the respective linear displacements of the heel tip" (Day & Hahn, 2019). As previously
+
+
+
+
+
+
+
+mentioned, Day & Hahn utilized imperial tape measures to accurately record the ?x and ?y measures, while this study employed meter sticks. However, imperial tape measures were
+utilized by this study to accurately measure the "L" value, then converted to meters. In order to accurately calculate the ?x and ?y values, the stiffness tests were recorded, originally on an
+iPhone XR, but then on an iPhone 15 held on a tripod. The video was then viewed to find the starting and ending values for both x and y to get the heel tip's displacement on each axis.
+During these recordings, Logger Pro, which is the program that indicates the stiffness, in newtons, output on the Vernier Dual Force Sensor, was in the video's frame, as seen on the left side of Figure 1. This was done to ensure that the calculated degree bend was accurately
+evaluated with the newtons at that moment. After the bend angle and force applied on the shoe were recorded, the stiffness of the shoes could be determined, in newton-meters per radian
+
+(N-m/rad) through the following equation:
+
+
+S =  F*D 
+
+
+Where "S" is stiffness, "?" is the bend angle, "F" is the force at an instant in newtons, and "D" is the total distance the tip of the heel traveled during the stiffness test, which was calculated
+through the equation:
+
+Distance =
+
+Furthermore, the stiffness was calculated three times at each 10-mile interval to ensure greater accuracy of the values. The calculated values for the left and right shoes were then averaged to determine the stiffness of each pair of shoes.
+
+
+
+
+
+
+
+	
+
+Figure 2. Image of Nike Vaporfly (left) and Adidas Adizero Adios Pro 3 (right) with inserted zip ties
+Mileage
+
+      At the beginning of this study, it was determined to complete the mileage on the nearest outdoor track in five-mile intervals, not only making the study replicable but also setting a standard surface for future studies into the deterioration of stiffness. Along with this, it caused the shoes to undergo more natural, realistic running conditions. Due to cold temperatures and snow covering the track, it became unsafe and inefficient to complete runs. Ultimately, the
+experiment was moved to an indoor treadmill, another replicable, reliable, and accurate location. During runs, the treadmill was set to 8 mph, or 7 minute 30 second miles, and an incline of 1%.
+The pace was chosen to ensure that it could be held for the entire 5-mile interval, meaning that the shoes would undergo the same conditions. Along with this, the 1% incline was chosen to better mimic outdoor, nonstationary running. It has long since been ascertained that to account for the air resistance outdoors, someone running anywhere from 2.92 meters per second to 5.0 meters per second should put the treadmill to a 1% incline to account for the metabolic cost of outdoor air resistance (Jones & Doust, 1996). Therefore, this study raised the treadmill to a 1% incline since 7 minute 30 second miles equals 3.576 meters per second.
+
+
+
+
+
+
+
+Findings and Conclusions
+
+After all 100 miles were completed in each pair of shoes and stiffness values were
+
+calculated, all data was entered into a Microsoft Excel spreadsheet to be graphed, as seen in Figure 3. The top graph of Figure 3 has the calculated stiffness of the Nike Vaporfly 3 on each 10-mile interval, and the graph includes a logarithmic regression line to illustrate the deterioration of shoe stiffness as a function of miles run. The same is true for the bottom graph, except it shows the stiffness of the Adidas Adizero Adios Pro 3 instead. Logarithmic regression
+lines were chosen over the standard linear regression line because logarithmic functions level out closer to the end, similar to the shoe data. In contrast, a linear regression line would continue to decrease evenly. Therefore, a logarithmic regression line better illustrated the trend of shoe stiffness deterioration. The original stiffness values of each shoe were omitted from the graph due to inaccuracies in measuring them. After the initial tests were run, the method used was refined to get more accurate and reliable answers. Following the completion of all stiffness tests, the data was plotted to form Figure 3 and give the study accurate findings to analyze.
+
+
+
+
+
+
+
+
+
+
+Figure 3. Graphs of stiffness data with logarithmic regression lines for each pair of shoes
+
+      As seen in Figure 4, the Adidas Adizero Adios Pro 3 shoes had a higher initial stiffness value than the Nike Vaporfly 3 did, but the Adidas shoe also deteriorated slightly quicker.
+
+
+
+
+
+
+
+Therefore, one could reason that the Nike Vaporfly is an inherently more beneficial shoe since it would suffice a runner for longer. However, because there is not a large difference in the stiffness values of the shoes, it is more likely that there is no innate benefit of one shoe over the other and the original hypothesis is correct.
+
+Figure 4. Graph of both shoes' stiffness data
+
+      The correlation matrix table, which was created in the free, easy-to-use statistical analysis program called Jamovi Cloud, shows how closely two factors are correlated in Figure 5. This
+matrix was made by copying the stiffness values recorded throughout the tests into Jamovi
+
+Cloud, which then automatically compiled the statistical information seen in Figure 5. As seen in the table, the stiffness of both the Adidas Adizero Adios Pro 3 and Nike Vaporfly 3 have a negative correlation with mileage, meaning that as mileage went up, the stiffness of both shoes went down, and is shown through Pearson's r value. Pearson's r lies in the range of -1 to 1. An r value of -1 shows a complete negative linear correlation, a value of 0 shows no correlation, and a
+
+
+
+
+
+
+
+value of 1 shows a complete positive linear correlation. An r value of -0.732 for the Adidas shoe and -0.770 for the Nike shoe, or around -0.7 for both pairs of shoes, illustrates a strong negative correlation between total miles and shoe stiffness. Along with this, it reinforces the idea that the different pairs of shoes lose stiffness at similar rates as the total amount of miles on them
+increases, because of the similarity in Pearson's r values. This data is strengthened further by the p-value being <.05, which denotes a significant, non-chance-based correlation. Since the shoes
+experienced wear and tear as they were used they became more susceptible to bending. Along with this, the matrix shows that the data between the pairs of shoes is strongly correlated,
+meaning that they lost stiffness at the same rate and in similar amounts. This is due to the p-value recorded in Figure 5 being <.001, which is well under the value used to denote a significant,
+non-chance-based correlation of .05. Thus, there is no significant difference in the deterioration of shoes, even if they are stiffened by different types of carbon inserts, when worn by a midfoot striker. Therefore, despite the slight difference in stiffness values visible in Figure 4, there is no inherent benefit of one shoe over the other. Furthermore, the results validate the original hypothesis of this study and could be explained by the fact that both inserts are made of carbon and surrounded by similar foams. Due to carbon being used in both shoes, it can reasonably be assumed that stiffness would deteriorate at the same rate in both, therefore justifying the validity of the original hypothesis.
+
+
+
+
+
+
+
+
+
+MilesAdios Pro 3 StiffnessAdios Pro 3 StiffnessPearson's r-0.732n/ap-value0.010n/aVaporfly 3 StiffnessPearson's r-0.7700.986p-value0.006<.001Figure 5. Correlation matrix table
+
+Limitations
+
+Despite the strong statistical significance of this study, some limitations need to be
+
+addressed. One such limitation is that five more miles were put on the Adidas shoes compared to the Nike shoes when the study was moved to the treadmill. While this caused the shoes to be
+experimented on in slightly different conditions, it was counteracted by setting the treadmill to conditions previously outlined to best mimic outdoor running (Jones & Doust, 1996). Despite this attempt to mimic outdoor running, there is still a chance that the change in surface created
+slight variations in stiffness and that the effects were not counteracted. Similarly, the occasional abnormal stride may have affected the stiffness results. These abnormal strides were more likely to occur towards the beginning of the study, while the running was outside, where running
+conditions on any given day were less predictable due to weather variations. After the move
+
+inside to the treadmill, these awkward strides became less likely, as the ground was completely unobstructed, but still occurred occasionally. The most common cause of them while indoors was running too far forward on the treadmill and accidentally stepping on the motor cover at the front of the running deck, which in turn caused a slight loss in balance and a couple of shorter, faster
+
+
+
+
+
+
+
+steps to recover. Since these were naturally occurring and could happen to anyone running in these shoes, it only furthers the realistic nature of this study.
+Another limitation is that there are possible slight inaccuracies in measurements. For
+
+example, the previously mentioned "L" measure, which is used while calculating shoe stiffness, could be slightly off for two main reasons. The first possible reason is the difficulty in measuring it. Since the tape measure used only went to sixteenths of an inch, the values had to be estimated to a minimal extent. Moreover, the pivot point, which was the beginning of the "L" measure and where the clamp was set, wasn't consistent and the "L" value was difficult to calculate. This
+could have resulted in the "L" measure being too long or short, and the stiffness value being slightly off as a result. The second possible reason for error is that the tape measure used to find the "L" value was in imperial units and not metric ones. This could have created a slight difference during the conversion from feet and inches to centimeters, due to rounding to the nearest tenth of a centimeter. Ultimately, these slight inaccuracies may have resulted in the oscillating values calculated but were likely too minute to have any significant effect.
+      One final limitation of this study is the small sample size of the experiment. Since only one pair of shoes from each brand was used, the derived data may not show a general trend, but rather what could be an outlier if more participants were involved. Additionally, this study is only relevant to midfoot strikers, seeing as the miles were conducted by a midfoot striker. This is important to address because different strike patterns generally put different amounts of force in different locations on shoes. Therefore, the deterioration of the shoe's stiffness in this study is
+midfoot striker-specific. Finally, the amount of miles that the shoes underwent for this study was on the lower end. Despite the current consensus for replacing carbon-reinforced shoes being 100 miles, most runners greatly overshoot this mark, and instead replace their shoes closer to 150 or
+
+
+
+
+
+
+
+200 miles. Thus, it would have been beneficial for this study to examine these shoes over a greater distance, but due to the strict time frame of this experiment, that was implausible. If this study had a wider sample size, then the results would have represented a more general trend in the deterioration of shoe stiffness.
+Implications
+
+      Despite these limitations, this study confirms that there is no significant difference between the deterioration of stiffness in current carbon rods and carbon plates. Thus, there is no benefit of buying one shoe technology over the other, and it is left up to consumer preference.
+Therefore, this study could motivative shoe companies, mainly Nike and Adidas since their shoes were examined in this study, to become more innovative with their future shoes in order to convince consumers to buy their product, and other brands could use this as a baseline of what to strive for. However, it should be noted that there is a slight chance that a runner would find one pair of shoes more beneficial than the other because of the aforementioned optimal bending stiffness dilemma, since the Nike shoe consistently recorded higher stiffness values than Adidas' shoe toward the end of the 100 miles.
+If companies did consider these results, they could create longer-lasting shoes that could
+
+then result in faster, more intense training for the general public. While most high-tier athletes do not have to worry about buying equipment due to sponsorships providing them with all the gear
+they need, most consumers have to buy at full price. Long-distance runners, such as someone training for a marathon, could purchase super shoes biannually or more. Thus, longer-lasting stiffness could not only reduce the cost of their training but also help them train harder for
+longer, since the newly manufactured shoes would maintain an athlete's optimal bending stiffness range for longer. As previously described, stiffness, specifically if it is in a runner's optimal
+
+
+
+
+
+
+
+stiffness range, helps to improve running economy. Therefore, if a shoe remains stiffer for longer, then an athlete could train more beneficially. Along with this, since higher optimal
+bending stiffness tends to correlate with faster runners, those most benefiting from increased shoe longevity would be more likely to turn pro. Ultimately, this could result in overall
+improvements in running that could be seen worldwide in the future.
+
+Future Research
+
+      To further the understanding of the deterioration of shoe stiffness, future research could make some slight improvements to this study to minimize possible variables. Most of the
+changes that could be made to advance this study would address the limitations of this study. One such adjustment to counter a limitation would be achieved by performing the entire study on one surface. Using one surface would essentially eliminate the effects it has on the shoes since it would have the same effect on each shoe. Even though running on one surface throughout an
+entire study would eliminate some realism from the study, since it is unrealistic for a runner to stay completely isolated to one surface, it would better show a link in deterioration of stiffness, which is the ultimate goal. Also, no matter what surface is used, the shoe's deterioration should be the same when compared: if a shoe maintains stiffness better on one surface than a different shoe, then it should on all surfaces. A second improvement that could be made is by expanding the sample size of this study. Having more runners of all different strike patterns run more miles would set a more reliable general trend. Data collected from a study with an increased sample size could also break their data into groups based on strike patterns to set a more specific trend
+too. It could also be interesting if future research incorporated more brands, such as On, New Balance, and Hoka, to see if one brand has longer-lasting shoes than the others.
+
+
+
+
+
+
+
+Along with this, future research could benefit from ensuring more accurate
+
+measurements. One way of doing this is by marking where on the shoes the clamp is applied.
+
+This would ensure that the "L" measure is consistent throughout the study and there would be no possible variation between tests. Finally, any future studies should consider using some sort of program to compile the stiffness values. The use of a program for this would allow for the data to be as accurate as possible and for a more averaged value across the whole test to be achieved. A program or device that tracks the tip of a shoe's heel and links it with the force output in the shoes, like the Logger Pro program outputs force in newtons, could be one possible way to do
+this. While it would be beneficial to future research, a researcher would most likely have to write code in order to automatically track the xy coordinates of the heel tip and link them with
+corresponding newtons, since there currently is no program or device that does this. Thus, while some instruments that could automatically calculate the stiffness would be beneficial, it is more time-efficient to instead focus on following the methods outlined in this paper and previous papers.
+
+
+
+
+
+
+
+References
+
+Agresta, C., Giacomazzi, C., Harrast, M., & Zendler, J. (2022). Running Injury Paradigms and Their Influence on Footwear Design Features and Runner Assessment Methods: A Focused Review to Advance Evidence-Based Practice for Running Medicine Clinicians. Frontiers in Sports and Active Living, 4(4). https://doi.org/10.3389/fspor.2022.815675
+
+
+Arones, M. M., Shourijeh, M. S., Patten, C., & Fregly, B. J. (2020). Musculoskeletal Model Personalization Affects Metabolic Cost Estimates for Walking. Frontiers in
+Bioengineering and Biotechnology, 8(8). https://doi.org/10.3389/fbioe.2020.588925
+
+
+Barnes, K. R., & Kilding, A. E. (2015). Running economy: Measurement, Norms, and Determining Factors. Sports Medicine - Open, 1(1).
+https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-015-0007-y
+
+
+Barnes, K. R., & Kilding, A. E. (2018). A Randomized Crossover Study Investigating the
+
+Running Economy of Highly-Trained Male and Female Distance Runners in Marathon Racing Shoes versus Track Spikes. Sports Medicine, 49(2), 331-342. https://doi.org/10.1007/s40279-018-1012-3
+
+
+Beck, O. N., Golyski, P. R., & Sawicki, G. S. (2020). Adding Carbon Fiber to Shoe Soles May Not Improve Running Economy: A Muscle-level Explanation. Scientific Reports, 10(1), 17154. https://doi.org/10.1038/s41598-020-74097-7
+
+
+
+
+
+
+
+Beltran, R. T., Powell, D. W., Greenwood, D., & Paquette, M. R. (2022). The Influence of Footwear Longitudinal Bending Stiffness on Running Economy and Biomechanics in Older Runners. Research Quarterly for Exercise and Sport, 94(4), 1-11. https://doi.org/10.1080/02701367.2022.2114589
+
+
+Bermon, S., Garrandes, F., Szabo, A., Berkovics, I., & Adami, P. E. (2021). Effect of Advanced Shoe Technology on the Evolution of Road Race Times in Male and Female Elite
+Runners. Frontiers in Sports and Active Living, 3(1). https://doi.org/10.3389/fspor.2021.653173
+
+
+Bovalino, S. P., & Kingsley, M. I. C. (2021). Foot Strike Patterns During Overground Distance Running: A Systematic Review and Meta-Analysis. Sports Medicine - Open, 7(1). https://doi.org/10.1186/s40798-021-00369-9
+
+
+Chen, H., Shao, E., Sun, D., Xuan, R., Baker, J. S., & Gu, Y. (2022). Effects of footwear with different longitudinal bending stiffness on biomechanical characteristics and muscular mechanics of lower limbs in adolescent runners. Frontiers in Physiology, 13, 907016. https://doi.org/10.3389/fphys.2022.907016
+
+
+Conley, D. L., & Krahenbuhl, G. S. (1980). Running economy and distance running performance of highly trained athletes. Medicine and Science in Sports and Exercise, 12(5), 357-360. https://pubmed.ncbi.nlm.nih.gov/7453514/
+
+
+
+
+
+
+
+Cornwall, M. W., & McPoil, T. G. (2017). Can Runners Perceive Changes in Heel Cushioning as the Shoe Ages With Increased Mileage? International Journal of Sports Physical Therapy, 12(4), 616-624. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534152/
+
+
+Day, E., & Hahn, M. (2019). Optimal footwear longitudinal bending stiffness to improve running economy is speed dependent. Footwear Science, 12(1), 3-13. https://doi.org/10.1080/19424280.2019.1696897
+
+
+Ezenwa, O. N., Nnaemeka, O. E., Chinweze, A., & Odeh, C. P. (2022). Development of a Simple Laboratory Equipment for Determining the Flexural Strength of Light Materials.
+Universal Journal of Mechanical Engineering, 10(2), 13-20. https://doi.org/10.13189/ujme.2022.100201
+
+
+Flores, N., Rao, G., Berton, E., & Delattre, N. (2019). The stiff plate location into the shoe influences the running biomechanics. Sports Biomechanics, 20(7), 1-16. https://doi.org/10.1080/14763141.2019.1607541
+
+
+Healey, L., Bertschy, M., Kipp, S., & Hoogkamer, W. (2022). Can We Quantify the Benefits of "Super Spikes" in Track Running?. Sports Medicine, 52. https://doi.org/10.1007/s40279-022-01657-4
+
+
+
+
+
+
+
+Hoogkamer, W., Kipp, S., Frank, J. H., Farina, E. M., Luo, G., & Kram, R. (2017). A
+
+Comparison of the Energetic Cost of Running in Marathon Racing Shoes. Sports Medicine, 48(4), 1009-1019. https://doi.org/10.1007/s40279-017-0811-2
+
+
+Hoogkamer, W., Kipp, S., Spiering, B. A., & Kram, R. (2016). Altered Running Economy Directly Translates to Altered Distance-Running Performance. Medicine & Science in Sports & Exercise, 48(11), 2175-2180. https://doi.org/10.1249/mss.0000000000001012
+
+
+Jones, A. M., & Doust, J. H. (1996). A 1% treadmill grade most accurately reflects the energetic cost of outdoor running. Journal of Sports Sciences, 14(4), 321-327. https://doi.org/10.1080/02640419608727717
+
+
+McLeod, A. R. (2020, January 30). A Comparison of Running Shoe Optimal Stiffness and Speed .
+
+BYU Scholars Archive; Brigham Young University. https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=10058&context=etd
+
+
+Nagahara, R., Kanehisa, H., & Fukunaga, T. (2018). Influence of shoe sole bending stiffness on sprinting performance. The Journal of Sports Medicine and Physical Fitness, 58(12). https://doi.org/10.23736/s0022-4707.17.07834-3
+
+
+
+
+
+
+
+Ortega, J. A. (2022, November). The Effects of Footwear Longitudinal Bending Stiffness on the Energetics and Biomechanics of Uphill Running. ScholarWorks@UMass Amherst; University of Massachusetts Amherst . https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2303&context=masters_thes  es_2
+
+
+Rodrigo-Carranza, V., Hoogkamer, W., Salinero, J. J., Rodríguez-Barbero, S., González-Ravé, J. M., & González-Mohíno, F. (2023). Influence of Running Shoe Longitudinal Bending Stiffness on Running Economy and Performance in Trained and National Level Runners. Medicine and Science in Sports and Exercise, 55(12). https://doi.org/10.1249/mss.0000000000003254
+
+
+Roy, J.-P. R., & Stefanyshyn, D. J. (2006). Shoe Midsole Longitudinal Bending Stiffness and Running Economy, Joint Energy, and EMG. Medicine & Science in Sports & Exercise, 38(3), 562-569. https://doi.org/10.1249/01.mss.0000193562.22001.e8
+
+
+Saunders, P. U., Pyne, D. B., Telford, R. D., & Hawley, J. A. (2004). Factors Affecting Running Economy in Trained Distance Runners. Sports Medicine, 34(7), 465-485.
+
+
+Song, Y., Cen, X., Chen, H., Sun, D., Goran Munivrana, Kovács Bálint, István Bíró, & Gu, Y. (2023). The influence of running shoe with different carbon-fiber plate designs on
+internal foot mechanics: A pilot computational analysis. Journal of Biomechanics, 153, 111597-111597. https://doi.org/10.1016/j.jbiomech.2023.111597
+
+
+
+
+
+
+
+
+
+Stefanyshyn, D., & Fusco, C. (2007). Increased shoe bending stiffness increases sprint performance. Sports Biomechanics, 3(1), 55-66. https://doi.org/10.1080/14763140408522830
+
+
+The Jamovi Project (2024). jamovi. (Version 2.5) [Computer Software]. Retrieved from https://www.jamovi.org.
+
+
+Thompson, P. J. L. (2022). World Athletics Data - An Analysis Effects of the Global COVID-19 Pandemic and Carbon-Plated Shoe Technology on Annual Performance Lists 2015-2021 World Athletics Data Analysis -Synopsis. World Athletics . https://trackandfieldnews.com/wp-content/uploads/2022/06/1-World-Athletics-Global-Pe  rformance-Analysis-2015-2021.pdf
+
+
+Xu, Y., Yuan, P., Wang, R., Wang, D., Liu, J., & Zhou, H. (2020). Effects of Foot Strike
+
+Techniques on Running Biomechanics: A Systematic Review and Meta-analysis. Sports Health: A Multidisciplinary Approach, 13(1), 71-77. https://doi.org/10.1177/1941738120934715
+
+AP(r) Research 2024 Scoring Commentary
+
+Academic Paper
+Note: Student samples are quoted verbatim and may contain spelling and grammatical errors.
+
+Sample: A Score: 5
+
+This paper earned a score of 5. This paper addresses the topic of shoe stiffness by comparing two different running shoes, and the research question is provided on p. 5: "... how [does] the Nike Vaporfly 3, which has carbon plates, compares to the Adidas Adizero Adios Pro 3, which has carbon rods, when it comes to their deterioration of stiffness when worn by a midfoot striker[?]." The paper hypothesizes, "... there will be no significant difference between the results of the different stiffening methods; rather, it is expected that carbon rods and plates will nearly equally deteriorate as they are worn, due to similar materials being used not only for the carbon insert but also for the surrounding foams" (p. 5).
+
+The paper cites almost exclusively scholarly sources, provides a rich literature review of these sources on pp. 2-6, and the gap is logically explained on pp. 5-6. The method is described on pp. 6- 10, a longitudinal bending stiffness test of Nike and Adidas models with over 100 miles of use, with "stiffness ... calculated three times at each 10-mile interval" (p. 10). The method on pp. 7-9 was replicable and well aligned with the research question. Further, despite the lack of professional measuring equipment, such as SATRA's Dynamic Footwear Stiffness Test Machine (see p. 6), the paper defended its method for measuring longitudinal stiffness as well as the decision to run on a treadmill at a 1% incline to add mileage to the shoes (see p. 10). Ethical considerations are addressed through the logical description of the method: purchasing a shoe that is available to runners of all ages and abilities, describing the intended mileage to be achieved and how the running will be broken up into five-mile intervals, and minimizing exposure to inclement weather by running indoors on a treadmill.
+
+However, this paper did not earn a score of 4 for multiple reasons. First, the new understanding that emerged from the results section on pp. 11-15 not only offers sufficient evidence to answer the research question on p.5, but the paper provides a substantive limitations section on pp. 15-17.
+These limitations address both the method and the conclusion. Second, the paper provides a thoughtful discussion of implications to practitioners in the field (i.e., runners) and to manufacturers in terms of marketing and product development on pp. 17-18. Additionally, the paper provides clear written communication, excellent organization, and the use of figures, particularly Figures 3, 4, and 5, which are effective in distinguishing the differences in performance between the Nike Vaporfly 3 and Adidas Adizero Adios Pro.
+
+This paper is a rich analysis of a new understanding and addresses a gap in the research base.
+
+
+
+
+
+
+
+
+(c) 2024 College Board.
+Visit College Board on the web: collegeboard.org.
+
+
+
+
+
+

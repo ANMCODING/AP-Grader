@@ -1,0 +1,154 @@
+{
+  "papers": [
+    {
+      "file": "data/seminar/batch1-calibration/irr_4_high_sleep_deprivation.txt",
+      "task": "irr",
+      "expectedTotal": 26,
+      "expectedRows": [
+        6,
+        4,
+        4,
+        6,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch1-calibration/irr_6_low_single_sex_education.txt",
+      "task": "irr",
+      "expectedTotal": 12,
+      "expectedRows": [
+        2,
+        2,
+        0,
+        2,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch2-calibration/irr_7_high_microplastics.txt",
+      "task": "irr",
+      "expectedTotal": 24,
+      "expectedRows": [
+        6,
+        2,
+        4,
+        6,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch2-calibration/irr_8_mid_ubi.txt",
+      "task": "irr",
+      "expectedTotal": 22,
+      "expectedRows": [
+        2,
+        6,
+        2,
+        6,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch2-calibration/irr_9_low_video_games.txt",
+      "task": "irr",
+      "expectedTotal": 9,
+      "expectedRows": [
+        2,
+        0,
+        0,
+        2,
+        2,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch3-calibration/irr_1_social_isolation.txt",
+      "task": "irr",
+      "expectedTotal": 25,
+      "expectedRows": [
+        6,
+        4,
+        4,
+        6,
+        2,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch3-calibration/irr_2_charter_schools.txt",
+      "task": "irr",
+      "expectedTotal": 21,
+      "expectedRows": [
+        6,
+        4,
+        4,
+        2,
+        2,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch3-calibration/irr_3_min_wage.txt",
+      "task": "irr",
+      "expectedTotal": 24,
+      "expectedRows": [
+        2,
+        6,
+        4,
+        6,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch3-calibration/irr_4_homework.txt",
+      "task": "irr",
+      "expectedTotal": 16,
+      "expectedRows": [
+        2,
+        2,
+        4,
+        2,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    },
+    {
+      "file": "data/seminar/batch3-calibration/irr_5_outdoor_education.txt",
+      "task": "irr",
+      "expectedTotal": 10,
+      "expectedRows": [
+        2,
+        0,
+        0,
+        2,
+        3,
+        3
+      ],
+      "rebased": true,
+      "version": "seminar-3.2.13"
+    }
+  ]
+}

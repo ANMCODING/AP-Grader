@@ -1,0 +1,140 @@
+ANALYZING THE SAFETY AND FEASIBILITY OF HUMAN GERMLINE EDITING
+USING CRISPR-CAS9 SYSTEMS
+
+Analyzing the Safety and Feasibility of Human
+Germline Editing Using CRISPR-Cas9 Systems
+Word Count: 1270
+(not including title page and references)
+
+Visit the College Board on the Web: www.collegeboard.org.
+
+ANALYZING THE SAFETY AND FEASIBILITY OF HUMAN GERMLINE EDITING
+USING CRISPR-CAS9 SYSTEMS
+The focus of our group for this project is genetic engineering in human embryos, or human
+germline editing. Our research question following this topic is “To what extent should CRISPRCas9 be limited when genetically editing the human germline?” CRISPR-Cas9, or clustered
+regularly interspaced short palindromic repeats and associated protein 9, is a system modified
+from a bacterial immune system that can be used to find and insert, delete, or edit any piece of
+DNA. This technology was discovered/developed in 2015 and is much more efficient, easy to
+use, and inexpensive than past technologies such as zinc finger nucleases (ZFNs) and
+transcription activator-like effector nucleases (TALENs). Because CRISPR-Cas9 is such an
+improvement over what already existed, it has opened many new possibilities that would have
+been much more difficult before. One of these possibilities, among others, is human germline
+editing.
+Human germline editing is any process that changes the DNA of a germ (or reproductive)
+cell to be passed down to the next and following generations. This does not include genetic edits
+in somatic cells that would only affect some parts of an individual and would not be passed down
+to the next generation. We chose this topic because it is relatively specific, compared to gene
+editing in general, but still has a broad range of perspectives. Despite recent attempts to reach it,
+there is no broad consensus about human germline editing, within both the scientific community
+and the wider public. However, because CRISPR-Cas9 is so accessible, a consensus needs to be
+met.
+The debates surrounding human germline editing have many different facets including
+ethical, social, economic, political, historical, and scientific. This paper will focus on the
+scientific side, because if human germline editing is not possible scientifically, the rest of the
+debates are pointless. As such, this paper will analyze the safety and feasibility of human
+germline editing, the main scientific issues.
+Currently, there are three main safety concerns regarding our current practices for
+germline editing: mosaicism, off-target changes, and side effects of the new gene. Mosaicism is
+when the cells in an embryo are not uniformly edited, with a mix of “fixed” and unchanged cells.
+This usually occurs when CRISPR-Cas9 does not act quickly enough and the cells start to split
+before the DNA has been edited. Off-target changes are edits in the DNA at places other than the
+intended target. CRISPR-Cas9 is not perfect and makes mistakes when searching for the correct
+set of base pairs. Side effects of the new gene can occur when we don’t know all of the functions
+
+Visit the College Board on the Web: www.collegeboard.org.
+
+ANALYZING THE SAFETY AND FEASIBILITY OF HUMAN GERMLINE EDITING
+USING CRISPR-CAS9 SYSTEMS
+of a gene. Many genes have multiple functions and it is nearly impossible to know what will
+happen exactly when a gene is changed.
+The first two, mosaicism and off-target changes, were evident in the three studies that
+attempted to edit genes in embryos. The first two, done in China in 2015 and 2016, used
+tripronuclear embryos (which are nonviable), to avoid the ethical debate surrounding the use of
+viable embryos. Besides being nonviable, tripronuclear embryos are suitable stand-ins for regular
+embryos. The results were only partially successful. Mosaicism was prevalent and off-target
+mutations were present. (Kang et al., 2016; Liang et al., 2015) These results indicate that while
+CRISPR-Cas9 is much better than previous technologies, the technology itself and the practices
+for its use both need to be much improved in order for it to be safe for human germline editing.
+The latest study, conducted in 2017, had better results because CRISPR-Cas9 was added at the
+same time as the sperm, instead of after fertilization, resulting in less prevalent mosaicism. In
+addition, no off-target changes were found. (Ma et al., 2017) This shows that the technology and
+practices are improving and that eventually mosaicism and off-target changes can be brought
+down to a minimum. These three studies were all published in peer-reviewed academic journals
+and seemed to follow good experiment procedures. They are all controversial, but this is largely
+due to the controversy that surrounds human germline editing and research with embryos in
+general, not the studies in particular.
+A speech given at the International Summit on Human Gene Editing in 2015, elaborates
+on the third issue. Eric Lander, an expert in the human genome who even played an important
+role in the Human Genome Project, spoke about the complexity of disease and its relationship
+with human genetics. The genetic root behind a disease can be very difficult to find, requiring
+massive amounts of data, and even when a gene is known to be connected, exactly how the
+connection works is usually not known. Additionally, with polygenic diseases, most of the genes
+only have a small impact in risk of contracting the disease. Mendelian diseases, diseases that are
+caused by a single mutation, would be much easier to prevent, but even then many genes have
+multiple purposes. A gene that makes someone more vulnerable to one disease might protect
+them from another. (Lander, 2015) Obviously, there is a lot about genetics and disease that
+remains unknown and while this knowledge gap remains, we won’t be able to tell exactly what
+will happen when we change a gene.
+
+Visit the College Board on the Web: www.collegeboard.org.
+
+ANALYZING THE SAFETY AND FEASIBILITY OF HUMAN GERMLINE EDITING
+USING CRISPR-CAS9 SYSTEMS
+According to one group of scientists, this unpredictability means that human germline
+editing is not worth it. They called for a voluntary moratorium against human germline editing
+due to its lack of safety. They also argued that any therapy offered by human germline editing
+could be achieved using other techniques, so it was not worth the risks. If anyone did move
+forward with it and something went wrong, somatic gene therapy might be associated with
+germline editing and be negatively affected by any negative public reaction. (Lanphier, Urnov,
+Haecker, Werner, & Smolenski, 2015) This would definitely harm the authors of the article, as
+all of them are involved with somatic gene therapy. Given their involvement in this field it
+should be kept in mind that they would also stand to benefit from a ban of human germline
+editing as it would most likely be competition to somatic gene therapy. So it stands to reason that
+they would be biased against human germline editing. Nevertheless, their position is valid.
+The organizing committee of the International Summit on Human Gene Editing took a
+different position however. In their statement, they stated that basic and preclinical research is
+needed and that studies using human embryos were acceptable, as long as the embryos did not
+result in a pregnancy. Instead of warning off human germline editing entirely, they approved of
+moving with forward with proper precautions. The key safety issues mentioned before would
+need to be solved and the safety of the human germline editing would need to be demonstrated
+before it would be available for clinical use (including both clinical research and therapy).
+(Organizing Committee for the International Summit on Human Gene Editing, 2015) The
+organizing committee was made up of experts in the field and was obviously more open minded
+about human germline editing. They looked at the issue from multiple lenses and perspectives
+throughout the summit and based the statement off of the cases made at the summit. The summit
+was sponsored by the U.S. National Academy of Sciences, the U.S. National Academy of
+Medicine, the Royal Society, and the Chinese Academy of Sciences, all authorities on science
+and medicine.
+Human germline editing using CRISPR-Cas9 is not yet safe enough to be feasible for
+clinical use, which is why further research is required. With more research and improvement on
+the technology and practices, the safety of the human germline editing could improve to be safe
+enough for clinical use, if ethical, social, and other debates are resolved.
+
+Visit the College Board on the Web: www.collegeboard.org.
+
+ANALYZING THE SAFETY AND FEASIBILITY OF HUMAN GERMLINE EDITING
+USING CRISPR-CAS9 SYSTEMS
+References
+Kang, X., He, W., Huang, Y., Yu, Q., Chen, Y., Gao, X., … Fan, Y. (2016) Introducing precise
+
+genetic modifications into human 3PN embryos by CRISPR/Cas-mediated genome
+editing. Journal of Assisted Reproduction and Genetics, 33(5), 581-588.
+https://doi.org/10.1007/s10815-016-0710-8
+Lander, E. S. (2015) What we don’t know. In International Summit on Human Gene Editing: A
+Global Discussion Commissioned Papers. Retrieved from
+http://nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_170455.pdf
+
+Lanphier, E., Urnov, F., Haecker, S. E., Werner, M., Smolenski, J. (2015). Don’t edit the human
+germ line. Nature, 519(7544), 410-411. http://doi.org/10.1038/519410a
+
+Liang, P., Xu, Y., Zhang, X., Chenhui, D., Huang, R., Zhang, Z., … Huang, J.
+(2015).CRISPR/Cas9-mediated gene editing in human tripronuclear zygotes. Protein &
+Cell, 6(5), 363–372. https://doi.org/10.1007/s13238-015-0153-5
+Ma, H., Marti-Gutierrez, N., Park, S., Wu, J., Lee, Y., Suzuki, K., … Mitalipov, S. (2017).
+Correction of a pathogenic gene mutation in human embryos. Nature, 458, 413–419.
+http://doi.org/10.1038/nature23305
+Organizing Committee for the International Summit on Human Gene Editing. (2015, December
+3). On Human Gene Editing: International Summit Statement. Retrieved from
+http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=12032015a
+
+Visit the College Board on the Web: www.collegeboard.org.

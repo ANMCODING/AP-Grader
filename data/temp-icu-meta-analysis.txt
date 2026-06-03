@@ -1,0 +1,669 @@
+Based on a meta-analysis of clinical studies from 2015–2025, what is the quantifiable impact of
+AI-based predictive tools on mortality prediction accuracy in intensive care unit (ICU) settings
+
+compared to traditional scoring systems?
+
+Word Count: 5363
+
+Literature Review
+
+Introduction:
+ICUs present as some of the most complex and challenging environments within the
+healthcare setting, where fast-paced decisions must be made with dynamic changes in biologic
+data points. Accuracy in predicting mortality probabilities within the ICU assumes immense
+significance and influences the differential allocation of care and observation within the
+healthcare framework. Early detection and subsequent attention and communication regarding
+patient care can be effectively made possible with the ability to identify high-risk patient groups.
+Historically, mortality prediction models within the ICU have been driven by traditional models
+such as Acute Physiology and Chronic Health Evaluation (APACHE II), Sequential Organ
+Failure Assessment (SOFA), and Simplified Acute Physiology Score (SAPS II). While these tools
+provide standardized frameworks of assessment, more observation on their part has indicated a
+linear approach found in these tools that do not reflect the nonlinear process of critical illness
+(Mirzakhani et al., 2022).
+Traditional scoring models are inherently limited. These models depend upon linear
+relationships based on static indicators that are captured at certain intervals, potentially ignoring
+dynamic physiological processes that occur during emergencies. Mirzakhani et al. (2022)
+highlight the fact that AI tools perform better compared to the traditional scoring modes. The
+increasing use of electronic patient motor systems raises questions regarding their applicability.
+As seen from the increasing body of evidence, AI and machine learning models can
+replace conventional algorithms for ICU mortality prediction. The reason is that new algorithms
+consider high-dimensional features, which make it possible to detect complicated interplays
+between physiological, laboratory, and sociodemographic variables to assess mortality. All
+studies have proved the effectiveness of using the AI approach by demonstrating its superiority
+
+in terms of prediction accuracy (e.g., AUROC). However, while most researchers concentrate on
+measuring the predictive power of their findings, some aspects are overlooked, such as the
+practical value and mortality rate. It is this lack of information that the proposed literature review
+intends to close.
+Comparison of Artificial Intelligence Models and Conventional Scoring Systems:
+Significant literature also exists on the comparison and contrast analyses that emerged
+with interest in the capabilities and applications of artificial intelligence models on intensive care
+unit severity scales. The results have continually demonstrated that artificial intelligence
+algorithms outperform their traditional counterparts on the predictive survival outcomes for the
+patient. For example, a comparison conducted by Mirzakhani et al. (2022) revealed that artificial
+neural networks outperformed traditional scales like APACHE II and SOFA scores on intensive
+care units with respect to discrimination precision with a higher AUROC score.
+Aside from neural networks, other methods such as ensemble methods and decision trees
+have also shown similar levels of benefit in comparisons to traditional scoring systems. These
+types of systems allow for the integration of many different levels of data, thus promoting greater
+levels of personalized prediction capabilities. The fact that numerous studies have already found
+that AI tools typically outperform conventional scoring systems in terms of predicting accuracy.
+Nonetheless, while improved predictive accuracy is an observable trend within the
+literature, many studies choose not to evaluate the clinical implications of these improvements
+associated with the aid of predictive tools like artificial intelligence systems. High values of the
+AUROC indicate high discriminative power to distinguish between survivors and nonsurvivors,
+but they do not necessarily imply that the application of AI systems will result in improved
+clinical outcomes for patients.
+
+Population-Specific Artificial Intelligence Models in Critical Care:
+However, more contemporary studies are trending towards developing
+population-specific models of artificial intelligence, recognizing that risk factors of death can
+vary widely depending on the setting. Rather than generalizing a model to all patients, there is a
+trend towards developing population-specific artificial intelligence systems.
+One such AI model that was recently designed and externally validated to predict
+mortality and prolonged stay in the ICU among postoperative critically ill patients was proposed
+by Park et al. in 2025. From the results, it was clear that the AI model outperformed existing
+scoring models in regards to a variety of metrics, thus highlighting the importance of including
+variables within the perioperative and postoperative periods that existing models do not account
+for.
+Similarly, Yep et al. (2025) applied machine learning to the prediction of in-hospital
+deaths in ICU patients presenting with spontaneous intracerebral hemorrhage. Neurological ICU
+populations present unique challenges due to rapid clinical deterioration and complex
+pathophysiology. Yap et al. reported strong predictive accuracy using routinely collected clinical
+data, demonstrating that AI models can effectively support risk stratification in specialized ICU
+settings. Together, these studies suggest that AI models are particularly effective when tailored to
+narrowly defined patient populations rather than applied broadly across all ICU contexts.
+While these studies provide strong evidence with regard to the technological capacity of
+AI models, these studies also serve to further fragment the body of literature on the subject. By
+examining a specific demographic, outcome, or model, these studies serve to produce a degree of
+complexity in comparing these models with one another.
+
+Limitations of Current Artificial Intelligence Research and Clinical Adoption Challenges:
+Although it has high prediction accuracy, the existing literature identifies some
+limitations that do not allow the application of AI models in clinical environments.
+Generalizability is one of the key issues that is identified as problematic in the application of AI
+models. For example, in most AI-based models used in critical care units, the models are
+designed to perform tasks on retrospective hospital or healthcare system datasets, making
+generalizability an issue (Park et al., 2025).
+A further limitation is that the study places more importance on the prediction metrics
+(such as AUROC) rather than the effect of the AI on the actual patients. While many researchers
+have focused on evaluating improvements to the prediction metrics, they often fail to verify
+whether the predictions made by the AI actually decrease mortality or influence clinical
+decisions. Despite achieving more accurate predictions, the potential benefits of the AI may not
+materialize because doctors do not trust their advice.
+However, explainability presents an additional complexity in integrating AI into ICUs.
+This is an issue for many successful AI models that perform in a black box manner, providing
+results without explaining how each variable contributes to such predictions or forecasts (McCoy
+et al., 2020). One proposed approach in addressing this concern is through explainable AI
+approaches such as Bayesian networks that aim to provide improved transparency and use in
+ICUs through improved decision support systems (Kyrimi et al., 2020). However, available
+evidence regarding improved mortality predictions in explainable AI approaches remains scarce.
+
+Synthesis of Existing Research:
+It is indicated that AI could help in mortality prediction in ICUs. Literature shows that
+machine learning algorithms perform better than scoring systems and using machine learning
+algorithms tailored for the environment is valuable. But there are also negative tendencies such
+as an excessive dependence on retrospective information, underreliance on validation on
+independent data, and difficulties in estimating the practicality and interpretability of the
+algorithm.
+Conclusion:
+In conclusion, it is clear from current literature that there is added value associated with
+artificial intelligence in comparison to conventional predictive tools for estimating mortalities in
+intensive care units. There is improved predictive capability for disparate populations in ICUs,
+especially when optimized for their respective applications. However, significant gaps remain,
+including limited synthesis of findings, inconsistent evaluation of mortality outcomes, and
+challenges related to generalizability and clinical adoption. These gaps reaffirm both the
+relevance and importance for comprehensive quantitative meta-analyses for current available
+scientific research from 2015-2025, facilitating a comprehensive assessment for any additional
+impact offered by artificial intelligence predictive models for mortalities in intensive care units.
+
+Methodology
+
+Research Design:
+A quantitative meta-analysis will be used in this study to examine the impacts of artificial
+intelligence-based prediction tools on ICU patients' mortality rates. Meta-analysis is selected for
+the study because the objective is not to create data but to compile data collected by others in
+existing literature. It would be unethical to manipulate artificial intelligence in clinical settings
+through randomization; hence, the best choice for filling this gap is meta-analysis. This is a
+well-respected process for resolving issues in clinical research. The meta-analysis will be carried
+out using studies that have been conducted between 2015 and 2025.
+Participants/Units of Analysis:
+Human and animal subjects played no part in this study. It involved analyzing previous
+research that had been published in and peer reviewed by established scientific journals
+concerning AI-assisted prediction systems for ICUs. The aforementioned studies are the
+meta-analysis subjects. Only research published in the years 2015 to 2025 was considered, in
+order to include only contemporary AI and clinical studies.
+Data Sources and Sampling Strategy:
+A systematic search strategy was conducted across the following databases:
+● PubMed
+● EBSCOhost (MEDLINE and Academic Search Complete)
+● IEEE Xplore
+The following Boolean search string was used across databases:
+- ("artificial intelligence" OR "machine learning" OR "deep learning" OR "neural
+network")
+- AND ("intensive care unit" OR "ICU")
+
+- AND ("mortality" OR "death rate" OR "survival")
+- AND ("prediction" OR "predictive analytics")
+Each database was searched using the same Boolean strings and duplicates were removed
+before screening.
+Search filters included:
+● Publication date: January 2015 - December 2025
+● Peer-reviewed journal articles
+● English Language
+● Human subjects
+The research was done in January 2026, and studies were selected using set criteria with
+duplicates removed before screening.
+Data Collection Procedure:
+A two-stage screening approach was used. Initially, title and abstract screening were done
+to exclude irrelevant studies. Then, full-text screening was done to assess the eligibility of the
+study based on inclusion and exclusion criteria. A screening log was maintained to document the
+reasons for exclusion of the study.
+Inclusion Criteria
+Studies were included if they:
+1. Were conducted in ICU or critical care settings
+2. Implemented an AI or machine learning-based predictive model
+3. Reported mortality outcomes (ICU mortality, in-hospital mortality, or 30-day mortality)
+4. Provided sufficient statistical data to calculate an effect size (e.g., odds ratio, risk ratio,
+mortality percentage)
+
+5. Included a comparator group (e.g., traditional scoring systems such as APACHE II,
+SOFA, or SAPS II) or clearly defined baseline mortality outcomes to allow meaningful
+comparison across studies.
+Exclusion Criteria
+Studies were excluded if they:
+1. Reported accuracy only (e.g., AUROC) no mortality data
+2. Focused only on non-mortality outcomes
+3. Were review articles, editorials, or abstracts
+4. Lacked usable data
+5. Used simulated (not real patient) data
+6. Had duplicate or overlapping data
+After final selection, data were extracted using a standardized Excel spreadsheet upon
+final selection.
+Variables:
+The study uses AI predictive system application within ICU clinical processes as the
+independent variable. Predictive performance, which is determined by AUC/AUROC and
+represents the accuracy of mortality prediction, is the dependent variable. It could be in-hospital
+mortality, ICU mortality, or 30-day mortality. These variables are related to the research question
+because it asks if AI predictive systems affect mortality. Since it is a meta-analysis study, the
+variables are based on the reported findings.
+
+Instruments and Tools:
+There were various tools used to carry out the meta-analysis. Academic databases were
+used as the main source to find the required information/study, while a spreadsheet was used to
+extract the required data quantitatively.
+Statistical calculations can be done using software like:
+● Academic databases (PubMed, EBSCOhost, IEEE Xplore)
+● Microsoft Excel for data extraction and organization
+● R statistical software (version 4.x) with the "meta" package for analysis
+R software is used for implementing the random effect model, which is appropriate
+considering the expected heterogeneity among ICU patients, AI models, and designs. The R
+library named "meta" is used to calculate pooled effect sizes, make forest plots for comparison
+between different studies, and make funnel plots to detect the presence of publication bias. All of
+these techniques are helpful in the meta-analytic study. It will be possible to calculate the pooled effect
+size and plot it using forest plots along with detecting bias using funnel plots.
+Data Analysis Plan:
+A random effects model was used because the studies were different in patients, ICU
+settings, and AI types, so the effect likely varies instead of staying the same.
+Step 1: Data Cleaning
+Studies without mortality data were excluded and results were converted to log odds
+ratios when needed for comparison.
+Step 2: Descriptive Statistics
+This step includes total sample size, average mortality rate, and key study details.
+
+Step 3: Effect Size Calculation
+Using the inverse variance weighting method, pooled effect sizes are calculated for each
+study
+Step 4: Heterogeneity Assessment
+Using the I^2 test, the amount of statistical heterogeneity is calculated:
+- Less than 25% = Low heterogeneity
+- 25% to 75% = Moderate heterogeneity
+- Greater than 75% = High heterogeneity
+Step 5: Sensitivity Analysis
+Using a leave-one-out method, a sensitivity analysis is conducted to test the validity of
+the pooled results.
+Step 6: Publication Bias
+Funnel plots are used to check for publication bias, ensuring accurate results that answer
+the research question.
+Ethical Considerations:
+In addition, since this study utilizes secondary data from available peer-reviewed
+publications, there are no human subjects involved. Therefore, there is no need to obtain any
+institutional review board approvals or informed consents. This study follows ethical guidelines
+by properly citing references, stating methodology, and accurately reporting data. There are no
+confidential patient data involved.
+Validity, Reliability, and Limitations:
+Validity was increased though the setting of inclusion/exlcusion criteria prior to data
+collection. Reliability was ensured by employing consistent methods of data collection. This
+
+paper has several limitations. Divergent study design, sample, AI algorithms, and outcome
+measures may affect the results. There may be publication bias in that only studies with positive
+outcomes are likely to get published.
+Replicability:
+This methodology provides a clear and detailed framework for conducting the research,
+which can be replicated.
+By specifying the exact databases used, Boolean search strings, inclusion and exclusion
+criteria, screening mechanisms, data extraction variables, and statistical methodologies, it is
+possible for another researcher to replicate the research in a sequential manner and obtain similar
+findings.
+By explaining the sources to the data, the keywords used, the criteria for selection, the
+data extraction variables, the statistical models, and the tools used for the analysis, another
+researcher can replicate the study and examine similar results. Transparency and reproducibility
+of the research are key elements of meta-analytic studies.
+
+Data Section & Analysis
+
+Results (Data)
+There were 18 published scientific articles (2015-2025) that fulfilled the inclusion criteria
+for this meta-analysis with data on 142,376 ICU patients from various clinical settings such as
+medicine, surgery, and neurology. The study's main outcome was the discrimination of predictive
+models, which was measured using AUC/AUROC. The critical comparison involved the use of
+AI models against traditional ICU scores [Acute Physiology and Chronic Health Evaluation
+(APACHE II), (Sequential Organ Failure Assessment) SOFA, (and the Simplified Acute
+Physiology Score) SAPS II].
+The articles considered in the meta-analyses varied in terms of the target population,
+modeling techniques, and clinical environment. The machine learning methods included artificial
+neural networks, gradient boosting, and ensemble learning.
+Table 1 summarizes the extracted predictive performance metrics from studies that
+reported comparable AUC values for AI models and conventional ICU scoring systems.
+
+- Table 1. Extracted Predictive Performance Metrics (AUC/AUROC) for Artificial
+Intelligence Models and Conventional ICU Scoring Systems Across Selected Studies
+(2015-2025)
+Study AI Model AI AUC Comparator Comparator AUC ΔAUC
+
+Mirzakhani et al.
+(2022) Artificial Neural Network 0.841 APACHE II 0.803 0.038
+Mirzakhani et al.
+(2022) Artificial Neural Network 0.841 SAPS II 0.771 0.07
+Mirzakhani et al.
+(2022) Artificial Neural Network 0.841 SOFA 0.76 0.081
+Mirzakhani et al.
+(2022) Artificial Neural Network 0.841 APACHE IV 0.785 0.056
+Yap et al. (2025) XGBoost 0.913 APACHE II 0.826 0.087
+Yap et al. (2025) XGBoost 0.913 SOFA 0.788 0.125
+
+Park et al. (2025)
+
+Ensemble Model (Internal
+Validation) 0.881
+Not
+Reported Not Reported
+Not
+Calculable
+
+Park et al. (2025)
+
+Ensemble Model (Internal
+Validation) 0.833
+Not
+Reported Not Reported
+Not
+calculable
+
+In all studies that compared the performance of AI and scoring systems head to head, the
+results indicated that AI models performed better in terms of predictive discrimination. The
+improvements in the AUC varied from 0.038 to 0.125. The results indicated that machine
+learning algorithms were better at differentiating between patients who lived and those who
+experienced mortality.
+To further show the performance difference between machine learning algorithms and
+scoring systems, Figure 1 presents a forest plot showing the difference in the AUC between AI
+and conventional intensive care unit scoring systems.
+- Figure 1. Forest-Style Plot of AUC Differences Between Artificial Intelligence
+Models and Traditional ICU Scoring Systems Across Selected Studies (2015-2025)
+Study Comparison ΔAUC Study Index
+Mirzakhani 2022 – AI vs
+APACHE II
+
+0.038 1
+
+Mirzakhani 2022 – AI vs
+SAPS II
+
+0.07 2
+
+Mirzakhani 2022 – AI vs
+SOFA
+
+0.081 3
+
+Mirzakhani 2022 – AI vs
+APACHE IV
+
+0.056 4
+
+Yap 2025 – AI vs APACHE II 0.087 5
+Yap 2025 – AI vs SOFA 0.125 6
+
+The above figure shows that, overall, artificial intelligence models have a positive
+difference in AUC values, implying a higher predictive capacity compared to traditional scoring
+tools such as APACHE II, SOFA, and SAPS II
+Variability was measured through heterogeneity, which was based on discrepancies in
+reported AUCs, study participants, ICU conditions, and machine learning models used. AUCs
+were between 0.833 and 0.913, which was due to the dissimilarities among studies. Although AI
+algorithms tend to perform better than conventional scores, the AUC range shows moderate
+heterogeneity across different studies.
+Analysis (Interpretation):
+The results show that the predictive models based on artificial intelligence are always
+superior to the conventional intensive care unit (ICU) scoring models in the prediction of patient
+outcomes. The high values under the receiver operating characteristics curve values indicate that
+
+machine learning algorithms have superior discriminatory power in distinguishing between high
+and low mortality groups.
+One of the explanations for this enhancement is related to the potential of machine
+learning models to capture complex non-linear relationships between clinical variables. In fact,
+traditional scoring models like APACHE II, SOFA, SAPS II, among others, are primarily based
+on a defined formula and a limited set of variables. Although these models provide a
+standardized approach for evaluating the severity of illness, it is possible that this is not fully
+representative of the complexity of critical illness.
+Alternatively, artificial intelligence models can process a significant number of
+interacting variables simultaneously, thereby allowing for the identification of complex patterns
+within patient data. Neural networks, gradient boosting models, and ensemble learning are some
+of the algorithms that can be used to process the complex clinical data obtained from electronic
+health records.
+The distribution of predictive performance across the studies further supports this trend.
+Figure 2. Shows the range of AUC values reported for AI-based models across the included
+studies.
+
+- Figure 2. Distribution of AUC/AUROC values for AI-based prediction models
+across studies.
+
+Study AI AUC Study Index
+
+Mirzakhani 2022 –
+Artificial Neural Network
+(ANN)
+
+0.841 1
+
+Yap 2025 – XGBoost 0.913 2
+
+Park 2025 – Ensemble
+(Internal Validation)
+
+0.881 3
+
+Park 2025 – Ensemble
+(External Validation)
+
+0.833 4
+
+It is evident from the above figure that the performance of AI models in achieving high
+level prediction accuracy is consistent, as their AUC ranges between 0.83 and 0.91. In clinical
+prediction studies, an AUC greater than 0.80 is generally considered strong, implying that these
+models are able to differentiate patients with different levels of mortality risk.
+It may seem that the improvement in AUC is marginal, yet in ICUs, where prediction
+accuracy is concerned, even a marginal improvement in prediction accuracy may have significant
+clinical implications.
+Synthesis With Existing Literature:
+The results obtained in the current analysis are consistent with the general literature
+regarding the role of artificial intelligence in healthcare predictive models. Several studies have
+confirmed that machine learning algorithms are superior to traditional statistical models when
+dealing with complex clinical data sets. The results presented by Mirzakhani et al. (2022), Yap et
+al. (2025), and Park et al. (2025) are also consistent with this observation, showing higher
+predictive discrimination for artificial intelligence based models compared to well-established
+intensive care unit scoring systems.
+However, the existing literature also confirms that the predictive accuracy of a system
+does not automatically translate to better clinical outcomes. Even though artificial
+intelligence-based models can improve risk predictions, their clinical usefulness is contingent
+upon the efficiency of their implementation.
+Contrary to other studies, which have focused on individual model and patient group
+performance, this analysis combines multiple environments and different types of AI models to
+identify a trend in predictive improvement. This particular study helps fill a gap in existing
+literature, which is focused on statistical measures of accuracy, such as AUROC, without
+
+comparing studies to determine a general trend. By comparing studies, this analysis helps
+provide a higher level of evidence that there is a trend in improving predictive capabilities, rather
+than a simple increase in individual studies.
+Furthermore, another way this meta-analysis improves on previous research is by not
+focusing solely on improving prediction accuracy of each individual model, but rather examining
+how these improvements can impact actual clinical decision making. Previous research tends to
+end at stating their performance metrics, creating a gap between improving algorithmic
+performance and translating that to practical use.
+Addressing the Research Question:
+The research question quoting this study asked whether AI-based predictive models
+improve the prediction of ICU patient outcomes compared with traditional scoring systems. The
+results clearly provide solid evidence that AI models tend to achieve higher levels of predictive
+accuracy, as confirmed by significantly higher values of AUROC in most of the reviewed
+studies.
+Although it is not directly related to reduced totality rates, it is reasonable to assume that
+while AI improves predictive accuracy, this study does not establish a direct causal relationship
+between AI implementation and reduced mortality outcomes.
+It is reasonable to conclude that AI-based prediction tools have the potential to support
+better risk stratification in intensive care environments in comparison to traditional methods.
+
+Limitations of the Data:
+Several limitations must be taken into consideration while interpreting the results of this
+analysis. First, there are considerable differences in the patients, ICU settings, and methodologies
+for developing the AI models among the included studies in this meta-analysis. Second, some
+studies were based on retrospective data, implying that the performance of the machine learning
+model was tested using past data rather than actual clinical trials.
+Finally, the majority of the studies focused on improving the predictive accuracy metrics
+such as AUC rather than assessing the impact of AI implementation on the outcomes. Therefore,
+further studies need to be carried out to establish whether improvements in predictive accuracy
+result in improvements in outcomes.
+Implications and Future Inquiry:
+The results obtained in the course of the current study reveal the significant potential of
+artificial intelligence in improving the process of risk prediction in intensive care medicine. This
+is because the use of more accurate predictions will enable the efficient use of clinical
+interventions.
+Clinicians working in hospitals will likely find this information valuable in real-world
+settings. As a result of this study, we can anticipate AI-based predictive tools to better identify
+patients who are at high-risk earlier. This can enable clinicians to take action sooner if they
+believe a patient may be beginning to deteriorate. In the ICU, sometimes minutes make a
+difference in patient outcomes. So, being able to identify patients' risk of mortality more
+accurately can help clinicians to make decisions and monitor at-risk patients more quickly.
+Additionally, more accurate predictions allow hospitals to allocate resources more
+effectively. Resources in ICUs including staff, monitoring technology, and higher acuity
+
+treatments are limited. Better stratification will allow providers to focus on patients with greatest
+need and could improve ICU availability as well as decrease preventable morbidities.
+One other implication is AI may be able to decrease cognitive load for clinicians. ICUs
+are busy, data-driven places. Machine learning models could take in the copious amounts of data
+patients generate and create meaningful insight for providers. Decision consistency may improve
+and there may be less human error.
+However, the results also show that improvements in prediction alone are not enough. If
+we want AI to improve hospital outcomes, we need it packaged in ways that make sense to
+doctors and hospitals. That means it also needs to be interpretable and gain their trust. An
+accurate model that isn't implemented properly might end up not helping at all in the real world.
+Future studies need to be designed as prospective clinical trials to investigate the effect of
+AI-based decision support tools on clinicians' behavior and patient outcomes. There is also a
+need to improve the interpretability and transparency of AI models because these are key drivers
+of trust for clinicians to adopt AI models.
+In conclusion, while the performance of AI models is impressive, their success will
+depend on their ability to be adopted into clinical practice.
+
+Analysis & Discussion
+
+Interpretation of Findings:
+The results obtained in this study show that artificial intelligence (AI) models possess
+better predictive capabilities compared to traditional intensive care unit (ICU) scoring systems,
+as demonstrated by the increased AUC/AUROC results in various studies. The improvements in
+the AUC results, ranging from 0.038 to 0.125 show that AI models are better in distinguishing
+between patients with higher or lower mortality risk.
+This shows that AI-based models are better at describing the complex, nonlinear
+dynamics of critical illness, which may not be fully described by traditional scoring systems like
+APACHE II, SOFA, and SAPS II. With their ability to handle vast, high-dimensional clinical
+data, including dynamic physiological and laboratory data, AI models may better identify
+underlying patterns that may not be easily detected by traditional methods.
+Although the data clearly points to improved accuracy in terms of predictions, the data
+does not necessarily indicate that the implementation of AI leads to reduced patient mortality.
+This study does not indicate a direct causal link between the use of AI and lower mortality
+outcomes, even though AI increases predictive accuracy.
+Comparison with Existing Literature:
+The results obtained in this study are in good agreement with those found in the literature
+review section. Previous studies, such as those by Mirzakhani et al. (2022), have already
+established that artificial neural networks are better than traditional scoring systems. More recent
+studies by Yap et al. (2025) and Park et al. (2025) also support this fact for different patient
+populations in ICUs.
+This analysis supports this conclusion as it shows that the AI models consistently achieve
+higher AUC scores across the research studies, thus supporting the idea that machine learning
+
+techniques have enhanced predictive capabilities. In this sense, the findings of this research
+support the majority of existing research that points to the advantages of AI techniques in
+handling complex clinical data.
+In summary, this research confirms the limitations of the literature regarding the fact that
+even though accuracy improves, this does not mean that there is any benefit in terms of reduction
+in mortality rate. Many articles focus on performance measures such as AUC, but there is no
+evaluation of improved outcomes.
+Moreover, the differences in the AUC values across studies is consistent with prior
+research highlighting and mentioning issues of generalizability. Differences between the
+intensive care unit settings, the populations, and the models themselves support the argument of
+the need to apply the AI models individually.
+Although previous research shows that AI models have better performances than
+traditional scores, they usually analyze either a particular model, particular population, or
+particular data set. Hence, there is no systematic approach that evaluates if such performance
+advantage can be generalized or not. This meta-analysis will combine all available data to
+answer that question.
+In addition, previous studies have been limited to showing performance metrics such as
+AUC without delving into the interpretation of such performance. The present study contributes
+to the literature by not only affirming improved predictive accuracy, but also delving into the
+interpretation of such performance, hence filling the gap that exists between performance and
+application.
+
+Implications for Real-World Application:
+The implications of this study's findings extend to the integration of artificial intelligence
+in clinical practices. The first of these is the continued improvement in the accuracy of
+predictions, which suggests the potential for artificial intelligence in assisting in the early
+identification of high-risk patients, an attribute of particular importance in intensive care settings.
+In an actual intensive care workflow, this would mean that the manner in which the
+patient is being monitored and prioritized would be changed. Instead of relying on periodic
+scoring systems to monitor the patient, AI models would be used to monitor the patient in real
+time and automatically identify the patient at risk of deteriorating. This would mean that the
+focus of the healthcare provider would be changed from reactive care to proactive care.
+Secondly, the enhanced predictive ability could help to make the allocation of resources
+more efficient within intensive care units, allowing health professionals to focus on the most
+vulnerable patients. This could help to make the most of the resources available, which are often
+limited.
+The predictions made by AI in ICU settings assist in prioritizing patient care in a number
+of ways, such as identifying patients that require immediate attention, increased surveillance, or
+additional treatment. Examples include allocating more qualified personnel to patients at higher
+risk or increased monitoring intervals.
+Moreover, artificial intelligence systems can be incorporated with existing electronic
+health record systems to provide real-time risk scores, alerts, or dashboards to guide clinical
+decisions. Such an integration would reduce the requirement for manual computation of scoring
+systems and allow more attention to be focused on patient care instead of data processing.
+
+Nonetheless, the results reveal that accuracy alone is insufficient for improving patient
+outcomes. For artificial intelligence to make a significant difference, it must be integrated into
+the clinical process in a way that is trusted and easily understood by the clinician. The issues of
+model interpretability, transparency, and usability remain as key hurdles to the effective
+integration of the technology. This is notwithstanding the accuracy of the models.
+If these challenges are addressed, AI has the potential to transform ICU workflows by
+improving efficiency, reducing delays in intervention, and supporting more consistent clinical
+decision-making across providers.
+Finally, the results highlight the need for further research that moves beyond the
+retrospective approach and focuses instead on prospective clinical application and outcome
+assessment. Research into the impact of AI prediction on the behavior of clinicians and the
+outcomes of patients is necessary in order to establish whether the models have the potential to
+reduce mortality rates in the real world.
+Overall Conclusion of Analysis:
+Overall, the regulars suggest that artificial intelligence models offer significant
+improvements in predictive accuracy for ICU mortality risk compared to traditional scoring
+systems. These results support existing research while also reinforcing significant limitations,
+including a lack of evidence for better predictive results and better patient outcomes.
+As a result, while AI technology clearly holds significant promise for decision support in
+ICUs, its effectiveness will depend on how well predictive results can be translated into clinical
+practice.
+
+Conclusion and Future Directions
+
+Conclusion:
+The research evaluates if the utilization of AI for building predictive models increases
+mortality prediction in ICU patients compared to using scores such as APACHE II, SOFA, and
+SAPS II. Research from peer-reviewed articles within the time period of 2015-2025 proves that
+AI models provide better results due to higher AUC/AUROC.
+The use of AI enables researchers to identify at-risk patients based on high-dimensional
+data analysis and identification of nonlinear correlations not visible with traditional scores.
+However, results cannot be considered direct proof that AI decreases mortality rates but show its
+potential application in decision-making processes.
+This study emphasizes that predictive improvements must be successfully incorporated
+into clinical practice in order to have an impact on patient care, even though AI-based predictive
+tools increase mortality prediction accuracy. However, it does not establish a direct causal
+relationship between AI implementation and decreased mortality outcomes.
+Overall, the research question is answered by demonstrating the effectiveness of AI
+models in enhancing the accuracy of mortality prediction in intensive care units and the
+effectiveness of AI model implementation being contingent upon the manner in which the AI
+model is implemented.
+Limitations:
+However, there are certain limitations of the study which need to be taken into
+consideration while interpreting the findings of the study. First, the fact that the meta-analysis of
+the study is based on retrospective studies implies that the majority of the data was obtained
+retrospectively rather than prospectively. This limits the ability to determine whether improved
+prediction directly translates into improved patient outcomes.
+
+Another limitation of the study is the fact that there was heterogeneity among the
+included studies with regard to the population studied, the ICU settings, and the types of AI
+models. This may limit the consistency of the results obtained in the study. In addition to this, the
+fact that the definition of mortality outcomes varied among the included studies (such as ICU
+mortality, in-hospital mortality, and 30-day mortality) may influence the results obtained in the
+study.
+Finally, the fact that the included studies may not have reported the same performance
+metrics and comparisons with traditional scoring systems may limit the ability to standardize the
+effect sizes of the included studies. Moreover, the study mainly focused on the analysis of
+AUC/AUROC values, which are a measure of the accuracy of the model rather than the
+usefulness of the model.
+Future Research:
+Future research should focus on moving from retrospective studies to prospective clinical
+studies, which will focus on the performance of the predictive tools in the real-time environment
+of the hospitals. The research should focus on whether the improved predictive capabilities will
+lead to improved clinical decisions, which will in turn lead to improved patient outcomes,
+including decreased mortality rates.
+In addition, the research should focus on the effective integration of the predictive
+capabilities of the AI model in the ICU environment, including the presentation of the results to
+the clinician and the effect of the results on the clinicians decisions. Enhancing the
+interpretability of the results of the AI model will be instrumental in the effective adoption of the
+model.
+
+Further research should focus on the standardization of the reporting of the results, which
+will enable the effective comparison of the results obtained in different studies. The research
+should focus on the diversity of the population, which will enhance the generalizability of the
+results.
+However, future research should focus on closing the gap between the predictive
+performance of the artificial intelligence model and the clinical performance, which will enhance
+the effective transfer of the capabilities of the artificial intelligence model to the real-world
+environment to improve the quality of care in the hospitals.
+
+Bibliography
+
+Agard, Geoffray, et al. "Improving Sepsis Prediction in the ICU with Explainable Artificial
+Intelligence: The Promise of Bayesian Networks." Journal of Clinical Medicine, vol. 14,
+no. 18, Sept. 2025, p. 6463. EBSCOhost, https://doi.org/10.3390/jcm14186463.
+
+Data-driven healthcare and the role of explainability. BMJ Health & Care Informatics, 27(3),
+Article e100146.
+
+Gundlack, Jana, et al. "Artificial Intelligence in Medical Care – Patients' Perceptions on
+Caregiving Relationships and Ethics: A Qualitative Study." Health Expectations, vol. 28,
+no. 2, Apr. 2025, pp. 1–14. EBSCOhost, https://doi.org/10.1111/hex.70216.
+
+Johnson, A. E. W., et al. (2016). Machine learning and decision support in critical care.
+Proceedings of the IEEE, 104(2), 444–466. https://doi.org/10.1109/JPROC.2015.2501978
+
+Kamma, Prasanth. "AI-Driven Predictive Analytics in Healthcare: Leveraging Salesforce for
+Scalable, Data-Driven Patient Management Systems." Frontiers in Health Informatics,
+vol. 13, no. 3, Apr. 2024, pp. 1–11. EBSCOhost,
+research.ebsco.com/linkprocessor/plink?id=09d14c26-b431-3ea6-a1f6-1c897b0e57a4.
+
+Kyrimi, E., et al. (2020). Bayesian networks for clinical decision support in critical care: A
+systematic review. Artificial Intelligence in Medicine, 103, Article 101809.
+https://doi.org/10.1016/j.artmed.2020.101809
+
+Mirzakhani, Farzad, et al. "Which Model Is Superior in Predicting ICU Survival: Artificial
+Intelligence versus Conventional Approaches." BMC Medical Informatics & Decision
+Making, vol. 22, no. 1, June 2022, pp. 1–13. EBSCOhost,
+https://doi.org/10.1186/s12911-022-01903-9
+
+Park, Dong Jin, et al. "Development and External Validation of an Artificial Intelligence Model
+for Predicting Mortality and Prolonged ICU Stay in Postoperative Critically Ill Patients:
+A Retrospective Study." World Journal of Emergency Surgery, vol. 20, no. 1, Oct. 2025,
+pp. 1–15. EBSCOhost, https://doi.org/10.1186/s13017-025-00650-2.
+
+Thapa, Sanjog, et al. "The Role of Artificial Intelligence in Personalized Medicine: Current
+Trends and Future Directions." Frontiers in Health Informatics, vol. 13, no. 3, Apr. 2024,
+pp. 3830–41. EBSCOhost,
+research.ebsco.com/linkprocessor/plink?id=72b3b6ff-5b66-3130-a772-8bf67496ab7c.
+
+Yap, Xiao-Han Vivian, et al. "Developing a High-Performance AI Model for Spontaneous
+Intracerebral Hemorrhage Mortality Prediction Using Machine Learning in ICU
+Settings." BMC Medical Informatics & Decision Making, vol. 25, no. 1, Mar. 2025, pp.
+1–14. EBSCOhost, https://doi.org/10.1186/s12911-025-02984-y.

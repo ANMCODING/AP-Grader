@@ -1,0 +1,98 @@
+Data Mining
+Big Corporate Giants like Google are datamining our personal information and
+using it for advertisements. It’s all underpinned by the same thing: the massive trove of
+data that Google is collecting on billions of people every day. – Ben Popken (NBC News).
+This issue is controversial because it is an important part of Google livelihood, yet it is an
+invasion of privacy on the people. This issue is relevant today because compared to other
+world problems, this one is still relatively new and with the Tech Industry booming, has
+more light being shed on it by the day. Businesses, People of all ages, and even the
+government. This can be mentally, politically, and socially harmful with your data being
+data mined and seen by these corporate giants, they can use it to help in elections, it’s
+existence makes you uneasy and maybe scared to use the internet and it harms just about
+everyone making it social. I hope to find a solution that’ll help reduce the amount of data
+mining going on.
+Independent search engines will help protect you from “cookies” and data mining.
+Ashish Mundhra, the staff writer for guiding tech is a supporter of duckduckgo and is
+speaking about its benefits. This first and the foremost advantage of using DuckDuckGo is
+their privacy policy. It does not collect or share personal information. No search record is
+ever created on DuckDuckGo and thus no one can trace it back to you. – Ashish Mundhra
+(Guiding Tech). This evidence is proving that there are independent search engines that
+can be perfectly safe and still work just as good. My idea is that independent search engines
+are safe alternatives to google, etc. and this evidence supports that perfectly. Google gleans
+over all your search history and records the searches you have made across all its services.
+“This first and the foremost advantage of using DuckDuckGo is their privacy policy. It
+
+does not collect or share personal information. No search record is ever created on
+DuckDuckGo and thus no one can trace it back to you.” (Guiding Tech). Google is using
+our private information to send out ads and monitor what we search, whereas duckduckgo
+does not. Even if you are not signed in and are searching as an anonymous user, Google
+still records your computer’s IP data. “Google still records your computer’s IP data.”
+(Guiding Tech). Google not only uses cookies and data mining, but they can also track you
+with your IP making it virtually impossible to escape. Search Engines like DuckDuckGo
+will go be bought out of business if they become too popular. DuckDuckGo is funded by the
+people and has a supportive fan base that won’t be so easily bought out. Google and other
+big corporate giants like Facebook, etc. are taking over and stealing our info and using it in
+marketing for ads. But with independent search engines made by the people, for the people,
+we can walk a new path without the constant stare.
+“ In today’s fiercely competitive business environment, companies need to rapidly turn these
+terabytes of raw data into significant insights into their customers and markets to guide their
+marketing, investment.” (Abey Francis). Corporate companies are infringing on the rights of
+
+the people by interfering with their personal data. “The use of data mining in this way is
+not only considered unethical, but also illegal. Individuals need to be protected from any
+unethical use of their personal information” (Francis) Datamining can destroy people’s
+lives. Big companies can start losing customers or users because of privacy issues. “In data
+mining, the privacy and legal issues that may result are the main keys to the growing
+conflicts. The ways in which data mining can be used is raising questions regarding
+privacy.”(Francis) When customers feel violated by the websites they use, they most likely
+will switch to an alternative where they won’t feel so violated. Big corporate companies
+
+need to data-mine to send out the right ads to the right people. Datamining might give you
+ads that can relate to you but they d it off of just a search which might not be accurate and
+also gives them access to other data than just the search. Being Misinformed can cause
+extreme damage to someone’s life and yours, not only just people but also will damage
+companies.
+Facebook using our private data for more than just ads. Facebook is one of the
+biggest data hoarders and something that no one would’ve expected. “Facebook would
+accept such a compensation package lightly. Multiplying £5000 by 87 million soon adds up,
+even for Facebook.” (Timothy Revell) Most of Facebook's wealth comes from the
+accumulation of our data. When Facebook was first introduced, no one would’ve thought
+that they would sell so much of our data. “It is still very difficult to get Facebook to truly
+delete information it holds about you, and opting in to and out of certain aspects of the
+platform is still very limited.” (Timothy Revell) We need to be more cautious and active in
+new upcoming social media to make sure we have a safe alternative. Facebook owns so
+much of our data they can sway election polls. “Facebook estimates that data from 87
+million people ended up in the hands of Cambridge Analytica this way” (Timothy Revell)
+With the majority of the population using social media like Facebook and putting their
+views out through the platform, Facebook can use this and sell that data to advertisers that
+work with politicians to sway elections. Facebook is a monopoly in social media and it has
+become an important part of peoples lives. If we can get this problem into the light of
+everyday people, then there will start to begin change and slowly more and more people
+will begin moving to other social platforms and alternative search engines. Platforms
+
+similar to Facebook or bought by Facebook are huge in collecting their users' data and
+abusing it to even maybe sway an election by selling our personal information.
+Datamining is a problem because it’s invading our privacy. Big corporate
+companies like Google and Facebook are using our private information for their benefit.
+Search Engines like DuckDuckGo and using other social media are great ways of dodging
+the companies and becoming less of a target. We need to get this information out to the
+people so that more people will use these alternatives. If we continue to not do anything
+about this, there will be more and more data used to either sway elections, go against us in
+job interviews, etc. Although billions of people already use Google and Facebook, we can
+make a change with their platforms and direct people in the direction of privacy and safety.
+The community would be much more private, employers at job interviews won’t pester you
+with your past and elections will become more of a legitimate choice by the people. This is
+the power of data mining for why we need to help prevent this.
+
+Word Count: 1,182
+
+Works Cited:
+•
+•
+•
+•
+
+https://www.nbcnews.com/tech/tech-news/google-sells-future-powered-yourpersonal-data-n870501
+https://www.newscientist.com/article/2166435-how-facebook-let-a-friend-pass-mydata-to-cambridge-analytica/
+https://www.guidingtech.com/11797/5-reasons-to-search-web-with-duckduckgo/
+https://www.mbaknol.com/information-systems-management/ethical-security-legaland-privacy-concerns-of-data-mining/

@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+AP(r)  Research Academic Paper
+Sample Student Responses and Scoring Commentary
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2024 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered trademarks of College Board. AP Capstone is a trademark owned by College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+AP(r) Research 2024 Scoring Guidelines
+
+
+Score of 1	Score of 2	Score of 3	Score of 4	Score of 5Report on Existing KnowledgeReport on Existing Knowledge
+with Simplistic Use of a Research MethodIneffectual Argument for a New UnderstandingWell-Supported, Articulate
+Argument Conveying a New UnderstandingRich Analysis of a New
+Understanding Addressing a Gap in the Research Base• Presents an overly broad topic of inquiry.• Presents a topic of inquiry with narrowing scope or focus, that is NOT carried through either in the method or in the overall line of reasoning.• Carries the focus or scope of a topic of inquiry through the method AND overall line of reasoning, even though the focus or scope might still be narrowing.• Focuses a topic of inquiry with clear and narrow parameters, which are addressed through the method and the conclusion.• Focuses a topic of inquiry with clear and narrow parameters, which are addressed through the method and the conclusion.• Situates a topic of inquiry within a single perspective derived from scholarly works OR through a variety of perspectives derived from mostly non-scholarly works.• Situates a topic of inquiry within a single perspective derived from scholarly works OR through a variety of perspectives derived from mostly non-scholarly works.• Situates a topic of inquiry within relevant scholarly works of varying perspectives, although connections to some works may be unclear• Explicitly connects a topic of inquiry to relevant scholarly works of varying perspectives AND logically explains how the topic of inquiry addresses a gap.• Explicitly connects a topic of inquiry to relevant scholarly works of varying perspectives AND logically explains how the topic of inquiry addresses a gap.• Describes a search and report process.• Describes a nonreplicable research method OR provides an oversimplified description of a method, with questionable alignment to the purpose of the inquiry.• Describes a reasonably replicable research method, with questionable alignment to the purpose of the inquiry.• Logically defends the alignment of a detailed, replicable research method to the purpose of the inquiry• Logically defends the alignment of a detailed, replicable research method to the purpose of the inquiry.• Summarizes or reports existing knowledge in the field of understanding pertaining to the topic of inquiry.• Summarizes or reports existing knowledge in the field of understanding pertaining to the topic of inquiry.• Conveys a new understanding or conclusion, with an underdeveloped line of reasoning OR insufficient evidence.• Supports a new understanding or conclusion through a logically organized line of reasoning AND sufficient evidence. The limitations and/or implications, if present, of the new understanding or conclusion are oversimplified.• Justifies a new understanding or conclusion through a logical progression of inquiry choices, sufficient evidence, explanation of the limitations of the conclusion, and an explanation of the implications to the community of practice.• Generally communicates the student's ideas, although errors in grammar, discipline-specific style, and organization distract or confuse the reader.• Generally communicates the student's ideas, although errors in grammar, discipline-specific style, and organization distract or confuse the reader.• Competently communicates the student's ideas, although there may be some errors in grammar, discipline-specific style, and organization.• Competently communicates the student's ideas, although there may be some errors in grammar, discipline-specific style, and organization.• Enhances the communication of the student's ideas through organization, use of design elements, conventions of grammar, style, mechanics, and word precision, with few to no errors.• Cites AND/OR attributes sources (in bibliography/ works cited and/or intext), with multiple errors and/or an inconsistent use of a discipline specific style.• Cites AND/OR attributes sources (in bibliography/ works cited and/or intext), with multiple errors and/or an inconsistent use of a discipline specific style.• Cites AND attributes sources, using a discipline-specific style (in both bibliography/works cited AND intext), with few errors or inconsistencies.• Cites AND attributes sources, with a consistent use of an appropriate discipline-specific style (in both bibliography/works cited AND intext), with few to no errors.• Cites AND attributes sources, with a consistent use of an appropriate discipline-specific style (in both bibliography/works cited AND intext), with few to no errors.
+(c) 2024 College Board
+
+AP(r) Research 2024 Scoring Commentary
+
+Academic Paper
+Overview
+
+This performance task was intended to assess students' ability to conduct scholarly and responsible research and develop an evidence-based argument that clearly communicates a conclusion or new understanding stemming from a clearly articulated research question or project goal. More specifically, this performance task was intended to assess students' ability to:
+
+* Generate a focused research question that is situated within or connected to a larger scholarly context or community;
+
+* Explore relationships between and among multiple works representing multiple perspectives within the scholarly literature related to the topic of inquiry;
+
+* Articulate what approach, method, or process they have chosen to use to address their research question, why they have chosen that approach to answering their question, and how they employed it;
+
+* Develop and present their own argument, conclusion, or new understanding while acknowledging its limitations and discussing its implications to a larger community of practice;
+
+* Support their conclusion through the compilation, use, and synthesis of relevant and significant evidence generated by their research;
+
+* Use organizational and design elements to effectively convey the paper's message;
+
+* Consistently and accurately cite, attribute, and integrate the knowledge and work of others, while distinguishing between the student's voice and that of others;
+
+* Generate a paper in which word choice and syntax enhance communication by adhering to established conventions of grammar, usage, and mechanics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2024 College Board.
+Visit College Board on the web: collegeboard.org.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accidental Viagra, Lethal Multivitamins, and Other Herbal Remedy Failures: A Content Analysis of FDA Warning Letters to Violative Manufacturers from 2005-2023
+AP Research April 30, 2024
+Word Count: 4643
+
+
+
+
+
+
+
+Introduction
+
+Background
+
+      Americans' usage of herbal remedies (hereby defined as any over the counter, herbal- based product, dietary supplement, or traditional medicine) has recently increased dramatically, especially following the Covid-19 pandemic. Recent studies estimate that 168 million Americans use these herbal remedies, and this number is projected to increase with time (Ahmad & Ahmad, 2019). Manufacturers have taken note of this new market and now sell a massive variety of herbal remedies, often making extremely wide-reaching claims about supplements' effects in their advertising and product labeling. The Food and Drug Administration (FDA) currently operates with extremely lax rules on the management of herbal remedies, regulating them as foods and not over-the-counter (OTC) drugs, with the Vitamin-Mineral Act (VMA) of 1976 banning the FDA from creating a separate internal division monitoring the potency and safety of dietary supplements. This classification allows herbal product manufacturers to circumvent much - if not all - of the necessary product testing and quality control assurance that OTC and prescription drugs must undergo.
+      Typically, as the size of an industry increases, the governmental regulation surrounding it increases proportionally (Law & McLaughlin, 2022). With an estimated market share of 100 billion dollars worldwide and large American investment, a need for rather strict government regulation of the industry and its safety seems incontrovertible (Ahmad and Ahmad, 2019).
+However, the herbal remedy industry proves itself an outlier to this trend of heightened regulation. The Dietary Supplement and Nonprescription Drug Consumer Protection Act (DSNDCPA) - created in 2006 - is the only public law directly targeting herbal remedies. This act requires a manufacturer, packer, or distributer whose name appears on the label of a
+
+
+
+
+
+
+
+nonprescription drug or supplement to report to the FDA any serious adverse effect associated with use of the product soon after its discovery, and the act permits the FDA to inspect any relevant or related records it may need. In every other legal process related to herbal remedies, they are treated as foods instead of OTC drugs, granting the industry rather lax regulation compared to a typical over-the-counter product (e.g., Advil(tm) or Tylenol(tm)) (DSNDCPA, 2006). Creation and distribution of a nonprescription drug requires sending an application to the FDA for development, along with extensive clinical testing on its medical effects and shelf durability; herbal remedies require neither of these regulations and, therefore, manufacturers generally decide against following these processes despite their clear benefit to human health (Brodie, 2021).
+      However, the FDA retains some basic power over herbal remedy manufacturers. Should the FDA notice a product in "severe" violation of basic food safety or advertisement laws (i.e., the product or its advertisements contains a known and significant danger or a clear perpetuation of misinformation), the agency sends a warning letter to a relevant executive of the violative company. These warning letters clearly outline: a) the specific violation, b) the corrective steps to be taken, c) the timeframe the company has to correct the problem, and d) how proof of these corrections should be sent to the FDA (FDA, 2019). These warning letters are one of the few ways the FDA can directly enforce the few advertisement and safety standards of herbal remedies; because of this, warning letters have become especially integral to regulation of the industry (Zhang, 2019).
+Gap
+
+      Prior research - especially that concerting the harms of herbal remedy regulation - is often lacking in detail. Much of this research is also outdated, especially when considering the
+
+
+
+
+
+
+
+rate of the herbal remedy industry's expansion (Gilbert, 2011; Wu et al., 1998; Zhang et al., 2015). Furthermore, few studies exist in which researchers analyze FDA warning letters, and fewer to none focus on letters sent to herbal remedy manufacturers. A content analysis by Limbu et al. (2018) developed a coding scheme to review warning letters sent by the FDA to drug manufacturers and distributors. However, while analyzing the letters themselves, the researchers specifically omitted all letters focusing on dietary supplements from their study and suggest this analysis as a future study in the paper's conclusion.
+      The study conducted here attempts to reduce this gap by analyzing FDA warning letters from 2005 - 2022 sent to herbal remedy manufacturers and distributors. Here, Limbu et al.'s coding scheme is modified to examine applicable letters on three criteria: a) the specific violation(s) committed by the manufacturer/product, b) the severity of the infraction, and c) the corrective timeframe given by the FDA. With these data collected, I seek to answer the following question: How do infractions and FDA suggestions for violative herbal remedy manufacturers change with time between 2005 and 2023, and what does this reveal about the effectiveness of the system?
+Literature Review:
+
+The Food and Drug Administration
+
+History
+
+      As a federal agency within the US Department of Health and Human services, the FDA's funding primarily comes from allocations by Congress. However, due to the scope of the FDA's duties - and a significant and continuous lack of congressional funds - the agency now collects user fees from manufacturers seeking drug approval. These fees can reach up to 4,048,695
+
+
+
+
+
+
+
+dollars per drug applied (Alphonse et al., 2014; FDA, 1992; FDA, 2023). During this time, the corporation cannot receive funding from investors, nor can they sell the product's patent.
+      Despite its two consistent methods of obtaining funding, the FDA unfortunately remains chronically underfunded. The agency operates at a significant deficit, and, therefore, cannot execute many of its basic functions. This deficit creates a cycle in which the organization is then unable to update its extremely outdated technology and internal systems, which leads to the FDA hemorrhaging further funds due to consistent technologic and systematic failures that halt the agency's function (FDA, 2023).
+      Worsening this funding struggle, the FDA - akin to many other large governmental agencies - becomes a frequent point of contention in political debates (Wang & Wertheimer, 2022). This severely stalls the speed at which the federal funding the FDA receives is granted; without sufficient and timely approval from Congress, the agency is forced to continue its duties with its available funds cleaved to nearly one-third of its desired amount. This problem aggrandizes with federal lobbying expenses increasing by 70 percent between 2000-2020 (Schmero, 2022). Lobbyist organizations - which are typically created and funded by the nation's largest healthcare and pharmaceutical companies - profit heavily from the FDA's persistent funding shortage; as the FDA, when given proper funding, spends large periods of time ensuring the physical, chemical, and marketing safety of drugs and medical devices, a lack of funding allows these developers to release their products faster.
+FDA Drug Regulation
+
+      The FDA imposes stringent and detailed rules on developers of a new OTC or prescription medication. For both of these drug types, manufacturers must file a New Drug
+
+
+
+
+
+
+
+Application (NDA), test their drug on animals, complete three phases of human clinical trials, release all clinical trial data to the FDA, undergo multiple rounds of facility inspections, have several high-ranking executives meet personally with the FDA, and get approval for their drug labeling and marketing. After the drug's release, the manufacturer is then required to submit periodic safety data, and the drug enters the post-marketing regulatory phase (where the FDA continues closely monitoring the drug for negative side effects) (Gassman et al., 2017).
+      Herbal remedy manufacturers are not required by the FDA to follow these steps. Their main FDA legislation explaining the regulatory processes manufacturers should follow is simply a "non-binding suggestion". There is no impetus for herbal remedy producers to follow these suggestions (FDA, 2016).
+      The primary cause for this lack of FDA oversight of the herbal remedy industry is the VMA. The VMA strongly caps the ability of the FDA to regulate herbal remedies, limiting their power to do much else aside from sending warning letters in cases of non-emergency. These warning letters are sent to herbal remedy manufacturers for: factory inspection violations (where the FDA sent a compliance officer to monitor the safety of the production factories), misbrandings (any unsubstantiated claims about the remedy's power or effect), labeling violations (any errors in packaging, advertisements, brochures, etc.), addiction aid claims (any claims that an herbal supplement will help with reversing addiction or relieve withdrawal symptoms), crisis advertisements (any claims that a supplement will treat an illness in a current health emergency, e.g., COVID-19), unlicensed clinical trials (any clinical study that fails to receive proper authentication and/or consent. Here, only clinical trials experimenting with herbal remedies are noted), failure to provide records (if a manufacturer/distributor fails or refuses to provide the FDA with necessary paperwork and/or clinical data), adulterations (if a substance not
+
+
+
+
+
+
+
+listed in the ingredients are found in the supplement), CGMP violations (Current Good Manufacturing Practices; all necessary quality control, processing, listing, and distributing regulations), and/or reported harmful side effects.
+Herbal Remedies
+
+Common Uses
+
+      The most prevalent motivation for taking herbal remedies is rather straightforward: supplements are inexpensive. The recent increase in herbal remedy usage parallels the recent increase in prescription drug prices. With an already marked increase in living costs, the prices of many common prescription drugs (e.g., insulin, atorvastatin) skyrocketing has forced many to seek alternatives to their medications. Many consumers also report either hearing positive stories from loved ones about their successes with herbal remedies or distrusting medical professionals and preferring to "take control of their own health" with more "natural" remedies (Welz et al., 2018).
+      Herbal remedies are taken to soothe a large variety of ailments, including (but not limited to): respiratory issues, cardiac issues, weight loss difficulties, anxiety, depression, inflammation, soreness, muscle gaining difficulties, and migraines (Studdert, 1998).
+Dangers
+
+      The risk of consuming herbal remedies varies depending on the supplement. Plants studied for possible uses in pharmaceutical drugs have significantly more noted risks: Aristolochia can cause renal failure and renal cancer, Ephedra is linked to transient blindness and neurotoxicity, Aconitum can lead to bradycardia and cardiac toxicity, and Tussilago is attributed to cirrhosis and occlusive disease (Ekor, 2014). This list is not exhaustive.
+
+
+
+
+
+
+
+      Cross-contamination and lack of quality control practices also introduce additional dangers to herbal supplement consumption. A 2018 US Department of Health and Human Services study tested a selection of spices, herbs, and herbal supplements for the presence of lead. All factories from which samples originated produced at least one herbal supplement. The report found 111 herbal products (out of 177 total samples) containing greater than the legal limits of lead levels (Angelon-Gaetz et al.). An analysis of self-reported quality assurance practices employed by herbal remedy developers also found significant error in the usage of safety measures in the manufacturing processes of various herbal products (Balekundri & Mannur, 2020). This study found numerous dangerous cases of preventably adulterated, substituted or otherwise damaged herbal remedies being shelved and sold as usual with few to no quality screenings.
+      The number of herbal remedies studied with a professional level of scrutiny is rather small, especially when considering the number of herbal remedies available for purchase. Most herbal remedies have not had any serious clinical trials because no pharmaceutical manufacturers believe them to be possible plausible drugs. Research on ginseng - an herbal remedy consumed routinely by an estimated 6 million Americans - is some of the most thorough surrounding herbal remedies. However, almost all studies conducted on its effects and/or dangers are preliminary, and its interactions with other supplements and/or medications are wildly unknown (Ratan et al., 2021).
+Prior Analyses of FDA Warning Letters
+
+      While FDA warning letters are a rather niche research subject, prior content analyses surrounding them do exist.
+
+
+
+
+
+
+
+      Salas et al. (2008) conducted the earliest (publicly available) comprehensive content analysis of FDA warning letters. Their study examined over 200 warning letters sent from 1995 - 2007 about false promotional claims relating to violative prescription and OTC medications. The researchers concluded that "benefit-related claims" (ie., unapproved doses of drugs, unapproved uses of drugs, and failure to disclose known risks of drugs) were the most common infractions meriting a warning letter. This study establishes a clear list of inclusion/exclusion criteria used in selecting applicable letters for research, and the trends found in their analysis may or may not apply to letters sent to herbal product companies.
+      A later analysis of warning letters issued to pharmaceutical companies from 2010 - 2020 by Rathore et al. (2022) suggests the trends found in the study by Salas et al. do not apply to more recent letters. Rathore et al. found that deficiencies in process validations, documentation practices, and quality control were the most frequently cited reasons for warning letters. These violations are the most common dangers of herbal remedy consumption, therefore suggesting an analysis of warning letters to herbal remedy manufacturers may echo this trend (Ekor, 2014; Balekundri & Mannur, 2020).
+      Limbu et al. (2018) further substantiate the findings of Rathore et al. in their analysis of 296 warning letters sent to pharmaceutical manufacturers from 2005-2016. However, the researchers found that the frequency of letters rose steadily from 2005 - 2010 following a sharp increase in congressional FDA funding; when that funding stagnated in mid-2010, the number of letters sharply decreased and did not increase again. This study also created a clear, replicable, and modifiable coding system for analyzing warning letters.
+Method
+
+
+
+
+
+
+
+      This study uses a qualitative content analysis using a modified coding scheme from prior related research. Coates et al. (2021) define coding-based qualitative research in science as "capturing the salient features of a main idea put forth by various subjects" throughout various texts, samples, or other media (p.1). This method worked best for this study as it was the only viable way of analyzing texts according to specific criteria.
+      Furthermore, Limbu et al. (2018) suggest that additional research is needed to explore "the FDA's regulatory letters sent to other industries, including dietary supplements" (p.21). Thus, the coding scheme created by the authors of this latter study was modified to better answer my research question: "How do violations and FDA suggestions for violative herbal remedy producers, products and sellers change with time between 2005 and 2023?". This type of content analysis is the most used method of analyzing FDA warning letters (Mohite et al., 2021; Limbu et al., 2018; Rathore et al., 2022; Salas et al., 2008), and by using it, data can easily be compared and analyzed in the context of related research.
+This study was approved by my institution's IRB.
+
+Data Sources
+
+Collecting Letters
+
+      My data sources are publicly available FDA warning letters. These are posted on the official FDA website and downloadable as PDFs.
+Inclusion/Exclusion Criteria
+
+Only letters fitting all these criteria will be included in the study:
+
+- The letter's send date from the FDA must be between 2005 and 2022. (I chose 2005 as the FDA received an unprecedented nine percent increase in congressional funding that year; therefore, it was an ideal year to show possible effects of available funding on the
+
+
+
+
+
+
+
+FDA's performance (Sarata, 2022). The warning letter system was established in 1996, but reading every applicable letter from 1996-2023 was not feasible with one coder and limited time constraints).
+- The letter must have been sent to an herbal remedy manufacturer or distributor.
+
+- The letter must have been sent about a violative herbal product.
+
+      Should letters not applicable to these criteria somehow appear in my database, they will be removed manually. These filters allow me to keep my research area both narrow and unstudied.
+Coding Scheme
+
+      Used here is a modified version of the coding scheme used by Limbu et al. (2018). Their study analyzed warning letters to prescription drug manufacturers; the researchers' coding scheme has been changed to only analyze letters sent to herbal remedy manufacturers. Table 1 summarizes the demographic data and coding scheme criteria that will be collected, and Table 2 defines each possible violation.
+
+
+
+
+
+
+
+Table 1. Summary of warning letter collectible data by coding scheme criteria
+
+Send Year of Letter2005
+
+2006
+
+2007
+
+[Continue this pattern yearly]Type of Violation Committed by Manufacturer/DistributorAddiction Aid Adulteration CGMP Violations
+Crisis Advertisement Factory Inspection
+Failure to Provide Records Labeling
+Misbranding New Drug
+Unapproved New Drug
+
+Unlicensed Clinical StudyCorrective Timeframe Allotted to
+
+Manufacturer/Distributor48 Hours
+
+15 Days
+
+
+
+
+
+
+Procedures
+
+   My first step was to establish a coding scheme. This was rather easy; the Limbu et al., coding scheme required only rudimentary changes to industry-specific words (e.g., changing "pharmaceutical drug labeling violations" to "herbal remedy labeling violations").
+   Unfortunately, not all warning letters were available in public FDA archives even though, by law, they should have been. One more unexpected step was then added to my procedure: filling out a Freedom of Information Act request. The Freedom of Information Act (or FOIA) of 1967 created a way for researchers, educators, journalists, or other relevant citizens to request documents that they legally have a right to but cannot access (FDA, 1992). After filing an 11- page G-39 form, sending it to the FDA archives, and waiting 10 days, access was granted to the complete archive of warning letters. Unfortunately, some of the hyperlinks to warning letters in the archive failed; because of this, some letters may have been missed.
+The warning letters were then sorted by the inclusion/exclusion criteria mentioned prior.
+
+PDFs of all applicable letters were then downloaded and printed (this study could be completed fully digitally; personal preference dictated this choice).
+   After coding scheme criteria were collected and compiled in Excel, one large spreadsheet with all data was created to easily run a descriptive statistical analysis.
+Data Analysis
+
+      To analyze my data, descriptive statistics were used. As there was no numerical data, running any kind of statistical test (e.g., ANOVA, T-Test) would be impossible; therefore, using descriptive statistics was the only valid method of analyzing my data. After my data were all collected, the "Sort and Filter" tool on Excel was run to find which violations were most prevalent each year.
+
+
+
+
+
+
+
+Results
+
+      791 warning letters were read and analyzed for this study. Table 2 displays the major results of this research. Included are the two most prevalent violations as, for all years except one, there were two violations with equal frequency.
+
+
+
+
+
+
+
+Table 2. Number of Letters and Prevalent Violations by Year
+
+YearNumber of LettersMost Prevalent Violations200532New Drug/Misbranded200636New Drug/Misbranded200711New Drug/Misbranded200873Misbranded/Labeling200922Unapproved New Drug/Misbranded201023Unapproved New Drug/Misbranded201141CGMP/Misbranded201266CGMP/Adulterated201362CGMP/Misbranded201448CGMP/Misbranded20155Unapproved New Drug/Factory Inspection2016130New Drug/Misbranded201755Unapproved New Drug/Misbranded201850Unapproved New Drug/Misbranded201931Unapproved New Drug/Misbranded202061Misbranded/Factory Inspection202118Unapproved New Drug/Misbranded202218Unapproved New Drug/Misbranded202313Unapproved New Drug/Misbranded
+
+
+
+
+
+
+      The standard timeframe for corrections the FDA allots violative manufacturers is 15 days. Manufacturers, in this time, must establish concrete methods to recall violative products, address their quality control issues, and notify the FDA of their plan of action moving forward. However, two kinds of products may receive "accelerated" corrections timeframes of 48 hours: products advertising cures during a global health emergency ("Crisis Advertisement"), and products seeking to help with addiction withdrawals/recovery ("Addiction Aid"). Table 3 displays the findings for the 40 applicable letters below.
+
+
+Table 3. Number of Letters with Accelerated Timeframes
+
+ViolationNumber of LettersCrisis Advertisements26Addiction Aid14
+
+
+      Additionally, 51 warning letters were sent concerning "Confirmed Severe/Lethal Side Effects Post-Consumption". For patient privacy reasons, little other than the adverse reaction itself and the product consumed were listed in the letter. These violations did not receive accelerated corrections timeframes.
+      The most common adulterants were Sildenafil (Viagra(tm)) and Ephedrine (Akovaz(tm)), two prescription drug compounds that occur naturally in certain plants commonly used as herbal remedies. Many of these were intentionally sold for conditions like impotence and weight loss difficulty. Six letters were also sent for adulterations of Acacia ridigula, a shrub used in the creation of many psychoactive amphetamines similar to Adderall(tm) (dextroamphetamine-
+
+
+
+
+
+
+
+amphetamine), Epi-Pens(tm) (epinephrine), and Desoxyn(tm) (methamphetamine). Its extracts can be used for enhanced sports performance, and its use - while illegal and addictive - became popular in 2016. The strength of these compounds may lead to harmful interactions with other medications and/or adverse reactions, but none of these violations received accelerated corrections timeframes.
+Limitations
+
+      While significant effort was made to reduce error, problems did arise. Many of these issues stemmed from my data collection process. As almost every warning letter in the FDA archive (of which there were over 10,000) required brief individual reading to determine whether they addressed herbal remedies, there may have been relevant letters accidentally not included in my data. Furthermore, some of the hyperlinks in the updated FDA archive made available via a FOIA request were broken (i.e., lead to a 404-error page). Only about 20 links were broken; however, there is a possibility that some or all of these could be relevant to this study.
+      Error also could have arisen from the coding process. Only one person - the researcher - coded all applicable letters as I could not find any willing coders for no monetary reward, meaning I could have missed, mislabeled, or accidentally added violations. This is the most likely source of error.
+      The method chosen for this study - qualitative content analysis - also has its limits. As the data collected only represent the FDA's labeling of various violations that may have more nuance than the official grouping would suggest, some perspective and detail may have been lost in the results. Without personal testimonies or additional information about each individual case, possibly important details were not present in the data.
+
+
+
+
+
+
+
+      The implications of these data also have limitations. In no way does this research cover the herbal remedy industry itself; here, only one facet of the FDA's governance of herbal remedies is examined. This is also not an analysis of the agency as a whole, and no findings suggest anything about the organization outside of the narrow scope of this study.
+Discussion
+
+      Prior research (Limbu et al., 2018; Rathore et al., 2022; Salas et al., 2008) establishes the analysis of warning letters as an important metric for the overall FDA regulation of an industry. Building on this notion, this study sought to determine how FDA warning letters and infractions change yearly from 2005-2023.
+      The sheer number of warning letters addressing the herbal remedy industry is notable. With 791 warning letters over a 19-year period - and doubtless other violative manufacturers that evaded the FDA's supervision - there are a concerning number of products established as misbranded or dangerous still available nationally.
+      The number of letters sent in a year, however, may not correlate with the actual number of violative products. In 2020, at the peak of the COVID-19 pandemic, it seems unlikely that only 61 companies took notice of the profit inherent in marketing an alleged cure for the virus. Contrastingly, in 2016, no major health crises occurred, and few medications were submitted to the FDA for review or testing; therefore, the FDA had an unprecedented number of resources it was able to allocate to regulating herbal remedies and sending warning letters (FDA 2016). It may, therefore, be best to assume that the number of warning letters sent is not a measure of the number of violative herbal remedies but instead an indication of how much money the FDA has to spend on less imminently pressing matters.
+
+
+
+
+
+
+
+      One of the most pronounced findings is that so few products had an accelerated corrections timeframe - even those with potentially lethal side effects. This is most likely because "Addiction Aid" and "Crisis Advertisements" violations are partially supervised by the Center of Disease Control and the Federal Trade Commission respectively. This suggests that FDA warning letters are, paradoxically, most efficient when the FDA is not in charge of them. The FDA's power on herbal remedies is so limited that the most effective change must come from federal agencies not intended to supervise these products.
+      The most prominent conclusion of my study was how restrictive the VMA is on the FDA's ability to effectively regulate the herbal remedy industry. Without a dedicated office for monitoring dietary supplements, offices and their executives not knowledgeable on or completely unrelated to herbal remedies (e.g., Office of Tobacco, Office of Applied Nutrition) write warning letters to their manufacturers. This leads to certain problems and dangers of herbal remedies passing by regulatory offices unnoticed. The VMA forces the FDA to keep herbal remedies on the lowest level of priorities, and this allows manufacturers to circumvent regulation while the agency addresses its most pressing stressors.
+      The archive compiling warning letters is also very poorly made and organized; multiple repeat letters to the same manufacturer about the same violations taking place in the same year were written and sent by different regional FDA offices unaware that their neighbors had recently filed the same complaints. This disorganization understandably causes inter-agency confusion that further slows down any regulation of herbal remedies.
+      My data support prior studies (Ahmad and Ahmad, 2019; Alphonse et al., 2014) in claiming that the FDA does not have the adequate funding and power necessary to successfully regulate herbal remedies. Only 24 out of the 791 companies receiving warning letters ever
+
+
+
+
+
+
+
+officially resolved their violations, meaning that this system is clearly ineffective in forcing compliance.
+      While herbal remedies are often a lower priority for the FDA than other products under their jurisdiction (e.g., prescription drugs, food, vaccines, medical devices), they still have a potential for very real and acute harm to those who consume them. This research and similar studies imply that this system should be abolished or significantly remodeled to avoid the dangerous lack of regulation herbal remedy manufacturers have taken advantage of thus far.
+Implications
+
+      This research suggests that the FDA's warning letter system for targeting violative herbal remedy distributors and/or manufacturers should be abolished or significantly remodeled to effectively regulate the industry.
+      The results of this study most directly pertain to the FDA itself. As this research and other related studies (Limbu et al., 2018; Rathore et al, 2022; Salas et al, 2008) suggest that the warning letter system is dysfunctional, the agency should seriously consider a remake of their regulatory strategies, especially for herbal remedies.
+      This study more directly implies that the VMA too strongly restricts the FDA's power over the herbal remedy industry. FDA is forced to rely so heavily on the warning letter system for herbal remedies because of the VMA; therefore, to allow the FDA greater control over the industry, the VMA would need to be repealed. The removal of the VMA would also let the FDA become more proactive and stringent on quality control measures and factory inspection, increasing the safety of consumption for herbal remedies and removing the largest danger that they cause.
+
+
+
+
+
+
+
+      This study also suggests that consumers need to take greater responsibility for the herbal remedies they take. The FDA currently struggles to effectively regulate herbal remedies, meaning serious precaution should be taken when purchasing them. Potential consumers should thoroughly research and discuss with their physicians the supplements they want to take, where they come from, their effects, and how reputable the company that manufactures them is as the federal agency meant to keep these products safe is lagging in their regulation.
+Future Research
+
+      Since herbal remedies will most likely remain as a large portion of many Americans' healthcare approaches, future research should analyze the efficacy of various international approaches towards supplement regulation. This could highlight any possibly more effective methods of regulation, and it could suggest successful, already implemented strategies to improve the FDA's current systems.
+      Further studies should also seek to analyze the FDA's efficacy in regulating other similar industries (e.g., cosmetics) when it does not have such stringent laws like the VMA preventing further governance. These findings could more concretely determine whether gaps in herbal remedy regulation could be fixed with the appeal of the VMA.
+      Interviews with herbal remedy consumers about their opinions on the FDA and its regulation could also discern what the public wants and expects from the agency. This could aid the FDA in fulfilling public desires and may also suggest a future approach to remodeling herbal remedy regulation.
+
+
+
+
+
+
+
+References
+
+Ahmad Khan, M. S., & Ahmad, I. (2019). Herbal medicine. New Look to Phytomedicine, 1(1). 3
+
+-13. https://doi.org/10.1016/b978-0-12-814619-4.00001-x
+
+Angelon-Gaetz, K. A., Klaus, C., Chaudhry, E. A., & Bean, D. K. (2018). Lead in spices, herbal remedies, and ceremonial powders sampled from home investigations for children with elevated blood lead levels - North Carolina, 2011-2018. MMWR. Morbidity and Mortality Weekly Report, 67(46), 1290-1294. https://doi.org/10.15585/mmwr.mm6746a2
+Alphonse, J., Bellam, S., Fernandez, M., Gilbert, A., Roper, L., Zapantis, A., & Speth, R. C. (2014). The FDA funding crisis. The Journal of Pharmacy Technology, 30(2), 57-60. https://doi.org/10.1177/8755122513505224
+Balekundri, A. & Mannur, V. (2020). Quality control of the traditional herbs and herbal products: a review. Future Journal of Pharm Sci, Vol.6(1). https://doi.org/10.1186/s43094-020-00091-5
+Bodie, A. (2021). FDA regulation of over-the-counter (OTC) drugs. Congressional Research Service, R46985(1). 1-28. https://crsreports.congress.gov/product/pdf/R/R46985
+Dietary Supplement and Nonprescription Drug Consumer Protection Act (DSNDCPA) of 2006, Pub. L. No. 109-462, 120 Stat. 3469 (2006).
+
+
+
+
+
+
+
+https://www.congress.gov/109/plaws/publ462/PLAW-109publ462.pdf
+
+Ekor M. (2014). The growing use of herbal medicines: issues relating to adverse reactions and challenges in monitoring safety. Frontiers in Pharmacology, Vol. 4(1), 177. https://doi.org/10.3389/fphar.2013.00177
+FDA. (2019, April 29). About Warning and Close-Out Letters. Food and Drug Administration. https://www.fda.gov/inspections-compliance-enforcement-and- criminalinvestigations/warning-letters/about-warning-and-close-out-letters
+FDA. (2023, March 9). FDA FY 2024 Legislative Proposals. Food and Drug Administration. https://www.fda.gov/media/166049/download
+FDA. (December, 2016). Botanical Drug Development Guidance for Industry. Food and Drug Administration. https://www.fda.gov/files/drugs/published/Botanical-Drug-Development-
+-Guidance-forIndustry.pdf
+
+Gassman, A. L., Nguyen, C. P., & Joffe, H. V. (2017). FDA regulation of prescription drugs.
+
+New England Journal of Medicine, 376(7), 674-682. https://doi.org/10.1056/nejmra1602972
+Gilbert, N. (2011). Regulations: Herbal medicine rule book. Nature, 480(7378), S98-S99. https://doi.org/10.1038/480s98a
+Law, M.T. & McLaughlin, P.A. (2022). Industry size and regulation: Evidence from US states.
+
+
+
+
+
+
+
+      Public Choice, 192(1), 1-27. https://doi.org/10.1007/s11127-022-00969-3 Limbu, Y. B., McKinley, C., & Temperini, V. (2018). A longitudinal examination of FDA
+warning and untitled letters issued to pharmaceutical companies for violations in drug promotion standards. Journal of Consumer Affairs, Vol. 53(1), 3-23. https://doi.org/10.1111/joca.12189
+Ratan, Z. A., Haidere, M. F., Hong, Y. H., Park, S. H., Lee, J.-O., Lee, J., & Cho, J. Y. (2021).
+
+Pharmacological potential of ginseng and its major component ginsenosides. Journal of
+
+Ginseng Research, 45(2), 199-210. https://doi.org/10.1016/j.jgr.2020.02.004
+
+Rathore, A. S., Li, Y., Chhabra, H., & Lohiya, A. (2022). FDA Warning Letters: A Retrospective Analysis of Letters Issued to Pharmaceutical Companies from 2010-2020. Journal of Pharmaceutical Innovation, 1(1), 1-10. Advance online publication. https://doi.org/10.1007/s12247-022-09678-2
+Sarata, A. (2022). Food and Drug Administration (FDA) budget: Fact sheet. Congressional Research Service, R44576(15). https://crsreports.congress.gov/product/pdf/R/R44576
+Salas, M., Martin, M., Pisu, M., McCall, E., Zuluaga, A., & Glasser, S. P. (2008). Analysis of US Food and Drug Administration Warning Letters: False Promotional Claims Relating to Prescription and Over-the-Counter Medications. Pharmaceutical Medicine, 22(2), 10.1007/BF03256691. https://doi.org/10.1007/BF03256691
+
+
+
+
+
+
+
+Schpero, W. L., Wiener, T., Carter, S., & Chatterjee, P. (2022). Lobbying Expenditures in the US Health Care Sector, 2000-2020. JAMA Health Forum, 3(10), https://doi.org/10.1001/jamahealthforum.2022.3801
+Studdert, D.M., Eisenberg, D.M., Miller, F.H., Curto, D.A., Kaptchuk, T.J., & Brennan, T.A. Medical malpractice implications of alternative medicine. Journal of the American Medical Association, 280(18), 1610-5. https://doi.org/10.1001/jama.280.18.1610.
+Wang, W., & Wertheimer, A. I. (2022). History, status, and politicization of the FDA. Research in Social and Administrative Pharmacy, 18(5), 2811-2816. https://doi.org/10.1016/j.sapharm.2021.06.009
+Welz, A. N., Emberger-Klein, A., & Menrad, K. (s). Why people use herbal medicine: Insights from a focus-group study in Germany. BMC Complementary and Alternative Medicine, 18(1). https://doi.org/10.1186/s12906-018-2160-6
+Wu H, Shu W, Qiu L, Ye D. (1998). The experiment research of ginger detoxification to Rhizoma Pinelliae. Zhong Yao Cai, 21(3), 137-40. PMID: 12567940.
+Vitamin-Mineral Amendment of 1976, Pub. L. No. 94-278, 90 Stat. 401 (1976). https://www.congress.gov/94/statute/STATUTE-90/STATUTE-90-Pg401.pdf
+Zhang, J., Onakpoya, I. J., Posadzki, P., & Eddouks, M. (2015). The safety of herbal medicine: from prejudice to evidence. Evidence-based Complementary and Alternative Medicine,
+
+
+
+
+
+
+
+316706(1). https://doi.org/10.1155/2015/316706
+
+AP(r) Research 2024 Scoring Commentary
+
+Academic Paper
+Note: Student samples are quoted verbatim and may contain spelling and grammatical errors.
+
+Sample: D Score: 4
+
+This paper earned a score of 4. The literature review synthesizes scholarly literature from multiple perspectives on pp. 4-5. A gap in the research is explained on pp. 3-4. "However, while analyzing the letters ... researchers specifically omitted all letters focusing on dietary supplements from their study and suggest this analysis as a future study in the paper's conclusion. The study conducted here attempts to reduce this gap by analyzing FDA warning letters...." The identified gap then leads to a focused research question on p.4, "How do infractions and FDA suggestions for violative herbal remedy manufacturers change with time between 2005 and 2023, and what does this reveal about the effectiveness of the system?" The research question is narrowed on p. 10, "How do violations and FDA suggestions for violative herbal remedy producers, products and sellers change with time between 2005 and 2023?"
+
+The literature review is used not only to defend the significance of the study (see pp. 4-8) but also to further defend the gap and the method. For example, see on pp. 8-10 how the paper uses peer- reviewed research to set up the reasoning for the gap and the method used to answer the research question. The new understanding ("findings") on p. 19 can be supported through the discussion on
+pp. 14-18.
+
+The paper did not score a 3 because the paper has a clear and narrow topic of inquiry which is carried throughout the entirety of the paper. The paper's method, a qualitative content analysis, is replicable and defended on pages 10-13. For example, the paper defends the data source choices (FDA Warning letters), inclusion criteria (years analyzed, herbal products, violations), and modifies Limbu et al. (2018) coding scheme for data analysis. The paper presents a new understanding that is supported through a logical line of reasoning on p. 18, "With 791 warning letters over a 19-year period-and doubtless other violative manufacturers that evaded the FDA's supervision-there are a concerning number of products established as misbranded or dangerous still available nationally." The student does address the limitations of the paper starting at p. 17.
+
+The paper did not earn a score of 5 because the new understanding was hyperbolic and not critical. Though the paper does provide evidence to support some of the study's conclusions, the paper overstates its conclusions at other times. For example, see the hyperbolic discussion on the connection between FDA budget versus the number of letters sent at the bottom of p. 18. The paper's communication and design choices do not enhance the communication as seen in the tables, and discussion on pp. 15-16.
+
+This paper is a well-supported, articulate argument conveying a new understanding.
+
+
+
+
+
+
+
+(c) 2024 College Board.
+Visit College Board on the web: collegeboard.org.
+
+
+
+
+
+

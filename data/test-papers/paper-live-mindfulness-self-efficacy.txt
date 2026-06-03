@@ -1,0 +1,34 @@
+The Effect of Mindfulness Training on Academic Self-Efficacy in Suburban High School Eleventh Graders
+AP Research
+April 2025
+Word Count: 4,100
+
+Introduction
+Academic self-efficacy predicts persistence, help-seeking, and performance in secondary school settings (Bandura, 1997). Mindfulness programs have expanded in K-12 schools, yet evidence for effects on self-efficacy specifically in suburban eleventh-grade populations remains limited. This study investigates the following question: To what extent does an eight-week school-based mindfulness program improve academic self-efficacy compared to a waitlist control among eleventh-grade students at Lincoln High School?
+
+Literature Review
+Mindfulness interventions reduce stress in adult and adolescent samples (Hofmann et al., 2010). School-based programs report socioemotional benefits with smaller academic effects (Zenner et al., 2014). Self-efficacy theory predicts that perceived competence mediates performance improvements following skills training (Bandura, 1997). Prior classroom studies measured wellbeing more often than domain-specific academic self-efficacy.
+
+What the Research Has Not Examined
+While Sibinga et al. (2016) examined high school students, their sample was exclusively male and from an urban context. Schonert-Reichl and Lawlor (2010) and Mendelson et al. (2010) examined younger students. No study has examined whether mindfulness programs improve academic self-efficacy specifically, as opposed to general wellbeing, in a suburban high school eleventh-grade population.
+
+Methodology
+This study used a randomized controlled design with waitlist control. Participants were 62 eleventh-grade students recruited from Lincoln High School in suburban Ohio. The intervention consisted of eight weekly 45-minute mindfulness sessions adapted from MBSR protocols. Academic self-efficacy was measured with the Morgan-Jinks Student Efficacy Scale before and after the intervention. Prior GPA and baseline anxiety were entered as covariates. Data were analyzed using analysis of covariance in SPSS version 28. Assumptions were checked using Levene's test and visual inspection of residual plots.
+
+Results
+After controlling for baseline GPA and anxiety, the mindfulness group reported significantly higher academic self-efficacy than the waitlist control, F(1, 60) = 8.34, p = .005, partial eta squared = .12. Cohen's d for the group difference was 0.63. Secondary analyses showed similar direction of effects for help-seeking intentions but those results were exploratory.
+
+Discussion
+Findings suggest that mindfulness training can increase academic self-efficacy in suburban eleventh graders beyond wellbeing effects documented in prior urban or younger samples.
+
+Limitations
+The study occurred at one school. Self-report measures may be influenced by social desirability.
+
+Implications
+Counselors implementing mindfulness curricula should measure domain-specific self-efficacy rather than general mood alone.
+
+References
+Bandura, A. (1997). Self-efficacy: The exercise of control. Freeman.
+Hofmann, S. G., Sawyer, A. T., Witt, A. A., & Oh, D. (2010). The effect of mindfulness-based therapy on anxiety and depression. Journal of Consulting and Clinical Psychology, 78(2), 169–183.
+Sibinga, E. M., et al. (2016). School-based mindfulness instruction. Journal of School Health, 86(10), 763–771.
+Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools. Frontiers in Psychology, 5, 603.

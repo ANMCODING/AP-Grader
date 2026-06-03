@@ -1,0 +1,80 @@
+Portrayals of Anxiety and Depression in Contemporary Young Adult Fiction: A Descriptive Content Analysis of Thirteen Novels
+AP Research
+April 2025
+Word Count: 3,594
+Introduction
+Young adult (YA) fiction occupies a unique position in adolescent literacy: it is written for readers roughly ages twelve through eighteen, often features protagonists navigating identity and relationships, and frequently addresses mental health topics that mirror rising rates of anxiety and depression among teens (NIMH, 2023). Mental health professionals have expressed both hope and concern about how psychiatric symptoms, treatment, and recovery are depicted in media consumed by adolescents, arguing that portrayals can reduce stigma when accurate and may romanticize or oversimplify conditions when inaccurate (Wahl, 2003). YA novels are particularly influential because they are often read voluntarily, discussed among peers, and selected by school librarians for collections serving vulnerable age groups.
+
+Despite public debate about mental health representation in YA literature, systematic description of how anxiety and depression appear across multiple bestselling titles remains limited in the student research literature. This study conducts a descriptive content analysis of thirteen contemporary YA novels identified by the researcher as centering mental health narratives. The research question is: How are anxiety and depression portrayed in thirteen contemporary young adult novels with respect to symptoms described, help-seeking behavior, and outcomes at the end of the narrative?
+
+This question matters because adolescents who read about characters experiencing mental health challenges may use those portrayals as reference points for understanding their own symptoms or those of friends (Vizzini, 2006). Librarians, teachers, and parents selecting texts for classroom discussion or independent reading benefit from summaries of what depictions actually contain, even when causal claims about reader effects cannot be made.
+
+Literature Review
+Mental Health in Adolescent Populations
+The National Institute of Mental Health (2023) reports that an estimated 32 percent of adolescents aged thirteen to eighteen experience an anxiety disorder at some point, and that major depressive episodes affect approximately 20 percent of adolescents annually. These statistics establish the salience of mental health as a theme in media targeting teens. Kostanski and Gullone (1998) found that exposure to idealized peer bodies in media correlated with body dissatisfaction among adolescents; while focused on eating concerns rather than anxiety disorders, their work illustrates that adolescents are active consumers who compare themselves to portrayed peers.
+
+Stigma and Media Representation
+Wahl (2003) reviewed how mass media depict mental illness and argued that sensationalized or simplistic portrayals reinforce stereotypes and discourage help-seeking. Corrigan (2004) extended stigma research to show that contact-based interventions reduce prejudice more reliably than education alone, implying that authentic, nuanced portrayals in fiction could function as parasocial contact if readers identify with characters. However, neither study analyzed YA novels specifically, and both emphasize that representation quality matters more than mere presence of a diagnosis.
+
+Young Adult Literature and Mental Health Themes
+Bickmore and Bull (2019) examined mental health themes in award-winning YA novels from 2015–2018 and found increasing frequency of anxiety and depression narratives compared to prior decades, often paired with romantic subplot resolutions. Vizzini (2006), in his semi-autobiographical novel It's Kind of a Funny Story, portrayed psychiatric hospitalization with humor and specificity that many critics praised as destigmatizing; the present study includes that title as one of thirteen cases. Richmond and Reardon (2020) surveyed school librarians and found strong demand for "issues" books but uneven confidence in evaluating clinical accuracy.
+
+Content Analysis as a Method
+Krippendorff (2018) defines content analysis as a systematic method for describing manifest or latent content of texts using rules that can be replicated. Neuendorf (2017) emphasizes coding schemes, sampling units, and reporting frequencies. High-quality content analyses often employ multiple coders and report inter-rater reliability; when reliability is not assessed, findings remain descriptive summaries tied to one analyst's interpretations (Krippendorff, 2018). This study adopts a descriptive approach without inter-rater reliability, limiting claims to what one reader documented in thirteen books.
+
+Gap
+There is a gap in the research because no study has described anxiety and depression portrayals across these thirteen specific bestselling YA titles using a single coding sheet focused on symptoms, help-seeking, and outcomes. Bickmore and Bull (2019) examined award winners rather than a mixed list of bestsellers and librarian picks, and Richmond and Reardon (2020) surveyed professionals rather than coding texts. This study fills that gap by providing a descriptive catalog of portrayals in the selected set.
+
+Methodology
+Research Design
+This study used qualitative descriptive content analysis. Each novel served as the unit of analysis. The researcher read each book once during January–March 2025 and recorded notes in a spreadsheet aligned to a coding sheet with three major categories: (1) symptoms of anxiety or depression as textually described, (2) help-seeking including therapy, medication, hospitalization, or informal support, and (3) narrative outcome at the final chapter regarding mental health status. No inferential statistics were conducted; results are reported as frequencies and narrative summaries.
+
+Sample Selection
+Thirteen novels were selected purposively. Selection criteria were: published between 2006 and 2022, marketed as YA, and described in publisher summaries or professional reviews as featuring anxiety or depression prominently. Titles were: It's Kind of a Funny Story (Vizzini, 2006), The Perks of Being a Wallflower (Chbosky, 1999), Turtles All the Way Down (Green, 2017), All the Bright Places (Niven, 2015), Fangirl (Rowell, 2013), Eliza and Her Monsters (Zappia, 2017), Challenger Deep (Shusterman, 2015), History Is All You Left Me (Silvera, 2017), Under Rose-Tainted Skies (Gervais, 2017), Darius the Great Is Not Okay (Khorram, 2018), Starfish (Fipps, 2021), The Science of Being Angry (Lambert, 2021), and Every Last Word (Stone, 2015). Note: two titles fall slightly outside strict YA age marketing but are widely shelved in YA collections and were included for that reason.
+
+The sample is not a random sample of all YA fiction; it is a convenience and purposive sample of thirteen books the researcher could obtain from the public library and school media center within the study window.
+
+Coding Procedure
+After an initial read, the researcher transferred observations into a coding sheet. Symptom codes included worry or panic, low mood, sleep disturbance, social withdrawal, and self-harm mention. Help-seeking codes included school counselor, outpatient therapy, medication, inpatient treatment, and peer-only support. Outcome codes were improved, ambiguous, or worse relative to the opening chapter. The researcher did not employ a second coder and did not calculate inter-rater reliability. Categories were defined before reading but refined informally after the first three books when it became clear that romantic resolution often blurred outcome coding.
+
+Results
+Symptoms Portrayed
+All thirteen novels included textual descriptions consistent with anxiety or depression or both. Ten novels explicitly named a diagnosis or medication (for example, obsessive-compulsive disorder in Turtles All the Way Down, bipolar disorder in Challenger Deep). Three novels described symptoms without clinical labels (The Perks of Being a Wallflower, Fangirl, Starfish). Panic or persistent worry appeared in eleven novels. Low mood appeared in twelve. Social withdrawal appeared in ten. Sleep disturbance appeared in seven. Self-harm was mentioned or depicted in four novels (All the Bright Places, History Is All You Left Me, Under Rose-Tainted Skies, Every Last Word).
+
+Help-Seeking Portrayed
+Formal therapy or counseling appeared in eight novels. Medication appeared in five. Inpatient psychiatric treatment appeared in three (It's Kind of a Funny Story, Challenger Deep, Under Rose-Tainted Skies). Five novels relied primarily on peer or family support without showing sustained professional treatment on the page (Fangirl, Eliza and Her Monsters, Darius the Great Is Not Okay, Starfish, The Science of Being Angry). School counselors appeared in four novels, usually briefly. Barriers to help-seeking—cost, stigma, parental minimization—were mentioned in six novels.
+
+Outcomes at Narrative End
+Eight novels ended with an improved outcome relative to the opening crisis, often linked to treatment, friendship, or romantic partnership. Three ended with ambiguous outcomes where symptoms remained but were manageable (Turtles All the Way Down, The Perks of Being a Wallflower, Every Last Word). Two ended with outcomes that could be read as tragic or worsening (All the Bright Places, History Is All You Left Me). Romantic relationships coincided with improved mood in seven of the eight improved-outcome books, a pattern also noted by Bickmore and Bull (2019).
+
+Cross-Novel Patterns
+Several patterns emerged descriptively. First, protagonists were overwhelmingly female or identified as girls in eleven of thirteen novels. Second, social media or online fandom stressors appeared in four novels published after 2015. Third, parents were portrayed as obstructive to help-seeking in five novels and supportive in six, with two novels depicting absent parents. Fourth, humor coexisted with serious symptoms in six novels, aligning with Vizzini's (2006) tonal approach. No statistical tests were applied to compare patterns across years or genres.
+
+Discussion
+This descriptive content analysis documented how thirteen YA novels portrayed anxiety and depression with respect to symptoms, help-seeking, and outcomes. The most common portrayal combined named or unnamed internalizing symptoms with eventual improvement, often intertwined with romantic resolution. Formal treatment appeared in a majority of titles but was absent or minimal in five, suggesting a split between clinically grounded narratives and stories that emphasize peer support alone.
+
+These findings align partially with Bickmore and Bull (2019), who reported increasing mental health themes and frequent pairing with romance, and extend their work by providing title-level descriptive detail for a overlapping but not identical book set. The presence of tragic endings in two novels cautions against assuming that YA mental health narratives uniformly end happily; librarians recommending books for students in crisis may need to read endings carefully.
+
+Because the analysis is descriptive and conducted by a single coder without inter-rater reliability, this study cannot claim that these patterns generalize to all YA fiction or that they affect reader attitudes. Krippendorff (2018) would classify the reliability limitation as central: without agreement statistics, another coder might code outcomes differently, especially in ambiguous cases.
+
+Limitations
+Limitations include purposive sampling of only thirteen books, single-coder design with no inter-rater reliability, no test of statistical significance, and reliance on one reading per book. The gap, while stated, is asserted rather than demonstrated through exhaustive review of all prior content analyses. The researcher’s prior familiarity with several titles may have influenced coding. Books published before 2006 or outside English-language YA markets are excluded. Outcome coding conflated clinical recovery with narrative closure. No reader response data were collected, so effects on stigma or help-seeking remain speculative, as Wahl (2003) and Corrigan (2004) would require different methods to test.
+
+Implications
+School librarians may use the descriptive summaries to annotate displays on mental health awareness month, noting which titles include formal treatment depictions and which end tragically. Teachers should not treat these novels as clinical guides. Future research should add a second coder, expand the sample, and optionally survey teen readers about interpretation.
+
+Conclusion
+Across thirteen contemporary YA novels, anxiety and depression were portrayed through a range of symptoms, with formal help-seeking present in eight titles and primarily informal support in five. Most narratives ended with improvement, often alongside romance, while two ended tragically and three ambiguously. This descriptive catalog addresses the researcher’s stated gap for the selected titles but does not establish causal effects on readers or represent all YA mental health fiction. Methodological improvements, especially inter-rater reliability and broader sampling, would be needed for stronger scholarly claims.
+
+References
+Bickmore, S., & Bull, K. (2019). Mental illness in young adult literature: Exploring real struggles with fictional characters. Rowman & Littlefield.
+Chbosky, S. (1999). The perks of being a wallflower. Pocket Books.
+Corrigan, P. W. (2004). How stigma interferes with mental health care. American Psychologist, 59(7), 614–625. https://doi.org/10.1037/0003-066X.59.7.614
+Green, J. (2017). Turtles all the way down. Dutton Books.
+Krippendorff, K. (2018). Content analysis: An introduction to its methodology (4th ed.). SAGE Publications.
+National Institute of Mental Health. (2023). Major depression and anxiety disorders among adolescents. U.S. Department of Health and Human Services. https://www.nimh.nih.gov/health/statistics
+Neuendorf, K. A. (2017). The content analysis guidebook (2nd ed.). SAGE Publications.
+Niven, J. (2015). All the bright places. Knopf Books for Young Readers.
+Richmond, H., & Reardon, E. (2020). School librarians' selection of mental health YA literature. School Library Research, 23, 1–18.
+Vizzini, N. (2006). It's kind of a funny story. Miramax Books/Hyperion.
+Wahl, O. F. (2003). Depictions of mental illnesses in children's media. Journal of Mental Health, 12(3), 249–258. https://doi.org/10.1080/0963823031000118230

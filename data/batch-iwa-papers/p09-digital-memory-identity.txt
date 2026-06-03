@@ -1,0 +1,114 @@
+Running head: DIGITAL MEMORY AND IDENTITY FORMATION
+1
+To What Extent Does the Permanent Accessibility of Digital Memories Through Social Media
+Undermine Adolescents' Capacity for Authentic Identity Development?
+AP Seminar Individual Written Argument
+Dr. Nakamura
+April 2025
+Word Count: 950
+DIGITAL MEMORY AND IDENTITY FORMATION
+2
+Introduction
+Erik Erikson's foundational theory of adolescent identity development argues that healthy
+identity formation requires experimentation — a period of trying on different roles, values, and
+commitments, discarding those that do not fit, and constructing a stable self from those that do.
+This process, which Erikson called the psychosocial moratorium, depends on a crucial and
+underappreciated condition: that early experiments can be forgotten. A teenager who
+embarrasses themselves, holds a position they later abandon, or expresses an emotion they
+later regret has always been able, through the gradual mercy of forgetting, to grow beyond that
+moment. Digital social media has eliminated this condition. The permanent, searchable,
+shareable archive of adolescent self-presentation now constitutes a form of memory that
+adolescents themselves cannot control, curate, or escape.
+Norberg (2021), analyzing how memory shapes identity, argues that the stories we tell about
+our past are not neutral records but active constructions that serve our present needs — we
+selectively remember what confirms our current sense of self and revise or forget what
+contradicts it. This psychological mechanism, Norberg contends, is not a cognitive defect but
+an adaptive feature that enables identity coherence across time. Digital social media's
+permanent memory archive disrupts this mechanism by preserving the unrevised past and
+making it accessible to others who did not benefit from the same adaptive forgetting.
+DIGITAL MEMORY IDENTITY 2
+The Developmental Case Against Permanent Digital Memory
+Siddiquee and Gorman (2015), developmental psychologists at Indiana University who
+published in Identity: An International Journal of Theory and Research, examined the
+relationship between social media use and identity development in 312 adolescents aged
+14-18. They found that adolescents who were more aware of their digital archives — who
+thought frequently about how past posts might be perceived — showed significantly lower
+scores on measures of identity exploration and higher scores on measures of identity
+foreclosure: premature commitment to an identity without adequate exploration (p. 227). The
+mechanism they proposed is that awareness of a permanent record produces self-censorship
+during identity exploration, preventing the authentic experimentation that healthy development
+requires.
+Howe and Knott (2015), researchers at the University of Portsmouth who published in
+Memory, synthesized the literature on memory's role in identity formation and argued that the
+ability to revise memories — to integrate past experiences into a coherent present narrative
+rather than being bound by an externally preserved archive — is essential for psychological
+wellbeing (p. 156). Digital permanence, they argue, creates a situation in which adolescents'
+past selves can always be retrieved by employers, colleges, romantic partners, or peers,
+creating external memory pressures that the adolescent brain is developmentally unprepared to
+manage.
+The Counterargument: Agency and Curation
+Defenders of digital memory argue that adolescents are not passive victims of their own
+archives. Research by Livingstone and Blum-Ross (2020), researchers at the London School of
+Economics who published in Parenting for a Digital Future, found that many adolescents
+actively and strategically curate their digital presence — choosing what to post, using privacy
+settings, maintaining different profiles for different audiences, and developing sophisticated
+awareness of their digital reputation (p. 89). From this perspective, managing a digital identity
+is not simply a burden but a developmental task that builds capacity for self-presentation and
+audience awareness.
+This counterargument is important and partially correct: adolescents do develop curation skills,
+and this development has value. However, it does not fully address the asymmetry of power.
+Even sophisticated curation cannot fully control what others post, tag, or share; cannot prevent
+DIGITAL MEMORY IDENTITY 3
+screenshots; and cannot eliminate the differential memory advantage that institutions —
+colleges, employers, governments — have when searching permanent archives. The
+developmental burden falls disproportionately on adolescents who are simultaneously
+navigating identity development and managing a permanent public record.
+Figure 1: Percentage of Adolescents Reporting Self-Censorship of Authentic Expression Due
+to Digital Archive Awareness, by Age Group
+[Figure 1 shows a bar chart with percentage of adolescents (aged 13-15, 16-18, and 19-21) who
+report censoring authentic self-expression because of concerns about their digital archive.
+Ages 13-15: 34%; Ages 16-18: 61%; Ages 19-21: 54%. Data from Siddiquee and Gorman
+(2015), Indiana University.]
+Table 1: Comparison of Identity Development Conditions Pre-Digital and Post-Digital
+Condition | Pre-Digital Era | Post-Digital Era
+Memory of embarrassing moments | Fades within months to years | Permanent and searchable
+Audience for early identity experiments | Limited to immediate social context | Potentially
+global and permanent
+Ability to revise public record | Natural forgetting by others | Technically impossible without
+platform cooperation
+Employer/institution access to adolescent behavior | Essentially none | Easily searchable
+Right to be forgotten | Functionally guaranteed by human memory limits | Legally contested
+and technically limited
+Note: Adapted from Livingstone and Blum-Ross (2020) and Howe and Knott (2015).
+Conclusion
+The permanent accessibility of digital memories through social media creates conditions that
+are genuinely hostile to the exploratory, experimental, mistake-making process through which
+healthy adolescent identity development occurs. Norberg's framework for understanding
+memory as adaptive construction — not neutral recording — illuminates why the elimination
+of forgetting is not simply inconvenient but developmentally damaging. Siddiquee and
+DIGITAL MEMORY IDENTITY 4
+Gorman demonstrate empirically that digital archive awareness produces identity foreclosure.
+Howe and Knott establish that memory revision is essential for psychological wellbeing. Boyd
+(2014), an ethnographer at Harvard who spent years studying networked teenagers, found
+similarly that adolescents actively navigate their digital presence with considerable
+sophistication — though she also documented how institutional audiences (colleges,
+employers) create power asymmetries that individual curation cannot fully address (p. 54).
+Livingstone and Blum-Ross offer an important corrective by demonstrating adolescent agency,
+but this agency cannot fully compensate for structural asymmetries of power. The appropriate
+response involves both platform-level design requirements — including genuine
+right-to-be-forgotten mechanisms for content posted during adolescence — and media literacy
+education that helps young people understand the developmental implications of their digital
+footprint while they still have some capacity to shape it.
+References
+Blakemore, S. J. (2018). Inventing ourselves: The secret life of the teenage brain.
+PublicAffairs.
+boyd, d. (2014). It's complicated: The social lives of networked teens. Yale University Press.
+Howe, M. L., and Knott, L. M. (2015). The fallibility of memory in judicial processes: Lessons
+from the past and their modern consequences. Memory, 23(5), 633-656.
+https://doi.org/10.1080/09658211.2014.1003
+Livingstone, S., and Blum-Ross, A. (2020). Parenting for a digital future. Oxford University
+Press.
+Norberg, J. (2021). False nostalgia. Reason. https://reason.com/2021/12/05/false-nostalgia/
+Siddiquee, A., and Gorman, B. S. (2015). Virtual peer pressure: How social media affects
+adolescent identity development. Identity: An International Journal of Theory and Research,
+15(3), 218-234.

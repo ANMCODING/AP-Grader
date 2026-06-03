@@ -1,0 +1,87 @@
+Should Social Media Platforms Be Required to Verify User Ages?
+Examining the Debate Over Age Restrictions and Online Safety
+
+Kyle Torres
+
+AP Seminar, Period 5
+
+Mr. Fitzgerald
+
+Jefferson High School
+
+Kyle Torres
+Mr. Fitzgerald
+AP Seminar, Period 5
+18 January 2025
+
+Should Social Media Platforms Be Required to Verify User Ages? Examining the Debate
+Over Age Restrictions and Online Safety
+
+Social media has become a significant part of daily life for millions of people around the world, including many children and teenagers. Platforms like TikTok, Instagram, Snapchat, and others are used by people of all ages, but there has been growing concern about whether younger users, especially those under thirteen or sixteen, are being harmed by their use of these platforms. Research has found that heavy social media use is associated with higher rates of anxiety and depression among teenagers, and there have been high-profile cases of young people being exposed to harmful content or being targeted by predators through social media platforms. As a result, many policymakers, parents, and researchers are calling for stricter age restrictions and better verification of users' ages on social media platforms. Others, however, argue that age restrictions would be difficult to enforce, might violate users' privacy, and could deprive young people of the benefits and connections that social media can provide. This paper will explore the arguments on both sides of this debate, examining what different researchers, policymakers, and other stakeholders have said about social media age restrictions in order to present a fuller picture of this complex and ongoing conversation.
+
+Proponents of stronger age restrictions on social media platforms make several arguments based on evidence about harm to younger users. The most significant of these involves mental health outcomes. Research by Jean Twenge and colleagues has documented
+
+substantial increases in rates of anxiety, depression, and loneliness among teenagers in the
+United States since approximately 2012, which is around the time when smartphone and social media use became widespread among this age group (Twenge, 2017). While the causal relationship between social media use and mental health outcomes is still debated by researchers, the correlation is consistent across multiple large datasets and is stronger for girls than for boys. Documents disclosed by Facebook whistleblower Frances Haugen in 2021
+revealed that Meta's own internal research had found that Instagram was harmful to the mental health of a significant portion of teenage girl users, and that the company had not acted on these findings (Haugen, 2021). Supporters of age restrictions also point to the difficulty that platforms currently face in distinguishing between adult and minor users, since most platforms rely on self-reported birth dates that are easy to falsify. The United Kingdom's Age
+Appropriate Design Code, which requires platforms to treat all users as children unless they can verify otherwise, has been cited as a model for how age verification requirements might be structured in other jurisdictions.
+
+Critics of mandatory age verification requirements raise several important counterarguments that deserve serious consideration. The most technically challenging objection involves implementation: verifying user ages at scale requires platforms to collect sensitive personal information such as government identification documents, which creates new privacy and data security risks. Any database of identity documents collected by a social media company for age verification purposes would represent a high-value target for data breaches, and the harms from such a breach could be significant. Critics also argue that determined teenagers would find ways around age verification requirements, just as they currently access age-restricted alcohol and tobacco through informal means, potentially shifting their social media use toward less regulated platforms with fewer safety features rather than eliminating it. There are also concerns about the impact of age restrictions on minors who
+
+use social media for legitimate and beneficial purposes, including connecting with peers, accessing educational content, and finding community with others who share their interests or identities. For young people who belong to minority communities—whether LGBTQ+ youth who find support and connection through online communities, or young people in isolated rural areas who use social media to access perspectives and information not available in their immediate environment—restricting access could represent a genuine and significant loss rather than simply an inconvenience.
+
+Different countries have approached the question of social media age restrictions in markedly different ways, providing some evidence about what different regulatory approaches achieve in practice. The Children's Online Privacy Protection Act (COPPA) in the United
+States has since 1998 prohibited the collection of personal data from children under thirteen without verifiable parental consent, which is why major platforms nominally require users to be at least thirteen years old. However, research consistently finds that large numbers of children younger than thirteen use these platforms by falsifying their birth dates, suggesting that the existing age minimum without robust verification is largely ineffective. The Federal
+Trade Commission has proposed updates to COPPA that would tighten requirements on platforms regarding children's data (Federal Trade Commission, 2023). Australia passed legislation in 2024 setting a sixteen-year minimum age for social media use, representing the most restrictive approach adopted by any major democracy (Australian Government, 2024).
+Whether approaches like Australia's will prove effective in practice remains to be seen, and researchers and policymakers continue to disagree about what the evidence supports.
+
+The debate about social media age restrictions also raises broader questions about who bears responsibility for protecting young people online and what the appropriate division of responsibility between platforms, parents, schools, and government should be. Platform
+
+companies have argued that parents should bear primary responsibility for monitoring their children's social media use and have developed parental control tools intended to support this role. Critics respond that the design of social media platforms—including features like infinite scroll, notification systems, and recommendation algorithms that are specifically engineered to maximize user engagement—makes it unreasonably difficult for parents or users themselves to limit consumption even when they want to. From this perspective, age restrictions are one component of a broader set of design requirements that should be imposed on platforms to reduce the harms their current design choices generate. Others argue that the most important interventions focus on platform design rather than access restrictions—requiring platforms to configure default settings appropriately for younger users and to limit algorithmic amplification of harmful content regardless of user age. These different perspectives reflect genuine disagreements about the best way to address a problem that most stakeholders agree is real.
+
+There are also important international and practical dimensions to the age restrictions debate that complicate national regulatory approaches. Social media platforms operate globally, meaning that age restrictions imposed in one country can potentially be circumvented through virtual private networks or by accessing the platform through a version available in a less restrictive jurisdiction. This international dimension suggests that the most effective regulatory approaches might require coordination among multiple countries rather than unilateral national action, which is politically and practically challenging given the different regulatory philosophies and priorities of different governments. The platforms themselves have significant influence over the practical effectiveness of any regulatory framework through their compliance practices, and the history of platform compliance with existing privacy regulations suggests that enforcement will be a central challenge for any new framework.
+These practical complications do not necessarily point in any particular policy direction but
+
+they do suggest that the design of any age restriction framework needs to account for the significant gap between what regulations require on paper and what platforms actually implement in practice.
+
+The question of what evidence standard should be required before restricting access to a communication medium for a particular age group is itself contested among researchers and policymakers. Some argue that the correlational evidence linking social media use to mental health harms is strong enough to justify precautionary action even in the absence of definitive proof of causation, citing the historical precedent of tobacco regulation where policy action preceded full scientific consensus. Others argue that social media is fundamentally different because it is also a communication medium with genuine social benefits, and that restricting access based on correlational evidence risks imposing significant costs on users without clearly established benefit. The question of what standard of evidence should be required is a contested values question that different people can answer differently based on their assessment of the relative risks of acting too early versus acting too late. This underlying disagreement about appropriate evidence standards shapes much of the policy debate and helps explain why researchers who have examined the same evidence have sometimes reached quite different conclusions about what policy responses are appropriate.
+
+In conclusion, this paper has examined the debate over whether social media platforms should be required to verify user ages, presenting arguments from different perspectives on this complex and contested question. Proponents of stronger age verification requirements point to evidence of harm to younger users, the failure of self-reported age requirements, and examples of regulatory approaches in other countries. Critics raise concerns about privacy, practical effectiveness, and the potential costs of restricting access to a medium that provides genuine benefits to many younger users. Both perspectives raise legitimate and important points that
+
+deserve serious consideration. Different countries and communities may reasonably reach different conclusions about the appropriate regulatory approach based on their specific circumstances, values, and assessments of the available evidence. What seems clear is that the question of social media age restrictions will continue to be actively debated as platforms evolve, as more research on their effects becomes available, and as policymakers in different countries experiment with different approaches and learn from their results. Reasonable people can and do disagree about the best path forward on this important question.
+
+Looking at the experience of countries that have already implemented various forms of social media age restrictions provides some useful evidence about the practical challenges involved, though drawing firm conclusions is difficult because these approaches are still relatively new and comprehensive evaluations are not yet available. The United Kingdom's
+Age Appropriate Design Code, implemented in 2021, required platforms to apply high privacy standards and restrict certain features for users under eighteen, focusing on platform design rather than access restrictions. Early reports suggested that some platforms did make meaningful changes to their default settings for younger users in response to the code, though advocates argued the changes did not go far enough. Australia's 2024 legislation banning social media for users under sixteen represented a much more aggressive approach and generated considerable international attention as well as significant debate about whether such a broad ban is technically feasible or socially desirable (Australian Government, 2024). Some observers pointed to Australia's approach as a model for other countries to consider, while others argued that it was unlikely to be effective and would push younger users toward less regulated platforms rather than away from social media entirely. The diversity of approaches being tried in different jurisdictions reflects the genuine uncertainty about what kinds of regulatory interventions are most likely to achieve the goal of protecting younger users without creating new problems or unintended consequences.
+
+One dimension of the social media age restriction debate that receives less attention than it deserves is the question of whose voices are centered in policy discussions. Much of the debate
+
+involves
+
+adults—researchers,
+
+policymakers,
+
+platform
+
+executives,
+
+and
+
+parents—discussing what is best for children and teenagers, but the perspectives of young people themselves are often less prominent in these conversations. Young people have a range of views on social media and its effects on their lives, and many teenagers report that social media provides them with important social connections, creative outlets, and access to
+
+information and communities that matter to them. At the same time, many young people also report experiencing negative aspects of social media including cyberbullying, social comparison, and feelings of anxiety or inadequacy. The Federal Trade Commission and other regulatory bodies have emphasized the importance of including young people's perspectives in policy development, recognizing that regulations that do not reflect young people's actual experiences and needs may be less effective or may have unintended consequences (Federal
+Trade Commission, 2023). Research by Jean Twenge and others who study generational differences in technology use has also highlighted the importance of understanding how young people's experiences with social media differ from those of older generations who did not grow up with these platforms and who may have different intuitions about their effects (Twenge,
+2017). Incorporating young people's voices and experiences into the policy debate about age restrictions seems important for developing approaches that will actually serve their interests.
+
+Works Cited
+
+Australian Government. (2024). Online Safety Amendment (Social Media Minimum
+Age) Act 2024. https://www.legislation.gov.au
+
+Federal Trade Commission. (2023). Children's Online Privacy Protection Rule: A
+six-step compliance plan for your business. https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule
+
+Haugen, F. (2021, October 5). Testimony before the United States Senate Committee on Commerce, Science, and Transportation. U.S. Senate.
+
+Twenge, J. M. (2017). iGen: Why today's super-connected kids are growing up less rebellious, more tolerant, less happy—and completely unprepared for adulthood. Atria
+Books.

@@ -1,0 +1,207 @@
+{
+  "description": "Official CB student samples 2017-2021 with verified row scores",
+  "tolerance": 3,
+  "skipWordCountGates": true,
+  "papers": [
+    {
+      "file": "cb2017_irr_a.txt",
+      "task": "irr",
+      "year": 2017,
+      "sample": "A",
+      "officialTotal": 30,
+      "officialRows": [6, 6, 6, 6, 3, 3],
+      "source": "AP Seminar 2017 PT1 Sample A"
+    },
+    {
+      "file": "cb2017_irr_b.txt",
+      "task": "irr",
+      "year": 2017,
+      "sample": "B",
+      "officialTotal": 20,
+      "officialRows": [4, 4, 4, 4, 2, 2],
+      "source": "AP Seminar 2017 PT1 Sample B"
+    },
+    {
+      "file": "cb2017_irr_c.txt",
+      "task": "irr",
+      "year": 2017,
+      "sample": "C",
+      "officialTotal": 10,
+      "officialRows": [2, 2, 2, 2, 1, 1],
+      "source": "AP Seminar 2017 PT1 Sample C"
+    },
+    {
+      "file": "cb2018_irr_a.txt",
+      "task": "irr",
+      "year": 2018,
+      "sample": "A",
+      "officialTotal": 30,
+      "officialRows": [6, 6, 6, 6, 3, 3],
+      "source": "AP Seminar 2018 PT1 Sample A"
+    },
+    {
+      "file": "cb2018_irr_b.txt",
+      "task": "irr",
+      "year": 2018,
+      "sample": "B",
+      "officialTotal": 20,
+      "officialRows": [4, 4, 4, 4, 2, 2],
+      "source": "AP Seminar 2018 PT1 Sample B"
+    },
+    {
+      "file": "cb2018_irr_c.txt",
+      "task": "irr",
+      "year": 2018,
+      "sample": "C",
+      "officialTotal": 10,
+      "officialRows": [2, 2, 2, 2, 1, 1],
+      "source": "AP Seminar 2018 PT1 Sample C"
+    },
+    {
+      "file": "cb2018_iwa_a.txt",
+      "task": "iwa",
+      "year": 2018,
+      "sample": "A",
+      "officialTotal": 48,
+      "officialRows": [5, 5, 9, 12, 9, 5, 3],
+      "source": "AP Seminar 2018 PT2 Sample A"
+    },
+    {
+      "file": "cb2018_iwa_b.txt",
+      "task": "iwa",
+      "year": 2018,
+      "sample": "B",
+      "officialTotal": 35,
+      "officialRows": [5, 5, 6, 8, 6, 3, 2],
+      "source": "AP Seminar 2018 PT2 Sample B"
+    },
+    {
+      "file": "cb2019_irr_a.txt",
+      "task": "irr",
+      "year": 2019,
+      "sample": "A",
+      "officialTotal": 30,
+      "officialRows": [6, 6, 6, 6, 3, 3],
+      "source": "AP Seminar 2019 PT1 Sample A"
+    },
+    {
+      "file": "cb2019_irr_b.txt",
+      "task": "irr",
+      "year": 2019,
+      "sample": "B",
+      "officialTotal": 20,
+      "officialRows": [4, 4, 4, 4, 2, 2],
+      "source": "AP Seminar 2019 PT1 Sample B"
+    },
+    {
+      "file": "cb2019_irr_c.txt",
+      "task": "irr",
+      "year": 2019,
+      "sample": "C",
+      "officialTotal": 10,
+      "officialRows": [2, 2, 2, 2, 1, 1],
+      "note": "889 words — below 1080 min; skipWordCountGates",
+      "source": "AP Seminar 2019 PT1 Sample C"
+    },
+    {
+      "file": "cb2019_iwa_a.txt",
+      "task": "iwa",
+      "year": 2019,
+      "sample": "A",
+      "officialTotal": 48,
+      "officialRows": [5, 5, 9, 12, 9, 5, 3],
+      "source": "AP Seminar 2019 PT2 Sample A"
+    },
+    {
+      "file": "cb2019_iwa_b.txt",
+      "task": "iwa",
+      "year": 2019,
+      "sample": "B",
+      "officialTotal": 30,
+      "officialRows": [0, 5, 6, 8, 6, 3, 2],
+      "source": "AP Seminar 2019 PT2 Sample B"
+    },
+    {
+      "file": "cb2020_irr_a.txt",
+      "task": "irr",
+      "year": 2020,
+      "sample": "A",
+      "officialTotal": 30,
+      "officialRows": [6, 6, 6, 6, 3, 3],
+      "source": "AP Seminar 2020 PT1 Sample A"
+    },
+    {
+      "file": "cb2020_irr_b.txt",
+      "task": "irr",
+      "year": 2020,
+      "sample": "B",
+      "officialTotal": 30,
+      "officialRows": [6, 6, 6, 6, 3, 3],
+      "source": "AP Seminar 2020 PT1 Sample B"
+    },
+    {
+      "file": "cb2020_irr_c.txt",
+      "task": "irr",
+      "year": 2020,
+      "sample": "C",
+      "officialTotal": 20,
+      "officialRows": [4, 4, 4, 4, 2, 2],
+      "source": "AP Seminar 2020 PT1 Sample C"
+    },
+    {
+      "file": "cb2020_irr_d.txt",
+      "task": "irr",
+      "year": 2020,
+      "sample": "D",
+      "officialTotal": 10,
+      "officialRows": [2, 2, 2, 2, 1, 1],
+      "source": "AP Seminar 2020 PT1 Sample D"
+    },
+    {
+      "file": "cb2021_irr_a.txt",
+      "task": "irr",
+      "year": 2021,
+      "sample": "A",
+      "officialTotal": 30,
+      "officialRows": [6, 6, 6, 6, 3, 3],
+      "source": "AP Seminar 2021 PT1 Sample A"
+    },
+    {
+      "file": "cb2021_irr_b.txt",
+      "task": "irr",
+      "year": 2021,
+      "sample": "B",
+      "officialTotal": 20,
+      "officialRows": [4, 4, 4, 4, 2, 2],
+      "source": "AP Seminar 2021 PT1 Sample B"
+    },
+    {
+      "file": "cb2021_irr_c.txt",
+      "task": "irr",
+      "year": 2021,
+      "sample": "C",
+      "officialTotal": 10,
+      "officialRows": [2, 2, 2, 2, 1, 1],
+      "note": "968 words — below 1080 min; skipWordCountGates",
+      "source": "AP Seminar 2021 PT1 Sample C"
+    },
+    {
+      "file": "cb2021_iwa_a.txt",
+      "task": "iwa",
+      "year": 2021,
+      "sample": "A",
+      "officialTotal": 48,
+      "officialRows": [5, 5, 9, 12, 9, 5, 3],
+      "source": "AP Seminar 2021 PT2 Sample A"
+    },
+    {
+      "file": "cb2021_iwa_b.txt",
+      "task": "iwa",
+      "year": 2021,
+      "sample": "B",
+      "officialTotal": 30,
+      "officialRows": [5, 0, 6, 8, 6, 3, 2],
+      "source": "AP Seminar 2021 PT2 Sample B"
+    }
+  ]
+}

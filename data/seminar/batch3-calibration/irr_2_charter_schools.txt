@@ -1,0 +1,72 @@
+========================================================================
+[IRR-2] [IRR] [TARGET: 23-26] [1159 WORDS]
+========================================================================
+
+Charter Schools and Academic Achievement:
+Evidence from Lottery-Based and Quasi-Experimental Studies
+
+Sofia Reyes
+
+AP Seminar, Period 2
+
+Ms. Thompson
+
+Northside High School
+
+Sofia Reyes
+Ms. Thompson
+AP Seminar, Period 2
+5 February 2025
+
+Charter Schools and Academic Achievement: Evidence from Lottery-Based and
+Quasi-Experimental Studies
+
+Charter schools—publicly funded schools that operate with greater autonomy from district regulations in exchange for accountability to performance standards specified in their charter—have expanded dramatically in the United States since the first charter school law was passed in Minnesota in 1991, enrolling approximately 3.7 million students in roughly 7,500
+schools as of 2022. The expansion of charter schools has been accompanied by persistent debate about whether they produce better educational outcomes than traditional public schools for comparable students, and if so, for which student populations and under what conditions.
+Stanford University's Center for Research on Education Outcomes (CREDO) has conducted the largest systematic evaluations of charter school performance, using matched student comparison groups to estimate causal effects on reading and mathematics achievement. This investigation asks: to what extent do charter schools produce improved academic outcomes in reading and mathematics for low-income urban students compared to traditional public school alternatives? The evidence from the most methodologically rigorous studies suggests heterogeneous effects — charter schools on average produce modest positive effects for low-income urban students but highly variable results across individual schools, with the best charter schools substantially outperforming traditional public schools and the worst substantially underperforming.
+
+CREDO's 2015 national study, which matched 1.4 million charter school students to demographically similar students in traditional public schools using a virtual control record methodology, found that urban charter schools on average provided low-income students with an additional 40 days of learning in reading and 28 days in math compared to traditional public school alternatives—effects that are educationally meaningful if not dramatic (CREDO, 2015).
+The urban focus is important because charter school effects are consistently more positive in urban settings serving high proportions of low-income students than in suburban or rural settings, a finding that appears across multiple studies and research teams. Lottery-based studies—which use the random assignment that occurs when oversubscribed charter schools use lotteries to allocate spots, comparing lottery winners to lottery losers—provide stronger causal evidence for specific schools and networks. Dobbie and Fryer's study of Harlem
+Children's Zone Promise Academy found effects on mathematics achievement so large that they closed essentially the entire Black-white achievement gap among students who attended from middle school through high school, representing some of the largest educational treatment effects ever documented in a well-designed study (Dobbie & Fryer, 2011). Angrist and colleagues' studies of Boston charter schools found substantial positive effects concentrated in urban schools serving disadvantaged populations, consistent with the CREDO
+national findings (Angrist et al., 2013).
+
+The evidence for positive charter school effects has not gone unchallenged.
+Researchers including economists at the Economic Policy Institute have raised concerns about selection bias in charter school research, arguing that even lottery-based studies may not fully account for the motivational and family-characteristic differences between families who apply to oversubscribed charter schools and those who do not. The CREDO methodology has been specifically criticized for the virtual control record approach, which some researchers argue may not adequately match on all relevant background characteristics. Additionally, the positive
+
+average effects in urban settings conceal very wide variation across individual schools—CREDO itself found that while some charter schools dramatically outperform their traditional public school counterparts, a substantial fraction perform no better or worse
+(CREDO, 2015). The implication of this heterogeneity is that the relevant policy question is not whether charter schools in general produce better outcomes, but what specific features of high-performing charter schools—extended learning time, structured curricula, intensive tutoring, culture of high expectations—drive the positive effects and whether those features can be replicated or adopted more broadly in traditional public schools.
+
+These two perspectives — that of researchers who emphasize the positive average effects in urban settings and those who emphasize methodological concerns and wide variation
+— are not as irreconcilably opposed as the political debate about charter schools sometimes suggests. Both agree that some charter schools produce substantially better outcomes for low-income urban students; the disagreement is about how much of the average positive effect reflects genuine treatment effects versus selection and about whether charter expansion is the most efficient way to bring the features of high-performing schools to more students. The research question asked in this investigation — to what extent do charter schools improve outcomes for low-income urban students — is best answered by saying: the high-quality evidence suggests modest positive effects on average with substantial variation, and the most policy-relevant finding is that the best urban charter schools produce among the largest educational gains ever documented, suggesting that understanding and replicating their features is among the most important questions in education research.
+
+The equity implications of charter school expansion require attention alongside the academic achievement evidence, because the distributional consequences of charter expansion affect traditional public school students as well as charter school attendees. When students with engaged families transfer to charter schools, traditional public schools lose both the students and the per-pupil funding that follows them—a fiscal effect that is particularly significant for urban school districts where charter enrollment has grown most rapidly. Ladd's analysis of the fiscal and segregation effects of charter school expansion found that in several urban markets, charter growth had created a two-tier system in which higher-performing, more-motivated students concentrated in charter schools while traditional public schools served a higher proportion of students with disabilities, English language learners, and students experiencing housing instability—populations that charter schools have historically underenrolled (Ladd, 2012). This selection dynamic means that comparing charter school outcomes to traditional public school outcomes without accounting for the differential selection of student populations may systematically overstate charter advantages, and that expanding charter enrollment without attention to the effects on the students and families who remain in traditional public schools risks improving outcomes for some students at the cost of worsening conditions for others.
+
+The research question asked in this investigation—to what extent do charter schools improve outcomes for low-income urban students—is answerable with more confidence for some schools and networks than for the sector as a whole. High-quality lottery-based studies of specific oversubscribed schools in Boston, New York, and elsewhere find large, credible positive effects for the students fortunate enough to win admission. CREDO's national analysis finds positive average effects in urban settings, particularly for English language learners and students in poverty. But the wide variation across individual charter schools, the selection concerns that Ladd's analysis raises, and the methodological debates between Angrist's and
+
+Ladd's teams about how to interpret aggregate data collectively suggest that the policy question should be reframed: not whether charter schools in general should expand, but what governance structures, accountability mechanisms, and quality-control processes can identify and support high-performing schools while closing chronically underperforming ones, and how traditional public school improvement can be supported alongside charter development rather than at its expense.
+
+Works Cited
+
+Angrist, J. D., Pathak, P. A., & Walters, C. R. (2013). Explaining charter school effectiveness. American Economic Journal: Applied Economics, 5(4), 1–27.
+https://doi.org/10.1257/app.5.4.1
+
+Center for Research on Education Outcomes. (2015). Urban charter school study:
+Report on 41 regions. Stanford University.
+
+Dobbie, W., & Fryer, R. G. (2011). Are high-quality schools enough to increase achievement among the poor? Evidence from the Harlem Children's Zone. American
+Economic
+
+Journal:
+
+Applied
+
+Economics,
+
+3(3),
+
+158–187.
+
+https://doi.org/10.1257/app.3.3.158
+
+Ladd, H. F. (2012). Education and poverty: Confronting the evidence. Journal of
+Policy Analysis and Management, 31(2), 203–227. https://doi.org/10.1002/pam.21602

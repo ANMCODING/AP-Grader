@@ -1,0 +1,78 @@
+Repairing Rather Than Punishing: Restorative Justice
+Conferences and Recidivism Outcomes Among Adult Offenders
+
+Priya Patel
+
+AP Seminar, Period 4
+
+Mr. Wilson
+
+Central High School
+
+Priya Patel
+Mr. Wilson
+AP Seminar, Period 4
+20 March 2025
+
+Repairing Rather Than Punishing: Restorative Justice Conferences and Recidivism
+Outcomes Among Adult Offenders
+
+The United States incarcerates approximately 2.1 million people—the highest incarceration rate of any country in the world—at an annual cost exceeding $80 billion, with two-thirds of released prisoners rearrested within three years (Bureau of Justice Statistics,
+2018). This recidivism rate, combined with incarceration's documented costs to public safety, communities, and public budgets, has generated substantial interest in alternative justice mechanisms that may achieve better reintegration outcomes at lower cost. Restorative justice—an approach in which offenders, victims, and community members meet in facilitated conferences to discuss the harm caused by an offense and negotiate a reparative agreement—has been implemented in multiple American jurisdictions as a diversion from or supplement to conventional prosecution and sentencing. This investigation asks: to what extent do restorative justice conferences reduce recidivism among adult offenders compared to conventional criminal justice processing, and what does the randomized controlled trial and matched comparison group evidence establish about the magnitude and consistency of these effects across crime types and populations? The randomized evidence from Lawrence Sherman and Heather Strang's RISE experiments and the quasi-experimental evidence from Bergseth and Bouffard's matched study consistently show lower recidivism for restorative justice participants, with the most robust effects for violent crime rather than property crime.
+
+Lawrence Sherman and Heather Strang's Reintegrative Shaming Experiments (RISE)
+in Canberra, Australia represent the most rigorous available evidence on restorative justice conference effectiveness, using randomized assignment of eligible cases to conference versus court proceedings across four crime types over seven years (Sherman & Strang, 2007). The
+RISE experiments' randomization—with cases assigned by police based on random number allocation—provides the cleanest causal identification available in criminological research, eliminating the selection bias concern that plagues observational studies of restorative justice.
+Sherman and Strang's analysis of recidivism at twelve-month follow-up found consistent reductions in reoffending for conference participants compared to court participants across three of four crime types, with the largest effects for violent crime—a counterintuitive finding given the assumption that more serious crimes require more punitive responses. The mechanism Sherman and Strang propose involves the conference process's capacity to induce shame reintegration—allowing offenders to acknowledge harm, experience the emotional consequences of their behavior in the presence of their victims, and be welcomed back into their community—in contrast to the stigmatizing shame of courtroom punishment that may increase reoffending through social exclusion.
+
+Bergseth and Bouffard's matched comparison study of restorative justice programs in a midwestern American county used propensity score matching to create comparable comparison groups of offenders who participated in restorative justice conferences and those who received conventional processing, following both groups for up to four years (Bergseth &
+Bouffard, 2013). This quasi-experimental design, published in a peer-reviewed criminology journal, represents the strongest available American evidence because it accounts for the selection bias that makes simple comparisons of program participants to the general offender population uninterpretable. Bergseth and Bouffard found lower recidivism rates for restorative justice participants at all follow-up periods, with the effect largest for offenders whose crimes
+
+had identifiable victims—the population for whom the conference process most directly engages the mechanism that John Braithwaite's reintegrative shaming theory identifies.
+Braithwaite's framework distinguishes stigmatizing shame—which labels the offender as a bad person and excludes them from their community—from reintegrative shame, which focuses on the harmful act, allows for accountability and repair, and facilitates reintegration (Braithwaite,
+1989). The consistency of recidivism reductions across both the RISE RCT and Bergseth's quasi-experimental American study provides cross-context convergent evidence that the effect is not limited to the Australian context or to particular implementation models.
+
+The perspectives of Sherman and Strang, Bergseth and Bouffard, and Braithwaite illuminate the restorative justice evidence from experimental, quasi-experimental, and theoretical vantage points that converge on a consistent picture with nuanced differences.
+Sherman and Strang's RCT evidence provides the strongest causal identification but is limited to the Australian context and to crime types that were randomly assigned—limiting generalizability to the American context and to serious violent crime. Bergseth and Bouffard's
+American quasi-experimental evidence trades some causal clarity for greater contextual relevance, finding consistent effects in a setting more comparable to the American criminal justice system. Braithwaite's theoretical framework provides the mechanistic explanation that makes the empirical pattern interpretable: restorative justice works when it engages the shame reintegration mechanism, which requires victim presence, genuine accountability by the offender, and community re-acceptance. The convergence between experimental evidence and a theoretically grounded mechanistic account represents the strongest possible evidential foundation in criminological research, where experimental methods are rarely available and theoretical frameworks rarely have direct empirical tests.
+
+This investigation established that restorative justice conferences consistently reduce recidivism compared to conventional criminal justice processing in both randomized and quasi-experimental studies, with the most robust effects for violent crime and for offenses with identifiable victims. The research question asked to what extent conferences reduce recidivism and what rigorous designs establish: Sherman and Strang's RISE randomized experiments provide the strongest causal evidence, finding consistent reductions across crime types with the largest effects for violence; Bergseth and Bouffard's American matched study confirms the effect in a more generalizable context. Braithwaite's reintegrative shaming theory provides the mechanistic account that explains why these effects appear and predicts for whom and in what contexts they will be strongest. The policy implication is that restorative justice conferences represent a well-evidenced alternative to incarceration for eligible offenders, particularly for violent offenses with identifiable victims—the counterintuitive finding that Sherman and
+Strang's randomized evidence most compellingly establishes.
+
+The victim satisfaction evidence from restorative justice research provides an additional dimension of evaluation beyond recidivism that is important for assessing the intervention's overall value. Strang, Sherman, Mayo-Wilson, Woods, and Ariel's Campbell
+Systematic Review meta-analysis of restorative justice conferencing found that victim participation in conferences produced substantially higher satisfaction rates than conventional court proceedings, with victims reporting greater sense of procedural justice, reduced fear of reoffending, and higher rates of complete reparation agreement fulfillment (Strang et al.,
+2013). The victim satisfaction finding is particularly important for the normative case for restorative justice because it addresses the concern that the approach benefits offenders at the expense of victims—a concern that Sherman and Strang's own RCT directly refutes. The process-level benefits for victims—having their experience acknowledged, understanding the offender's perspective, participating in designing the response—are outcomes that the conventional criminal justice system is structurally poorly designed to provide, because court proceedings are organized around the state's prosecution interest rather than the victim's need for acknowledgment and repair. The combination of better recidivism outcomes for offenders and higher satisfaction for victims makes restorative justice unusual among criminal justice interventions in producing measurable benefits on both sides of the accountability relationship simultaneously.
+
+Works Cited
+
+Bergseth, K. J., & Bouffard, J. A. (2013). Examining the effectiveness of a restorative justice program for various types of juvenile offenders. International Journal of
+Offender
+
+Therapy
+
+and
+
+Comparative
+
+Criminology,
+
+57(9),
+
+1054–1075.
+
+https://doi.org/10.1177/0306624X12453537
+
+Braithwaite, J. (1989). Crime, shame and reintegration. Cambridge University Press.
+https://doi.org/10.1017/CBO9780511804618
+
+Bureau of Justice Statistics. (2018). 2018 update on prisoner recidivism. U.S.
+Department of Justice. https://bjs.ojp.gov/library/publications/2018-update-prisoner-re cidivism-9-year-follow-period-2005-2014
+
+Sherman, L. W., & Strang, H. (2007). Restorative justice: The evidence. The Smith
+Institute. https://doi.org/10.1093/bjc/azm047
+
+Strang, H., Sherman, L. W., Mayo-Wilson, E., Woods, D., & Ariel, B. (2013).
+Restorative justice conferencing (RJC) using face-to-face meetings. Campbell
+Systematic Reviews, 9(1), 1–59. https://doi.org/10.4073/csr.2013.12
+
+========================================================================

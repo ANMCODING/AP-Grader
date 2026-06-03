@@ -1,0 +1,95 @@
+{
+  "description": "Custom AP Research test papers — expected overall AP score (1–5) and band labels for regression.",
+  "papers": {
+    "paper17-first-generation-students.txt": {
+      "overall": 3,
+      "band": "High 3",
+      "tier": "Low",
+      "range": "High 3"
+    },
+    "paper20-national-geographic.txt": {
+      "overall": 4,
+      "band": "Mid 4",
+      "tier": "Low",
+      "range": "Mid 4"
+    },
+    "paper22-growth-mindset-resilience.txt": {
+      "overall": 3,
+      "band": "High 3",
+      "tier": "Low",
+      "range": "High 3"
+    },
+    "paper23-spinach-photosynthesis.txt": {
+      "overall": 2,
+      "band": "Low 2",
+      "tier": "Low",
+      "range": "Low 2"
+    },
+    "paper24-ap-biology-retrieval.txt": {
+      "overall": 5,
+      "band": "Mid 5",
+      "tier": "Low",
+      "range": "Mid 5"
+    },
+    "paper25-ya-fiction-mental-health.txt": {
+      "overall": 3,
+      "band": "Low 3",
+      "tier": "Low",
+      "range": "Low 3"
+    },
+    "paper26-bilingual-education-ell.txt": {
+      "overall": 4,
+      "band": "High 4",
+      "tier": "Low",
+      "range": "High 4"
+    },
+    "paper27-mindfulness-anxiety.txt": {
+      "overall": 2,
+      "band": "Low 2",
+      "tier": "Low",
+      "range": "Low 2"
+    },
+    "paper28-music-plant-growth.txt": {
+      "overall": 3,
+      "band": "Mid 3",
+      "tier": "Low",
+      "range": "Mid 3"
+    },
+    "paper29-influencer-purchasing.txt": {
+      "overall": 2,
+      "band": "High 2",
+      "tier": "Low",
+      "range": "High 2"
+    },
+    "paper30-cold-water-immersion.txt": {
+      "overall": 5,
+      "band": "Low 5",
+      "tier": "Low",
+      "range": "Low 5"
+    },
+    "paper33-sleep-finals-week.txt": {
+      "overall": 3,
+      "band": "Mid 3",
+      "tier": "Low",
+      "range": "Mid 3"
+    },
+    "paper34-school-start-times.txt": {
+      "overall": 1,
+      "band": "Low 1",
+      "tier": "Low",
+      "range": "Low 1"
+    },
+    "paper35-culturally-responsive-math.txt": {
+      "overall": 4,
+      "band": "High 4",
+      "tier": "Low",
+      "range": "High 4"
+    },
+    "paper36-intermittent-fasting-athletes.txt": {
+      "overall": 3,
+      "band": "Mid 3",
+      "tier": "Low",
+      "range": "Mid 3"
+    }
+  }
+}

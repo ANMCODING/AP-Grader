@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "description": "AP Research calibration anchors (feature profiles; no full paper text in repo).",
+  "samples": [
+    {
+      "id": "2025-sample-a",
+      "officialApScore": 5,
+      "title": "Methylene Blue Dye Removal with Coffee Grounds",
+      "discipline": "Environmental Science / Chemistry"
+    },
+    {
+      "id": "2025-sample-d",
+      "officialApScore": 4,
+      "title": "Motivations of Second Career Teachers",
+      "discipline": "Education"
+    },
+    {
+      "id": "2025-sample-e",
+      "officialApScore": 3,
+      "title": "Online Sports Gambling Advertising",
+      "discipline": "Public Health / Media Studies"
+    },
+    {
+      "id": "2025-sample-h",
+      "officialApScore": 2,
+      "title": "Thrombolysis and Frostbite Systematic Review",
+      "discipline": "Medicine"
+    },
+    {
+      "id": "2025-sample-i",
+      "officialApScore": 1,
+      "title": "Mindful Eating and Mental Wellness",
+      "discipline": "Nutrition / Public Health"
+    }
+  ]
+}

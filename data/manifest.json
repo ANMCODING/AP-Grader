@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "guidelinesDir": "guidelines",
+  "samplesDir": "samples",
+  "expectedGuidelines": 6,
+  "expectedSamples": 30,
+  "notes": "Corpus is loaded from data/guidelines/ and data/samples/ at engine startup."
+}

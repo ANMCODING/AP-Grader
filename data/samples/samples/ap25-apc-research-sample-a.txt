@@ -1,0 +1,950 @@
+2025
+
+AP Research
+Academic Paper
+®
+
+Sample Student Responses
+and Scoring Commentary
+
+Inside:
+Sample A
+☑5 Scoring Guidelines
+☑5 Student Samples
+☑5 Scoring Commentary
+
+© 2025 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered trademarks of
+College Board. AP Capstone is a trademark owned by College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+AP® Research 2025 Scoring Guidelines
+
+Academic Paper
+
+5 Points
+
+Report on Existing Knowledge
+
+Report on Existing Knowledge
+with Simplistic Use of a Research
+Method
+
+Score of 2
+
+Score of 3
+
+Ineffectual Argument for a New
+Understanding
+
+Well-Supported, Articulate
+Argument Conveying a New
+Understanding
+
+Score of 4
+
+Score of 5
+
+• Presents an overly broad topic of
+inquiry.
+
+• Presents a topic of inquiry with
+narrowing scope or focus, that is
+NOT carried through either in the
+method or in the overall line of
+reasoning.
+
+• Carries the focus or scope of a
+topic of inquiry through the
+method AND overall line of
+reasoning, even though the focus
+or scope might still be narrowing.
+
+• Focuses a topic of inquiry with
+clear and narrow parameters,
+which are addressed through the
+method and the conclusion.
+
+• Focuses a topic of inquiry with
+clear and narrow parameters,
+which are addressed through the
+method and the conclusion.
+
+• Situates a topic of inquiry within
+a single perspective derived from
+scholarly works OR through a
+variety of perspectives derived
+from mostly non-scholarly works.
+
+• Situates a topic of inquiry within
+a single perspective derived from
+scholarly works OR through a
+variety of perspectives derived
+from mostly non-scholarly works.
+
+• Situates a topic of inquiry within
+relevant scholarly works of
+varying perspectives, although
+connections to some works may
+be unclear
+
+• Explicitly connects a topic of
+inquiry to relevant scholarly
+works of varying perspectives
+AND logically explains how the
+topic of inquiry addresses a gap.
+
+• Explicitly connects a topic of
+inquiry to relevant scholarly
+works of varying perspectives
+AND logically explains how the
+topic of inquiry addresses a gap.
+
+• Describes a search and report
+process.
+
+• Describes a nonreplicable
+research method OR provides an
+oversimplified description of a
+method, with questionable
+alignment to the purpose of the
+inquiry.
+
+• Describes a reasonably replicable
+research method, with
+questionable alignment to the
+purpose of the inquiry.
+
+• Logically defends the alignment
+of a detailed, replicable research
+method to the purpose of the
+inquiry
+
+• Logically defends the alignment
+of a detailed, replicable research
+method to the purpose of the
+inquiry.
+
+• Summarizes or reports existing
+knowledge in the field of
+understanding pertaining to the
+topic of inquiry.
+
+• Summarizes or reports existing
+knowledge in the field of
+understanding pertaining to the
+topic of inquiry.
+
+• Conveys a new understanding or
+conclusion, with an
+underdeveloped line of reasoning
+OR insufficient evidence.
+
+• Supports a new understanding or
+conclusion through a logically
+organized line of reasoning AND
+sufficient evidence. The
+limitations and/or implications, if
+present, of the new
+understanding or conclusion are
+oversimplified.
+
+• Justifies a new understanding or
+conclusion through a logical
+progression of inquiry choices,
+sufficient evidence, explanation
+of the limitations of the
+conclusion, and an explanation of
+the implications to the
+community of practice.
+
+• Generally communicates the
+student’s ideas, although errors
+in grammar, discipline-specific
+style, and organization distract or
+confuse the reader.
+
+• Generally communicates the
+student’s ideas, although errors
+in grammar, discipline-specific
+style, and organization distract or
+confuse the reader.
+
+• Competently communicates the
+student’s ideas, although there
+may be some errors in grammar,
+discipline-specific style, and
+organization.
+
+• Competently communicates the
+student’s ideas, although there
+may be some errors in grammar,
+discipline-specific style, and
+organization.
+
+• Enhances the communication of
+the student’s ideas through
+organization, use of design
+elements, conventions of
+grammar, style, mechanics, and
+word precision, with few to no
+errors.
+
+• Cites AND/OR attributes sources
+(in bibliography/ works cited
+and/or intext), with multiple
+errors and/or an inconsistent use
+of a discipline specific style.
+
+• Cites AND/OR attributes sources
+(in bibliography/ works cited
+and/or intext), with multiple
+errors and/or an inconsistent use
+of a discipline specific style.
+
+• Cites AND attributes sources,
+using a discipline-specific style (in
+both bibliography/works cited
+AND intext), with few errors or
+inconsistencies.
+
+• Cites AND attributes sources,
+with a consistent use of an
+appropriate discipline-specific
+style (in both bibliography/works
+cited AND intext), with few to no
+errors.
+
+• Cites AND attributes sources,
+with a consistent use of an
+appropriate discipline-specific
+style (in both bibliography/works
+cited AND intext), with few to no
+errors.
+
+Score of 1
+
+Rich Analysis of a New
+Understanding Addressing a Gap
+in the Research Base
+
+© 2025 College Board
+
+Research Sample A 1 of 32
+
+Methylene Blue Dye Removal with Loose and Compacted Coffee Grounds
+
+AP Research
+April 28, 2024
+Word Count: 5100
+
+Research Sample A 2 of 32
+DYE ADSORPTION
+
+2
+
+Introduction
+In recent years, the concern to make clothing production ethical and sustainable has risen.
+People now have access to worldwide media that shows the destructive nature of the fashion
+industry. As a result, consumers have begun to push for more ethical practices and brand
+transparency. In 2013, the collapse of Rana Plaza, a major clothing manufacturer in Bangladesh,
+raised the question, “How are my clothes being made?” for many consumers (International
+Labour Organization, 2023). Clothing that reaches consumers is not a simple product; it is raw
+material, such as cotton, that is processed in a factory, turned into thread and yarn, made into a
+textile, dyed, and ultimately turned into a garment, shipped from the global south to be sold to
+consumers in the west. The production process in fast fashion has led to environmental ruin,
+most notably in waterways near dyehouses (Mustapha et al., 2023). The areas surrounding the
+dyehouses, the places where clothing gets dyed, are often polluted with runoff from clothing
+factories because paying fines is cheaper than treating the wastewater, which leads to cheaper
+production costs and lower prices for consumers (Niinimäki, 2021). Besides the visual effects of
+dye wastewater in waterways, dyes can harm people’s health. Dyes such as methylene blue can
+cause heart rate increase, jaundice, and quadriplegia with constant exposure (Mustapha et al.
+2023). If the use of water in dyehouses can be changed to a circular model that reuses dye water,
+then dyed water can have minimal effects in nearby waterways, and more efforts can be spent on
+addressing water treatment for the current polluted bodies of water. This hypothetical model of
+reusing dyewater to dye clothing begins with research on dye removal. A commonly studied form
+of dye removal is adsorption using activated carbon, the basis of this research. Studies show that
+activated carbon from organic materials can be used for dye adsorption, thus suggesting that nonactivated carbon can be used to remove dyes from water (Mutalib et al., 2023). An example of
+
+Research Sample A 3 of 32
+DYE ADSORPTION
+
+3
+
+accessible material is coffee grounds, a waste produced by an entire industry worldwide. It is
+estimated that 60 million tons of used coffee grounds are produced each year globally (Nealon,
+2025). This makes coffee grounds easily accessible in high quantities. Researching dye removal
+using waste products that are not chemically activated lowers the cost and offers the potential for
+a low-cost dye removal method. If the water treatment method is low-cost and efficient,
+companies will be more inclined to treat the water. To contribute to the objective of a low-cost
+dye adsorption method, this study researched the efficiency of coffee grounds as a form of dye
+adsorption in loose and compacted forms.
+Literature Review
+1. Fashion Cycles
+Fast fashion is the production of clothing in response to consumer-indicated desires in an
+abnormally fast manner (Berhane, 2024). This increase in clothing production is not new; the
+University of North Carolina at Chapel Hill Ethics and Policy blog reports that consumers are
+buying 60% more than before because fast fashion clothing is relatively cheaper (Berhane,
+2024). For a simplified comparison, individuals who used to buy five pieces of clothing on an
+average trip to the mall are now buying around eight pieces of clothing, most likely of a lower
+quality. Georgetown Journal of International Affairs reports that from 1996 to 2012, there was a
+36% decrease in garment usage (Niinimäki, 2021). For the average consumer, this means that
+only about five of the eight garments purchased are used. This cycle will only increase over time,
+with the fast fashion industry projected to be worth 39.58 billion dollars this year (Hajad et al.,
+2024). The decrease in clothing usage, increase in fast-fashion consumption, and rapid trends
+will ultimately cause global textile waste to reach 132 million tons per year in 2030 (Chen et al.,
+2021).
+
+Research Sample A 4 of 32
+DYE ADSORPTION
+
+4
+
+2. Environmental Pollution
+A major issue with the fast fashion industry is the pollution it causes. Most of the clothing
+made in countries such as Indonesia and Bangladesh rely heavily on clothing production to keep
+the workforce and economy alive, but many of the companies with textile factories in these
+countries will take shortcuts in manufacturing with actions such as throwing wastewater into
+local bodies of water (Regan, 2020). Examples of this are Gap and Brooks Brothers, both
+prominent figures in fashion, discharging pollutants into Indonesia's Citarum River (Elks, 2020).
+This ultimately plays into the garment industry being responsible for 20% of the world’s water
+pollution (Regan, 2020). The emphasis of this study is on water pollution in the fashion industry.
+The water currently used in production is clean drinking water, and many articles of clothing
+require lots of water in the production stages (Mogavero, 2020). A single pair of jeans requires
+up to 7500 liters of water in manufacturing, mostly for the dying process (Regan, 2020). An
+increase in consumption and manufacturing indicates that an innovation in the dying process is
+required. In “Studies on the Removal of Acid Blue 25 from Wastewater using Activated Carbon
+and Turmeric”, P. Santhosh reports that in 2013, there were more than 12,000 commercial dyes
+available to dye clothing. Now, this number could have easily doubled.
+3. Textile Dyes
+Textile dyes are what give clothing its color (Bawa et al., 2023). Dying clothing to appear
+lively and more attractive is nothing new. The distinguishing aspect of clothing now is that they
+are dyed with synthetic dyes (Mabuza et al., 2023). The dyes that are used to color clothing have
+complex aromatic structures, which means that they are stable and difficult to break apart
+(Ranson, 2020). As a result, the removal of dye from wastewater or bodies of water has been
+
+Research Sample A 5 of 32
+DYE ADSORPTION
+
+5
+
+difficult and expensive. This recurrence of this issue has led to the research of activated carbon in
+treating wastewater for dye removal.
+4. Dye Adsorption with Activated Carbon
+Researchers have found that one of the most effective ways to remove dye from water is to
+use activated carbon. Activated carbon is described as a raw material, such as coconut husk, that
+is processed with heat and an acid or base (Bawa et al., 2024). Activated carbon can be made
+from any material that has a large carbon content. The study “Combined Absorbent of Corn
+Husks and Eggshells Activated by Sodium Hydroxide as an Adsorbent for Remazol Yellow FG
+dye in Textile Waste” by Bawa et al. researched how activated carbon from corn husk and
+eggshells with NaOH (a base) and HCl (an acid) can impact dye removal. Bawa et al. report that
+the optimal conditions are with a pH of 2 and a contact time of 80 minutes. These conditions,
+with the activated carbon, adsorbed 27.87% of the dye. Analysis showed that this process is not
+effective for industrial use because of the time needed to activate the carbon, and the contact time
+needed for results could not remove 30% of the dye from the solution. As a result, more research
+is needed on how a material with a high carbon percentage can be dried and used for dye
+adsorption. One issue addressed by Bawa was the fact that the drying oven used in the
+experiment took a considerable amount of time. To address this issue of drying time, Beyer
+conducted similar research on dye adsorption using microwaves as the drying method. Because
+microwave ovens operate by vibrating molecules such as water in a substance to make them
+produce heat, Beyer was able to reduce the drying time down to 20 minutes, making the dye
+adsorbent process efficient (Beyer, 2023). Further research has applied this knowledge when
+using coffee as the source of carbon. The study “Comprehensive functionality analysis of spent
+coffee grounds activated using microwave-assisted method” was successfully able to use
+
+Research Sample A 6 of 32
+DYE ADSORPTION
+
+6
+
+microwaved dried spent coffee grounds to remove methylene blue from a solution (Mutalib et al.,
+2023). Although certain variables throughout these studies were changed, they were able to prove
+that activated carbon can remove dye from water, and two studies proved that it can be done with
+microwave assistance; most notably, activated spent coffee grounds were able to remove dye.
+5. Gap
+Although numerous studies have shown that activated carbon is effective at removing dye
+from water and can be affected by characteristics such as pH, contact time, and temperature, few
+studies have researched whether carbon without chemical activation can be used as a dye
+adsorbent. This absence led me to research the effectiveness of dried spent coffee grounds as a
+form of dye removal. After experimentation and additional research, the component of
+compaction was examined to see if it could have an impact on the effectiveness of dye removal.
+If spent coffee grounds could be dried and compacted, then they could remove the dye from the
+water without a difficult separation process after treatment. It is hypothesized that there will be a
+significant difference between the solution that is treated with the compacted coffee and the
+solution treated with loose coffee. Compaction will make the separation process more efficient
+because extensive filtering is not needed, which saves time, making it an efficient method of dye
+adsorption that uses a throwaway product. If further research is conducted on the impact of
+activation and compaction with spent coffee grounds as a form of dye removal, then companies
+can be more inclined to incorporate a water treatment method that does not revolve around waste
+disposal.
+Methodology
+This study aims to determine if methylene blue dye can be removed from a solution using
+dried spent coffee grounds under multiple conditions. The test procedures involved incorporating
+
+Research Sample A 7 of 32
+DYE ADSORPTION
+
+7
+
+the two forms of coffee into a methylene blue solution, with six types of experiments conducted
+four times each. The experimentation method was a mixed qualitative and quantitative
+experiment. The data that was recorded was analyzed using spectrophotometry as well as visual
+analysis of the changes before and after treatment. The experiments manipulated the size of the
+coffee grounds, the mass of the coffee grounds, and the length of time the experiment ran. Each
+experiment was an attempt to find a correlation between treatment and dye removal through
+color change. Similar experimentation provided a model for dye adsorption using spent coffee
+grounds. Mutalib, as mentioned previously, used coffee from nearby shops and dried them at
+different wattages before activation. Mutalib showed that the change in color with activated
+coffee dried using a microwave was statistically significant (Mutalib et al., 2023). This study also
+showed optimal drying conditions being at 100 watts, but due to limitations of a household
+microwave being used, the wattage used in this study was 1000. Once the base experimentation
+of spent coffee grounds began, I noticed that the coffee grounds still left a substance with a
+yellow hue. This led to further research on the concept of compaction as it pertains to dye
+adsorption. The study “Effect of activated carbon compaction on water filtration efficiency”
+showed that activated carbon, like in Mutalib’s study, could be compacted in a puck-like
+filtration device to optimize the effectiveness of activated carbon when removing a pollutant
+(Mersal et al., 2024). With this information, the experiment set up was revised to include the
+“pellet” component, where the coffee was compacted into tiny disks and used as a comparison
+against the loose coffee grounds to determine if coffee grounds would be more effective at
+removing dye if the contact was indirect. This would allow the solution to be treated without the
+yellow tint left by the loose coffee grounds.
+
+Research Sample A 8 of 32
+DYE ADSORPTION
+
+8
+
+Figure 1. Different Treatments Used to Remove Methylene Blue Dye From a Solution
+
+1. Preparing the Methylene Blue Solution
+The first step in the experiment was preparing the methylene blue solution. The
+methylene blue solution consists of methylene blue powder and distilled water. The distilled
+water ensures minimal impurities, reducing the possibility of the experiment being impacted by
+the water used. The methylene blue powder was weighed on a digital scale for an amount of .32
+grams to prepare the methylene blue solution. This amount was added to 100 ml of water for a
+molarity of .001. Then, in a one-liter volumetric flask, three milliliters of the .001 M methylene
+blue solution were added with distilled water until the one-liter mark was met. The concentration
+of the methylene blue had to be diluted for changes to be easily observed. A piece of parafilm
+
+Research Sample A 9 of 32
+DYE ADSORPTION
+
+9
+
+was then placed on top of the container’s opening to
+distribute the powder evenly by turning the container
+upside down. This solution was then stored under a fume
+hood away from light.
+2. Preparing the coffee grounds
+The preparation for both forms of coffee starts the same.
+Coffee grounds were used due to their accessibility, and
+when researching carbon/activated carbon, few studies
+showed coffee grounds as its carbon source (Mutalib et
+Figure 2 Methylene Blue Solution
+
+al., 2025). To obtain used coffee grounds for the
+
+experiment, spent coffee must be made. Spent coffee is coffee that has been used to make brewed
+coffee. To have consistency in the experiments, the same coffee beans were used and freshly
+ground before the brewed coffee was made. The coffee beans used in the experiments were of
+Guatemalan origin and roasted between December 2024 and January 2025. The brewed coffee
+was prepared using the French press method. Each batch of brewed coffee used 80 grams of
+coffee beans that were ground in an electric coffee bean grinder for 30 seconds. Then, they were
+added to a French press, and hot water was poured onto the grounds until water fully covered
+them; they were left to sit for 15 seconds. After 15 seconds, a liter of hot water was added to the
+French press and covered with the French press top. The coffee was left to sit for 5 minutes.
+After 5 minutes, the plunger was slowly pushed down to separate the brewed coffee from the
+grounds. The brewed coffee was then poured out until there was no liquid left in the French
+Press. Then, the French press plunger was removed from the container. To the French press
+container, three folded Bounty paper towels were added on top of the coffee grounds and then
+pressed down with the plunger to absorb any excess moisture left in the grounds. This was left to
+
+Research Sample A 10 of 32
+DYE ADSORPTION
+
+10
+
+sit for 5 minutes. After 5 minutes, the coffee grounds were removed and evenly distributed on a
+ceramic plate. The next step in the coffee preparation process is the drying process. Most
+research conducted on drying organic materials for activated carbon used drying ovens, but this
+study used a microwave for the method of drying (Mutalib et al., 2025). This experiment used a
+standard home microwave oven with a power output of 1000 watts. The plate was placed in the
+microwave for a total of 15 minutes, stopping every 3 minutes to move around the coffee
+grounds. Once the coffee grounds were in the microwave for 15 minutes, they were removed
+from the plate and placed in an airtight container. This was the last coffee preparation step for the
+experiments that used loose ground coffee. For future experimentation, consistency measures
+with the temperature of coffee should be recorded after
+microwaving to ensure that the microwave is producing similar
+heat.
+3. Preparation of the Coffee Pellets
+Half of the experiments conducted used a “pellet” form of
+dried coffee. Unlike the regularly microwaved coffee grounds,
+Figure 3 Dried Coffee Grounds
+
+the coffee pellets are combined with ground flax seeds. Ground
+flax seeds with water form a gel-like consistency, which aids
+
+the pellets in staying intact. Flax seeds also have a composition of 60% carbon. The pellets are
+with a ratio of approximately 1:2:2, one part flax seed, two parts microwaved coffee grounds,
+and two parts distilled water. Each batch of pellets made for the experiments was made with 24
+grams of ground flax seeds, 45 grams of microwaved coffee grounds, and 50 milliliters (ml) of
+distilled water. In a mixing bowl, the ground flax seeds and microwaved coffee grounds (MCG)
+were combined. Once everything was fully combined, the distilled water was added until a soillike consistency was reached. When pinched, the mixture was able to hold its shape. To form the
+
+Research Sample A 11 of 32
+DYE ADSORPTION
+
+11
+
+pellets, a silicone mold with mini cavities of the dimensions 0.5-inch diameter and 0.31-inch
+height was used. The mixture was added to the mold, with each cavity being pressed down. The
+molds then go through the same microwaving process described in section two. After
+microwaving, the pellets were stored in an airtight container.
+4. Experiments with Loose Ground Coffee (LGC)
+In total, 12 trials utilized the LGC method. Each experiment had 4 trials, with the following
+three being the experiments: 10 grams of LGC in 100 ml
+of methylene blue solution for 20 minutes, 5 grams of
+LGC in 100 ml of methylene blue solution for 20
+minutes, and 10 grams of LGC in 100 ml of methylene
+blue solution for 10 minutes. The basis of each
+experiment was composed of coffee being added to
+methylene blue solution, mixed for a consecutive amount
+of time with a magnetic stirrer. To a 250 ml beaker, 100
+ml of methylene blue solution was added along with a
+stir bar. A stir bar is a tiny magnet that attracts to the
+magnetic plate to stir a solution evenly. Once the beaker
+
+Figure 4 Coffee Pellets
+
+is set up, it is placed on top of the magnetic stirrer. The
+magnetic stirrer was turned on to a setting where the solution had a whirlpool that was strong
+enough to stay consistent but not so strong that the center of the whirlpool touched the bottom of
+the flask. Once the whirlpool was made, the designated amount of LGC was added and left to stir
+for 10 or 20 minutes, depending on which experiment was being conducted. After the time for
+
+Research Sample A 12 of 32
+DYE ADSORPTION
+
+12
+
+each experiment passed, the magnetic stirrer was turned off,
+and the solution was ready for filtration.
+5. Experiments with Pellet Coffee
+For the twelve experiments using pellet coffee, the only
+change was the structure of the coffee. Instead of adsorbing
+the textile dye using LGC, these experiments used a
+structured coffee pellet form. Each experiment had 4 trials
+with the following three being the experiment: 10 grams of
+Figure 5 Loose Coffee Grounds in
+Methylene Blue Solution
+
+coffee pellets in 100 ml of methylene blue solution for 20
+minutes, 5 grams of coffee pellets in 100 ml of methylene
+
+blue solution for 20 minutes, and 10 grams of coffee pellets in 100 ml of methylene blue solution
+for 10 minutes. The same setup is used as described in section 4, except for the LGC being
+exchanged for pellet coffee.
+6. Filtration Process
+For all the trials conducted, the same filtration process
+was used. After each trial, a coffee filter filtered the solution
+into an empty beaker. The coffee filters used in the
+experiments were the Melitta Super Premium Coffee Filters.
+To set up the filtration containers, the coffee filters were
+placed on top of the beaker opening in a funnel shape for the
+liquid to pass through. Once the filter was added to a beaker,
+
+Figure 6 Coffee Pellets in Methylene Blue
+Solution
+
+Research Sample A 14 of 32
+DYE ADSORPTION
+
+14
+
+could analyze. To have a reference in the spectrophotometer, a cuvette was filled with distilled
+water and placed into the spectrophotometer to measure as a reference. The concentration curve
+dilutions were the only liquids measured at the same time. After creating a reference in the
+spectrophotometer, each dilution was placed in a cuvette using a pipette and transported into the
+spectrophotometer to measure its red, green, and blue values. This same process occurred for
+each of the 24 trial solutions after filtration. The spectrophotometer works by putting light
+waves through the solution at different frequencies, so that the values that are being absorbed by
+a given solution can be recorded (LabXChange). For example, the original solution that was
+analyzed is blue to the human eye, and blue light wavelengths can pass through a blue solution,
+making it look blue to humans. On the contrary, red-light wavelengths cannot pass, so it is
+absorbed by the solution. A blue substance will record a high red value and a low blue value in
+the spectrophotometer. This study had the goal of removing blue dye from a solution; therefore,
+the final expected values in the spectrophotometer were low red values and high blue values.
+Discussion
+For each of my trials, I used a spectrophotometer to analyze the differences in the solution
+after they were treated with a form of coffee. Spectrophotometry allowed me to quantify the
+changes in the solutions color. While the data I collected included three colors, I focused on
+interpreting the changes in the R values before and after treatment, as shown in Table 2. The
+highest recorded value in the original Methylene Blue solution is the red value because a blue
+solution will reflect blue light but will absorb red light. Therefore, the higher the red value
+recorded, the bluer the solution appears. Each of the six experiments recorded a red value under
+half of the original recorded value. The data in Table 3 shows the averages of all experiments. In
+each category, there was no major difference between pellet and ground coffee as a form of dye
+
+Research Sample A 15 of 32
+DYE ADSORPTION
+
+15
+
+removal, but 5 grams of ground coffee stirred in the methylene blue solution for 20 minutes did
+have the lowest recorded red value. In all, the coffee grounds were able to remove 73% to 89%
+of the methylene blue dye from water. To determine if the experiments were statistically
+significant, two ANOVA tests were performed. An ANOVA test allows for a comparison of the 7
+categories in the study to determine if there was statistical significance between the means of
+each experiment or if the differences were from random chance. The first test compared the six
+experiments to the control, which was the untreated methylene blue solution. In comparison, the
+change in the red values recorded after treatment shows that the treatments were statistically
+significant with a p value < 0.001, as shown in Appendix H. The second test was to determine if
+there was any significant difference in outcomes with the different experiment setups. In this
+case, the differences among the six experiments were not statistically significant. This result was
+unexpected because it was hypothesized that the pellets would be more effective at removing dye
+from water. It was hypothesized that the pellet coffee would result in lower red values, but there
+is no statistical difference; therefore, the hypothesis is rejected. Although the changes were not
+drastic, they can still be observed in Figures 7 and 9. The tint in Figure 7 from treatment with
+loose coffee grounds seems opaque in comparison to the solution treated with coffee pellets. In
+addition to comparing the red values, observations were made with the filtration process. It was
+noticed that the LGC was significantly more difficult to remove from the solution than the pellet
+coffee was. Removing the coffee pellets from the solution was easier than removing the loose
+coffee grounds, and it took less time. In some trials with the loose coffee grounds, the solution
+needed to be filtered twice because some particles could still fall through the filter, but this did
+
+Research Sample A 16 of 32
+DYE ADSORPTION
+
+16
+
+not occur with the pellets. Therefore, even though there is no
+statistical difference between the coffee pellets and the loose coffee
+grounds, the coffee pellets are more practical for dye removal
+because they are easier to filter. The conditions of this study also
+could not distinguish other conditions that could have made the
+adsorption process “ideal,” but if optimal conditions could be
+studied and identified, then the use of coffee pellets could be an
+efficient method to treat wastewater on a large scale. The pellets
+can remove dye from water at a fast rate and do not require
+
+Figure 9 Solution After Treatment
+with Five Grams of Coffee Pellets
+for 20 Minutes
+
+extensive filtration processes.
+1. Limitations
+The study faced limitations in its setup due to materials, factors that were not recorded, and,
+most notably, the fact that it is a theoretical approach to adsorbing dye from polluted bodies of
+water. Only three colors absorbed by the solutions were able to be recorded with the schoolprovided spectrophotometer, but in a well-funded lab, a spectrophotometer can be able to record
+light absorbances at different wavelengths, not just three colors. The lab was also conducted
+without considering factors that could also impact results, such as the temperature of the coffee
+grounds when they were microwaved, the temperature of each solution, the pH of each solution,
+and the use of flasks that were not sterilized. These factors could have impacted the results of
+each trial in some way, as studies such as Bawa’s have been able to find conditions that make
+activated carbon dye adsorption optimal, such as having a pH of 2 (Bawa et al., 2023). Finally,
+the dye solution used was not wastewater. Polluted waters, such as the Dravyavati River in India,
+are impacted by multiple toxins, not just dyes like methylene blue. The solution used in this
+
+Research Sample A 17 of 32
+DYE ADSORPTION
+
+17
+
+study was highly controlled compared to river water that is polluted with wastewater. The
+wastewater is composed of several dyes, acids, salts, and metals, something that cannot be easily
+created artificially. The water in the rivers is also impacted by climate and local flora.
+2. Implications
+The research currently available on dye adsorption using carbon focuses mainly on how
+carbon can adsorb dye once it is activated, but the research presented in this paper uses the
+example of how a carbon source that is not activated can still remove dye from water. The source
+of carbon used was also intentional. Coffee grounds are the waste of an entire industry. In every
+corner of the world, there are coffee shops that dispose of coffee grounds daily because they do
+not have a use for them. Coffee is also an accessible form of carbon because it can be accessed
+within residential and commercial areas. Therefore, when applied to a large cycle of repurposing
+spent coffee grounds to use them in dye removal, the grounds can keep up with the quantity
+needed to remove dye from polluted bodies of water. One of the experiments in this study used a
+ratio of 1:20, which implies that lower quantities can be studied in the future to determine if they
+can still be effective at removing dye with less mass. The implication of this research shows that
+sources of carbon, like coffee, do not need to be activated to remove dye. Knowing that nonactivated carbon can be effective at removing dye, future research can be directed toward
+optimizing conditions for efficiency. By using coffee grounds as the source of carbon and not
+activating it, most of the costs of activated carbon are removed. The coffee grounds can be
+obtained from the mass waste of coffee grounds produced in coffee shops worldwide, making it
+accessible. Because dye pollution is the result of costs that dyehouses do not want to have in
+processing water, the low-cost alternative of using coffee grounds to remove dye from water can
+be used for future development in recycling the water used to dye clothing, so it does not get
+
+Research Sample A 18 of 32
+DYE ADSORPTION
+
+18
+
+disposed of in bodies of water. Once future studies can determine which conditions can make a
+nonactivated source of carbon the most efficient at dye removal, then engineering can be used to
+design a circular use of dye water.
+Although lab results show that this method, as it is now, is effective at removing dye, the
+transition to using it as an industrial treatment must also be tested and observed. The coffee used
+in this study is single origin, but on a large-scale treatment system will most likely rely on
+grounds from different areas with different processing methods.
+
+Table 1 Red, Green, and Blue Values for Each Concentration
+
+Research Sample A 19 of 32
+
+Table 3: Average Value of Each Experiment Compared to the Concentration Curve Values
+
+Table 2: Average Values of Each Experiment
+
+Research Sample A 20 of 32
+DYE ADSORPTION
+
+20
+
+Conclusion
+Spent coffee grounds can be a low-cost alternative to treating dye-polluted water. Not
+having to activate the coffee grounds removes most of the costs because the coffee grounds do
+not need to be processed with an acid or base, and the coffee itself is a byproduct of a beverage
+that over half of Americans consume daily. Considering the implications of non-activated coffee
+grounds as a low-cost method of dye removal, further studies can be done on the properties of
+treated water and the conditions of the treatment. The results identified in this paper only show
+the visual and numerical changes of one dye solution that has been treated with coffee grounds.
+This study only looked at absorbency and color changes, but when applied to dye wastewater,
+other factors must be considered, such as different pollutants in the water. Factors not observed in
+this study could also be researched to determine how efficiency can be obtained with a material
+that is not chemically processed. Results with stronger accuracy can be obtained by doing
+experimentation with bodies of water from areas where clothing is made, as well as identifying
+the type of coffee grounds used to treat the water and the dyes present in water polluted with
+runoff from dyehouses. The mentioned accuracy of coffee grounds as dye removal can also be
+researched with quantifiable factors such as pH and temperature.
+
+Research Sample A 21 of 32
+DYE ADSORPTION
+
+21
+
+References
+
+Abdul Mutalib, A. A., Jaafar, N. F., Miskam, M., & Shafie, S. (2023). Comprehensive
+functionality analysis of spent coffee grounds activated using a microwave-assisted
+method. Journal of Dispersion Science and Technology, 46(1), 72–87.
+https://doi.org/10.1080/01932691.2023.2278495
+Bawa, I. G. A. G. et al. (2023). Combined absorbent of corn husks and eggshells activated by
+sodium hydroxide as an adsorbent for Remazol Yellow FG dye in textile waste. Journal of
+Applied and Natural Science, 15(4), 1582 - 1586.
+https://doi.org/10.31018/jans.v15i4.5124
+Berhane, H. (2024, April 26). Rethinking clothing consumption: understanding the human cost of
+fast fashion. Retrieved April 27, 2025, from UNC Policy:
+https://universitypolicy.unc.edu/news/2024/04/26/rethinking-clothing-consumptionunderstanding-the-human-cost-of-fast-fashion/
+Beyer, K. (2024). “The adsorption of methylene blue by activated carbon from spent coffee
+grounds by microwave-induced phosphoric acid activation.” Winona State University.
+Retrieved April 27, 2025, from https://openriver.winona.edu/rca/2024/schedule/31/
+By analyzing the absorption spectrum of the bright blue dye, researchers gain valuable insights.
+(n.d.) LabXchange. Retrieved April 27, 2025, from
+https://www.labxchange.org/library/items/lb:LabXchange:df4ebab4:html:1#:~:text=By%
+20analyzing%20the%20absorption%20sp
+
+Research Sample A 22 of 32
+DYE ADSORPTION
+
+22
+
+Chen, X., Memon, H. A., Wang, Y., Marriam, I., & Tebyetekerwa, M. (2021). Circular Economy
+and Sustainability of the Clothing and Textile Industry. Materials Circular
+Economy, 3(1), 12. https://doi.org/10.1007/s42824-021-00026-2
+Elks, J. (2013). Polluting paradise: Gap, Ince among companies exposed in Indonesian toxic
+water scandal. Retrieved April 27, 2025, from Sustainable Brands:
+https://sustainablebrands.com/read/polluting-paradise-gap-inc-among-companiesexposed-in-indonesian-toxic-water-scandal
+Hsu, C. (2018, August 27). This bright blue dye is found in fabric. Could it also power batteries?
+Research shows that the chemical, a component of wastewater in textile-making, is good
+at tasks associated with energy storage. University at Buffalo News. Retrieved April 27,
+2025, from https://www.buffalo.edu/news/releases/2018/08/026.html
+Letsiwe Mabuza, N. S.-P. (2023, April 4). Natural versus synthetic dyes: Consumers'
+understanding of apparel coloration and their willingness to adopt sustainable
+alternatives. Retrieved April 27, 2025, from ScienceDirect.
+Mersal, M. E., Kuok, K. K., Rahman, M. R., Chan, C. P., Bin Bakri, M. K., Chowdhury, M. D.
+A., and Patwary, M. A. M. (2024). Effect of activated carbon compaction on water
+filtration efficiency. BioResources 19(3), 5300-5315.
+Mogavero, T. (2020, April 16). Clothed in Conservation: Fashion & Water. Retrieved April 27,
+2025 from FSU: https://sustainablecampus.fsu.edu/blog/clothed-conservation-fashionwater
+Mustapha, O. R., Osobamiro, T. M., Sanyaolu, N. O., & Alabi, O. M. (2023). Adsorption study of
+Methylene blue dye: an effluents from local textile industry using Pennisteum pupureum
+
+Research Sample A 23 of 32
+DYE ADSORPTION
+
+23
+
+(elephant grass). International Journal of Phytoremediation, 25(10), 1348–1358.
+https://doi.org/10.1080/15226514.2022.2158781
+Nealon, S. (2025, March 21). Researchers advance efforts to turn spent coffee grounds into food
+packaging. Retrieved April 27, 2025, from Oregon State University News Room:
+https://news.oregonstate.edu/news/researchers-advance-effort-turn-spent-coffee-groundsfoodpackaging#:~:text=An%20estimated%2060%20million%20tons,methane%2C%20a
+%20potent%20greenhouse%20gas.
+Niinimaki, K. (2021, August 30). From fast to slow: how to construct a better balance in the
+fashion system. Retrieved April 27, 2025, from Georgetown Journal of International
+Affairs: https://gjia.georgetown.edu/2021/08/30/from-fast-to-slow-how-to-construct-abetter-balance-in-the-fashion-system/
+P. Santhosh, A. S. (2013). Studies on the removal of acid blue 25 from wastewater using activated
+carbon and turmeric (curcuma longa L.) as adsorbent . Retrieved April 27, 2025, from
+Nature Environment and Pollution Technology : https://neptjournal.com/uploadimages/NL-42-24-24.pdf
+Pujol, D., Liu, C., Gominho, J., Olivella, M. À., Fiol, N., Villaescusa, I., & Pereira, H. (2013).
+The chemical composition of exhausted coffee waste. Science of the Total Environment,
+463-464, 858–866.https://doi.org/10.1016/j.scitotenv.2013.06.029
+Ranson, B. (2020). The true cost of colour: The impact of textile dyes on water systems.
+Retrieved April 27, 2025, from Fashion Revolution:
+https://www.fashionrevolution.org/the-true-cost-of-colour-the-impact-of-textile-dyes-onwater-systems/
+
+Research Sample A 24 of 32
+DYE ADSORPTION
+
+24
+
+Regan, H. (2020, September 28). Asian rivers are turning black. And our colorful closets are to
+blame. Retrieved April 27, 2025, from CNN: https://www.cnn.com/style/article/dyeingpollution-fashion-intl-hnk-dst-sept/index.html
+Stacey, N. (2024). Buy Now! The Shopping Conspiracy. Netflix. Retrieved April 27, 2025, from
+https://www.netflix.com/lu-en/title/81554996
+Statistics Kingdom. (n.d.). ANOVA calculator - One way ANOVA and Tukey HSD test. Retrieved
+April 27, 2025, from https://www.statskingdom.com/180Anova1way.html
+The Rana Plaza disaster ten years on: what has changed? (2023, April). Retrieved April 27,
+2025, from International Labour Organization: https://webapps.ilo.org/infostories/enGB/Stories/Country-Focus/rana-plaza#intro
+Vellayati Hajad, H. I. (2024). Unveiling the political impact of fast fashion consumption: the role
+of lower middle class in environmental crisis in Indonesia? Jurnal Wacana Politik, DOI:
+10.24198/jwp.v9i2.49065.
+
+Research Sample A 25 of 32
+DYE ADSORPTION
+
+25
+
+Appendix
+Appendix A
+I.
+Chart of All Trials and the Corresponding Data
+
+Research Sample A 26 of 32
+DYE ADSORPTION
+
+Appendix B
+I.
+Data from Standard Ground Trials
+
+26
+
+Research Sample A 27 of 32
+DYE ADSORPTION
+
+Appendix C
+I.
+Data from 5 Grams 20 Minutes Ground Trials
+
+27
+
+Research Sample A 28 of 32
+DYE ADSORPTION
+
+Appendix D
+I.
+Data from 10 Grams 10 Minutes Ground Trials
+
+28
+
+Research Sample A 29 of 32
+DYE ADSORPTION
+
+Appendix E
+I.
+
+Data from Standard Pellet Trials
+
+29
+
+Research Sample A 30 of 32
+DYE ADSORPTION
+
+Appendix F
+I.
+
+Data from 5 Grams 20 Minutes Pellet Trials
+
+30
+
+Research Sample A 31 of 32
+DYE ADSORPTION
+Appendix G
+I.
+
+Data from 10 Grams 10 Minutes Pellet Trials
+
+31
+
+Research Sample A 32 of 32
+DYE ADSORPTION
+Appendix H
+I.
+
+ANOVA Test Data and Chart
+
+32
+
+AP RESEARCH 2025 • SCORING COMMENTARY
+
+Academic Paper
+Note: Student samples are quoted verbatim and may contain spelling and grammatical errors.
+Overview
+NEW for 2025: The question overviews can be found in the Chief Reader Report on Student Responses on
+AP Central.
+Sample: A
+Score: 5
+This paper earns a score of 5. The introduction discusses the real-world significance of the study,
+grounded in background research, culminating in the paper’s narrow research focus on p. 3: “To
+contribute to the objective of a low-cost dye adsorption method, this study researched the efficiency
+of coffee grounds as a form of dye adsorption in loose and compacted forms.” The literature review
+beginning on p. 3 places scholarly sources in conversation with each other to provide a logical line
+of reasoning defending the research gap detailed on p. 6: “few studies…have researched whether
+carbon without chemical activation can be used as a dye adsorbent.” This discussion culminated in
+the hypothesis “that there will be a significant difference between the solution that is treated with the
+compacted coffee and the solution treated with loose coffee. Compaction will make the separation
+process more efficient because extensive filtering is not needed, which saves time, making it an efficient
+method of dye adsorption that uses a throwaway product” (p. 6). The study’s implications are a natural
+extension of this discussion, “If further research is conducted on the impact of activation and compaction
+with spent coffee grounds as a form of dye removal, then companies can be more inclined to incorporate
+a water treatment method that does not revolve around waste disposal” (p. 6).
+The paper’s method on pp. 6-14 is comprehensive, clearly explained, and provides sufficient detail to
+replicate the experiment. Research design choices, including the use of coffee grounds as a non-activated
+carbon source, drying and compaction, and dye absorption, are well defended using relevant background
+research (e.g., see pp. 7-10 Mutalib et al., 2023 and Mersal et al., 2024 references). As such, the rich
+description and design choice defense clarifies the alignment between the research focus and the
+method.
+The results are presented and discussed on pp. 14-16 and provide a logical progression to the research
+conclusions and implications. See p. 15: “In all, the coffee grounds were able to remove 73% to 89%
+of the methylene blue dye from water,” p. 16: “Therefore, even though there is no statistical difference
+between the coffee pellets and the loose coffee grounds, the coffee pellets are more practical for dye
+removal because they are easier to filter,” and p. 20: “Spent coffee grounds can be a low-cost alternative
+to treating dye-polluted water. Not having to activate the coffee grounds removes most of the costs
+because the coffee grounds do not need to be processed with an acid or base, and the coffee itself is a
+byproduct of a beverage that over half of Americans consume daily. Considering the implications of nonactivated coffee grounds as a low-cost method of dye removal…” The implications are fully explained
+within the context of prior research and potential real-life applications.
+
+© 2025 College Board.
+
+Visit College Board on the web: collegeboard.org.	
+
+AP RESEARCH 2025 • SCORING COMMENTARY
+
+Academic Paper (continued)
+The paper does not overstate its conclusions in that the conclusion limitations are acknowledged and
+discussed on p. 16. See the hypercritical discussion of how the controlled experiment varied from real
+life (e.g., use of clean vs. actual samples of polluted river water) and prior research design conditions
+(e.g., pH conditions). For example, on p. 16: “These factors could have impacted the results of each trial
+in some way, as studies such as Bawa’s have been able to find conditions that make activated carbon dye
+adsorption optimal, such as having a pH of 2 (Bawa et al., 2023).”
+This paper does not earn the score of a 4 because the conclusions are aligned to a narrow, focused
+research goal and justified via a progression of logical inquiry choices. The limitations and implications
+are detailed and fully explained within the context of prior research. The paper makes many choices that
+enhance the communication, for example by explaining technical procedures (e.g., “The concentration
+curve allowed for comparison between the original solution and the treated solutions.. p. 13; discussion
+of spectrophotometer wavelength analysis on p. 14) and including pictures of process to guide the
+discussion through the method.
+
+© 2025 College Board.
+
+Visit College Board on the web: collegeboard.org.	
+
+

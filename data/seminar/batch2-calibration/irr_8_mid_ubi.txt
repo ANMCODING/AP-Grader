@@ -1,0 +1,141 @@
+Cash and Consequences: Universal Basic Income,
+Labor Market Participation, and Work Incentives
+
+Luis Gonzalez
+
+AP Seminar, Period 3
+
+Ms. Adeyemi
+
+Central High School
+
+Cash and Consequences: Universal Basic Income,
+Labor Market Participation, and Work Incentives
+
+Luis Gonzalez
+
+AP Seminar, Period 3
+
+Ms. Adeyemi
+
+Central High School
+
+Luis Gonzalez
+Ms. Adeyemi
+AP Seminar, Period 3
+6 February 2025
+
+Cash and Consequences: Universal Basic Income, Labor Market Participation, and
+Work Incentives
+
+Universal basic income—a policy that provides unconditional regular cash payments to
+all citizens or residents regardless of employment status or other means-testing criteria—has
+attracted
+
+renewed
+
+interest
+ from 
+economists,
+
+technologists,
+ and 
+policymakers
+ as 
+automation-driven labor market disruption accelerates and existing social safety net programs
+face criticism for their administrative complexity and labor-market distortions. Pilots and
+natural experiments across multiple countries have generated an increasingly rich empirical
+base for evaluating UBI's effects, but the evidence remains contested and interpretation
+depends substantially on which outcomes are prioritized and which theoretical framework
+guides analysis. The most significant concern raised by critics of unconditional cash transfers
+is that removing the work requirement from income support will reduce labor supply among
+recipients, reducing economic productivity and creating fiscal burdens on working-age
+populations. Proponents argue that the evidence from actual experiments shows these fears are
+largely unfounded and that the benefits of income security—improved health outcomes, better
+educational attainment, and enhanced capacity for risk-taking—outweigh modest reductions in
+labor supply even if they occur. This investigation asks: how does unconditional cash transfer
+through universal basic income affect labor market participation among low-income workers,
+and what do the available experimental and quasi-experimental studies establish about the
+magnitude and direction of these effects?
+
+The most methodologically rigorous historical evidence on unconditional cash transfer
+effects comes from Evelyn Forget's analysis of Manitoba, Canada's Mincome experiment,
+which provided guaranteed annual incomes to residents of Dauphin, Manitoba between 1974
+and 1979 (Forget, 2011). Forget's reanalysis of administrative data from this period, conducted
+more than three decades after the experiment concluded using hospital records and other
+administrative databases, found that hospitalization rates declined significantly during the
+Mincome period, with the largest reductions in mental health-related admissions and accident
+and injury cases. Crucially for the labor supply question, Forget found that only two population
+groups significantly reduced their paid labor participation: new mothers, who extended their
+maternity leave, and teenagers, who were more likely to complete secondary school. Both of
+these reductions represent responses to income security that most policy analysts would
+characterize as socially beneficial rather than economically harmful—investment in human
+capital and early child development rather than leisure substitution. Finland's 2017-2018 UBI
+experiment, which provided 560 euros per month to 2,000 randomly selected unemployed
+individuals without conditions, found that recipients reported higher wellbeing and trust in
+institutions compared to a control group, with similar employment outcomes but significantly
+better mental health indicators (Kangas et al., 2019).
+
+However, other economists and the preponderance of labor economics theory raise
+persistent concerns about work disincentive effects that the available experimental evidence
+does not fully resolve. The Negative Income Tax experiments conducted in the United States
+and Canada in the 1970s—which provided the methodological template for many subsequent
+UBI pilots—found consistent reductions in labor supply among recipients, with estimates
+ranging from a 5 to 7 percent reduction in hours worked for primary earners and larger
+reductions for secondary earners in households (Kangas et al., 2019). Standard neoclassical
+
+labor supply theory predicts this outcome: unconditional income reduces the marginal utility of
+labor income relative to leisure, so rational actors will substitute toward leisure at the margin.
+Critics of the optimistic interpretation of Forget's Mincome results note that the experiment
+was conducted in a small rural community that was not representative of the labor markets in
+which most workers participate, and that the generalizability of findings from this context to a
+universal national program is questionable. The fiscal sustainability of a genuinely universal
+program at payment levels sufficient to meet basic needs also remains unresolved: estimates of
+the cost of a UBI at poverty-line levels in the United States range from $3 to $4 trillion
+annually, requiring either significant tax increases on working populations or the elimination
+of existing social programs that provide more targeted support.
+
+The disagreement between Forget's optimistic reading of Mincome evidence and labor
+economists' concern about work disincentives reflects different assumptions about what drives
+labor supply decisions and which outcomes of a UBI program are most important to evaluate.
+Forget's framework emphasizes the health and human development outcomes that income
+security enables, arguing that reductions in paid work among new mothers and teenagers
+represent rational and beneficial reallocations of time rather than welfare losses (Forget, 2011).
+Critics who prioritize labor market efficiency focus on aggregate hours worked and
+employment rates as the relevant outcomes, treating reductions in these indicators as costs that
+must be weighed against welfare benefits. The Finland experiment's finding of wellbeing
+improvements without employment penalties suggests that at least for the unemployed
+population it studied, UBI's effects on work incentives are more benign than the theoretical
+prediction implies—but as Kangas and colleagues acknowledge, a program targeting
+unemployed individuals is a different policy instrument from a truly universal program, and its
+effects on employed workers who now receive additional unconditional income remain
+untested at scale (Kangas et al., 2019). The evidence is sufficient to establish that strong work
+
+disincentive effects are not inevitable, but insufficient to establish that they will not occur in a
+full-scale universal program.
+
+This investigation found that the available experimental evidence on UBI's labor
+market effects is more positive than standard neoclassical theory predicts but insufficient to
+resolve the policy debate. The research question asked how unconditional cash transfers affect
+labor market participation: Forget's Mincome analysis establishes that the most concerning
+disincentive effects—broad-based withdrawal from paid work—did not materialize in the
+best-documented historical experiment, while the Finland experiment suggests that wellbeing
+benefits can be achieved without employment penalties for unemployed recipients. But neither
+study addresses the fiscal sustainability question or the labor supply effects of a genuinely
+universal program on currently employed workers. The disagreement between optimistic and
+skeptical researchers reflects genuine uncertainty about generalizability rather than simply
+different values, and resolving it would require larger-scale and longer-duration experiments
+than have yet been conducted. The policy implication is that modest targeted cash transfer
+programs are supported by more evidence than full UBI schemes, while acknowledging that
+the evidence base continues to expand through ongoing pilots in Kenya, Stockton, and other
+sites that may provide more definitive answers.
+
+Works Cited
+
+Forget, E. L. (2011). The town with no poverty: The health effects of a Canadian
+guaranteed annual income field experiment. Canadian Public Policy, 37(3), 283–305.
+https://doi.org/10.3138/cpp.37.3.283
+
+Kangas, O., Jauhiainen, S., Simanainen, M., & Ylikännö, M. (2019). The basic income
+experiment 2017–2018 in Finland: Preliminary results. Ministry of Social Affairs and
+Health.

@@ -1,0 +1,125 @@
+Foreclosing on Justice: How Predictive Policing
+Encodes Racial Bias Into Law Enforcement Infrastructure
+
+Kenji Nakamura
+
+AP Seminar, Period 1
+
+Dr. Okafor
+
+Jefferson Academy
+
+Kenji Nakamura
+Dr. Okafor
+AP Seminar, Period 1
+10 February 2025
+
+Foreclosing on Justice: How Predictive Policing Encodes Racial Bias Into Law
+Enforcement Infrastructure
+
+In 2013, the RAND Corporation published a comprehensive evaluation of predictive policing systems—tools that analyze historical crime data to generate probability maps forecasting where crimes are likely to occur, which police departments then use to direct patrol resources—and found that while the tools demonstrated modest capacity to predict crime locations, they also systematically reproduced the geographic patterns of previous police activity rather than patterns of underlying criminal behavior (Perry et al., 2013). The distinction Perry and colleagues drew is fundamental: training a predictive system on arrest data rather than crime occurrence data means the algorithm learns where police have been, not where
+
+crime
+
+happens,
+
+and
+
+directs
+
+additional
+
+resources
+
+to
+
+those
+
+same
+
+neighborhoods—producing a feedback loop in which racially concentrated enforcement generates data that justifies further racially concentrated enforcement. This paper argues that the deployment of predictive policing tools in American law enforcement represents not a technology-neutral reform of police resource allocation but the algorithmic institutionalization of historical patterns of racially discriminatory enforcement—and that Perry and colleagues'
+own assessment of the technology's limitations establishes the empirical foundation for this critique. The enthusiasm for predictive policing among municipal administrators seeking cost-effective crime reduction reflects an institutional preference for the appearance of scientific neutrality that functions to insulate discriminatory policing practices from political
+
+accountability and legal challenge.
+
+The feedback loop that Perry and colleagues identified operates through a mechanism that subsequent research has documented with increasing precision. Lum and Isaac's simulation study demonstrated formally that when a predictive system is trained on biased enforcement data—data reflecting racially differential stop, frisk, and arrest practices—it will produce predictions that send police back to the same communities, generating additional arrests in those communities, which further reinforces the algorithm's predictions in a self-sustaining cycle (Lum & Isaac, 2016). Their analysis showed that even with very low initial racial disparities in the training data, the feedback loop amplifies bias over successive prediction-patrol-enforcement cycles. Figure 1 illustrates this dynamic: the spatial distribution of predictive policing alerts across a simulated city narrows progressively with each patrol cycle, concentrating enforcement resources in neighborhoods that were already overpoliced in the initial data. This mathematical formalism gives rigorous expression to what the Perry
+RAND study identified qualitatively: that predictive systems built on arrest data are not predicting future criminal activity but forecasting the future behavior of the police force that generated the training data. The constitutional significance of this distinction cannot be overstated. The Equal Protection Clause prohibits law enforcement practices that are motivated by racial animus or that have a racially discriminatory effect without adequate justification; a system whose outputs are driven by prior discriminatory enforcement meets both criteria.
+
+[ Figure — graphical data omitted from text submission ]
+
+Figure 1. Simulation of predictive policing feedback loop: spatial concentration of patrol alerts across five successive enforcement cycles, beginning from a baseline with modest racial disparity in training data. Concentration accelerates in neighborhoods with initially elevated arrest rates (Lum & Isaac, 2016).
+
+The empirical record from cities that have deployed predictive policing tools confirms the feedback loop dynamics Perry and colleagues and Lum and Isaac identified theoretically.
+Santa Cruz, California became the first city in the United States to ban predictive policing systems in 2020, following an extensive review by its city council that concluded the tools had concentrated enforcement in the city's predominantly Latino neighborhoods without evidence of corresponding crime reduction (Brayne, 2020). Chicago's Strategic Subject List—a predictive scoring system that assigned individuals a risk score based on their social network ties, prior contacts with police, and other factors—was found by a series of investigative analyses to produce scores strongly correlated with race and neighborhood rather than with subsequent criminal behavior, and was discontinued after significant civil liberties challenges.
+The RAND Corporation's own guidance document, Perry and colleagues' 2013 report, recommended that departments using predictive tools conduct regular audits for racial disparities in deployment patterns and outcomes—a recommendation that the vast majority of departments adopting these tools have never implemented. The gap between the conditions under which Perry and colleagues endorsed the technology's potential and the conditions under which it has actually been deployed is itself evidence of the institutional dynamic this paper identifies: administrators adopt the appearance of scientific rigor while ignoring the safeguards that rigor requires.
+
+The most substantive defense of predictive policing comes from policing administrators and criminologists who argue that the tools, properly deployed with appropriate community oversight, can reduce both crime and the need for aggressive patrol tactics—replacing discretionary stop-and-frisk style enforcement with data-driven deployment
+
+that allows officers to be present in high-risk locations without requiring investigative contact with individuals (Ratcliffe, 2016). This argument has genuine practical grounding: if predictive systems direct officers to locations rather than to individuals, they operate closer to traditional patrol distribution than to individual-level risk assessment, and the deterrence benefit of visible patrol in high-crime areas is reasonably well-documented. Even accepting Ratcliffe's location-based deterrence framework on its own terms, however, this defense does not engage the structural problem that Perry and colleagues and Lum and Isaac identify. A system trained on historically biased enforcement data will direct officers to historically over-enforced locations regardless of whether those locations have elevated criminal activity, and the presence of additional officers in those locations will produce additional enforcement contacts that reinforce the data bias—independent of whether individual-level targeting is involved.
+The location-based defense of predictive policing does not resolve the feedback loop; it merely relocates the mechanism from individual to geographic discrimination.
+
+[ Figure — graphical data omitted from text submission ]
+
+Figure 2. Racial composition of neighborhoods receiving predictive policing deployment in four major U.S. cities versus racial composition of city overall; deployment is concentrated in predominantly Black and Latino neighborhoods in all four cities (Brayne, 2020).
+
+The accountability dimensions of predictive policing extend beyond the feedback loop to encompass the opacity of the systems and the mechanisms available for challenging their outputs. Brayne's ethnographic study of predictive policing implementation in the Los Angeles
+Police Department found that officers who questioned algorithmically-generated deployment recommendations were discouraged from doing so by institutional culture that framed the
+
+algorithm's outputs as objective and therefore beyond the appropriate scope of discretionary modification (Brayne, 2020). This dynamic reproduces the institutional accountability problem that Angwin and colleagues documented in algorithmic risk assessment—the algorithm's apparent objectivity insulates its discriminatory outputs from challenge precisely by framing them as mathematical rather than political. Residents of neighborhoods targeted by predictive systems have no mechanism for challenging the algorithm's designation of their neighborhood as high-risk, no access to the training data that produced that designation, and no forum in which to contest whether the algorithm's predictions reflect criminal activity or prior enforcement patterns. The civil liberties organizations that have challenged predictive policing in court have faced the additional obstacle that proprietary systems—like the PredPol algorithm deployed in dozens of American cities—are shielded from disclosure on intellectual property grounds, making independent audit of their methodology effectively impossible.
+
+The research question this paper addressed—whether predictive policing constitutes a racially neutral technology or an algorithmic institutionalization of discriminatory enforcement—admits a clear answer grounded in the systems' own design. This paper has argued that the distinction Perry and colleagues drew in 2013—between predicting crime and predicting police behavior—is not a technical limitation that better algorithms will resolve but a structural feature of any enforcement-data-trained prediction system in a society with a history of racially discriminatory policing. Lum and Isaac's simulation establishes that even modest initial bias amplifies through the feedback loop; Brayne's fieldwork documents the institutional dynamics that prevent correction; and the record from Santa Cruz to Chicago demonstrates that the theoretical predictions are playing out in deployed systems. The Ratcliffe location-based defense of predictive policing deserves serious engagement but cannot survive scrutiny of the feedback mechanism that Perry and colleagues themselves identified and that
+Lum and Isaac formalized. The appropriate response is not better algorithms but the abolition
+
+of enforcement-data training, mandatory bias audits as a precondition for any deployment, and civil society access to algorithmic methodology sufficient to enable independent accountability—conditions that no current deployment of predictive policing in the United
+States satisfies.
+
+The legal framework governing predictive policing is underdeveloped relative to the scale and speed of deployment. Richardson, Schultz, and Crawford's analysis of what they term 'dirty data'—the criminal justice records that feed predictive systems—found that in numerous American cities, the training data for predictive tools was generated during periods of documented unconstitutional policing: mass stops and frisks later found to violate the
+Fourth Amendment, drug enforcement operations concentrated in minority neighborhoods without corresponding enforcement in white neighborhoods, and arrest practices challenged in civil rights litigation (Richardson et al., 2019). Data generated by unconstitutional enforcement practices retains its unconstitutional taint when used as training data for future enforcement decisions—but this principle has not been operationalized in either judicial decisions or legislative guidance on predictive policing. Courts evaluating Fourth Amendment challenges to predictive policing deployment have generally deferred to law enforcement expertise on the algorithmic methodology, precisely because the opacity that Perry and colleagues and Brayne document prevents meaningful judicial scrutiny. The result is a system in which the constitutional accountability mechanisms designed to prevent racially discriminatory enforcement have been rendered effectively inoperative by the technical complexity of the tools they are supposed to constrain.
+
+Shapiro's analysis in Nature of the path toward responsible predictive policing deployment articulates the minimal conditions for what ethical use of these tools would require: algorithmic transparency sufficient for independent audit, mandatory bias testing before deployment and at regular intervals afterward, community oversight boards with genuine authority to halt or modify deployments that show racial disparities, and prohibition on using arrest data as training data without correction for known enforcement biases (Shapiro,
+2017). These conditions are demanding, and Shapiro acknowledges that they may effectively prohibit current-generation predictive policing tools because none are deployed under
+
+conditions that meet them. The argument of this paper is that this conclusion is the appropriate one: Perry and colleagues' identification of the feedback loop mechanism, Lum and Isaac's formalization of its dynamics, and Brayne's documentation of its institutional embedding establish that predictive policing as currently practiced is not a tool that can be reformed into constitutional compliance through modest adjustments—it requires a structural redesign that begins from a commitment to non-discriminatory enforcement rather than from a commitment to algorithmic efficiency.
+
+The conditions for ethically defensible predictive policing—algorithmic transparency, mandatory bias auditing, community oversight with genuine authority, and prohibition on dirty-data training—are not minor administrative reforms. They are structural requirements that, if taken seriously, preclude every currently deployed system in the United States. Perry and colleagues' research established the theoretical possibility of a predictive policing that serves public safety without encoding discrimination; the empirical record of actual deployment has not yet produced a system that realizes that possibility. Until it does, the appropriate institutional response is suspension, not reform.
+
+Works Cited
+
+Brayne, S. (2020). Predict and surveil: Data, discretion, and the future of policing.
+Oxford University Press. https://doi.org/10.1093/oso/9780190684099.001.0001
+
+Lum, K., & Isaac, W. (2016). To predict and serve? Significance, 13(5), 14–19.
+https://doi.org/10.1111/j.1740-9713.2016.00960.x
+
+Perry, W. L., McInnis, B., Price, C. C., Smith, S. C., & Hollywood, J. S. (2013).
+Predictive policing: The role of crime forecasting in law enforcement operations.
+RAND Corporation. https://doi.org/10.7249/RR233
+
+Ratcliffe,
+
+J.
+
+H.
+
+(2016).
+
+Intelligence-led
+
+policing
+
+(2nd
+
+ed.).
+
+Routledge.
+
+https://doi.org/10.4324/9781315717579
+
+Richardson, R., Schultz, J. M., & Crawford, K. (2019). Dirty data, bad predictions:
+How civil rights violations impact police data, predictive policing systems, and justice.
+New York University Law Review Online, 94, 192–233.
+
+Shapiro, A. (2017). Reform predictive policing. Nature, 541(7638), 458–460.
+https://doi.org/10.1038/541458a
+
+========================================================================

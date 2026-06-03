@@ -1,0 +1,67 @@
+{
+  "papers": {
+    "01-kargbo-military-service.txt": {
+      "expectedOverall": 1,
+      "expectedAP": 1,
+      "officialScore": null,
+      "note": "Future-tense methods; secondary Wisevoter data"
+    },
+    "02-fahim-fda.txt": {
+      "expectedOverall": 1,
+      "expectedAP": 1,
+      "officialScore": 2,
+      "note": "Explicit non-execution confession must trigger hard cap"
+    },
+    "03-cannibalism.txt": {
+      "expectedOverall": 1,
+      "expectedAP": 1,
+      "officialScore": 1,
+      "note": "Confirmed official score 1"
+    },
+    "04-progeria-meta-analysis.txt": {
+      "expectedOverall": 3,
+      "expectedAP": 3,
+      "officialScore": null,
+      "note": "no-student-data cap must NOT fire"
+    },
+    "05-homeschooling-advocacy.txt": {
+      "expectedOverall": 1,
+      "expectedAP": 1,
+      "officialScore": null,
+      "note": "Survey never conducted"
+    },
+    "06-harlequin-ichthyosis.txt": {
+      "expectedOverall": 3,
+      "expectedAP": 3,
+      "officialScore": 3,
+      "note": "Confirmed official 3; engine may undersell at Mid 2"
+    },
+    "07-public-education-stress-sleep.txt": {
+      "expectedOverall": 2,
+      "expectedAP": 2,
+      "officialScore": null,
+      "note": "Meta-analysis synthesis paper"
+    },
+    "08-barbie-effect.txt": {
+      "expectedOverall": 1,
+      "expectedAP": 1,
+      "officialScore": null,
+      "note": "Oral defense contributed to class grade 3; PDF Focus anomaly"
+    },
+    "09-bee-decline-profitability.txt": {
+      "expectedOverall": 2,
+      "expectedAP": 2,
+      "officialScore": 2,
+      "note": "Confirmed official 2; Method overscoring risk"
+    },
+    "10-banana-wars-honduras.txt": {
+      "title": "The Rippling Effects of The Banana Wars in Honduras",
+      "expectedOverall": 3,
+      "expectedAP": 3,
+      "expectedOverallLabel": "High 3",
+      "officialScore": null,
+      "myPrediction": "High 3 to Low 4",
+      "notes": "30 real oral history interviews with Honduran participants ages 37-60. Mixed methods case study. Thematic coding into 7 groups with participant counts and percentages. Consent forms and full interview transcripts in appendix. Genuine field research. Main weaknesses are asserted gap and mostly non-peer-reviewed sources. Spanish-language quote from Participant 20 must not trigger non-English penalty."
+    }
+  }
+}

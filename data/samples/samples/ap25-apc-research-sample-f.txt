@@ -1,0 +1,1038 @@
+2025
+
+AP Research
+Academic Paper
+®
+
+Sample Student Responses
+and Scoring Commentary
+
+Inside:
+Sample F
+☑5 Scoring Guidelines
+☑5 Student Samples
+☑5 Scoring Commentary
+
+© 2025 College Board. College Board, Advanced Placement, AP, AP Central, and the acorn logo are registered trademarks of
+College Board. AP Capstone is a trademark owned by College Board. Visit College Board on the web: collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+AP® Research 2025 Scoring Guidelines
+
+Academic Paper
+
+5 Points
+
+Report on Existing Knowledge
+
+Report on Existing Knowledge
+with Simplistic Use of a Research
+Method
+
+Score of 2
+
+Score of 3
+
+Ineffectual Argument for a New
+Understanding
+
+Well-Supported, Articulate
+Argument Conveying a New
+Understanding
+
+Score of 4
+
+Score of 5
+
+• Presents an overly broad topic of
+inquiry.
+
+• Presents a topic of inquiry with
+narrowing scope or focus, that is
+NOT carried through either in the
+method or in the overall line of
+reasoning.
+
+• Carries the focus or scope of a
+topic of inquiry through the
+method AND overall line of
+reasoning, even though the focus
+or scope might still be narrowing.
+
+• Focuses a topic of inquiry with
+clear and narrow parameters,
+which are addressed through the
+method and the conclusion.
+
+• Focuses a topic of inquiry with
+clear and narrow parameters,
+which are addressed through the
+method and the conclusion.
+
+• Situates a topic of inquiry within
+a single perspective derived from
+scholarly works OR through a
+variety of perspectives derived
+from mostly non-scholarly works.
+
+• Situates a topic of inquiry within
+a single perspective derived from
+scholarly works OR through a
+variety of perspectives derived
+from mostly non-scholarly works.
+
+• Situates a topic of inquiry within
+relevant scholarly works of
+varying perspectives, although
+connections to some works may
+be unclear
+
+• Explicitly connects a topic of
+inquiry to relevant scholarly
+works of varying perspectives
+AND logically explains how the
+topic of inquiry addresses a gap.
+
+• Explicitly connects a topic of
+inquiry to relevant scholarly
+works of varying perspectives
+AND logically explains how the
+topic of inquiry addresses a gap.
+
+• Describes a search and report
+process.
+
+• Describes a nonreplicable
+research method OR provides an
+oversimplified description of a
+method, with questionable
+alignment to the purpose of the
+inquiry.
+
+• Describes a reasonably replicable
+research method, with
+questionable alignment to the
+purpose of the inquiry.
+
+• Logically defends the alignment
+of a detailed, replicable research
+method to the purpose of the
+inquiry
+
+• Logically defends the alignment
+of a detailed, replicable research
+method to the purpose of the
+inquiry.
+
+• Summarizes or reports existing
+knowledge in the field of
+understanding pertaining to the
+topic of inquiry.
+
+• Summarizes or reports existing
+knowledge in the field of
+understanding pertaining to the
+topic of inquiry.
+
+• Conveys a new understanding or
+conclusion, with an
+underdeveloped line of reasoning
+OR insufficient evidence.
+
+• Supports a new understanding or
+conclusion through a logically
+organized line of reasoning AND
+sufficient evidence. The
+limitations and/or implications, if
+present, of the new
+understanding or conclusion are
+oversimplified.
+
+• Justifies a new understanding or
+conclusion through a logical
+progression of inquiry choices,
+sufficient evidence, explanation
+of the limitations of the
+conclusion, and an explanation of
+the implications to the
+community of practice.
+
+• Generally communicates the
+student’s ideas, although errors
+in grammar, discipline-specific
+style, and organization distract or
+confuse the reader.
+
+• Generally communicates the
+student’s ideas, although errors
+in grammar, discipline-specific
+style, and organization distract or
+confuse the reader.
+
+• Competently communicates the
+student’s ideas, although there
+may be some errors in grammar,
+discipline-specific style, and
+organization.
+
+• Competently communicates the
+student’s ideas, although there
+may be some errors in grammar,
+discipline-specific style, and
+organization.
+
+• Enhances the communication of
+the student’s ideas through
+organization, use of design
+elements, conventions of
+grammar, style, mechanics, and
+word precision, with few to no
+errors.
+
+• Cites AND/OR attributes sources
+(in bibliography/ works cited
+and/or intext), with multiple
+errors and/or an inconsistent use
+of a discipline specific style.
+
+• Cites AND/OR attributes sources
+(in bibliography/ works cited
+and/or intext), with multiple
+errors and/or an inconsistent use
+of a discipline specific style.
+
+• Cites AND attributes sources,
+using a discipline-specific style (in
+both bibliography/works cited
+AND intext), with few errors or
+inconsistencies.
+
+• Cites AND attributes sources,
+with a consistent use of an
+appropriate discipline-specific
+style (in both bibliography/works
+cited AND intext), with few to no
+errors.
+
+• Cites AND attributes sources,
+with a consistent use of an
+appropriate discipline-specific
+style (in both bibliography/works
+cited AND intext), with few to no
+errors.
+
+Score of 1
+
+Rich Analysis of a New
+Understanding Addressing a Gap
+in the Research Base
+
+© 2025 College Board
+
+Research Sample F 1 of 23
+
+Impact of Electric Vehicles on Washington Air Quality
+Word count: 4,331
+Introduction
+Electric vehicles (EVs) began gaining popularity with the introduction of the Toyota
+Prius in 1997, the first mass-produced hybrid EC. In 2006, Tesla Motors announced that they
+would be producing an all-electric luxury sports vehicle that spurred many other automakers to
+accelerate work their own EVs. Vehicular transportation is the leading cause of greenhouse gas
+emissions in the United States. Electric vehicles are marketed as a more environmentally friendly
+option to traditional gas-powered vehicles (GPVs). GPVs run on gasoline that emits greenhouse
+gases (GGs) during combustion. By eliminating gasoline from the system, EVs emit significantly
+less GGs than GPVs.
+My research aims to answer the question “To what extent do electric vehicles lead to a
+reduction in greenhouse gas emissions and improved environmental health when comparing their
+emissions to gas-powered vehicles in Washington?” Many factors go into determining the total
+reduction of emissions by EVs, such as the fuel sources of GPVs and EVs, the number of EVs
+compared to GPVs in Washington, and the total amount of GGs and PM being emitted from each
+type of car. In this study, I will be focusing on emissions of carbon dioxide (CO 2 ), nitrous oxides
+(NO x ), and methane (CH 4 ) as the main GGs that cars emit. Additionally, this study will only
+focus on passenger vehicles and not commercial vehicles. These factors will determine how
+effective EVs really are in reducing these GGs. Importantly, the purpose of this study is to
+evaluate the influence that EVs have on environment and potential ways that GGs can be
+reduced. I believe that my research will find a correlation between EV adoption and GG
+
+Research Sample F 2 of 23
+
+reduction. However, I do not think that EVs make up a large enough percentage of the total
+vehicle population in Washington to have a significant effect on total emissions.
+Literature Review
+As the number of cars worldwide increases each year, it is important to understand their
+relation to GGs. In “Air Quality Changes in Cities during the COVID-19 Lockdown” researchers
+examine changes in air quality from countries and cities on a worldwide scale. They observed
+changes in CO 2 , CH4 , and NO 2 , as they were the most prevalent to change. They collected data
+by comparing levels of GGs during the lockdown to a sample period from before the lockdown.
+Their results show that restriction to urban mobility led to a reduction in particle matter and
+declines in CO 2 , CH4 , and NO 2 (Adam, Tran, & Balasubramanian, 2021). This demonstrates both
+a relation between these pollutants and vehicles and a relation between amount of vehicle traffic
+and emission rates. Similarly, in an issue of Atmospheric Environment, Jes Fenger studies the
+link between the growing consumption of fossil fuels, urban air quality, and growing population
+rates. He evaluates energy consumption in areas that have a high urban population density to
+determine how increasing road traffic impacts GG emissions. Road traffic has a substantial
+negative impact across all continents, and vehicular traffic is the largest factor contributing to
+this issue in both developed and developing countries (Fenger, 1999). Both studies evaluate how
+the amount of road traffic in different circumstances impacts the total output of GGs and agree
+that increased vehicle usage causes GGs to increase as well. These studies provide reasoning for
+my research to center around the types of GGs that I chose to evaluate, as these air pollutants are
+most directly linked to road traffic. Additionally, these conclusions will guide my research as
+they demonstrate that vehicle usage increases GG emissions, so that I am able to evaluate the
+extent that EVs reduce these emissions with the understanding of this correlation. While both
+
+Research Sample F 3 of 23
+
+studies examined the change in emissions due to increased or decreased road traffic all together,
+my research differs as I will consider how emission rates change when there is a shift towards
+EVs and away from GPVs.
+The impact of EVs in Washington is also dependent on the number of EVs that are driven
+in comparison to GPVs. The research paper, Impact of EVs on Global Warming, attempts to
+create a connection between the transition to EVs and a reduction of CO 2 worldwide. The
+researchers collected data by examining CO 2 trends over the past 30 years and comparing these
+trends to electric usage for transport and the number of Tesla’s sold globally since their release.
+The results showed that the current level of adaptation of EVs is not significant enough to make
+a significant difference in total CO 2 emissions worldwide. However, they did find that both
+electric usage for transportation and the number of electric cars globally have increased (Sethu,
+Sheng, & Marican, 2022). The article Analysis of the Electric Vehicle Adoption Over the United
+States provides context about the factors that lead to the adoption of EVs. The researchers
+examine the socioeconomic factors related to electric car adoption using a modal split model to
+determine the travel demand across all popular modes of transportation. Their results
+demonstrate that as income per capita increases by region, so do the number of EVs. They also
+found that increasing gas prices and decreasing electricity prices lead to a higher rate of EV
+adoption (Soltani-Sobh, Heaslip, Stevanovic, Bosworth, & Radivojevic, 2017). This study
+explains why the adaptation of EVs globally has not made a significant difference, as EVs are
+related to higher incomes and will not be as common in lower income areas. These studies
+present a gap in research surrounding EV adoption and decreased GG emission that I will answer
+with my focus on Washington state. Instead of having a global perspective like the study Impact
+of EVs on Global Warming, I will be looking at an area that has a higher income per capita than
+
+Research Sample F 4 of 23
+
+the world’s average. Furthermore, the gas prices in Washington are some of the highest in the
+United States. These factors may provide incentive for Washington residents to purchase EVs at
+a higher rate than they are being purchased globally. My research will examine the number of
+electric cars in Washington in relation to GG emission to determine if a larger ratio of EVs to
+GPVs lowers the total emissions statewide.
+The benefits of reduced GG emissions are partly dependent on the region being
+examined. A study done by Kenneth Small and Camilla Kazimi analyzes the monetary impact of
+CO2 emissions and global warming on the Los Angeles region. They traced links between
+emissions from motor vehicles and adverse consequences, then placing economic values on
+those consequences. It was found that air pollution and health impacts cost approximately 3 cents
+per mile for every car driven in the region (Small & Kazimi, 1995). This study was done in 1995,
+before widespread use of EVs, so it does not account the ability of EVs to alleviate the need for
+gasoline. The article Autonomous Electric Vehicles Can Reduce Carbon Emissions and Air
+Pollution in Cities highlights how the EV can reduce GG emissions. Using a dynamic model to
+assess the environmental impacts of electrified transportation, it was discovered that adoption of
+EVs can reduce GGs by up to 34% by 2025 (Ecran et al., 2022). This would be a substantial
+reduction of GG and would have noticeable benefits for the environment. I did not find any study
+that examined both the impact of reduced GGs from electric vehicle usage and the benefit this
+would bring to the Washington environment. Washington has a unique landscape, encompassing
+forests, oceans, and lakes, all which have indigenous plants and animals that are affected by
+global warming. Additionally, humans are impacted by air quality and environmental changes.
+My research will determine the amount EVs reduce GGs so that I will be able to draw
+conclusions on the implications EV adoption has for Washington residents and the environment.
+
+Research Sample F 5 of 23
+
+Method
+Overview
+The method used in this study is a quantitative correlation method. There are four main
+steps: 1) record the number of EVs and GPVs in Washington between 2016 through 2024, 2)
+calculate the amount of CO 2 , NO x , and CH 4 that the GPVs produce and the EVs produce in
+Washington, 3) record the amount of CO 2 , NO x , and CH 4 that was produced each year from 2016
+through 2024, and 4) determine the amount that EVs reduce GG emissions from GPVs. In order
+to gather this data, I used government reports from the Washington State Department of Ecology,
+United States Environmental Protection Agency, and the Washington State Open Data Portal.
+EV and GPV Numbers
+The first step of my study involved recording the number of EVs and GPVs over a tenyear period to determine how EV adoption is increasing statewide. I collected data from the
+Washington State Open Data portal on December 31 st of each year from 2016 to 2024. I intended
+to use a ten year data range of 2014 through 2024, however there was not significant data for EV
+ownership in Washington state before 2016. By collecting data on the last day of the year, I made
+the 2024 data the most current so that this study would provide a relatively updated analysis of
+EVs impact. Using this data, I calculated the percent of EVs in Washington each year by finding
+the ratio of EVs to the total number of cars in order to highlight a trend in EV adoption.
+percent of EVs in Washington = number of EVs ÷ all vehicles
+This data will highlight the adoption trends of EVs in order to determine if a growing percent of
+EVs will have effects on statewide emissions.
+
+Research Sample F 6 of 23
+
+GG Emissions from EVs and GPVs
+After establishing the number of EVs and GPVs in Washington, I used statistics from the
+United States Environmental Protection Agency (USEPA) to calculate the amount of CO 2 , NO x ,
+and CH 4 that the GPVs and EVs in Washington produce each year. CO2 , NO x , and CH 4 were
+determined to be the main GGs emitted from vehicles, so this study focuses on these GGs as the
+total emissions from vehicles. Despite variation among different vehicle models in GG
+emissions, I used the reported USEPA average for passenger vehicles, as this study focuses on
+passenger vehicles. On average, one GPV produces 4.6 metric tons (4,600 kilograms) of CO 2 per
+year, 11 kilograms of NO x per year, and 7 kilograms of CH 4 per year (United States Protection
+Agency, 2024). Using these averages, I determined the amount of CO 2 , NO x , and CH 4 produced
+by GPVs each year by multiplying the average by the number of GPVs in Washington.
+GPV total emissions = GPV average × number of GPVs
+This data accounts for the GGs that GPVs produce, which I will compare to the total amount
+across all GG producers to highlight the impact that transportation has on total GG emissions.
+While EVs do not run on gas, they still emit some GGs because approximately 20% of electricity
+in Washington state comes from coal and natural gas, which are not clean energy sources. On
+average, one EV uses 7,200 watts of electricity to charge, travels 250 miles on one charge, and
+an average Washington resident drives 9,819 miles each year (United States Protection Agency,
+2024).
+EV total electricity = 7,200 watts × (9,819 miles/250 miles)
+This equation approximates the amount of electricity one EV uses each year in Washington. One
+kilowatt of coal and natural gas electricity produces on average 1.02 kilograms of CO 2 , 1.5
+
+Research Sample F 7 of 23
+
+grams (0.0015 kilograms) of NO x , and 1 gram (0.001 kilograms) of CH 4 . Using this information
+and considering that only 20% of electricity in Washington produces GGs, I determined the
+amount of CO 2 , NOx , and CH 4 that EVs in Washington produce each year using the equation:
+EV total emissions = number of EVs × (electricity average × 0.2)
+This data accounts for the amount of GGs that EVs produce in Washington. To accurately
+compare the emission rate from EVs to GPVs, I calculated the ratio of GG from EVs to the
+number of EVs and compared this to the ratio of GG from GPVs to the number of GPVs for each
+type of GG in this study and for each year.
+EV emissions ÷ number of EVs : GPV emissions ÷ number of GPVs
+This ratio effectively compares the impact of EVs to the impact of GPVs, which I used to come
+to conclusions about the overall impact of EVs on emissions in Washington state.
+Total Emissions in Washington
+After I determined the GG emissions from vehicles, I recorded data on the total statewide
+emissions to identify the impact of vehicles on total emissions. I used yearly GG reports from the
+Washington State Department of Ecology to collect data for CO 2 , NO x , and CH 4 and total
+emissions over the 2016 through 2024 period. This data will be used to compare the vehicle
+emissions to total statewide emissions to draw conclusions about the impact of cars on
+Washington as well as the impact of electric vehicles on Washington.
+Data Comparison
+After collecting all the data for the previous three steps in an excel spreadsheet, I began
+analyzing it holistically to draw conclusions about the impact of EVs on the environment and
+
+Research Sample F 8 of 23
+
+people. I created graphs to model the changes in EV and GPV ownership and compare GG
+emissions from both vehicles over the eight-year period. Then I compared emissions from EVs to
+GPVs. In order to effectively determine EVs benefit, I evaluated the total emissions from
+vehicles if they were all gas-powered and compared this to the total emissions from vehicles if
+they were all electric. Next, I related this figure to the amount that experts believe GGs must be
+reduced by to reverse climate change, which researchers from Stanford estimate to be about
+50%. Using this overall analysis, I gathered my results of the study to determine the effectiveness
+of EV on the environment and human health.
+Results
+All data was collected over an eight-year period in all counties of Washington state. For
+the first part of my research, I began collecting data regarding the growth of EVs in Washington
+between 2016 and 2024. Using data from the Washington Department of Licensing, I collected
+information regarding the EV and GPV population in all counties in the state during my time and
+used this data to analyze trends in EV adoption.
+Graph 1
+
+Electric Vehicle (EV) Adoption
+
+Number of EVs
+
+250'000
+200'000
+150'000
+100'000
+50'000
+0
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Years
+
+2021
+
+2022
+
+2023
+
+2024
+
+Research Sample F 9 of 23
+
+Graph 1 shows the number of EVs owned by Washington residents between 2016 and 2024.
+Initially, there were 21,762 EVs owned in 2016, which increased by 863.4% to 209,819 at the
+end of 2024. This represents an EV adoption rate of approximately 31% greater than the previous
+year each year, demonstrating an exponential relation.
+Graph 2
+
+Growth of  EVs in Washington
+5.00%
+
+4.50%
+
+Percent of  EVs
+
+4.00%
+3.50%
+
+3.00%
+2.50%
+2.00%
+
+1.50%
+1.00%
+0.50%
+
+0.00%
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Year
+
+Graph 2 is another analysis of EV adoption statewide. However, it analyzes the percent of EVs
+within the total vehicle population to determine if Washington residents are becoming more
+likely to purchase EVs or if the market for cars is growing as a whole and EVs and GPVs are
+both increasing in population simultaneously. This data reveals that EVs are becoming a larger
+percentage of the total vehicle population, meaning residents are more likely to own an EV in
+2024 than they were in 2016.
+To understand the impact that the number of EVs and GPVs have on GG emissions in
+Washington, I used the data I found in the first part of my results to determine the amount of
+
+Research Sample F 10 of 23
+
+GGs produced each year for both types of vehicle. Additionally, I used an EV constant value and
+a GPV constant value for CO 2 , NO x , and CH 4 that represented the average amount of emissions
+one vehicle produced each year on average.
+Table 1
+# of EVs
+21,762
+28,417
+40,853
+53,318
+63,337
+85,891
+114,301
+163,621
+209,819
+
+Year
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+
+EV C O2 Emissions (MT)
+EV NOx  Emissions (MT)
+EV C H 4 Emissions (MT)
+6276.1608
+9.227088
+6.158646
+8195.4628
+12.048808
+8.042011
+11782.0052
+17.321672
+11.561399
+15376.9112
+22.606832
+15.088994
+18266.3908
+26.854888
+17.924371
+24770.9644
+36.417784
+24.307153
+32964.4084
+48.463624
+32.347183
+47188.2964
+69.375304
+46.304743
+60511.7996
+88.963256
+59.378777
+
+Table 1 shows the amount CO 2 , NO x , and CH 4 produced by EVs each year from 2016 through
+2024 in metric tons. The amount of GG emissions continues to grow parallel to the number of
+EVs.
+Table 2
+# of GPVs Year
+GPV C O2 Emissions (MT)
+GPV NOx Emissions (MT) GPV C H 4 Emissions (MT)
+4,679,422
+2016
+21525341.2
+51473.642
+32755.954
+4,711,098
+2017
+21671050.8
+51822.078
+32977.686
+4,797,364
+2018
+22067874.4
+52771.004
+33581.548
+4,870,604
+2019
+22404778.4
+53576.644
+34094.228
+4,847,538
+2020
+22298674.8
+53322.918
+33932.766
+4,847,873
+2021
+22300215.8
+53326.603
+33935.111
+4,765,682
+2022
+21922137.2
+52422.502
+33359.774
+4,724,041
+2023
+21730588.6
+51964.451
+33068.287
+4,568,337
+2024
+21014350.2
+50251.707
+31978.359
+
+Research Sample F 11 of 23
+
+Table 2 displays the amount of CO 2 , NO x , and CH 4 produced by GPVs each year from 2016
+through 2024 in metric tons. The amount of GGs emitted from GPVs is substantially more than
+the GGs emitted from EVs. However, GPVs represent the majority of the vehicle population in
+Washington state.
+The third section of my results examines the total trends of GG emissions statewide
+across all GG producing sectors. Using data from the Washington Department of Ecology, I
+discovered the trends in total GG emissions, CO 2 emissions, NO x emissions, and CH 4 emissions.
+These trends will be used to determine the overall impact that EVs have on reducing total GG
+emissions statewide.
+Graph 3
+
+Washington State Total GG  Emissions
+Total  Emissions (metric tons)
+
+50'000'000
+45'000'000
+40'000'000
+35'000'000
+
+30'000'000
+25'000'000
+
+20'000'000
+15'000'000
+10'000'000
+5'000'000
+0
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Year
+
+Between 2016 and 2024, GGs have had an upward trend, despite fluctuations each year. The
+trendline in Graph 3 shows an average increase of approximately 700,000 metric tons of GGs
+each year.
+
+Research Sample F 12 of 23
+
+Graph 4
+
+Washington CO Trends
+CO Emissions (metric tons)
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+ Axis Title
+
+Like total GG emissions, CO 2 emissions have an upward trend pattern, with fluctuations by the
+year. Graph 4 demonstrates that CO2 emissions appear to be increasing more rapidly than overall
+GG emissions, as CO 2 emissions increase by approximately 875,000 metric tons each year on
+average.
+Graph 5
+
+Nox Emissions (metric tons)
+
+Washington NOx Trends
+,
+
+,
+,
+
+,
+,
+,
+,
+
+Year
+
+Research Sample F 13 of 23
+
+Unlike total GG and CO 2 emissions, NO x emissions have a near zero growth over the eight-year
+period. NOx emissions stay within a 40,000 metric ton range and increase by approximately
+6,000 metric tons in total between 2016 and 2024, less than 1,000 metric tons a year on average.
+Graph 5 shows a near horizontal trendline, indicating little increase in NOx .
+Graph 6
+
+Washington C H4 Trends
+C H4 Emissions (metric tons)
+
+1'800'000
+1'600'000
+1'400'000
+
+1'200'000
+1'000'000
+800'000
+600'000
+400'000
+200'000
+0
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Year
+
+CH4 emissions have an upward trend over the past eight years, increasing more than NO x but not
+as much as total and CO 2 emissions. Unlike other trends among the graphs, Graph 6 shows that
+CH4 has relatively low fluctuation by year in its emission level, and its yearly emissions follow
+the trendline closely. The trend demonstrates that CH4 has grown 50,000 metric tons in
+emissions each year during the period.
+Lastly, the previous three sections of data were combined to analyze the overall impact of
+EVs on GG reduction. Combining both the number of EVs and the number of GPVs into a total
+statewide vehicle population, I considered total emissions if all the vehicles were to be electric
+
+Research Sample F 14 of 23
+
+and if all the vehicles were to be gas powered. In 2024, if all vehicles in Washington were
+electric, they would produce 1,378,020 metric tons of CO 2 , 2,206 metric tons of NO x , and 1,352
+metric tons of CH 4 . In comparison, if all vehicles in Washington were gas-powered, they would
+produce 21,979,518 metric tons of CO 2 , 52,560 metric tons of NO x , and 33,447 metric tons of
+CH4 . This means that if all of Washington’s vehicles were electric, they would emit 6% of the
+CO2 , 4% of the NO x , and 4% of the CH 4 that an entirely gas-powered vehicle population would
+emit.
+Discussion
+The first significant finding of this study is that EVs are increasing in popularity and
+experiencing higher adoption rates over the past eight years. The data found regarding EV
+adoption shows an interest in cleaner energy sources, as the trend is a quadratic relation. Not
+only are EVs increasing in ownership, the rate at which they are increasing is also increasing.
+This demonstrates increased popularity of EV and potential for higher percentages of EVs in the
+coming decade. The motives for EV adoption are not only reducing GGs, but also The motives
+for EV adoption are not only reducing GGs. Considering that Washington state has some of the
+highest gas prices in the United States, many residents that choose to purchase an EV over a
+GPV factor the financial benefit that a gasless vehicle would give them. Additionally, some EVs,
+such as Tesla, are seen as luxury vehicles, providing a social status motivation.
+Focusing on EV and GPV emissions, this study effectively estimated the total CO 2 , NO x ,
+and CH 4 emissions from each type of vehicle across all Washington counties during the period of
+2016 through 2024. The data shows that GPVs make up a much larger portion of GGs, but this is
+partially due to their more widespread popularity. Additionally, the data showed that CO 2 had the
+greatest emissions by far, and the greatest positive rate of change of emissions. This indicates
+
+Research Sample F 15 of 23
+
+that CO 2 is the most significant GG that vehicles emit. However, several thousand metric tons of
+NOx and CH 4 are emitted each year from EVs and GPVs, demonstrating the importance in
+including them in this study. Furthermore, NO x and CH 4 are considered to be more potent GGs
+because they are able to trap more heat in the atmosphere than CO 2 . The data in the tables shows
+that vehicles have a large impact on environment, regardless of fuel source.
+Nonetheless, the results indicate that EVs are substantially less harmful in terms of GG
+emissions than GPVs. By calculating the total emissions if all the vehicles in Washington were
+electric and comparing this to the total emissions if all the vehicles in Washington were gaspowered, it is clear that EVs produce much less CO 2 , NO x , and CH 4 . Using data regarding the
+total emissions across all GG emitting sectors, I observed that vehicles make up more than half
+the total statewide GG emissions. The Stanford Woods Institute for the Environment projects that
+GG emissions must be cut by 50% to reverse climate change. If all vehicles were electric, this
+would cut vehicular GG emissions to less than 6% of their original emissions and cut the total
+GG emissions in Washington by nearly half. This supports my hypothesis that adopting EVs at a
+higher rate will lead to a decrease in GG emissions in Washington state and have beneficial
+impacts on the environment, yet they have not been adopted at high enough rates to have
+substantial impact. The findings show a connection between EV adoption and a significant
+reduction in GGs, highlighting that EV adoption plays a role in the effort to slow down global
+warming.
+Furthermore, reducing GGs through EV adoption will benefit human health in
+Washington state. NO x and CH 4 are both ground-level ozone, which is an air pollutant that
+hovers near the ground. Also known as smog, ground-level ozone can have serious negative
+impacts on respiratory health, particularly for people suffering with asthma. Ground-level ozone
+
+Research Sample F 16 of 23
+
+can also cause crop and agriculture complications, blocking out sunlight and damaging plants.
+This can reduce crop yields and shorten food supplies for Washington residents.
+Finally, ocean acidification is primarily caused by the absorption of CO 2 from the
+atmosphere into the ocean. Increasing the acidity of the ocean has a negative impact on marine
+animals, particularly shellfish in the Washington state and Pacific coast area. Lower pH levels
+make it difficult for shellfish to form their structures and shells, exposing them to the open water
+and allowing them to die very quickly. Many people in Washington and along the Pacific coast
+eat shellfish, which to many is an important part of their diet. Furthermore, decreasing shellfish
+populations will impact the food chain as animals that prey on shellfish will have to find other
+food sources. Reducing CO 2 will help to preserve native Washington shellfish species while also
+maintaining a food supply for Washington residents.
+Conclusion
+Overall, this study suggests that EV adoption leads to a reduction of GGs in Washington
+state, with the decline of GPVs alongside this adoption. The three most environmentally
+threatening GGs (CO2 , NO x , and CH 4 ) all have significantly lower emissions rates coming from
+EVs than GPVs. By choosing to look at these three gases, I simplified the process of calculating
+GG emissions while maintaining accurate data, as these GGs make up the vast majority of GGs
+emitted from vehicles. Despite the reduction in GGs that EVs provide in the transportation
+sector, overall GG emissions continue to slowly increase in Washington. A limitation of this
+study is that, even as the largest GG producing sector, transportation does not account for all
+GGs. Because of this limitation, it is challenging to accurately evaluate the impact that EVs have
+on total statewide emissions; however, it is evident that EVs significantly reduce GG emissions
+when being compared to GPVs. This illustrates that despite other GG producing sectors
+
+Research Sample F 17 of 23
+
+increasing their GG outputs, the output from vehicles is declining. This is evident in the ratio of
+EV emissions to GPV emissions when considering the increase of EV owners and the beginning
+of decline of GPV ownership.
+The findings in the study highlight a correlation between EV adoption and environmental
+health. Previous researchers have determined a relationship between rising GGs and global
+warming, human health concerns, and wildlife destruction. This study connects the GGs emitted
+from cars to environmental challenges and explains the relationship between EV adoption and
+reduced environmental damage.
+Future Directions
+This study helps to fill a gap of climate change research with a focus on the impact of
+vehicles on this issue. Specifically, this study effectively determines how the adoption of EVs is
+effective at reducing GG emissions using data from Washington state. By focusing on
+Washington state as the scope of my research, I was able to determine the extent that EV
+adoption rates impact GG emissions in a region where a significant portion of the population can
+afford EVs. Additionally, this region allowed me to collect enough accurate data in the time
+frame I was given to draw meaningful conclusions. As EVs are still a new and emerging
+technology, it is important to continue to research their impact on GG emissions by repeating this
+study for future decades and in other U.S. states as well as other countries.
+Considering that this study only accounted for GGs emitted during an EVs use, further
+study into the total emissions produced by EVs from processes before ownership, such as
+resource sourcing, manufacturing, and shipping, would provide a more holistic perspective of the
+emissions produced by EVs. This may require a series of experiments and would expand beyond
+
+Research Sample F 18 of 23
+
+the scope of Washington state, as materials used in EVs come from other countries. Additionally,
+some EVs are manufactured outside of the U.S., which would differ the manufacturing processes
+and increase the work done to ship the EVs to the U.S., and further to Washington. This study
+also raised questions regarding the trends of EV adoption, particularly whether this rate will
+grow exponentially or begin to slow in rate of adoption.
+
+Research Sample F 19 of 23
+
+Bibliography
+Adam, M. G., Tran, P. T., & Balasubramanian, R. (2021). Air quality changes in cities during the
+COVID-19 lockdown: A critical review. Atmospheric Research, 264, 105823.
+https://doi.org/10.1016/j.atmosres.2021.105823
+Austin, E., Carmona, N., Gould, T., Shirai, J. H., Cummings, B. J., Hayward, L., Larson, T., &
+University of Washington Department of Environmental & Occupational Health
+Sciences. (2021). Healthy air, Healthy Schools Study: Phase 1 report.
+https://deohs.washington.edu/sites/default/files/2021-12/Healthy-air-healthy-schoolsphase1-report%20FINAL%20121521.pdf
+Baldasano, J., Valera, E., & Jimenez, P. (2003). Air quality data from large cities. The Science of
+the Total Environment, 307(1–3), 141–165. https://doi.org/10.1016/s00489697(02)00537-5
+Buonocore, J. J., Luckow, P., Fisher, J., Kempton, W., & Levy, J. I. (2016). Health and climate
+benefits of offshore wind facilities in the Mid-Atlantic United States. Environmental
+Research Letters, 11(7), 074019. https://doi.org/10.1088/1748-9326/11/7/074019
+Eisinger, D., Craig, K., Landsberg, K., Mukherjee, A., DeWinter, J., McCarthy, M., Brown, S.,
+Sonoma Technology, Inc., & Washington State Department of Transportation. (2021).
+Near-Road Air Quality Insights from a U.S. DOT Five-Year Transportation Pooled Fund
+Study. TR NEWS, 20–21. https://environment.transportation.org/wpcontent/uploads/2021/09/Eisinger-et-al.pdf
+Ercan, T., Onat, N. C., Keya, N., Tatari, O., Eluru, N., & Kucukvar, M. (2022). Autonomous
+electric vehicles can reduce carbon emissions and air pollution in cities. Transportation
+
+Research Sample F 20 of 23
+
+Research Part D Transport and Environment, 112, 103472.
+https://doi.org/10.1016/j.trd.2022.103472
+Fenger, J. (1999). Urban air quality. Atmospheric Environment, 33(29), 4877–4900.
+https://doi.org/10.1016/s1352-2310(99)00290-3
+Garcia, E., Johnston, J., McConnell, R., Palinkas, L., & Eckel, S. P. (2023). California’s early
+transition to electric vehicles: Observed health and air quality co-benefits. The Science of
+the Total Environment, 867, 161761. https://doi.org/10.1016/j.scitotenv.2023.161761
+Helmers, E., & Marx, P. (2012). Electric cars: technical characteristics and environmental
+impacts. Environmental Sciences Europe, 24(1). https://doi.org/10.1186/2190-4715-2414
+Igliński, H., & Babiak, M. (2017). Analysis of the potential of autonomous vehicles in reducing
+the emissions of greenhouse gases in road transport. Procedia Engineering, 192, 353–
+358. https://doi.org/10.1016/j.proeng.2017.06.061
+Jhun, I., Coull, B. A., Schwartz, J., Hubbell, B., & Koutrakis, P. (2015). The impact of weather
+changes on air quality and health in the United States in 1994–2012. Environmental
+Research Letters, 10(8), 084009. https://doi.org/10.1088/1748-9326/10/8/084009
+Kalashnikov, D. A., Schnell, J. L., Abatzoglou, J. T., Swain, D. L., & Singh, D. (2022).
+Increasing co-occurrence of fine particulate matter and ground-level ozone extremes in
+the western United States. Science Advances, 8(1). https://doi.org/10.1126/sciadv.abi9386
+Kamarck, E. (2019). The challenging politics of climate change. Brookings.
+https://www.brookings.edu/articles/the-challenging-politics-of-climate-change/
+
+Research Sample F 21 of 23
+
+Ledley, T. S., Sundquist, E. T., Schwartz, S. E., Hall, D. K., Fellows, J. D., & Killeen, T. L.
+(1999). Climate change and greenhouse gases. Eos, 80(39), 453–458.
+https://doi.org/10.1029/99eo00325
+Ma, H., Balthasar, F., Tait, N., Riera-Palou, X., & Harrison, A. (2012). A new comparison
+between the life cycle greenhouse gas emissions of battery electric vehicles and internal
+combustion vehicles. Energy Policy, 44, 160–173.
+https://doi.org/10.1016/j.enpol.2012.01.034
+Mayer, H. (1999). Air pollution in cities. Atmospheric Environment, 33(24–25), 4029–4037.
+https://doi.org/10.1016/s1352-2310(99)00144-2
+Montzka, S. A., Dlugokencky, E. J., & Butler, J. H. (2011). Non-CO2 greenhouse gases and
+climate change. Nature, 476(7358), 43–50. https://doi.org/10.1038/nature10322
+Sethu, D. S., Sheng, H. K., & Marican, K. (2022). Impact of EVs on global warming. Scholarly
+Commons. https://commons.erau.edu/ww-research-methodsrsch202/30/?utm_source=commons.erau.edu%2Fww-research-methodsrsch202%2F30&utm_medium=PDF&utm_campaign=PDFCoverPages
+Small, K. A., Kazimi, C., UC Berkeley, University of California, & University of California
+Transportation Center. (1995). On the Costs of Air Pollution from Motor Vehicles.
+Journal of Transport Economics and Policy, 7.
+https://escholarship.org/content/qt0sx81025/qt0sx81025.pdf
+Soltani-Sobh, A., Heaslip, K., Stevanovic, A., Bosworth, R., & Radivojevic, D. (2017). Analysis
+of the electric vehicles adoption over the United States. Transportation Research
+Procedia, 22. https://doi.org/10.1016/j.trpro.2017.03.027
+
+Research Sample F 22 of 23
+
+Stanford Woods Institute for the Environment. (2019). A roadmap to reducing greenhouse gas
+emissions 50 percent by 2030. Stanford Doerr School of Sustainability.
+https://sustainability.stanford.edu/news/roadmap-reducing-greenhouse-gas-emissions-50percent-2030
+Sun, D., Zhang, Y., Xue, R., & Zhang, Y. (2017). Modeling carbon emissions from urban traffic
+system using mobile monitoring. The Science of the Total Environment, 599–600, 944–
+951. https://doi.org/10.1016/j.scitotenv.2017.04.186
+Thomas, S. (2012). “How green are electric vehicles?” International Journal of Hydrogen
+Energy, 37(7), 6053–6062. https://doi.org/10.1016/j.ijhydene.2011.12.118
+United States Environmental Protection Agency. (2024). Greenhouse Gas Emissions from a
+Typical Passenger Vehicle. US EPA. https://www.epa.gov/greenvehicles/greenhousegas-emissions-typical-passenger-vehicle
+Varma, M., Mal, H., Pahurkar, R., & Swain, R. (2020). Comparative analysis of greenhouse
+gases emissions in conventional vehicles and electric vehicles. International Journal of
+Advanced Sciences and Technlogy, 29(5), 689–695. https://www.researchgate.net
+Washington State Department of Ecology. (n.d.). Mandatory greenhouse gas reports.
+Washington State Department of Ecology. https://ecology.wa.gov/air-climate/reducinggreenhouse-gas-emissions/tracking-greenhouse-gases/mandatory-greenhouse-gas-reports
+Washington State Open Data Portal. (2024). Electric Vehicle Population Size History by County.
+https://data.wa.gov/Transportation/Electric-Vehicle-Population-Size-History-ByCounty/3d5d-sdqb/data_preview
+Wilberforce, T., El-Hassan, Z., Khatib, F. N., Al Makky, A., Baroutaji, A., Carton, J., & Olabi,
+A. (2017). Developments of electric cars and fuel cell hydrogen electric cars.
+
+Research Sample F 23 of 23
+
+International Journal of Hydrogen Energy, 42(40), 25695–25734.
+https://doi.org/10.1016/j.ijhydene.2017.07.054
+Yuan, C., Ng, E., & Norford, L. K. (2013). Improving air quality in high-density cities by
+understanding the relationship between air pollutant dispersion and urban morphologies.
+Building and Environment, 71, 245–258. https://doi.org/10.1016/j.buildenv.2013.10.008
+
+AP RESEARCH 2025 • SCORING COMMENTARY
+
+Academic Paper
+Note: Student samples are quoted verbatim and may contain spelling and grammatical errors.
+Overview
+NEW for 2025: The question overviews can be found in the Chief Reader Report on Student Responses on
+AP Central.
+Sample: F
+Score: 3
+This paper earns a score of 3. A research question can be found on p. 1: “To what extent do electric
+vehicles lead to a reduction in greenhouse gas emissions and improved environmental health when
+comparing their emissions to gas-powered vehicles in Washington?” This question slightly shifts focus
+on p. 4: “My research will examine the number of electric cars in Washington in relation to GG emission
+to determine if a larger ratio of EVs to GPVs lowers the total emissions statewide.”
+There is an attempt to narrow the scope of the topic to certain greenhouse gases and to commercial
+vehicles (pp. 1-2). The method then is identified as a quantitative correlation with four main steps,
+outlined on p. 5. Because the secondary data collected is further treated with calculations with formulas
+(pp. 6-7) and using a constant EV value to extrapolate information (p. 9-10) this goes beyond a report of
+existing knowledge. The research question does not suggest comparing an all electrical vehicle versus
+an all gas vehicle scenario which then makes the analysis step on p. 8 questionably aligned: “In order
+to effectively determine EVs benefit, I evaluated the total emissions from vehicles if they were all gaspowered and compared this to the total emissions from vehicles if they were all electric.” The paper
+does circle back to this in the last paragraph of p. 13 into p. 14, but there is no explicit explanation for
+why this is necessary to address the research questions as they were written. The four steps the paper
+outlines are reasonably replicable, but they are not defended and connected to the literature review. The
+new understanding on p. 16 conflates correlation with causation “this study suggests that EV adoption
+leads to a reduction of GGs in Washington state” without considering other confounding variables that
+could result in fluctuations of GGs.
+This paper does not earn a score of 2. The method is reasonably replicable, and there is a narrowing
+topic that is carried throughout. The literature review does present varying perspectives from scholarly
+sources. The communication is competent and not general and has few grammatical and citation errors.
+This paper does not earn a score of 4. The geographic gap asserted on p. 4 of Washington is not
+defended through the literature review that this location requires further study. There is some logical
+defense of individual steps, but there is no defense of the quantitative correlation which was the
+analysis used to draw the new understanding. There are some implications that connect back to the
+literature review (p. 4) regarding the implications of ocean acidification on shellfish (p. 16), but this is
+overgeneralized as there was only one line about implications to oceans and lakes in the literature review.
+
+© 2025 College Board.
+
+Visit College Board on the web: collegeboard.org.	
+
+

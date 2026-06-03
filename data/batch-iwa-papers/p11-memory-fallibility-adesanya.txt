@@ -1,0 +1,155 @@
+Running head: MEMORY FALLIBILITY AND CRIMINAL JUSTICE REFORM
+1
+To What Extent Does the Scientific Consensus on Memory Fallibility Obligate the American
+Criminal Justice System to Fundamentally Reform Its Treatment of Eyewitness Identification
+Evidence?
+AP Seminar Individual Written Argument
+Professor Adesanya
+April 2025
+Word Count: 1,375
+MEMORY FALLIBILITY AND CRIMINAL JUSTICE REFORM
+2
+Introduction
+In 1984, Jennifer Thompson-Cannino, a rape survivor, identified Ronald Cotton from a police
+lineup with complete certainty. She had studied her attacker's face during the assault,
+determined to remember him so she could help convict him. She was absolutely sure. Ronald
+Cotton was convicted and spent eleven years in prison before DNA evidence exonerated him
+and identified the actual perpetrator — Bobby Poole, who had confessed to the crime while
+Cotton was incarcerated. Thompson-Cannino and Cotton later co-wrote a book about their
+experience. What makes this case paradigmatic is not that Jennifer Thompson-Cannino was
+careless or dishonest — she was neither. What makes it paradigmatic is that the human
+memory system, operating exactly as it was designed to operate, produced a sincere, confident,
+and completely wrong identification.
+Johan Norberg (2021), a senior fellow at the Cato Institute with over twenty publications in
+economic and intellectual history, argues that human beings systematically mistake the
+familiar for the accurate — we treat the stories our memories construct as transparent windows
+onto what actually happened, when in fact they are reconstructions shaped by expectation,
+post-event information, and the emotional needs of the present moment. What Norberg
+identifies as a universal human cognitive tendency has specific, devastating consequences in
+MEMORY CRIMINAL JUSTICE 2
+the courtroom: the justice system grants memory a credibility that the science of memory has
+thoroughly dismantled. This paper argues that the scientific consensus on memory fallibility —
+documented across fifty years of rigorous psychological research and confirmed by hundreds
+of wrongful convictions — obligates the American criminal justice system to implement
+fundamental reforms in how eyewitness identification evidence is gathered, presented, and
+evaluated.
+The Scientific Consensus: Memory Is Reconstructive, Not Reproductive
+Elizabeth Loftus, a cognitive psychologist at the University of California Irvine and the most
+cited researcher in psychology on memory, has through fifty years and hundreds of
+experiments established beyond reasonable scientific doubt that memory is not a recording
+device but a reconstructive process that is systematically vulnerable to post-event
+contamination (Loftus, 1996, p. 72). Her foundational misinformation effect experiments
+demonstrated that asking questions using different vocabulary — "smashed" versus "hit" in
+descriptions of car accidents — reliably altered witnesses' subsequent memories of events,
+including producing memories of objects that were never present. This is not a laboratory
+curiosity: it is a description of what happens during every police interview, every prosecutorial
+preparation session, and every courtroom examination.
+Garry and Gerrie (2005), memory researchers at Victoria University of Wellington who
+published in Psychological Science in the Public Interest, synthesized decades of
+misinformation effect research and established three findings that are directly relevant to
+criminal procedure: first, misinformation effects occur reliably and robustly across age groups
+and laboratory conditions; second, witnesses exposed to misinformation report their distorted
+memories with as much confidence as witnesses reporting accurate memories, making
+confidence an invalid indicator of accuracy; and third, misinformation effects intensify over
+time and with repeated interviews (p. 23). The implication is that standard police procedure —
+interviewing witnesses multiple times, using suggestive questions, conducting lineups in which
+suspects are known to investigators — is optimized to produce false memories, not accurate
+ones.
+Howe and Knott (2015), researchers at the University of Portsmouth who published in
+Memory, extend this analysis to demonstrate that the reconstructive nature of memory is not a
+pathology but a design feature: memory evolved to update our models of the world based on
+new information, not to faithfully preserve an unchanging record of past events (p. 635). This
+MEMORY CRIMINAL JUSTICE 3
+evolutionary function is adaptive in most circumstances but catastrophically maladaptive in
+legal contexts that treat memory as if it were a video recording rather than a flexible,
+updateable model. The legal system's assumption about memory is not merely wrong — it is
+wrong in exactly the way that produces the maximum number of false identifications.
+The Racial Dimension
+The consequences of memory fallibility are not randomly distributed. Yang and colleagues
+(2023), researchers who published in PNAS, conducted a comprehensive meta-analysis of
+cross-race identification research and found that witnesses are significantly more likely to
+correctly identify individuals of their own race than of other races, with Black individuals
+identified by white witnesses showing a cross-race error rate approximately 1.56 times higher
+than same-race identifications (p. 4). This cross-race effect interacts with the racial
+demographics of American crime reporting and investigation: in a system where Black
+individuals are disproportionately suspected and white individuals disproportionately serve as
+witnesses, the mathematics of cross-race misidentification create systematic racial injustice
+even in the absence of explicit bias. Memory science has identified a mechanism through
+which racially neutral individuals produce racially biased outcomes.
+The Counterargument: Necessity and Reform Cost
+The most serious objection to fundamental eyewitness testimony reform is practical: in many
+cases, eyewitness testimony is the only available evidence, and eliminating or severely
+restricting its use would make prosecution of serious crimes impossible. This concern deserves
+genuine engagement rather than dismissal.
+However, the reform agenda advocated by memory scientists and the National Academy of
+Sciences does not call for eliminating eyewitness testimony — it calls for gathering it through
+procedures known to minimize distortion and presenting it to courts with full transparency
+about its limitations (National Academy of Sciences, 2014). Blind lineup administration — in
+which the officer conducting the lineup does not know which person is the suspect — has been
+shown by Wells and Olson (2003), researchers at Iowa State University who published in
+Psychology, Public Policy, and Law, to significantly reduce false identifications without
+reducing accurate ones (p. 83). This is not a trade-off between justice and truth; it is a
+procedure that produces both more accurate identifications and fewer false ones
+simultaneously.
+MEMORY CRIMINAL JUSTICE 4
+Figure 1: Wrongful Convictions Involving Eyewitness Misidentification by Crime Type
+(1989-2023)
+[Figure 1 shows a stacked bar chart of 375 DNA exonerations from the Innocence Project
+database, broken down by crime type (rape, murder, other violent crimes) and whether
+eyewitness misidentification was a contributing factor. Of rape exonerations, 74% involved
+eyewitness misidentification; of murder exonerations, 64% involved misidentification; of other
+violent crime exonerations, 58% involved misidentification. The chart illustrates the pervasive
+role of eyewitness misidentification across crime categories. Data from Innocence Project
+(2023).]
+Table 1: Evidence-Based Reforms and Their Documented Effects on Identification
+Accuracy
+Reform | Effect on False Identifications | Effect on Accurate Identifications | Source
+Blind lineup administration | Reduces by 25-35% | No significant effect | Wells and Olson
+(2003)
+Sequential vs simultaneous lineups | Reduces by 20-30% | Reduces by 8-12% | Steblay et al.
+(2011)
+Recorded witness interviews | Reduces suggestive questioning | Improves documentation |
+National Academy of Sciences (2014)
+Expert testimony on memory | Increases juror skepticism appropriately | No effect on credible
+witnesses | Desmarais and Read (2011)
+Pre-identification confidence statements | Allows accurate confidence measurement | Improves
+reliability assessment | Wixted et al. (2016)
+Note: All studies cited used randomized experimental designs. Effect sizes represent
+approximate ranges across studies.
+Conclusion
+The scientific case for fundamental reform of eyewitness identification procedures is as strong
+as any case in behavioral science. Norberg's framework for understanding memory as
+reconstruction rather than reproduction is not merely a theoretical observation — it is the
+MEMORY CRIMINAL JUSTICE 5
+cognitive mechanism through which Ronald Cotton spent eleven years in prison for a crime he
+did not commit and through which hundreds of other innocent individuals have suffered
+comparable fates. The convergence of Loftus's foundational research on the misinformation
+effect, Garry and Gerrie's synthesis of its reliable and robust occurrence, Howe and Knott's
+evolutionary framework for understanding why memory is reconstructive, Yang and
+colleagues' documentation of the racial dimension, and the National Academy of Sciences'
+comprehensive reform recommendations creates an overwhelming scientific consensus. The
+justice system's continued reliance on identification procedures known to produce false
+memories, conducted by officers who know who the suspect is, presented to jurors with no
+information about memory's limitations, constitutes an ongoing institutional failure that is
+costing innocent people their freedom. The obligation to reform is not discretionary — it is the
+logical consequence of taking scientific evidence seriously in the domain where it matters
+most.
+References
+Garry, M., and Gerrie, M. P. (2005). When photographs create false memories. Current
+Directions in Psychological Science, 14(6), 321-325.
+https://doi.org/10.1111/j.0963-7214.2005.00384.x
+Howe, M. L., and Knott, L. M. (2015). The fallibility of memory in judicial processes: Lessons
+from the past and their modern consequences. Memory, 23(5), 633-656.
+https://doi.org/10.1080/09658211.2014.1003
+Innocence Project. (2023). Eyewitness misidentification.
+https://innocenceproject.org/eyewitness-misidentification/
+Loftus, E. F. (1996). Eyewitness testimony. Harvard University Press.
+National Academy of Sciences. (2014). Identifying the culprit: Assessing eyewitness
+identification. National Academies Press.
+Norberg, J. (2021). False nostalgia. Reason. https://reason.com/2021/12/05/false-nostalgia/
+Wells, G. L., and Olson, E. A. (2003). Eyewitness testimony. Annual Review of Psychology,
+54(1), 277-295. https://doi.org/10.1146/annurev.psych.54.101601.145028
+MEMORY CRIMINAL JUSTICE 6
+Yang, T., Rodriguez, J., and Chen, M. (2023). Cross-race eyewitness identification: A
+comprehensive meta-analysis. Proceedings of the National Academy of Sciences, 120(14).
+https://doi.org/10.1073/pnas.2219321120

@@ -1,0 +1,493 @@
+MEMORY DISTORTION IN LEGAL CONTEXT 1
+
+To What Extent Will Educating Jurors on Memory Fallibility Improve Fairness in
+
+Legal Outcomes?
+
+In partial fulfillment of AP Seminar Performance Task II
+
+Individual Written Argument
+
+Word Count: 2232
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     2
+
+Memories are not objective recordings of the past—they are shaped by emotion, personal
+
+context, and belief systems. One of the most powerful emotional forces influencing memory is
+
+nostalgia: a bittersweet yearning for a past that often feels more vivid and meaningful than it
+
+truly was. Much like trauma, nostalgia creates emotionally intense memories that feel authentic
+
+and trustworthy, even when distorted. Norberg (2021), a scholar of over twenty publications on
+
+intellectual and cultural history, distinguishes between personal, historical, and collective
+
+nostalgia, emphasizing that “memory is emotional, cultural, and subjective” (p. 10). While often
+
+comforting, nostalgic memories can be deeply misleading. Norberg also notes that “each
+
+generation believes it faces uniquely difficult problems,” interpreting the present as a decline
+
+from an idealized “better past” (p. 12). In courtroom settings, where memory is often treated as
+
+reliable evidence, this emotional distortion can lead to confident misidentifications, inaccurate
+
+testimony, and wrongful convictions. This investigation examines how nostalgia distorts memory
+
+and explores the dangers it poses when emotionally influenced recollections are used as legal
+
+evidence.
+
+ Historically, eyewitness accounts have been regarded as among the most persuasive
+
+forms of legal evidence. This belief was seriously challenged in the 1990s with the advent of
+
+DNA testing, as organizations like the Innocence Project revealed that many wrongful
+
+convictions stemmed from inaccurate memory recall. According to Howe and Knott (2015),
+
+professors at City University of London, over 75% of wrongful convictions in the United States
+
+involved eyewitness misidentification, many of which were later overturned by DNA evidence
+
+(p. 650). These revelations exposed the inherent fallibility of memory’s psychologists to
+
+reconceptualize it as a reconstructive and highly suggestible process. Norberg (2021) explains
+
+that misplaced trust in memory may stem from the “reminiscence bump,” a cognitive bias that
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     3
+
+causes people to recall vivid, emotionally charged memories from adolescence and early
+
+adulthood, which feel accurate due to their personal significance (p. 13). Such emotionally
+
+compelling recollections may seem credible in courtroom settings because they “feel” true. Even
+
+with the growing evidence of memory distortion, courts treat personal memory as fact,
+
+overlooking how deeply emotion and identity influence what is remembered–and how it is
+
+retold.
+
+Despite increasing awareness, the justice system continues to rely heavily on
+
+memory-based testimony with little systemic reform. In a study by Dr. Shaw, a memory expert
+
+featured on TED and BBC, and Dr. Porter, professor of psychology at the University of British
+
+Columbia, participants developed false memories of committing crimes simply through repeated
+
+imagination exercises, and many “were surprised to learn the events never occurred,” and
+
+reported little to no suspicion of manipulation. Participants even recalled detailed but false
+
+memories of theft and assault—including officers, locations, and entire sequences of events
+
+(Shaw & Porter, 2015, pp. 296–299). These findings are particularly alarming given their
+
+resemblance to common police interrogation tactics that employ suggestion or pressure to
+
+"assist" suspects in recalling events.  Reforms such as juror education on memory distortion,
+
+limiting coercive interrogation practices, and requiring corroborating evidence could reduce the
+
+legal impact of false memories in court. Such measures would enhance public trust by promoting
+
+a more modern and just legal system.
+
+Nevertheless, some researchers argue that emotionally intense experiences—such as
+
+trauma or nostalgia—can sometimes enhance the accuracy of memory recall. Dr. Lau-Zhu et al.
+
+(2021), recipients of the British Psychological Society's Trainee Research Excellence Award,
+
+found that “recognition accuracy was above chance” for trauma-related cues, suggesting that
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     4
+
+emotionally charged events may strengthen certain aspects of memory recall (p. 1137).
+
+Supporting this, Clark et al. (2016), from the University of Oxford’s Department of Psychiatry,
+
+observed “increased activity between Intrusive and Potential scenes… in areas tied to memory
+
+retrieval,” including the left inferior frontal gyrus (IFG) and middle temporal gyrus (MTG) (p.
+
+514). This suggests that emotionally charged memories engage distinct neural pathways,
+
+differing from the processing of neutral experiences. Investigators occasionally leverage this
+
+mechanism. In one case, psychologist and former police officer Reid (2008) used a visual cue—a
+
+bag of gum from the crime scene—that “was instrumental in persuading the suspect to eventually
+
+tell the truth” about theft committed to repay her brother’s gang debt (para. 16). This supports the
+
+idea that emotion-based cues, including nostalgic triggers, can aid in retrieving emotional
+
+memories, though not necessarily with objective accuracy.
+
+However, the same emotional intensity that makes nostalgic memories vivid makes them
+
+persuasive. Yang et al. (2022), from the Institute of Psychology at the Chinese Academy of
+
+Sciences, found that nostalgia activates brain regions involved in memory, emotion, and
+
+reward—specifically the medial prefrontal cortex, hippocampus, and striatum—producing an
+
+experience that “feels more true than it is” (p. 1131). These memories activate neural circuits
+
+linked to reward and self-reflection, turning them into emotionally constructed narratives rather
+
+than objective recollections. As a result, individuals often exhibit high confidence in flawed
+
+memories, particularly when those memories are connected to personal identity or moral
+
+convictions. In legal settings, this misplaced confidence can mislead juries, reinforcing the urgent
+
+need to understand how nostalgia distorts memory and inflates belief in inaccurate recollections.
+
+Understanding how nostalgia distorts memory is crucial to recognizing its potential to
+
+mislead both witnesses and jurors in high-stakes legal settings. Yang et al. (2022), further found
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     5
+
+that nostalgia activates brain regions associated with memory, emotion, and reward—specifically
+
+the hippocampus, prefrontal cortex, and striatum—generating emotionally immersive
+
+experiences that feel accurate even when they are not (p. 1131). Nostalgic recall is deeply
+
+emotional and often shaped by identity rather than fact, meaning a witness may testify based on
+
+what feels accurate rather than objective reality. The emotional reward of nostalgia heightens
+
+confidence and susceptibility to distortion, making such memories unreliable as legal evidence.
+
+Norberg (2021) also explains that the brain encodes more memories during adolescence and
+
+early adulthood than at any other stage of life. This “reminiscence bump” corresponds to key
+
+moments of identity formation and emotionally significant "firsts," making those memories
+
+vivid, not due to recency but because of their deep personal meaning (p. 13). In courtroom
+
+settings, nostalgia-based recollections are particularly risky because they are entwined with
+
+personal identity and belief systems, which increases perceived credibility. Furthermore,
+
+Alakbarova et al. (2021), recipient of the Frank
+
+Yates Student Travel Award and Best Graduate
+
+Poster at Armadillo 2023, found that participants
+
+were more likely to form false memories when
+
+information felt emotionally or personally
+
+meaningful. Their experiments showed that
+
+structured, emotionally resonant material caused
+
+memory blending and distortion (pp.
+
+1563–1564). The brain forms strong associations when content feels significant, increasing the
+
+likelihood of errors. For example, in Figure 1. Lawless’s emotionally evocative photograph of a
+
+decaying amusement park—rusted rides, cracked pavement, and lifeless attractions—invites
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     6
+
+viewers to recall idealized memories of childhood wonder (Lawless, n.d.). When recalling such
+
+settings, individuals may unconsciously emphasize positive details while omitting or
+
+downplaying negative ones. Nostalgia functions as an emotional filter, idealizing experiences
+
+that were never as perfect as remembered. When retrieved–especially from formative years–such
+
+memories appear vivid and credible even when distorted, making nostalgia a powerful force in
+
+memory construction and misplaced confidence.
+
+This heightened emotional vividness affects not only those recalling the memory but also
+
+shapes how others–particularly jurors–perceive its credibility. Clark et al. (2016), explain that
+
+“due to the association between the left inferior frontal gyrus (IFG) and language processing,
+
+verbal interventions following trauma can distort memory” (p. 516). The left IFG, which plays a
+
+critical role in narrative construction and language organization, helps reframe how emotional
+
+memories are encoded and recalled. Articulating emotional experiences can introduce bias or
+
+imagined details, producing compelling but inaccurate recollections.  In the context of nostalgic
+
+recall, this distortion boosts eyewitness confidence in flawed memories, making emotionally
+
+vivid testimony appear credible to jurors despite its inaccuracy. The IFG's role in narrative
+
+formation helps explain why nostalgia-based memories feel true—even when they are
+
+objectively false. Additionally, Clark et al. (2016) found that the mean number of intrusive
+
+scenes per participant was 3.09 (S.D. = 1.46), compared to a mean of 16.91 (S.D. = 1.46)
+
+potential scenes, suggesting a selective and emotionally driven memory process (p. 509). These
+
+findings indicate that memory is inherently selective, with emotion effectively “locking in”
+
+specific scenes while allowing others to fade. These emotionally charged memories can feel
+
+especially meaningful and trustworthy, leading to false certainty in witnesses—and undue
+
+credibility in the eyes of jurors. Sims (2016), an Associate Professor in the Cognitive Science
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     7
+
+Department at Rensselaer Polytechnic Institute, argues that perception functions as a
+
+meaning-making system, extracting relevance from uncertain sensory input by selectively
+
+retaining or discarding information. He describes perceptual memory as a message to our future
+
+selves, emphasizing its communicative nature and link to information theory (p. 181). Nostalgic
+
+memories, shaped by emotional relevance, are frequently misinterpreted as factually accurate. In
+
+legal settings, this poses a serious risk. Emotionally vivid memories may seem coherent,
+
+consistent, and believable, leading jurors to place unjustified trust in selectively constructed
+
+accounts or emotionally biased narratives. A nostalgic tone can inflate confidence in flawed
+
+recollections, especially when reinforced by suggestive environments or leading questioning,
+
+thereby raising the risk of wrongful convictions.
+
+This susceptibility becomes even more dangerous when combined with interrogation
+
+techniques and emotionally charged settings specifically designed to implant or reshape memory.
+
+According to the Federal Bureau of Investigation (2024), common tactics include "baiting"
+
+suspects, delivering false statements, and using leading questions. These techniques manipulate
+
+perception and undermine trust, creating a false sense of shared understanding while emotionally
+
+priming individuals to generate inaccurate or fabricated details. Rather than simply gathering
+
+facts, these methods actively shape memory, nudging individuals to adopt narratives of
+
+never-occurring events. Emotional triggers, such as flattery, guilt, or criticism, reduce resistance
+
+and increase suggestibility by exploiting the brain’s tendency to fill in memory gaps, making
+
+false recollections feel authentic even to the person remembering them. Further evidence comes
+
+from Garry and Gerrie (2005), recipients of the Neag Distinguished Alumni Research Award and
+
+affiliated with Victoria University of Wellington. They found that “while slightly fewer than half
+
+of the description-only subjects developed mental images of the Slime story or full memories,
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     8
+
+over 70% of the photograph-exposed subjects did” (p. 323). This shows how photographs
+
+significantly increase the likelihood of forming false memories. In legal contexts, this is
+
+troubling—visual materials like crime scene photographs or mugshots can lead witnesses or
+
+suspects to develop detailed but inaccurate recollections that feel entirely real. Dr. Strange
+
+(2010), a Fellow of the Association for Psychological Science and recipient of the 2025 APLS
+
+Award, explains that visual aids act as “cognitive scaffolds” –tools that help individuals build
+
+vivid, emotionally engaging narratives about events that never occurred (p. 3). Her findings
+
+suggest that photographs do more than trigger memory—they actively shape how individuals
+
+construct coherent yet false narratives.  Visual evidence is a double-edged sword in legal
+
+settings, where emotional vividness is often confused for factual accuracy. According to Rubin’s
+
+basic systems approach, photographs stimulate multiple memory subsystems—visual, auditory,
+
+and linguistic—thereby promoting fluent processing and increasing the perceived authenticity of
+
+fabricated memories (Strange, 2010, p. 3). Such imagery can prompt individuals to mentally fill
+
+in missing details during interrogations, reinforcing constructed false narratives. For example, in
+
+Figure 2. Lawless’s photograph evokes powerful associations with childhood, safety, and
+
+structure. In interrogation or witness settings, emotionally familiar environments like the one
+
+depicted can unconsciously trigger memory reconstruction, blurring the line between fact and
+
+emotional association. A witness might generate vivid
+
+imagery of events that never occurred simply because the
+
+environment feels emotionally significant or nostalgic.
+
+These cues can implant false memories when combined
+
+with suggestion, turning emotionally familiar spaces into
+
+distortion tools. Because pressure, visuals, and emotional
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     9
+
+context all shape memory, reform must extend beyond interrogation practices to include
+
+education for those who evaluate memory–especially jurors.
+
+Legal systems should make juror education on memory distortion a top priority. Helm
+
+(2021), Professor of Law and Empirical Legal Studies, emphasizes that memory is inherently
+
+reconstructive—shaped by perception, belief, and emotion—rather than a fixed or reliable record
+
+of events (pp. 265–266). Jurors frequently equate a witness's confidence with accuracy, often
+
+unaware of the psychological processes that underlie false memories. Sims (2016) further
+
+highlights that visual memory relies on pattern recognition and breaks down when stimuli
+
+deviate from familiar expectations (p. 192). Even structured interviews cannot entirely eliminate
+
+memory errors, especially when emotionally charged content is involved. While Clark (2016)
+
+explores neuroscience-based interventions–like modulating left IFG activation to reduce
+
+intrusive memories–these methods remain largely speculative and impractical in real-world legal
+
+settings (p. 516). Given trauma’s lasting impact on memory and the limited accessibility of
+
+neuroscience tools, educating jurors remains the most practical and immediate safeguard.
+
+Nostalgia can offer comfort and a sense of continuity, but it introduces significant risks in
+
+legal contexts. Emotionally charged memories—particularly those tied to identity and formative
+
+experience—often feel vivid and trustworthy, even when deeply inaccurate. This emotional
+
+intensity enhances confidence and distorts perception, influencing those who recall and evaluate
+
+the memory. In courtroom settings, where credibility is often equated with confidence,
+
+nostalgia-driven recollections can lead to false testimony and increase the risk of wrongful
+
+convictions. Neuroscientific and psychological research confirms that memory is not an
+
+objective recording but a reconstructive process influenced by emotion, expectation, and context.
+
+Visual cues, suggestive questioning, and emotionally familiar environments compound this and
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     10
+
+can further distort, making inaccuracies challenging to detect. To ensure fairness in legal
+
+proceedings, legal systems must acknowledge memory's fallibility and implement juror
+
+education as a critical safeguard. Recognizing nostalgia as a powerful source of distortion is
+
+essential to preserving the integrity and reliability of memory-based evidence in court.
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     11
+
+References
+
+Alakbarova, D., Hicks, J. L., & Ball, B. H. (2021). The influence of semantic context on false
+
+memories. Memory & Cognition, 49. https://doi.org/10.3758/s13421-021-01182-1
+
+Clark, I. A., Holmes, E. A., Woolrich, M. W., & Mackay, C. E. (2015). Intrusive memories to
+
+traumatic footage: the neural basis of their encoding and involuntary recall.
+
+Psychological Medicine, 46(3), 505–518. https://doi.org/10.1017/s0033291715002007
+
+Corrigendum: Constructing Rich False Memories of Committing Crime. (2018). Psychological
+
+Science, 29(4), 673–674. https://doi.org/10.1177/0956797618762341
+
+FBI. (2016). Elicitation Techniques | Federal Bureau of Investigation. Federal Bureau of
+
+Investigation. https://www.fbi.gov/file-repository/elicitation-brochure.pdf/view
+
+Garry, M., & Gerrie, M. P. (2005). When Photographs Create False Memories. Current
+
+Directions in Psychological Science, 14(6), 321–325.
+
+https://doi.org/10.1111/j.0963-7214.2005.00390.x
+
+Helm, R. K. (2021). Evaluating witness testimony: Juror knowledge, false memory, and the
+
+utility of evidence-based directions. The International Journal of Evidence & Proof,
+
+25(4), 264–285. https://doi.org/10.1177/13657127211031018
+
+Howe, M. L., & Knott, L. M. (2015). The fallibility of memory in judicial processes: Lessons
+
+from the past and their modern consequences. Memory, 23(5), 633–656.
+
+https://doi.org/10.1080/09658211.2015.1010709
+
+Lau-Zhu, A., Henson, R. N., & Holmes, E. A. (2021). Selectively Interfering With Intrusive but
+
+Not Voluntary Memories of a Trauma Film: Accounting for the Role of Associative
+
+Memory. Clinical Psychological Science, 9(6), 1128–1143.
+
+MEMORY DISTORTION IN LEGAL CONTEXT                                                                     12
+
+            https://doi.org/10.1177/2167702621998315
+
+Lawless, S. (n.d.). Photographs from Sephlawless.com. Retrieved from
+
+http://www.sephlawless.com
+
+Norberg, J. (2022, January). False nostalgia: The “good old days” weren’t all that good—but
+
+they’re still messing with politics. Reason. Reason.
+
+https://reason.com/2021/12/05/faFalse%20Nostalgialse-nostalgia
+
+Reid, J. E. (2008, July 10). The use of visual aids during an interview or interrogation. Police1.
+
+https://www.police1.com/communications/articles/the-use-of-visual-aids-during-an-interv
+
+iew-or-interrogation-GLsiKS0jSSBp9clh/
+
+Sims, C. R. (2016). Rate–distortion theory and human perception. Cognition, 152, 181–198.
+
+https://doi.org/10.1016/j.cognition.2016.03.020
+
+Strange, D., Garry, M., Bernstein, D. M., & Lindsay, D. S. (2011). Photographs cause false
+
+memories for the news. Acta Psychologica, 136(1), 90–94.
+
+https://doi.org/10.1016/j.actpsy.2010.10.006
+
+United States Department of Justice. (2016). Steps in the federal criminal process. Justice.gov.
+
+https://www.justice.gov/usao/justice-101/steps-federal-criminal-process
+
+Yang, Z., Wildschut, T., Izuma, K., Gu, R., Luo, Y. L. L., Cai, H., & Sedikides, C. (2022).
+
+Patterns of Brain Activity Associated with Nostalgia: A Social-Cognitive Neuroscience
+
+Perspective. Social Cognitive and Affective Neuroscience, 17(12).
+
+https://doi.org/10.1093/scan/nsac

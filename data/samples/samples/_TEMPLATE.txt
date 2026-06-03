@@ -1,0 +1,8 @@
+(This file is ignored by npm run corpus:build — it will never become a sample.)
+
+Duplicate this file: remove the leading underscore and use a real name, e.g. 01-seminar-excerpt.txt
+
+Then replace everything below the line with your pasted plain text.
+
+--- paste sample body below ---
+

@@ -1,0 +1,349 @@
+Utilizing Data Science to Establish Sustainable Agricultural Production System in China
+AP Seminar
+5 April 2019
+Word Count: 2087
+
+Visit the College Board on the web: collegeboard.org.
+
+The 21st century can as well be described as the Asian century (Mahbubani, 2008), with
+China emerging as a global economic and political powerhouse that is contested only by the
+United States (Wolf, 2018). Accompanying its growth is the expansion of its agriculture
+industry, which employs more than 300 million farmers and tops the worldwide farm output
+ranking (National Bureau of Statistics of China, 2008). Food security has always been one of the
+top priorities of China due to its rapid population growth. The Chinese population grew from 600
+million to over 1.3 billion in the past 50 years (National Bureau of Statistics of China, 2013),
+which exerted “steady pressure on China to keep expanding its agricultural production” (Yu &
+Wu, 2018). To meet the increasing demand for food, the Chinese agricultural sector adopted the
+ideology of “pollute first, and then clean up” (Liu, 2010). As a result, the agricultural industry of
+China became robust, feeding 22% of the world population (Liu, Zhang & Herbert, 2010).
+However, this simultaneously engendered “serious environmental pollution” (Yu & Wu, 2018),
+partly due to heavy reliance on chemical fertilizers (Norse & Ju, 2015). In fact, in 2013, the
+Chinese agricultural sector used 59.11 million tons of fertilizers–35.5% of the world’s total
+usage (Zhang, Dou & et al, 2013). The number will only increase if the Chinese government fails
+to introduce effective means of sustainable, pollution-free production, which would degrade the
+available arable soil, eventually hurting the Chinese agricultural industry and cutting the global
+food supply to a significant extent. Therefore, it is crucial that the Chinese government invest in
+altering its farming practices and achieve sustainable production in an effective manner. This
+paper will examine which method the Chinese government should apply in order to facilitate
+sustainable agriculture.
+
+Visit the College Board on the web: collegeboard.org.
+
+Fortunately, the need for sustainable agriculture has gained much attention since the late
+20th century, and various researchers have put forward technology as a solution to such an
+urgent trend of excessive use of chemical fertilizers. This is unsurprising given that technology
+has increasingly been a key tool to facilitate scientific understanding of complex problems
+ranging from global climate change1 (Thatcher, 1989) to urban transformation2 (Montgomery,
+2008), which helps people to better react to them. In their article published in Scientific
+​
+American​, Plucknett and Winkelmann, two leading researchers in agricultural science, suggest
+the use of biotechnology to modify the crops so that the crops would become more “efficient in
+converting nutrients [from soil] into food and fiber products” (Plucknett & Winkelmann, 1995).
+This could minimize the need for chemical fertilizers since the crops would self-sustain
+sufficient amount of nutrients for their growth without the artificial input. In essence, biological
+modification facilitates the growth of the crops just like chemical fertilizers do, but without
+causing any environmental harms to the soil.
+China has acknowledged such an advantage and has spent billions of yuan–equivalent of
+hundreds of millions of the U.S. dollars–for its own biotechnological development in the early
+21st century. It witnessed a rapid progress, as the Chinese government “approved two
+pest-resistant varieties of rice and a biotech corn for commercialization” (Patton, 2014) in 2009.
+Moreover, in September 2014, the Chinese government launched a media campaign to alter the
+negative public perception about genetically modified organisms (GMO) by initiating public
+
+In
+​ her speech to the United Nations, Thatcher asserted that people should employ scientific research
+with advanced technology to get the clearer picture of global warming and to come up with precise
+solutions (Thatcher, 1989).
+
+In
+​ his article published in Science,
+​
+​ Montgomery explains how advanced use of data can help
+demographic researchers to forecast the trend of urban transformation, thereby addressing the
+urbanization issue more accurately (Montgomery, 2008).
+
+Visit the College Board on the web: collegeboard.org.
+
+education on GMO “via TV, newspapers and the Internet” (Patton, 2014). Recently, such a
+sustainability-oriented effort reached beyond the domestic scope when the Chinese Academy of
+Agricultural Sciences, a renowned science educational institution in China, hosted the
+Australia-China Sustainable Agricultural Technology Forum in partnership with an equally
+renowned Australian academic institution called University of Tasmania (Tasmanian Institute of
+Agriculture, 2018). The forum encouraged an in-depth discussion on various topics including
+GMO, enabling potential partnerships and investments on the relevant technology.
+While the heavy emphasis on GMO development certainly contributes to facilitating
+sustainable agriculture, it is crucial to examine whether or not China is opting for the best
+method when it directs its sustainability effort to the development of biotechnology (Ellis, 2018).
+The genetic modification of crops enables the crops to absorb nutrients in an efficient manner.
+However, the quality of harvest does not solely rely on the crops’ ability to absorb nutrients, for
+it is also affected by soil condition, weather, type of crops and the farmers’ efficient use of
+resources (Stern, 2015; Dai, Welham & et al, 2016). Therefore, the improvement on the crops’
+ability to absorb nutrients would not necessarily lead to the optimal outcome. It is worthy to look
+into another type of technology that would account for a variety of the aforementioned factors
+and help the farmers to manage their farming practices in the most efficient manner, thereby
+strengthening the sustainable agriculture of China.
+Luckily, such a technology exists thanks to the Fourth Industrial Revolution3 that entailed
+the rapid development of an unprecedented field of computing technology: Data science. Data
+science utilizes computer science and statistics to obtain key information and insights from a
+
+A technological revolution facilitated by advanced computing and information technology that “will
+fundamentally alter the way we live, work, and relate to one another” (Schwab, 2016).
+
+Visit the College Board on the web: collegeboard.org.
+
+mass amount of data (Dhar, 2013). A key information technology, it helps people to analyze the
+available data of any kind and predict the relevant trend. Such a predictive capacity of data
+science is utilized to optimize outcomes in various fields ranging from business to sports. For
+instance, the e-commerce company Amazon collects a variety of data about its users such as the
+reviews they leave, the amount of time they spend browsing certain page, and what users with
+similar shopping habit purchase (Marr, 2018; Blakhi, 2019), which are then used to “predict
+what [they] want to buy” and to “streamline the process of persuading [them] to buy it” (Marr,
+2018). This enables Amazon to recommend suitable products to its customers and increase the
+total sales4. Similarly, data science is used to predict the performance of potential athletes to
+enable the “efficient acquisition of player talent” (Schuckers, 2016). A set of data including
+potential athletes’ heights and weights, pre-draft performance, and rankings can be used to
+estimate their future performance, which helps the scout managers of professional teams to make
+right decisions.
+Business and sports are by no means the only fields where the predictive capacity of data
+science is employed, as it is also used to tackle sustainability-related problems.
+Sustainability-related problems are the issues that warrant people to sustain a certain system by
+making most of limited resources. Such a restrictive nature of the issue makes data science a
+very useful tool as it generates reliable predictions about certain systems or phenomena, which
+allows people to allocate the available resources in the most efficient manner and prepare for the
+future. A relevant example comes from an article called “The Urban Transformation of the
+Developing World” published in ​Science​. The article​ ​puts forward the issue of urbanization that
+
+In
+​ 2017, Amazon generated $178 billion in annual revenue–the highest value ever–and in September
+2018, its market value reached $1 trillion (Streitfeld, 2018).
+
+Visit the College Board on the web: collegeboard.org.
+
+influences the problems of “urban poverty [and] the urban implications of global climate
+change” (Montgomery, 2008), the two of which are officially set by the United Nations as
+components of “the 17 Sustainable Development Goals” (United Nations, 2015). The article
+suggests that the demographic community is dedicating its efforts to forecasting the city growth.
+During the process, data is heavily used, with the United Nations Population Division leading the
+effort by relying on the algorithmic city forecasting model (Montgomery, 2008). There are some
+inaccuracies to the system, but the researchers are endeavoring to minimize them and to bolster
+the current data science system.
+The ability to forecast the trend of urban transformation is highly valued because it helps
+the municipal governments to effectively monitor their population and build mechanisms to react
+to the aforementioned sustainability-related issues that normally emerge from urban settings
+(Montgomery, 2008). Indeed, with reliable data for population prediction, the politicians will be
+able to decide how to distribute resources and where to build new infrastructure (Simpson,
+2016), making the cities more sustainable and less susceptible to issues such as urban poverty
+and climate change.
+This is analogous to the case of agriculture in China given that the accurate forecast of
+the quality of harvest can facilitate the selection of optimal farming practices. When farmers are
+able to predict the results of certain farming practices, they will be able to compare a variety of
+practices and choose the best one that would optimize their yield. This could lead to successful
+harvests without the support of chemical fertilizers (University of California, Davis, Agricultural
+Sustainability Institute, 2019), which will contribute in establishing a sustainable agricultural
+production system in the nation.
+
+Visit the College Board on the web: collegeboard.org.
+
+DATA SCIENCE FOR SUSTAINABLE AGRICULTURE IN CHINA
+
+Given that the positive impact of the forecasting is noted, it is crucial to discuss a certain
+type of data science that would suit the particular need of the agricultural industry. A research
+paper called “Machine Learning in Agriculture: A Review”5 expounds how data science can be
+used to benefit the agricultural production system by facilitating “crop management [that
+includes] yield prediction and soil management” (Liakos, Busato & et al, 2018). This paper
+suggests the application of Machine Learning, which is a branch of data science that “gives
+machines the ability to learn without being strictly programmed” (Liakos, Busato & et al, 2018).
+In essence, the computer can learn to interpret complicated data and provide with accurate
+predictions based on the input of past data.
+Yield prediction is crucial in a sense that it enables the farmers to grow crops in the most
+efficient manner. Machine Learning allows this process thanks to the high-performance
+computing technology. For instance, when a group of researchers at National University of
+Columbia attempted to predict the yield of coffee fruits, they designed a program that would take
+the type and weight of a crop, the region of its harvest, and the water input into account and
+automatically predict the quantity and quality of coffee fruits depending on the regions (Ramos,
+Prieto & et al, 2017). Another group of researchers came up with the method to use satellite
+images to observe the arable land, which would be input to the computer along with the
+characteristics of certain crops. The data about soil and crops would then be synthesized to
+predict the yield (Pantazi, Moshou & et al, 2016). This allows the farmers to simulate various
+methods of farming on computer and choose the one that is likely to produce the best yield.
+
+​Published in 2018 in a STEM-focused journal called Sensors
+​
+.​
+
+Visit the College Board on the web: collegeboard.org.
+
+Soil management constitutes an equally important part of sustainable agriculture since the
+yield heavily depends on the quality of soil. It is crucial for the farmers to manage their soil
+effectively by watering it properly. Data science plays a crucial role once again as it could
+estimate “soil drying, condition, temperature, and moisture content” (Pantazi, Moshou & et al,
+2016). For instance, in the American city of Urbana, the evaluation of the soil drying was tested.
+The computer predicted the soil drying with the input of “evapotranspiration and precipitation
+data” (Coopersmith, Minsker & et al, 2014) and aided the soil management process by informing
+the farmers about when and how much water to put.
+When applied to the Chinese agricultural industry, data science can transform the
+production method from the “pollute first, and then clean up” (Liu, 2010) approach to a more
+sustainable approach. The farmers will no longer have to rely on the chemical fertilizer as they
+will be able to adopt efficient farming practices that would help them to achieve the highest
+possible yield in a given environment. Currently, data science is being overshadowed by
+biotechnology as the Chinese government is giving special attention to the biotechnology
+industry, predicting that the biotechnology sector would exceed 4% of GDP by 2020 (Ellis,
+2018), which is a significant number given that only a single technology is in charge of the share.
+However, in order to truly establish the system of sustainable agriculture and secure food, it is
+warranted that the government give equal attention to data science.
+An objection may be raised due to potential inaccuracies of data science, as was the case
+for the urban population prediction; the inability to draw the accurate boundary around Beijing
+had caused a considerable inaccuracy in population prediction (Montgomery, 2008). Since the
+operation of data science heavily relies on the input of past data, its prediction would not be
+
+Visit the College Board on the web: collegeboard.org.
+
+accurate if inaccurate data are input in the first place. However, such a shortcoming can be
+covered in the agricultural sector as most of the data are quantifiable. The quantitative nature of
+the data such as weight of crop, maturation percentage of crop, and precipitation rate would
+minimize any subjectivity or inaccuracy. Thus, while the Chinese government should put extra
+care in guaranteeing the accuracy of the initial data, the possibility of inaccuracy should not
+hinder the governmental investment for agricultural data science.
+While data science covers parts of farming that cannot be accounted by biotechnology, it
+does not undermine the effectiveness of biotechnology. Data science provides the farmers with
+yield prediction and the soil quality, which helps them to adjust their farming practices
+accordingly. Yet, biotechnology modifies the crop itself and makes it take the most possible
+nutrients from the available resources. In essence, data science and biotechnology lead to the
+optimal result when they complement each other since the farmers would then be able to harvest
+biologically-advanced crops with the efficient farming practices. Therefore, the Chinese
+government should invest equally in biotechnology and data science in order to develop the
+means for sustainable agriculture, ensuring the food security not just for China but for the world
+as well.
+
+Visit the College Board on the web: collegeboard.org.
+
+References
+Blakhi, S. (2019, January 18). How Companies Are Using Big Data to Boost Sales, and How
+You Can Do the Same. Entrepreneur
+​
+​. Retrieved from https://www.entrepreneur.com/
+​
+article/325923
+
+Coopersmith, E., Minsker, B., Wenzel, C., & Gilmore, B. (2014, June). Machine Learning
+Assessments of Soil Drying for Agricultural Planning. ScienceDirect
+​
+​, 104, 93-104.
+Retrieved from https://doi.org/10.1016/j.compag.2014.04.004
+Dai, J., Welham, C., Cao, L., & Cao, F. (2016). Sustainable Production In Subtropical Hybrid
+Poplar Plantations. Journal
+​
+of Tropical Forest Science,​ 28
+​ ​(2), 190-204. Retrieved from
+http://www.jstor.org/stable/43799222
+Dhar, V. (2013, December). Data Science and Prediction. ​Communications of the ACM​, 56(12),
+64-73. Retrieved from https://doi.org/10.1145/2500499
+Ellis, S. (2018, January 17). Biotech Booms in China. Nature.
+​
+​ Retrieved from
+https://www.nature
+.com/articles/d41586-018-00542-3
+Liakos, K., Busato, P., Moshou, D., Pearson, S., & Bochtis, D. (2018, August 14). Machine
+Learning in Agriculture: A Review. ​National Center for Biotechnology Information​.
+Retrieved from https://doi.org/10.3390/s18082674
+​
+Liu, J. (2010, April 2). China’s Road to Sustainability. ​Science​, 50. Retrieved from:
+https://doi.org/10.1126/science.1186234
+​
+Liu, X., Zhang, X., & Herbert, S.J. (2010, May 27). Feeding
+​
+China’s Growing Needs For Grain.
+Nature​, 420. Retrieved from: https://doi.org/10.1038/465420a
+
+Visit the College Board on the web: collegeboard.org.
+
+DATA SCIENCE FOR SUSTAINABLE AGRICULTURE IN CHINA
+
+Mahbubani, K. (2008). The New Asian Hemisphere: The Irresistible Shift of Global Power to the
+East. New York, United States: Public Affairs.
+Marr, B. (2018). How Amazon Uses Big Data in Practice. ​Bernard Marr & Co.​ Retrieved from
+https://www.bernardmarr.com/default.asp?contentID=712
+Montgomery, M. (2008, February 8). The Urban Transformation of the Developing World.
+Science​, 319, 761-764. Retrieved from http://science.sciencemag.org/content/
+319/5864/761
+National Bureau of Statistics of China. (2008, February 21). Communiqué on Major Data of the
+Second National Agricultural Census of China (No.1). Retrieved from
+https://web.archive.org/web/20131213092519/http://www.stats.gov.cn/was40/reld
+etail. jsp?docid=402464541
+National Bureau of Statistics of China. (2013, December 27). Population Statistics.
+Norse, D., & Ju, X. (2015, November 1). Environmental Costs of China’s Food Security.
+ScienceDirect​, 209, 5-14. Retrieved from https://www.sciencedirect.com/science/
+article/pii/S0167880915000699
+Pantazi, X., Moshou, D., Alexandridis, T., Whetton, R., & Mouazen, A. (2016, February). Wheat
+Yield Prediction Using Machine Learning and Advanced Sensing Techniques. Science
+Direct, 121, 57-65. Retrieved from https://www.sciencedirect.com/science/
+article/pii/S0168169915003671
+Patton, D. (2014, September 30). China Launches Media Campaign to Back Genetically
+Modified Crops. Scientific
+​
+American​. Retrieved from
+https://www.scientificamerican.com
+
+Visit the College Board on the web: collegeboard.org.
+
+DATA SCIENCE FOR SUSTAINABLE AGRICULTURE IN CHINA
+
+/search/?q=China+launches+media+campaign+to+back+genetically+modified+crops
+Plucknett, D., & Winkelmann, D. (1995). Technology for Sustainable Agriculture. Scientific
+​
+American,​ ​273(3),
+​
+182-186. Retrieved from http://www.jstor.org/stable/24981783
+Ramos, P., Prieto, F., Montoya, E., & Oliveros, C. (2017, May). Automatic Fruit Count on
+Coffee Branches Using Computer Vision. Computers and Electronics in Agriculture, 137,
+9-22. Retrieved from https://dl.acm.org/citation.cfm?id=3097101
+Schuckers, M. (2016). Draft by Numbers: Using Data and Analytics to Improve National Hockey
+League Player Selection. ​MIT Sloan Sports Analytics Conference​. Retrieved from
+http://www.sloansportsconference.com/wp-content/uploads/2016/02/1559-Draft-by-Num
+bers.pdf
+Schwab, K. (2016, January 14). The Fourth Industrial Revolution: What It Means, How to
+Respond. ​World Economic Forum.​ Retrieved from https://www.weforum.org/agenda/
+2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/
+Simpson, W. (2016, January 26). The Importance of Population Forecasts for Your
+Comprehensive Plan. ​MRSC of Washington.​ Retrieved from http://mrsc.org/Home/
+Stay-Informed/MRSC-Insight/January-2016/The-Importance-of-Population-Forecasts-for
+-your-Co.aspx
+Stern, M. (2015, January 28). Data Science: The Next Revolution in Sustainable Agriculture. ​The
+Climate Corporations​. Retrieved from https://climate.com/blog/data-science-thenext-revolution-in-sustainable-agriculture
+Streitfeld, D. (2018, September 4). Amazon Hits $1,000,000,000,000 in Value, Following Apple.
+
+Visit the College Board on the web: collegeboard.org.
+
+DATA SCIENCE FOR SUSTAINABLE AGRICULTURE IN CHINA
+
+The New York Times​. Retrieved from https://www.nytimes.com/2018/09/04/
+technology/amazon-stock-price-1-trillion-value.html
+Tasmanian Institute of Agriculture. (2018, April 30). Australia-China Sustainable Agricultural
+Technology Forum. ​Tasmanian Institute of Agriculture​. Retrieved from http://www.utas.
+edu.au/tia/news-events/event/australia-china-sustainable-agricultural-technology-forum
+Thatcher, M. (1989, November 8). Speech to United Nations General Assembly. Retrieved from
+https://www.margaretthatcher.org/document/107817
+United Nations. (2015). The Sustainable Development Agenda: 17 Goals to Transform Our
+World. United
+​
+Nations​. Retrieved from https://www.un.org/sustainabledevelopment/
+development-agenda/
+University of California, Davis, Agricultural Sustainability Institute. (2019). Organic Farming.
+University of California, Davis​. Retrieved from https://asi.ucdavis.edu/programs/
+ucsarep/about/what-is-sustainable-agriculture/practices/organic-farming
+Wolf, M. (2018, April 10). US-China Rivalry Will Shape the 21st Century. ​Financial Times​.
+Retrieved from https://www.ft.com/content/5f796164-3be1-11e8-b9f9-de94fa33a81e
+Yu, J., & Wu, J. (2018, May 29). The Sustainability of Agricultural Development in China: The
+Agriculture–Environment Nexus. Sustainability
+​
+​. Retrieved from
+file:///Users/kis/Downloads/sustainability-10-01776.pdf
+Zhang, W., Dou, Z., He, P., Ju, X., Powlson, D., Chadwick, D., Norse, D., Lu, Y., Zhang, Y., &
+Wu, L. (2013, May 21). New Technologies Reduce Greenhouse Gas Emissions From
+Nitrogenous Fertilizer in China. ​Proceedings of the National Academy of Sciences of the
+United States of America,​ 110. Retrieved
+​
+from https://doi.org/10.1073/pnas.1210447110
+​
+
+Visit the College Board on the web: collegeboard.org.

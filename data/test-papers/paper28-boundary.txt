@@ -1,0 +1,52 @@
+TEST PAPER 28 — Expected score: Mid 3
+This paper has real experimental data from a physical experiment with plants, a replicable method, and some scholarly grounding. The gap is asserted. The method is described but not defended against alternatives. Results are descriptive with no inferential statistics. Implications are thin. Should be Mid 3.
+The Effect of Music Genre on Plant Growth Rate in Phaseolus Vulgaris
+AP Research
+April 2025
+Word Count: 3,847
+Introduction
+The idea that plants respond to sound and music has captured popular imagination for decades. Anecdotal reports of plants growing faster or healthier when exposed to music have circulated in gardening communities and popular media since the 1960s. Research on the effects of sound on plant growth began in the 1960s and has continued sporadically since then with mixed results. Sound waves are vibrations that travel through air and other media and can interact with plant cells through mechanical stimulation of membranes, stomata, and other structures (Gagliano, 2013). Some researchers have proposed that plants have mechanosensory capabilities that allow them to detect and respond to sound vibrations in their environment. If plants can detect and respond differentially to different types of sound including music of different genres this would have practical implications for agricultural production where music playback is low-cost and easily implementable. This research investigates the following question: What is the effect of exposure to classical music, heavy metal music, and silence on the growth rate of Phaseolus vulgaris (common bean plants) over a 21-day period?
+Literature Review
+Sound and Plant Growth
+Research on sound and plant growth has produced mixed results over several decades. Weinberger and Measures (1968) reported that sound stimulation at frequencies of 5,000 Hz produced faster germination rates in wheat compared to controls. Hou and Mooneyham (1999) exposed plants to music and found differential growth responses but their methodology has been criticized for poor experimental controls. Gagliano et al. (2012) conducted more rigorously controlled experiments on plant responses to sound and found that corn roots grew toward the source of sound vibrations at specific frequencies, suggesting genuine mechanosensory capabilities. However Gagliano (2013) reviewed the broader literature and concluded that while plants clearly have mechanosensory capabilities, the evidence for differential responses to music specifically — as opposed to pure tone frequencies — remains limited and inconsistent.
+Music and Plants Specifically
+Several studies have examined music specifically rather than pure tones. Retallack (1973) published an early and widely cited study claiming that plants grew toward classical music and away from rock music but the study has been widely criticized for methodological weaknesses including small sample sizes and inadequate controls. Singh (1962) reported that plants exposed to ragas — a form of Indian classical music — showed accelerated growth compared to controls but this study similarly lacks the methodological rigor needed to support strong conclusions. More recently Chivukula and Bhattacharya (2021) conducted a controlled experiment examining the effect of different music genres on germination and early growth in fenugreek seeds and found no statistically significant differences between music conditions and silence. The most methodologically rigorous studies have generally found smaller or no effects of music on plant growth.
+Gap
+There is a gap in the research because most studies have used seeds or very young seedlings rather than examining growth across a longer developmental period. Additionally most studies have not compared classical and heavy metal music directly while also including a silence control. This study fills that gap by examining growth across a 21-day period comparing classical music, heavy metal music, and silence in Phaseolus vulgaris.
+Methodology
+Research Design
+This experiment used a controlled experimental design with three conditions: classical music (Mozart), heavy metal music (Metallica), and silence (control). Each condition had five plants for a total of 15 plants. Plants in each condition were placed in separate identical containers in the same room with a partition between conditions to prevent sound from one condition reaching plants in another condition. The experiment ran for 21 days.
+Materials
+Phaseolus vulgaris seeds were purchased from a garden supply store. All seeds came from the same package to ensure genetic consistency. Identical plastic containers were used for all plants filled with standard potting mix from the same bag. Music was played through a small Bluetooth speaker placed 30 centimeters from the plants in each music condition at a volume of approximately 65 decibels measured with a smartphone decibel meter app. Classical music was a playlist of Mozart piano sonatas. Heavy metal music was a playlist of Metallica songs. The silence condition had no speaker or music.
+Procedure
+Seeds were planted on Day 0 at a depth of 2 centimeters. All plants received 50 milliliters of water every two days. All plants were placed on the same windowsill to receive equivalent natural light. Music was played for 3 hours each day from 9am to 12pm. Plant height was measured every 3 days from Day 3 through Day 21 using a ruler. The same person measured all plants to reduce measurement variability. All measurements were recorded in a spreadsheet.
+Results
+Table 1 presents mean plant height by condition and measurement day.
+Day — Classical (cm) — Heavy Metal (cm) — Silence (cm)
+3 — 2.1 — 1.8 — 2.0
+6 — 4.8 — 4.2 — 4.5
+9 — 8.3 — 7.1 — 7.8
+12 — 12.4 — 10.3 — 11.7
+15 — 16.2 — 13.8 — 15.1
+18 — 19.8 — 16.4 — 18.3
+21 — 23.1 — 19.2 — 21.4
+Plants in the classical music condition showed the fastest growth across all measurement points with a final mean height of 23.1 cm at Day 21. Plants in the silence condition showed intermediate growth with a final mean height of 21.4 cm. Plants in the heavy metal condition showed the slowest growth with a final mean height of 19.2 cm.
+The difference between classical and heavy metal conditions at Day 21 was 3.9 cm. The difference between classical and silence was 1.7 cm. The difference between silence and heavy metal was 2.2 cm.
+No statistical tests were conducted because the sample size of five plants per condition was considered too small for meaningful statistical analysis.
+Discussion
+The results show a consistent pattern across all 21 days with classical music plants growing slightly faster than silence plants and both growing faster than heavy metal plants. This pattern is consistent with popular beliefs about music and plant growth and is partially consistent with some prior research suggesting classical music may promote growth. However the differences between conditions are small — less than 4 centimeters at Day 21 — and without statistical tests it is impossible to determine whether these differences are meaningful or simply reflect natural variation between individual plants.
+The heavy metal plants showed the slowest growth which is consistent with the popular belief that loud aggressive music is harmful to plants. However Chivukula and Bhattacharya (2021) found no music effect in their more rigorous study, suggesting that the pattern observed here may reflect uncontrolled variables rather than true music effects.
+Limitations
+The sample size of five plants per condition is too small to detect small effects statistically. No statistical tests were conducted. All plants were on the same windowsill which means they may have received slightly different amounts of light depending on their exact position. The decibel measurement using a smartphone app may be less accurate than a calibrated instrument. The heavy metal music was louder in terms of dynamic range variation than the classical music even at the same average decibel level which means the conditions differed in more than just genre.
+Implications
+This experiment suggests that music genre may have small effects on plant growth that warrant investigation with larger samples and proper statistical analysis. Farmers and gardeners interested in using music to promote plant growth should note that this study's results are preliminary and cannot support practical recommendations.
+Conclusion
+This experiment found a pattern of faster growth under classical music conditions compared to silence and heavy metal conditions in Phaseolus vulgaris over 21 days. However the small sample size and absence of statistical testing prevent any conclusions from being drawn. Future research with larger samples and inferential statistics is needed to determine whether music genre genuinely affects plant growth rate.
+References
+Chivukula, V., & Bhattacharya, S. (2021). Effect of different genres of music on plant growth. International Journal of Environmental and Agriculture Research, 7(1), 1–8.
+Gagliano, M. (2013). Green symphonies: A call for studies on acoustic communication in plants. Behavioral Ecology, 24(4), 789–796.
+Gagliano, M., Mancuso, S., & Robert, D. (2012). Towards understanding plant bioacoustics. Trends in Plant Science, 17(6), 323–325.
+Hou, T. Z., & Mooneyham, R. E. (1999). Applied studies of plant meridian systems: The effects of acupuncture needling at the ST-36 locus on the immunity and growth of plants. American Journal of Chinese Medicine, 27(1), 11–18.
+Retallack, D. (1973). The sound of music and plants. DeVorss.
+Singh, T. C. N. (1962). The effect of musical vibrations on plant growth. Allahabad University Studies.
+Weinberger, P., & Measures, M. (1968). Effects of two audible sound sources on germination and growth. Canadian Journal of Botany, 46(10), 1219–1226.

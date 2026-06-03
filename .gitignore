@@ -1,0 +1,10 @@
+/node_modules
+/.next/
+/out/
+.DS_Store
+.env*.local
+data/.cache/
+*.tsbuildinfo
+data/synthetic-papers/
+data/benchmarks/
+data/error-patterns/

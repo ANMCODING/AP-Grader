@@ -1,0 +1,71 @@
+{
+  "tolerance": 3,
+  "papers": [
+    {
+      "file": "iwa_1_crispr.txt",
+      "task": "iwa",
+      "label": "IWA-1 CRISPR",
+      "totalBand": [44, 48]
+    },
+    {
+      "file": "iwa_2_gig_economy.txt",
+      "task": "iwa",
+      "label": "IWA-2 Gig Economy",
+      "totalBand": [41, 44]
+    },
+    {
+      "file": "iwa_3_mandatory_voting.txt",
+      "task": "iwa",
+      "label": "IWA-3 Mandatory Voting",
+      "totalBand": [44, 48]
+    },
+    {
+      "file": "iwa_4_antibiotics.txt",
+      "task": "iwa",
+      "label": "IWA-4 Antibiotics",
+      "totalBand": [30, 36]
+    },
+    {
+      "file": "iwa_5_screen_time.txt",
+      "task": "iwa",
+      "label": "IWA-5 Screen Time",
+      "totalBand": [14, 18]
+    },
+    {
+      "file": "irr_1_social_isolation.txt",
+      "task": "irr",
+      "label": "IRR-1 Social Isolation",
+      "totalBand": [28, 30],
+      "rowGuidance": {
+        "row4_perspective": [2, 4]
+      }
+    },
+    {
+      "file": "irr_2_charter_schools.txt",
+      "task": "irr",
+      "label": "IRR-2 Charter Schools",
+      "totalBand": [23, 26],
+      "rowGuidance": {
+        "row4_perspective": [2, 4]
+      }
+    },
+    {
+      "file": "irr_3_min_wage.txt",
+      "task": "irr",
+      "label": "IRR-3 Min Wage",
+      "totalBand": [22, 26]
+    },
+    {
+      "file": "irr_4_homework.txt",
+      "task": "irr",
+      "label": "IRR-4 Homework",
+      "totalBand": [11, 14]
+    },
+    {
+      "file": "irr_5_outdoor_education.txt",
+      "task": "irr",
+      "label": "IRR-5 Outdoor Education",
+      "totalBand": [7, 10]
+    }
+  ]
+}

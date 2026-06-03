@@ -1,0 +1,1929 @@
+DO not contunie to this promt u nutl to implrement the other one: AP Seminar IWA engine v2.5.5 — Negative signal detection, penalty triggers, and structural boundary patterns for all scored rows.
+AP Seminar only. Do not touch lib/grader/. Run npm run seminar:regression after implementation. Target: 18/18 at ±3, 11/11 golden batch, clean tsc.
+The previous prompt expanded what the engine detects as positive signals. This prompt is the complement: it tells the engine what to penalize, what to ignore, what structural features indicate a failing paper, what titles and headings signal the wrong genre or task, and when to withhold points even when surface signals appear positive. These are the deduction rules, the zero-floor triggers, the false positive guards, and the structural boundary detectors.
+Implement all patterns as additions to existing detection logic in seminarDeepCalibration.ts, seminarPatterns.ts, and iwaRows.ts. Do not remove any existing patterns. Add only. Where a new detection array is needed, create it with the IRR_ or IWA_ prefix as appropriate.
+
+ROW 1 — STIMULUS INTEGRATION: WHEN TO WITHHOLD AND WHEN TO DEDUCT
+STIMULUS_WITHHOLD_TRIGGERS — these 200 patterns indicate Row 1 = 0 regardless of whether a stimulus author name appears. Even if Norberg is named, if the surrounding context matches these patterns, stimulusZeroReason must fire and Row 1 = 0:
+CATEGORY A — Tangential use (stimulus appears but does not contribute to argument):
+
+"[Stimulus author] defines [term] as" — definition-only use, Row 1 = 0
+"[Stimulus author] is one researcher who studies [topic]" — topic reference only
+"[Stimulus author] has written about [topic]" — bibliographic reference only
+"[Stimulus author] briefly discusses" — minimal engagement
+"[Stimulus author] mentions" — passing reference
+"[Stimulus author] touches on" — insufficient engagement
+"[Stimulus author] alludes to" — indirect reference only
+"as [Stimulus author] once said" — decorative quotation
+"in the words of [Stimulus author]" — quotation without analysis
+"to quote [Stimulus author]" — quotation without argumentative function
+"[Stimulus author] is cited here for background" — explicitly background use
+"[Stimulus author] provides context" — context-only use without argument function
+"[Stimulus author] offers an overview of" — summary use
+"[Stimulus author] gives a description of" — descriptive use only
+"[Stimulus author] outlines" — structural reference without integration
+"[Stimulus author] traces the history of" — historical background only
+"[Stimulus author] surveys the field of" — survey reference only
+"[Stimulus author] summarizes research on" — meta-reference only
+"according to [Stimulus author], [topic] is important" — generic significance claim
+"[Stimulus author] acknowledges this issue" — acknowledgment without integration
+"[Stimulus author] notes this concern" — concern reference without function
+"[Stimulus author] recognizes this problem" — recognition reference only
+"[Stimulus author] is aware that" — awareness reference without argument
+"as [Stimulus author] explains" followed immediately by a definition — definition pattern
+"[Stimulus author] offers an example of" — example-only use
+"[Stimulus author] provides an illustration of" — illustration-only use
+"[Stimulus author] references the instance of" — instance reference only
+"[Stimulus author] can be used to understand" — potential use stated, not executed
+"[Stimulus author] is relevant to this topic because" — relevance stated without integration
+"this connects to [Stimulus author] because" — connection stated without integration
+
+CATEGORY B — Mention-only in introduction, not returned to:
+
+"[Stimulus author] is mentioned in the introduction and not again" — intro-only pattern
+"as [Stimulus author] wrote in [year], [topic] is" followed by complete paragraph change — no follow-through
+"[Stimulus author] opened by noting [X]" — used only as hook
+"to introduce this topic, [Stimulus author]" — explicit hook-only framing
+"by way of introduction, [Stimulus author]" — intro framing only
+"to set the stage, [Stimulus author]" — stage-setting only
+"as a starting point, [Stimulus author]" — starting point only
+"[Stimulus author] provides a jumping-off point" — explicitly jumping-off point
+"this report begins with [Stimulus author] before moving to" — explicit transition away
+"having introduced [Stimulus author]'s idea, this paper turns to" — explicit abandonment
+"[Stimulus author] was mentioned in the opening paragraph" — retrospective mention
+"as noted at the outset, [Stimulus author]" followed by no further citation — single use
+"[Stimulus author] appears only in the first paragraph" — structural isolation confirmed
+"this paper opened with [Stimulus author] to establish context" — context-only framing
+"the introduction drew on [Stimulus author]" — introduction-only use stated
+
+CATEGORY C — Wrong-year packet authors:
+
+"[2023 packet author name] is cited in a paper identifying as 2025 exam" — wrong year
+"[2024 packet author name] is cited in a paper identifying as 2025 exam" — wrong year
+"the stimulus packet from [prior year]" — explicit wrong-year reference
+"last year's stimulus included" — explicit prior-year reference
+"the [prior year] packet author" — explicit prior-year framing
+"sources from the previous AP Seminar exam" — explicit prior-year use
+"citing [named prior-year author] as a packet source" — verifiable prior-year author
+
+CATEGORY D — Misrepresentation of stimulus:
+
+"[Stimulus author] argues [X]" where X contradicts the stimulus source's actual argument — misrepresentation
+"[Stimulus author] supports [X]" where the source actually opposes X — misrepresentation
+"[Stimulus author] found that [X]" where X is not in the stimulus source — fabrication
+"according to [Stimulus author], [claim that is not in the source]" — unsupported attribution
+"[Stimulus author] stated [X]" where X is a distortion — misquotation pattern
+"in [Stimulus author]'s words, [paraphrase that inverts meaning]" — meaning inversion
+"[Stimulus author] is used here to show [X]" where X contradicts source's position — misuse
+"this paper uses [Stimulus author] to argue [X]" where source argues against X — contradiction
+
+CATEGORY E — Block quote without commentary:
+
+"[Stimulus author] writes: [block quote of 50+ words]" with no following commentary — block quote only
+"[Stimulus author]: '[extended quotation]'" with paragraph ending immediately after — no analysis
+"in [Stimulus author]'s words: '[extended passage]'" with no subsequent engagement — quotation only
+"[Stimulus author] explains: '[long passage]'" with transition to new topic — no follow-through
+"to quote [Stimulus author] at length: '[passage]'" — length admission signals no analysis
+"[Stimulus author] put it best: '[extended quote]'" — decorative quotation
+"as [Stimulus author] eloquently stated: '[extended passage]'" — rhetorical quotation only
+"[Stimulus author]'s own words capture it perfectly: '[long quote]'" — rhetorical use only
+"[extended block quote from stimulus]" with following sentence beginning a new topic — abandoned
+"the following passage from [Stimulus author] is instructive: '[passage]'" — no analysis follows
+
+CATEGORY F — Generic packet references without author name:
+
+"as the stimulus suggests" — no named author
+"the packet argues" — no named source
+"source A in the packet" — no named author
+"source B from the stimulus" — no named author
+"the provided source" — no named author
+"one of the stimulus materials" — no named author
+"the stimulus packet states" — no named source
+"in the stimulus materials" — no named author
+"as provided in the sources" — no named author
+"the given sources indicate" — no named author
+"the course materials suggest" — no named author
+"the assigned readings note" — no named author
+"from the packet" — no named author
+"per the stimulus" — no named author
+"drawing from the packet" — no named author
+
+CATEGORY G — Stimulus in bibliography only:
+
+"[Stimulus author] appears only in the bibliography" — not in body
+"[Stimulus author] is listed in works cited but not cited in body" — bibliography only
+"[Stimulus author] is included in references without body citation" — no in-text integration
+"[Stimulus author] bibliography entry without in-text mention" — structural bibliography-only use
+"the stimulus source appears in the works cited without in-text citation" — explicit bibliography only
+
+CATEGORY H — Titles that signal wrong task:
+
+Title contains "An Exploration of [Topic]" — exploratory framing, not IWA
+Title contains "A Survey of [Topic]" — survey framing, not IWA
+Title contains "An Overview of [Topic]" — overview framing
+Title contains "A Review of [Topic]" — review framing
+Title contains "A Summary of [Topic]" — summary framing
+Title contains "An Analysis of Both Sides of [Topic]" — both-sides framing
+Title contains "Pros and Cons of [Topic]" — pros/cons framing
+Title contains "Advantages and Disadvantages of [Topic]" — balanced framing
+Title contains "Multiple Perspectives on [Topic]" — descriptive framing
+Title contains "Different Views on [Topic]" — descriptive framing
+
+CATEGORY I — Stimulus author matched via false positive patterns:
+
+"However" triggering Howe match — word-boundary failure guard: "However" ≠ "Howe"
+"Whoever" triggering Howe match — guard: "Whoever" ≠ "Howe"
+"Whomever" triggering Howe match — guard
+"Johnson" without year or initial — guard: too common, require "N. Johnson" or year
+"Shaw" without "and Porter" or year — guard: too common standalone
+"Garrie" matching Garry — guard: different spelling, no match
+"Knott" without "Howe" or year — guard: require "Howe and Knott" or "Knott (2015)"
+"Lau" matching "Lau-Zhu" — guard: require full hyphenated name
+"Source A in the packet" matching any author name — guard: generic reference blocks match
+Author name appearing only in the research question sentence — guard: RQ sentence ≠ integration
+
+CATEGORY J — Stimulus used only for statistics that could come from any source:
+
+"[Stimulus author] found that [generic statistic]" — stimulus used only as a statistical source without argumentative framing
+"[Stimulus author] reports that [N]%" — pure statistical citation without connection to argument
+"according to [Stimulus author], [number] people [condition]" — statistical-only use
+"[Stimulus author] documented [statistic]" with no following analytical use — data retrieval only
+"citing [Stimulus author] for the statistic that [X]" — explicitly statistical-only use
+"[Stimulus author]'s data shows [X]" with no argumentative extension — data-only use
+"[Stimulus author]'s numbers indicate [X]" — numerical-only integration
+"[Stimulus author] provides the figure that [X]" — figure-retrieval use only
+"the statistic from [Stimulus author] — [X]" with no analytical follow-through — statistic dump
+"[Stimulus author] gives us the number [X]" — informal number retrieval
+
+CATEGORY K — Stimulus appears only in counterargument concession:
+
+"[Stimulus author] raises the concern that [X], but this concern is dismissed" — concession-only use
+"critics like [Stimulus author] argue [X], however this paper disagrees" — perfunctory opposition
+"[Stimulus author] presents a counterargument, which this paper rejects" — opposition only
+"while [Stimulus author] argues [X], this paper takes the opposite view" — binary opposition without engagement
+"[Stimulus author] is cited here only to be refuted" — explicitly refutation-only
+"the stimulus source is mentioned to acknowledge an opposing view" — explicit concession-only framing
+"[Stimulus author] raises an objection that is ultimately set aside" — dismissal without genuine engagement
+"[Stimulus author]'s concern, while noted, does not affect the argument" — dismissal pattern
+"acknowledging [Stimulus author], this paper nevertheless argues" — perfunctory acknowledgment
+"[Stimulus author] objects that [X], but this objection is unpersuasive" — dismissal
+
+CATEGORY L — Visual/image stimulus without naming the creator:
+
+"the photograph shows" — unnamed visual source
+"the image depicts" — unnamed visual source
+"the picture illustrates" — unnamed visual source
+"the visual source displays" — unnamed visual source
+"as seen in the image" — unnamed visual source
+"the graphic represents" — unnamed visual source
+"looking at the photograph" — unnamed visual reference
+"the photo captures" — unnamed photo
+"in this image" — unnamed image
+"the picture provided" — unnamed provided picture
+
+CATEGORY M — Stimulus year mismatch signals:
+
+"citing sources from the [prior year] AP Seminar exam" — explicit year mismatch
+"using materials from a previous AP Seminar stimulus" — explicit prior-year use
+"the [named prior-year author] from the [prior year] packet" — explicit year + author mismatch
+"[named prior-year author] (from last year's packet)" — explicit acknowledgment of wrong year
+"this paper uses [named prior-year source]" — verifiable prior-year source reference
+
+CATEGORY N — Stimulus in footnotes or endnotes only:
+
+"[Stimulus author] appears only in a footnote" — not in body text
+"[Stimulus author] is cited in endnote [N] only" — not in body text
+"see footnote [N] for [Stimulus author]" — body excludes the stimulus
+"[Stimulus author] referenced in note [N]" — note-only citation
+"the stimulus source is discussed in the notes section" — body exclusion
+
+CATEGORY O — Over-reliance on single stimulus author without genuine integration:
+
+"[Stimulus author] appears [10+] times but only as citations without commentary" — cite-stuffing
+"[Stimulus author] is cited in every paragraph without ever being engaged analytically" — mechanical citation
+"repeated citation of [Stimulus author] without any analytical engagement" — citation frequency without quality
+"[Stimulus author] cited [N] times; all citations are parenthetical with no surrounding commentary" — parenthetical-only overuse
+"citing [Stimulus author] in every sentence of a paragraph without developing any idea" — cite-stuffing pattern
+
+CATEGORY P — Stimulus used only for aesthetic or structural purposes:
+
+"[Stimulus author] is cited in the epigraph only" — epigraph use without body integration
+"[Stimulus author] provides the title or section heading" — structural use only
+"the paper is titled after [Stimulus author]'s concept" — title use only
+"[Stimulus author]'s phrase is used as a title without body engagement" — decorative title use
+"the [Stimulus author] quote opens each section as a header" — decorative header use
+
+CATEGORY Q — Stimulus in paper that is off-topic from all packet themes:
+
+"stimulus authors cited in a paper with no thematic connection to memory, nostalgia, or [named packet themes]" — thematic mismatch
+"Norberg cited in a paper about [completely unrelated topic] with no thematic bridge" — thematic disconnect
+"[Stimulus author] named but argument has no connection to any packet theme" — thematic isolation
+"packet author cited but paper's research question is unrelated to any stimulus theme" — thematic disconnect
+"stimulus reference that could be deleted with no effect on the argument" — explicit delete-test failure
+
+CATEGORY R — Patterns that look like integration but are not:
+
+"[Stimulus author] and [other authors]" in a list without individual engagement — list citation
+"including [Stimulus author]" in a list of researchers — list embedding
+"among others, [Stimulus author]" — among-others reference
+"[Stimulus author], [Source B], and [Source C] all agree that" — undifferentiated group citation
+"as [Stimulus author] and other researchers have noted" — group reference
+
+CATEGORY S — Stimulus integrated only in conclusion:
+
+"[Stimulus author] appears only in the conclusion" — late-only integration
+"the conclusion returns to [Stimulus author] without prior engagement" — conclusion-only
+"in conclusion, [Stimulus author] reminds us that" — concluding quotation only
+"[Stimulus author] is cited in the final paragraph as a closing thought" — closing thought only
+"ending with [Stimulus author]'s words" — decorative conclusion citation
+
+CATEGORY T — Miscellaneous Row 1 zero triggers:
+
+"response is off-topic from all stimulus themes" — off-topic trigger
+"paper cites prior-year packet authors only" — wrong year
+"no named stimulus author appears anywhere in body text" — absence trigger
+"stimulus bibliography entry with zero in-text matches" — bibliography-only
+"stimulus reference appears zero times in body word scan" — absence confirmed
+"paper is in a language other than English" — non-English trigger
+"paper is a repetition of the prompt" — prompt repetition trigger
+"paper consists of drawings or non-text markings" — non-text trigger
+"paper is a presentation format, not an essay" — wrong format trigger
+"paper is blank or nearly blank" — NR/blank trigger
+"stimulus named but misidentified as supporting a claim it contradicts" — misrepresentation
+"stimulus author name appears only in a parenthetical at the end of a block quote" — quotation-only attribution
+"stimulus appears after 'see also' without engagement" — see-also reference
+"stimulus cited as [Source A] or [Source B] with generic label" — generic label
+"stimulus author appears only in a table or figure caption without body integration" — caption-only
+
+CATEGORY U — Titles that suggest strong Row 1 = 5 (positive signals for Row 1 confidence):
+
+Title contains "[Stimulus author]'s [Concept] Applied to [Topic]" — analytical title with stimulus
+Title contains "Through the Lens of [Stimulus author]" — framework title
+Title contains "[Packet theme] and [RQ topic]: [Analytical claim]" — thematic alignment
+Title contains "[Stimulus concept] in [Named context]" — concept application
+Title contains "Beyond [Stimulus concept]: [Named extension]" — critical engagement with stimulus
+Title contains "[Named RQ topic]: A [Stimulus concept] Analysis" — stimulus-framed analysis
+Title contains "[Stimulus author]'s [named concept] as a Framework for" — framework use
+Title contains "How [Stimulus concept] Explains [Named phenomenon]" — application title
+Title contains "[Named phenomenon] Through [Stimulus concept]" — lens title
+Title contains "[Stimulus author] and [Named topic]: [Analytical claim]" — author-topic synthesis title
+
+ROW 2 — CONTEXT AND SIGNIFICANCE: WHEN TO DEDUCT AND WHEN TO CAP
+ROW2_ZERO_TRIGGERS — these 200 patterns force specificityScore to 0 or apply a -2 deduction when they dominate the opening 800 words. When 3 or more zero-trigger patterns dominate the opening with no compensating high-value signals, Row 2 = 0:
+CATEGORY A — Vague universalizing openers (each = 0 contribution, multiple = -1 each):
+
+"this topic affects everyone" — vague universalizing
+"this issue impacts all of society" — vague universalizing
+"this problem touches every life" — vague universalizing
+"nobody is immune to this issue" — vague universalizing
+"this crosses all national borders" — vague universalizing
+"this is a universal challenge" — vague universalizing
+"this affects people of all ages" — vague universalizing
+"this impacts every community" — vague universalizing
+"this is a problem for everyone" — vague universalizing
+"this has no simple solution" — complexity claim without specificity
+
+CATEGORY B — Personal motivation statements (-1 each):
+
+"I chose this topic because" — personal motivation
+"I became interested in this when" — personal motivation
+"this topic is personally meaningful to me" — personal motivation
+"I have always been passionate about" — personal motivation
+"growing up, I noticed that" — personal motivation
+"this issue hit close to home" — personal motivation
+"I was inspired to write about this because" — personal motivation
+"from my own experience" — personal experience as context
+"in my community, I have seen" — personal community observation
+"as someone who has experienced [X]" — personal experience framing
+
+CATEGORY C — Dictionary definition openers (0 contribution to specificityScore):
+
+"the [named dictionary] defines [X] as" — definition opener
+"[X] is defined as" — definition opener
+"by definition, [X] means" — definition opener
+"the word [X] comes from" — etymology opener
+"the term [X] refers to" — terminology opener
+"the meaning of [X] is" — meaning opener
+"according to the dictionary, [X] is" — dictionary reference
+"[X], as defined by [dictionary]" — dictionary framing
+"the literal meaning of [X] is" — literal meaning opener
+"etymologically, [X] derives from" — etymology opener
+
+CATEGORY D — Unsubstantiated trend claims (0 contribution unless followed by citation within 50 words):
+
+"[X] is a growing problem" — trend without evidence
+"[X] is on the rise" — trend without citation
+"[X] is increasing rapidly" — trend without citation
+"[X] is becoming more common" — trend without citation
+"[X] is spreading globally" — trend without citation
+"rates of [X] are climbing" — trend without citation
+"[X] is more prevalent than ever" — trend without citation
+"the problem of [X] is worsening" — trend without citation
+"[X] is escalating" — trend without citation
+"[X] has never been more serious" — trend without citation
+
+CATEGORY E — Temporal vagueness without specificity (0 contribution):
+
+"throughout history" — temporal vagueness
+"since ancient times" — temporal vagueness
+"for centuries" — temporal vagueness
+"since the dawn of civilization" — temporal vagueness
+"over the course of human history" — temporal vagueness
+"as long as humans have existed" — temporal vagueness
+"from the earliest times" — temporal vagueness
+"going back thousands of years" — temporal vagueness
+"this is nothing new" — temporal vagueness
+"this has always been a problem" — temporal vagueness
+
+CATEGORY F — Rhetorical question as primary context (0 contribution, -1 if only context):
+
+"what would happen if [X]?" — rhetorical question only
+"have you ever wondered about [X]?" — rhetorical question
+"what does it mean to [X]?" — rhetorical question
+"why does [X] matter?" — rhetorical question
+"how can we address [X]?" — rhetorical question opener
+"what is the solution to [X]?" — rhetorical question
+"is [X] a problem we can solve?" — rhetorical question
+"should we be concerned about [X]?" — rhetorical question
+"what if [X] were [Y]?" — hypothetical question
+"when will [X] change?" — rhetorical question
+
+CATEGORY G — Wrong-population statistics (-1 deduction):
+
+"[N]% of [population completely unrelated to RQ]" — wrong population
+"global average [statistic] unrelated to RQ variable" — wrong variable
+"[statistic] from [country unrelated to RQ context]" — wrong geography
+"[statistic] about [topic adjacent to but not the RQ topic]" — wrong topic
+"[N] million [people unrelated to investigation focus]" — wrong population
+"[trend statistic] from [time period irrelevant to RQ]" — wrong timeframe
+"[statistic] that could apply to any topic" — non-specific
+"[number] that does not connect to RQ keywords in surrounding text" — disconnected statistic
+"the rate of [unrelated variable] is [N]%" — wrong variable statistic
+"according to [source], [N]% of [population unrelated to RQ]" — wrong population citation
+
+CATEGORY H — Contradictory or mutually exclusive statistics in opening (-1 each pair):
+
+"some studies show [X]% while others show [Y]%" — contradictory evidence with no resolution
+"[Source A] found [N]%; [Source B] found [M]% — significantly different results without explanation" — unresolved contradiction
+"statistics on [X] vary widely" — acknowledged uncertainty without resolution
+"the data on [X] is mixed" — mixed evidence without resolution
+"experts disagree on [X]'s prevalence" — disagreement without resolution
+"[N]% according to one source; [M]% according to another" — unresolved discrepancy
+"the numbers range from [N]% to [M]%"" — range without explanation
+"some sources say [N], others say [M]" — contradiction without resolution
+"[statistic A] contradicts [statistic B] on [variable]" — explicit contradiction unresolved
+"conflicting statistics on [X] make it difficult to know the true rate" — uncertainty admission
+
+CATEGORY I — Exploratory framing in context that signals Row 4 = 0 risk:
+
+"this paper will explore both sides of [X]" — exploratory context opener
+"this essay will examine multiple perspectives" — exploratory framing
+"this paper will present the pros and cons" — both-sides framing
+"this investigation will look at different viewpoints" — survey framing
+"this essay will analyze arguments for and against" — both-sides framing
+"this report will present a balanced view" — balanced/neutral framing
+"this paper attempts to remain neutral" — neutral framing
+"this essay will not take a side" — explicit non-argumentative
+"this paper will explore the issue from multiple angles" — multiple-angle framing
+"readers will be able to form their own conclusions" — reader-decides framing
+
+CATEGORY J — Specific patterns that confirm Row 2 = 0 even with statistics present:
+
+"[N]% statistic with no citation anywhere in the opening 800 words" — uncited statistic
+"cited statistic with no connection to RQ keyword in surrounding 200 words" — disconnected citation
+"[statistic] from [source published before 2000] as the only evidence" — very outdated only
+"[statistic] from Wikipedia or uncredentialed source as the only evidence" — junk-source statistic
+"[statistic] that applies to a completely different country/context without explanation" — inapplicable statistic
+"opening paragraph consists entirely of rhetorical questions with no statistics" — questions-only
+"opening paragraph consists entirely of dictionary definitions" — definitions-only
+"opening paragraph is entirely personal narrative with no cited evidence" — personal-only
+"opening paragraph summarizes both sides without any urgency framing" — both-sides no urgency
+"opening 800 words contain zero named sources" — source-free opening
+
+CATEGORY K — Outdated source deduction triggers (-1 from specificityScore if only source):
+
+"statistic from [pre-2000 source] used as the only contextual evidence" — very outdated single source
+"dated to [named year before 2000] and no more recent data" — outdated-only context
+"[source from 1990s] used without acknowledging its age" — old source unadmitted
+"the [year before 1990] study found [X]" as primary urgency evidence — very old primary source
+"data from [named decade before 2000] only" — only pre-2000 data
+
+CATEGORY L — Scope too broad for specificity:
+
+"the problem of [entire broad field]" — field-level scope, too broad
+"poverty is a problem worldwide" — global poverty = too broad
+"racism is a serious issue" — racism = too broad without specific population/context
+"climate change affects everyone" — climate change = too broad
+"education is important" — education = too broad
+"mental health matters" — mental health = too broad
+"violence is a problem" — violence = too broad
+"inequality is growing" — inequality = too broad
+"technology is changing society" — technology = too broad
+"economic instability is concerning" — economy = too broad
+
+CATEGORY M — Scope so narrow it doesn't connect to broader significance:
+
+"one person's experience of [X]" — too narrow, no significance
+"a single incident of [X]" — too narrow for urgency
+"the case of [one person]" — too narrow without broader connection
+"one school in one city" — too narrow without connection to broader pattern
+"a single day's events" — too narrow for urgency framing
+
+CATEGORY N — Specific false positive guards for Row 2:
+
+"statistic present but in body paragraph 4+ only, not in opening 800 words" — out of window
+"statistic in conclusion only" — conclusion-only stat, not context
+"statistic appears only in a table or figure" — table/figure only, check body text
+"narrative urgency signal present but named event cannot be verified as historical" — unverifiable narrative
+"narrative urgency claim with zero citation in surrounding 200 words" — uncited narrative
+
+CATEGORY O — Title patterns that signal weak Row 2 (context likely too broad):
+
+Title = "[Topic]: An Overview" — overview title
+Title = "Understanding [Topic]" — comprehension title
+Title = "Exploring [Topic]" — exploratory title
+Title = "A Study of [Topic]" — generic study title
+Title = "[Topic]: A Research Paper" — generic research paper title
+Title = "The Problem of [Very Broad Topic]" — broad problem title
+Title = "[Topic] in the Modern World" — vague temporal framing
+Title = "[Topic]: Causes and Effects" — causes-and-effects structure
+Title = "All About [Topic]" — comprehensive title
+Title = "[Topic]: What We Know" — survey title
+
+CATEGORY P — Title patterns that suggest strong Row 2 (context likely specific):
+
+Title contains specific year range "[Year]-[Year]" — temporal specificity
+Title contains named specific population — demographic specificity
+Title contains named specific jurisdiction — geographic specificity
+Title contains specific policy name — policy specificity
+Title contains specific statistic in title — quantitative specificity
+Title contains named specific event — incident specificity
+Title contains specific institutional name — institutional specificity
+Title contains specific law or legislation name — legal specificity
+Title contains specific research question — RQ specificity
+Title contains named specific case — case specificity
+
+CATEGORY Q — Row 2 cap triggers (cap specificityScore at 3 regardless of signals):
+
+"paper identified as below 400 words body text" — pre-flight gate already applied
+"paper is entirely personal narrative with no research sources" — no-source paper
+"paper has zero bibliography entries" — source-free paper
+"paper's opening 800 words contain only definitions and rhetorical questions" — definitional opening
+"paper explicitly states it will explore both sides without taking a position" — exploratory cap
+
+CATEGORY R — Row 2 boost signals (raise specificityScore by +1 bonus):
+
+"opening directly states research question and ties it to documented urgency" — RQ-urgency link
+"research question contains specific named variable" — specific RQ
+"urgency established in first 200 words with citation" — early urgency
+"named government report cited in opening paragraph" — government source early
+"peer-reviewed statistic in first 300 words" — high-quality early statistic
+"named specific law or court case cited in opening" — legal specificity early
+"named specific institutional gap documented in opening" — gap identification
+"named specific historical event with documented casualty figure" — narrative urgency with number
+"RQ directly tied to documented policy failure in opening" — policy failure + RQ link
+"opening paragraph ends with direct statement of why this matters and who is affected" — explicit significance
+
+CATEGORY S — Patterns that confirm Row 2 = 5 with high confidence:
+
+"named population + cited percentage + tied to RQ variable + named source" — full signal combination
+"named historical incident + documented consequence + specific figure + citation" — narrative urgency + verification
+"named law/policy + specific gap + documented affected population + citation" — policy gap + impact
+"named institutional finding + specific statistic + year + tied to RQ" — institutional evidence
+"named researcher + specific study + specific finding + year + tied to RQ" — scholarly urgency
+"named specific statistic that appears twice in the opening (once as urgency, once tied to RQ)" — double-verified urgency
+"multiple medium-value signals combining to specificityScore ≥ 4" — threshold reached via combination
+"high-value signal + two medium-value signals in first 800 words" — composite threshold
+"RQ-adjacent paragraph contains high-value statistic with parenthetical citation" — RQ-adjacent verification
+"specificityScore confirmed ≥ 4 by both first-800-word scan and RQ-adjacent scan" — dual window confirmation
+
+CATEGORY T — Paper format signals that affect Row 2 scoring:
+
+"paper is formatted as a list or outline, not prose paragraphs" — outline format, Row 2 detection unreliable
+"paper is formatted as a slideshow or presentation" — wrong format trigger
+"paper uses only bullet points without prose" — bullet-only format
+"paper uses numbered list format for all content" — numbered list format
+"paper has no paragraph breaks — single block of text" — formatting failure
+"paper uses headers but no body paragraphs under them" — header-only structure
+"paper is a table or spreadsheet format" — wrong format
+"paper contains only a bibliography with no body text" — bibliography-only submission
+"paper body text is entirely in a language other than English" — language trigger
+"paper appears to be a template with unfilled placeholder text" — template submission
+
+CATEGORY U — Row 2 = 0 absolute triggers regardless of signals:
+
+"bodyWordCount < 400 after stripping" — pre-flight gate
+"specificityScore = 0 with no RQ detected" — no context, no RQ
+"opening 800 words are entirely quotation with no student-authored sentence" — quotation-only opening
+"opening consists entirely of copied text from external source" — plagiarism indicator
+"no research sources of any kind cited in opening or body" — source-free paper = Row 2 cap
+"paper identified as off-topic from all prompt-related themes" — off-topic
+"paper is a personal essay with no research" — personal essay format
+"paper body = [empty string after stripping]" — empty body
+"paper body = cover page content only after stripping" — cover page only
+"paper body = bibliography only after stripping" — bibliography only
+
+CATEGORY V — Patterns in titles that signal Row 2 specificity level:
+
+Title = "The Impact of [Specific Named Policy] on [Named Population] in [Named Place]" — high specificity title
+Title = "How [Named Specific Intervention] Affects [Named Specific Outcome] Among [Named Group]" — high specificity
+Title = "[Named Specific Problem] in [Named Specific Jurisdiction]: [Analytical Claim]" — high specificity
+Title = "The [Named Specific Gap] in [Named Policy Area]: [Named Specific Consequence]" — high specificity
+Title = "[Named Case] and [Named Broader Issue]: [Analytical Claim]" — case-specific title
+Title = "Why [Named Specific Policy] Fails [Named Specific Population]" — specific policy failure title
+Title = "[Named Specific Event] and [Named Specific Consequence]" — event-consequence title
+Title = "The [Named Specific Disparity] Between [Group A] and [Group B]" — disparity title
+Title = "[Named Specific Institution]'s [Named Specific Failure]" — institutional specificity title
+Title = "[Named Specific Statistic]: The Case for [Named Specific Reform]" — statistic-led title
+
+ROW 3 — PERSPECTIVES: DEDUCTION TRIGGERS AND FALSE POSITIVE GUARDS
+ROW3_ZERO_TRIGGERS — these 200 patterns force Row 3 = 0 or block the perspective count regardless of named sources present:
+CATEGORY A — Unnamed/anonymous perspectives that look like named perspectives:
+
+"researchers say [X]" — group noun, not named perspective
+"experts argue [X]" — group noun
+"scientists found [X]" — group noun
+"scholars suggest [X]" — group noun
+"economists argue [X]" — group noun
+"psychologists believe [X]" — group noun
+"historians claim [X]" — group noun
+"medical professionals agree [X]" — group noun
+"policy experts note [X]" — group noun
+"legal scholars contend [X]" — group noun
+"some researchers argue [X]" — anonymous some
+"many scholars suggest [X]" — anonymous many
+"most experts agree [X]" — anonymous most
+"several scientists found [X]" — anonymous several
+"various researchers note [X]" — anonymous various
+"studies show [X]" — anonymous studies
+"research indicates [X]" — anonymous research
+"evidence suggests [X]" — anonymous evidence
+"data shows [X]" — anonymous data
+"literature confirms [X]" — anonymous literature
+"supporters of [X] argue" — unnamed supporters
+"critics of [X] say" — unnamed critics
+"proponents argue" — unnamed proponents
+"opponents claim" — unnamed opponents
+"advocates say" — unnamed advocates
+"detractors argue" — unnamed detractors
+"those in favor say" — unnamed group
+"those opposed argue" — unnamed group
+"some people believe" — anonymous people
+"others disagree" — anonymous others
+
+CATEGORY B — Same author cited twice counted as two perspectives:
+
+"[Source A] in paragraph 2 and [Source A] in paragraph 4" — same source = one perspective
+"[Named author] appears as Source A and Source C" — same author twice = one
+"[Same first author of et al. group] counted as different source in second citation" — et al. duplicate
+"[Author]'s [2019 paper] and [Author]'s [2021 paper] as separate perspectives" — same author = one perspective
+"[Named organization] cited twice under different names" — same institution = one
+"Same work cited in two formats counted as two sources" — formatting duplicate
+"[Author] and [Author et al.]" where [Author] is the same person — et al. duplicate
+"primary and secondary citation of same work" — same work = one source
+"[Author]'s book and [Author]'s article" — same person = one perspective
+"Self-citation: student citing their own prior work as a perspective" — self-citation = not a perspective
+
+CATEGORY C — Perspectives that are isolated with no linking:
+
+"[Source A] cited in paragraph 2; [Source B] cited in paragraph 3; no cross-reference between paragraphs" — isolation confirmed
+"Each source appears in its own paragraph with paragraph break as the only separator" — structural isolation
+"No sentence in the paper contains two named sources in proximity" — isolation confirmed
+"Paragraph 2 cites only [Source A]; Paragraph 3 cites only [Source B]; Paragraph 4 cites only [Source C]" — one-source-per-paragraph pattern
+"Sources are cited in sequence with no comparison language between any two" — sequential-no-linking pattern
+"The paper lists perspectives: [Source A]: [claim]. [Source B]: [claim]." — list format = isolation
+"Sources appear as entries rather than voices in dialogue" — entry format = isolation
+"Each perspective is introduced with 'Another perspective is...' without linking to prior perspective" — sequential-only
+"Perspective section organized as 'Perspective 1', 'Perspective 2', 'Perspective 3' with no cross-reference" — numbered-list isolation
+"The only connection between sources is 'Another researcher also found'" — additive not comparative
+
+CATEGORY D — Type C citations only (topic references, not perspectives):
+
+"[Source] discusses [topic]" — Type C: topic reference
+"[Source] addresses [topic]" — Type C: topic reference
+"[Source] examines [topic]" — Type C: topic reference
+"[Source] covers [topic]" — Type C: topic reference
+"[Source] looks at [topic]" — Type C: topic reference
+"[Source] focuses on [topic]" — Type C: topic reference
+"[Source] considers [topic]" — Type C: topic reference
+"[Source] deals with [topic]" — Type C: topic reference
+"[Source] is about [topic]" — Type C: topic reference
+"[Source] explores [topic]" — Type C: topic reference
+"[Source] talks about [topic]" — Type C: topic reference
+"[Source] writes about [topic]" — Type C: topic reference
+"[Source] covers the issue of [topic]" — Type C: topic reference
+"[Source] provides information on [topic]" — Type C: topic reference
+"[Source] offers background on [topic]" — Type C: topic reference
+
+CATEGORY E — Student's own voice mistakenly counted as perspective:
+
+"I argue that [X]" — student voice, not a named source perspective
+"my view is that [X]" — student voice
+"I contend that [X]" — student voice
+"this paper argues that [X]" — paper voice, not named source
+"this investigation holds that [X]" — investigation voice
+
+CATEGORY F — Disciplinary labels without named sources:
+
+"from an economic perspective, [X]" — discipline label without named economist
+"from a legal standpoint, [X]" — discipline label without named legal scholar
+"from a sociological lens, [X]" — discipline label without named sociologist
+"from a psychological perspective, [X]" — discipline label without named psychologist
+"from a historical viewpoint, [X]" — discipline label without named historian
+"the medical community believes [X]" — group noun
+"the legal profession argues [X]" — group noun
+"the economic mainstream holds [X]" — group noun
+"sociological theory suggests [X]" — anonymous discipline
+"psychological research shows [X]" — anonymous discipline
+
+CATEGORY G — Stakeholder perspectives without named sources:
+
+"from the perspective of businesses, [X]" — unnamed stakeholder
+"from the consumer's perspective, [X]" — unnamed stakeholder
+"from the patient's point of view, [X]" — unnamed stakeholder
+"from the worker's perspective, [X]" — unnamed stakeholder
+"from the student's point of view, [X]" — unnamed stakeholder
+"from the government's perspective, [X]" — unnamed government
+"from an industry standpoint, [X]" — unnamed industry
+"from the public's perspective, [X]" — unnamed public
+"from society's point of view, [X]" — unnamed society
+"from the community's perspective, [X]" — unnamed community
+
+CATEGORY H — Row 3 cap triggers (cap Row 3 at 6 regardless of evaluative linking signals):
+
+"only 2 named perspectives with exactly 1 evaluative link — borderline case, needs cross-row tie-breaker" — borderline trigger
+"namedPerspectiveCount = 2 but both sources are on the same side with no third perspective" — same-side cap
+"all named sources agree with each other — no tension or contrast detected" — agreement-only cap at 6
+"evaluative linking language appears but no second named source is in proximity" — linking without second source
+"evaluative link phrase appears in isolation without two named sources in the same paragraph" — false evaluative trigger
+"linking language appears in conclusion only, not in body perspective analysis" — conclusion-only linking
+"paper has 5+ named sources but all isolated in separate paragraphs with no cross-reference" — high count, no linking
+"namedPerspectiveCount ≥ 2 but evaluativeLinkingCount = 0 and descriptiveLinkingCount = 0" — no linking at all → Row 3 = 0
+"paper has named sources but all are Type C (topic reference) only" — Type C only → Row 3 = 0
+"all named sources cited only in bibliography; none appear as named voices in body text" — body absence
+
+CATEGORY I — Row 3 absolute zero triggers:
+
+"namedPerspectiveCount = 0" — no perspectives at all
+"namedPerspectiveCount = 1 with no evaluative or descriptive linking" — single perspective
+"all citations are unattributed group nouns only" — group nouns only = 0
+"paper contains zero in-text citations of any kind" — citation-free = 0
+"paper's perspective section is entirely exploratory — 'both sides' framing" — exploratory section
+"all named sources support the same claim with zero contrast" — unanimity without tension → 0 for 9, possible 6 with descriptive
+"paper explicitly states 'there are two main perspectives' and presents them without engagement" — listed-perspectives-only
+"perspective section is a bulleted list of views without prose analysis" — bullet list format
+"paper body contains zero sentences with two named sources in the same paragraph" — no co-citation
+"paper correctly has 0 named perspectives (only group nouns, unattributed claims, and general statements)" — confirmed 0
+
+CATEGORY J — False positive guards for perspective detection:
+
+"Author name appears only in a URL or web address" — URL-embedded name not a perspective
+"Author name appears only in a hyperlink text" — hyperlink name not a perspective
+"Author name appears only in a bibliography entry body" — bibliography name not a body perspective
+"Author name appears only in a table or figure caption" — caption name not a body perspective
+"Author name appears only after 'see also'" — see-also reference not a perspective
+"Author name appears only in a footnote or endnote" — note-only name not a body perspective
+"Author name appears only as part of a publication title" — title-embedded name not a perspective
+"Author name appears only in a block quote attribution line" — attribution-only not a perspective
+"Author name appears only in an appendix" — appendix name not a body perspective
+"Author name appears only as a running head" — header name not a perspective
+
+CATEGORY K — Evaluative linking false positive guards:
+
+"'However' connecting two student claims (no named source near either)" — student-to-student transition, not evaluative linking
+"'While' used to contrast two student's own arguments rather than two named sources" — student self-contrast
+"'In contrast' appearing without a named source in the preceding sentence or same sentence" — contrast without source
+"'On the other hand' used to introduce an anonymous counterargument" — anonymous contrast
+"'But' used as a simple sentence connector without named sources in proximity" — conjunction-only
+"Evaluative linking language appears within the same single-source paragraph" — self-linking within one source
+"'However, [Source B] complicates this'" where [Source B] is not a different author from [Source A] — same-author complication
+"Evaluative language appears in the conclusion only, not in the body perspective section" — conclusion-only evaluation
+"'Tension between X and Y' where X and Y are concepts, not named sources" — concept tension not perspective tension
+"Evaluative linking language in a paragraph with only one named source" — single-source evaluation
+
+CATEGORY L — Title patterns indicating perspective approach:
+
+Title = "[Topic]: Multiple Perspectives" — descriptive balance title → likely Row 3 = 6 max
+Title = "The Debate Over [Topic]" — debate title → expect two perspectives, likely 6
+Title = "[Topic]: For and Against" — binary balance title → two perspectives, likely 6
+Title = "[Topic]: A Balanced View" — balance title → descriptive balance likely
+Title = "[Source A] vs [Source B] on [Topic]" — explicit binary → evaluative possible, check linking
+Title = "[Perspective A] and [Perspective B]: [Analytical Claim]" — two named perspectives → evaluative possible
+Title = "Beyond the Debate: [Synthesis Claim]" — synthesis title → evaluative linking likely → check for 9
+Title = "[Topic]: Resolving the [Named Tension]" — resolution title → evaluative linking likely → check for 9
+Title = "Why [Position A] Outweighs [Position B]" — evaluative title → Row 3 = 9 possible
+Title = "[Topic]: A Critical Evaluation of Competing Perspectives" — evaluative title → Row 3 = 9 possible
+
+CATEGORY M — Patterns that confirm Row 3 = 9 with high confidence:
+
+"Two named sources in same sentence with explicit evaluative language" — strong 9 trigger
+"[Source A]'s [claim] is challenged by [Source B]'s [finding]" — challenge language = evaluative
+"[Source A] and [Source B] are placed in direct intellectual opposition" — opposition = evaluative
+"The tension between [Source A]'s [X] and [Source B]'s [Y] reveals [derived insight]" — insight derivation = evaluative
+"[Source A] and [Source B] together establish [claim neither makes alone]" — synthetic conclusion = evaluative
+"The conflict between [Source A] and [Source B] is resolved by [student's analytical claim]" — resolution = evaluative
+"[Source A]'s framework, applied to [Source B]'s evidence, reveals [X]" — framework application = evaluative
+"What [Source A] and [Source B] share — [X] — is more significant than what divides them" — meta-analytical evaluative
+"[Source A]'s optimism is tempered by [Source B]'s evidence that [X]" — tempering = evaluative
+"Synthesizing [Source A] and [Source B] produces [new claim]: [X]" — synthesis = evaluative
+
+CATEGORY N — Patterns that confirm Row 3 = 6 with high confidence:
+
+"[Source A] found [X]. Similarly, [Source B] also found [Y]." — descriptive similarity
+"[Source A] argues [X]. On the other hand, [Source B] argues [Y]." — descriptive contrast
+"[Source A] found [X]; [Source B] found [Y] in a different context." — descriptive comparison
+"While [Source A] emphasizes [X], [Source B] emphasizes [Y]." — emphasis contrast = descriptive
+"[Source A] focuses on [X]; [Source B] focuses on [Y]." — focus contrast = descriptive
+"Both [Source A] and [Source B] document [X], though in different contexts." — both-found = descriptive
+"[Source A] and [Source B] reach similar conclusions about [X]." — similar-conclusions = descriptive
+"Consistent with [Source A], [Source B] also found [Y]." — consistency = descriptive
+"[Source B] corroborates [Source A]'s finding by demonstrating [Y]." — corroboration = descriptive
+"[Source A]'s pro-section and [Source B]'s con-section are in structural contrast." — structural = descriptive
+
+CATEGORY O — Row 3 patterns to ignore (non-scoreable content):
+
+"Sources in the bibliography that are not cited in body text" — ignored for Row 3
+"Sources cited only in footnotes" — ignored for Row 3
+"Sources cited only in a table or figure" — ignored for Row 3
+"Sources cited in running heads or headers" — ignored for Row 3
+"Sources cited only in appendices" — ignored for Row 3
+"Group noun sources ('researchers', 'experts')" — ignored for namedPerspectiveCount
+"Anonymous sources ('a source', 'one study')" — ignored for namedPerspectiveCount
+"Student's own voice statements" — ignored for namedPerspectiveCount
+"Stimulus sources used only in Row 1 integration, not for Row 3 perspectives" — check if stimulus author counts for Row 3 (yes, if also used analytically in body)
+"Sources cited only via parenthetical with no attributive phrase and no commentary" — parenthetical-only citations are weak perspective evidence
+
+CATEGORY P — Row 3 specific patterns for IWA vs IRR confusion:
+
+"Paper is formatted as an IRR (research report) but submitted as IWA" — format mismatch flag
+"Paper has no stimulus integration attempt but has multiple perspectives" — IWA structural flag
+"Paper uses IRR row language ('this investigation finds') instead of IWA language" — register mismatch
+"Paper has IRR-style research question without argumentative thesis" — genre confusion flag
+"Paper cites sources in IRR format (numbered references) instead of IWA format (author-date)" — citation format mismatch
+
+CATEGORY Q — Row 3 = 0 patterns for papers that appear to have perspectives but do not:
+
+"Paper has multiple named sources all supporting the same single claim with zero contrast" — unanimity pattern
+"Paper presents multiple sources as a list of evidence for one position only" — evidence-list only
+"Paper has multiple named sources all used only as statistics for Row 2-type context" — statistical-only sources
+"Paper's named sources are all used only to define terms" — definition-only sources
+"Paper has named sources but all are cited only once each in the bibliography-only pattern" — bibliography-only sources
+
+CATEGORY R — Patterns confirming Row 3 cannot score 9 (caps at 6):
+
+"evaluativeLinkingCount = 0 confirmed across full body text" — no evaluative linking → max 6
+"No sentence contains two named sources in the same sentence" — never co-cited → max 6
+"Evaluative language appears only in student's own claims, not tied to named sources" — student-only evaluation
+"Cross-row tie-breaker not triggered (Row 4 < 12 confirmed)" — no tie-breaker available
+"namedPerspectiveCount = 2 but both on same side — only descriptive linking possible" — same-side cap at 6
+
+CATEGORY S — Patterns confirming Row 3 must score 0 even with named sources:
+
+"Named sources confirmed to be cited only as group members (listed, not dialogued)" — group listing = 0
+"Named sources confirmed to appear in separate sections with no cross-reference confirmed via structural analysis" — structural isolation confirmed
+"Named sources confirmed to be all Type C references only (topic references, no positions stated)" — Type C only = 0
+"Named sources confirmed to appear only in bibliography, not in body text" — body absence = 0
+"Only source cited is the stimulus source (no non-stimulus named perspectives)" — stimulus-only = 0 for Row 3
+
+CATEGORY T — Row 3 scoring boundary: 0 vs 6 key distinguishing patterns:
+
+"Group nouns only → 0; Named sources with linking → 6 or 9" — key boundary
+"Type C references only → 0; Type A or B with descriptive linking → 6" — key boundary
+"Isolated named sources → 0; Named sources with any linking → 6" — key boundary
+"Single named perspective → 0; Two+ named with descriptive linking → 6" — key boundary
+"Two named sources, same side, no linking → 0; Same side with descriptive linking → 6" — key boundary
+
+CATEGORY U — Row 3 scoring boundary: 6 vs 9 key distinguishing patterns:
+
+"Descriptive linking only → 6; Evaluative linking → 9" — key boundary
+"Sources compared but not synthesized → 6; Sources synthesized to new insight → 9" — key boundary
+"Sources contrasted descriptively → 6; Sources placed in evaluative tension with derived conclusion → 9" — key boundary
+"Similarities and differences identified → 6; Implications and tensions derived → 9" — key boundary
+"Perspectives presented in dialogue → 6; Perspectives evaluated with analytical verdict → 9" — key boundary
+
+ROW 4 — ARGUMENT: DEDUCTION TRIGGERS AND ZERO-FLOOR PATTERNS
+ROW4_ZERO_TRIGGERS — these 200 patterns force Row 4 = 0 or cap at 8:
+CATEGORY A — Explicit exploratory framing (force Row 4 = 0):
+
+"this paper will explore" — explicit exploratory → 0
+"this essay will examine both sides" — both-sides exploratory → 0
+"this paper will discuss the pros and cons" — both-sides → 0
+"this essay will present multiple perspectives without taking a position" — explicit non-argumentative → 0
+"this paper will look at arguments for and against" — both-sides → 0
+"this paper will analyze different viewpoints on [X]" — survey framing → 0
+"this essay will consider all sides" — all-sides framing → 0
+"this paper attempts to remain neutral" — explicit neutrality → 0
+"this essay will not take a definitive stance" — explicit non-thesis → 0
+"readers will be able to form their own conclusions after reading" — reader-decides → 0
+"this paper will explore the issue from multiple angles" — multiple-angle → 0
+"both sides of this debate will be examined" — both-sides → 0
+"this essay will give equal weight to all perspectives" — equal-weight → 0
+"this paper aims to be balanced and objective" — balance/objectivity → 0
+"this investigation will survey the range of opinions" — survey → 0
+
+CATEGORY B — Summary-only mode (force Row 4 = 0):
+
+"this paper summarizes the main arguments about [X]" — summary mode
+"this essay provides an overview of different views on [X]" — overview mode
+"this paper reviews the literature on [X]" — review mode
+"this essay describes the debate about [X]" — description mode
+"this paper outlines the major positions on [X]" — outline mode
+"in conclusion, [topic] has many different aspects" — summary conclusion
+"ultimately, there are valid arguments on all sides" — balance conclusion → 0
+"as this paper has shown, [X] is a complex issue" — complexity conclusion only
+"the issue of [X] involves many factors" — factors-only conclusion
+"different people have different opinions on [X]" — opinion-diversity conclusion → 0
+
+CATEGORY C — No thesis detected (force Row 4 = 0):
+
+"paper contains zero sentences matching any thesis pattern in opening 500 words or conclusion" — no thesis
+"opening paragraph contains only a research question without an argumentative answer" — RQ not thesis
+"paper opens with background only — no argumentative position stated" — background only
+"introduction contains only definitions and context with no argued position" — definitional opening
+"paper contains only evidence and counterevidence with no student position on which is stronger" — evidence-only
+"paper's conclusion asks more questions rather than answering the RQ" — question conclusion
+"paper ends with 'more research is needed' as the sole conclusion" — non-conclusion → caps at 8
+"paper's final paragraph begins with 'in conclusion' and restates context without arguing a position" — context-restatement conclusion
+"paper has no sentence using any argumentative verb (argue, contend, maintain, establish, demonstrate)" — no argumentative language
+"paper has no sentence with a prescriptive claim (must, should, ought, required, necessary)" — no prescriptive claim
+
+CATEGORY D — Thesis present but fatally flawed (force Row 4 = 0):
+
+"thesis contradicts itself within the same paragraph" — self-contradictory thesis
+"thesis is stated then immediately retracted ('or perhaps...')" — retracted thesis
+"thesis is a question, not an assertion" — question-thesis
+"thesis restates the research question without answering it" — RQ-restatement thesis
+"thesis is purely descriptive ('X is a phenomenon')" — descriptive non-thesis
+"thesis is purely definitional ('X means Y')" — definitional non-thesis
+"thesis is a fact, not an arguable claim ('X happened in [year]')" — factual non-thesis
+"thesis shifts to opposite position in the conclusion" — thesis shift → 0
+"paper has two contradictory theses presented as equally valid" — dual-thesis → 0
+"thesis claims to be neutral while body defends a position" — thesis-body contradiction
+
+CATEGORY E — Cap at 8 triggers (prevent Row 4 = 12):
+
+"no counterargument present anywhere in paper" — missing counterclaim → cap at 8
+"counterargument is anonymous ('some people argue')" — weak counterclaim → cap at 8
+"counterargument is acknowledged but immediately dismissed without engagement" — dismissal-only → cap at 8
+"counterargument appears only in one sentence" — underdeveloped counterclaim → cap at 8
+"conclusion does not answer the research question" — misaligned conclusion → cap at 8
+"conclusion asks a question instead of stating a finding" — question conclusion → cap at 8
+"conclusion introduces a new claim not developed in the body" — unsupported conclusion → cap at 8
+"conclusion is a call to action with no analytical resolution" — action-call only conclusion → cap at 8
+"echoRatio > 0.45 confirmed (more than 45% of commentary sentences restate sources)" — high echo → cap at 8
+"commentaryDepthRatio < 0.3 confirmed (less than 30% of commentary introduces new implications)" — low development → cap at 8
+"commentaryStructureScore < 5 confirmed" — low structure → cap at 8
+"no CEC paragraphs detected (all paragraphs begin with citations)" — no claim-leading paragraphs → cap at 8
+"conclusion aligned = false confirmed (conclusion does not address RQ)" — misalignment → cap at 8
+"strongCounterclaimEngaged = false (no named source used as counterclaim)" — weak counterclaim → cap at 8
+"thesisInOpening = false AND thesisConclusionDetected = false" — no thesis confirmed → Row 4 = 0
+
+CATEGORY F — Paper length and format deduction triggers:
+
+"bodyWordCount < 800 (below minimum) — Row 4 cap at 8 because argument cannot be fully developed in fewer than 800 words" — length cap
+"bodyWordCount < 400 — Row 4 = 0 (pre-flight)" — pre-flight
+"paper is formatted as a bulleted list throughout" — format → unreliable Row 4 detection
+"paper is formatted as a numbered list throughout" — format → unreliable Row 4 detection
+"paper uses section headings only with no body paragraphs" — heading-only format
+
+CATEGORY G — Specific argument failure patterns:
+
+"paper argues X in paragraph 2 and argues the opposite in paragraph 4 without resolution" — position shift
+"paper's claimed thesis appears in conclusion but contradicts body argument" — body-conclusion mismatch
+"paper presents evidence for both sides equally without resolving which is stronger" — unresolved balance
+"paper concedes the counterargument is more valid than the thesis" — self-defeating concession
+"paper ends with 'perhaps [X] or perhaps [Y]' — unresolved either-or conclusion" — unresolved conclusion
+
+CATEGORY H — Title patterns signaling Row 4 risk:
+
+Title = "An Exploration of [Topic]" → exploratory → likely Row 4 = 0
+Title = "Both Sides of [Topic]" → balance → likely Row 4 = 0
+Title = "[Topic]: Pros and Cons" → both-sides → likely Row 4 = 0
+Title = "Understanding [Topic]" → comprehension not argument → likely Row 4 = 0
+Title = "An Overview of [Topic]" → overview → likely Row 4 = 0
+Title = "A Look at [Topic]" → description → likely Row 4 = 0
+Title = "[Topic]: A Balanced Analysis" → balance → likely Row 4 = 0
+Title = "Examining [Topic] from Multiple Perspectives" → survey → Row 4 likely 0
+Title = "[Topic]: What Are the Arguments?" → question format → Row 4 risk
+Title = "[Topic]: A Review" → review → Row 4 risk
+
+CATEGORY I — Title patterns signaling strong Row 4 (thesis present):
+
+Title contains "[Claim] Because [Reason]" — argumentative title → thesis likely present
+Title contains "Why [Institution] Must [Action]" — prescriptive title → thesis likely present
+Title contains "[X] Is Not Enough: [Stronger Claim]" — insufficiency-argument title → thesis likely
+Title contains "Against [Position]: The Case for [Alternative]" — argumentative title → thesis likely
+Title contains "[Thesis claim]: [Supporting reason]" — claim-reason title → thesis likely
+Title contains "The Case for [X]" — advocacy title → thesis likely
+Title contains "In Defense of [X]" — defense title → thesis likely
+Title contains "Why [X] Fails [Named Group]" — critique title → thesis likely
+Title contains "[Named Specific Reform] Is Necessary" — necessity title → thesis likely
+Title contains "Beyond [Status Quo]: [Proposed Change]" — reform title → thesis likely
+
+CATEGORY J — Commentary echo patterns (contribute to echoRatio):
+
+"this shows that [restatement of source's exact claim]" — echo
+"this demonstrates that [restatement of source]" — echo
+"this proves that [restatement]" — echo
+"this confirms that [restatement]" — echo
+"as [source] shows, [restatement of source's point]" — echo
+"essentially, [source] is saying that [restatement]" — echo
+"to put it another way, [source] found [restatement]" — echo
+"in other words, [source] argues [restatement]" — echo
+"what this means is that [restatement without extension]" — echo
+"[source] is therefore right that [restatement]" — echo
+
+CATEGORY K — Commentary development patterns (reduce echoRatio):
+
+"[source] found [X]; this means that [named group not in source] faces [named consequence not in source]" — development
+"[source]'s finding leads to the following implication not stated in [source]: [X]" — development
+"this is not merely [surface claim from source] — it is [deeper claim derived by student]" — development
+"the question is not [source's question] but [more fundamental question]" — development
+"applied to [new context not in source], this finding suggests [X]" — development
+"this shifts responsibility from [X] to [Y], a distinction [source] does not draw but the evidence demands" — development
+"the implication for [named institution] is [X], which the evidence supports but [source] does not state" — development
+"this reveals a structural problem: [named problem not named in source]" — development
+"without [reform], [specific predicted consequence] — a consequence [source]'s evidence supports but [source] does not predict" — development
+"this is not a trade-off between [X] and [Y]; it is [resolution] — a conclusion the evidence supports but [source] does not reach" — development
+
+CATEGORY L — Thesis detection false positives to guard against:
+
+"Research question misidentified as thesis" — guard: RQ form 'How/Why/What/To what extent...' is not a thesis
+"Topic sentence misidentified as thesis" — guard: 'This paragraph discusses X' is not a thesis
+"Background statement misidentified as thesis" — guard: 'X has been a problem for many years' is not a thesis
+"'This paper will show that [topic exists]' misidentified as thesis" — guard: demonstrating existence is not an argument
+"Factual statement misidentified as thesis" — guard: 'X happened in [year]' is not arguable
+
+CATEGORY M — Thesis detection true positives to confirm:
+
+"[Institution] must [specific action] because [specific reason]" — confirmed thesis
+"[X] is not merely [surface claim] — it is [deeper claim] that requires [specific response]" — confirmed thesis
+"The evidence establishes that [specific claim], which demands [specific response from named institution]" — confirmed thesis
+"[X] is necessary but insufficient — [Y] is also required for [named outcome]" — confirmed nuanced thesis
+"Contrary to [named position], [specific counter-claim] because [specific reason]" — confirmed thesis
+
+CATEGORY N — Conclusion quality patterns:
+
+"Conclusion restates thesis and explains why it was proven" — aligned conclusion → supports 12
+"Conclusion answers the RQ directly: [specific answer]" — aligned conclusion → supports 12
+"Conclusion connects evidence back to thesis and derives specific implication" — analytical conclusion → supports 12
+"Conclusion identifies what follows from the argument" — implication conclusion → supports 12
+"Conclusion proposes specific reform/change grounded in the argument" — reform conclusion → supports 12
+"Conclusion asks additional questions without answering the original RQ" — misaligned → caps at 8
+"Conclusion summarizes each body paragraph without deriving a new insight" — summary conclusion → caps at 8
+"Conclusion contradicts the thesis" — contradictory conclusion → Row 4 = 0
+"Conclusion is identical to the introduction" — copy-paste conclusion → caps at 8
+"Conclusion consists of a single sentence" — underdeveloped conclusion → caps at 8
+
+CATEGORY O — Row 4 = 12 confirmation patterns:
+
+"Thesis present + organized + named counterclaim + rebuttal + aligned conclusion + echoRatio < 0.45" — all gates passed → 12
+"Thesis stated explicitly + counterargument engaged with named source + conclusion answers RQ + commentaryDepthRatio ≥ 0.3" — confirmed 12
+"commentaryStructureScore ≥ 5 + thesisDetected + counterclaimPresent + conclusionAligned" — all gates → 12
+"Student voice controls argument throughout: every evidence paragraph ends with student analysis extending source" — student-controlled → 12
+"Every major claim is supported by student commentary that introduces new implication" — development throughout → 12
+
+CATEGORY P — Row 4 = 8 confirmation patterns:
+
+"Thesis present + organized + argument structured + conclusion mostly aligned but weak counterclaim" — confirmed 8
+"Clear thesis + well-organized body + echoRatio 0.3–0.6 + conclusion aligned but not fully developed" — confirmed 8
+"Argument is coherent and student-driven but commentary mostly echoes sources" — echo pattern → 8
+"Thesis present, body organized, counterargument anonymous or underdeveloped" — weak counter → 8
+"Argument is logical and clear but the conclusion does not derive a new implication — only restates" — restatement conclusion → 8
+
+CATEGORY Q — Row 4 = 0 absolute confirmation:
+
+"exploratoryMode = true confirmed via multiple exploratory framing patterns" — confirmed 0
+"No thesis detected in first 500 words OR conclusion paragraph" — no thesis confirmed → 0
+"Paper summarizes both sides equally with no position taken" — confirmed 0
+"Conclusion contradicts thesis" — confirmed 0
+"Paper is in list or outline format only" — format → detection unreliable → 0 if no other signals
+
+CATEGORY R — Structural patterns that indicate Row 4 quality:
+
+"CEC paragraph structure detected (claim → evidence → commentary)" — supports 12
+"EC paragraph structure throughout (evidence → commentary, no claim)" — supports 8 max
+"E-only paragraphs throughout (evidence only, no commentary)" — suggests Row 4 = 0 risk
+"Commentary-only paragraph (pure student synthesis)" — strong 12 signal
+"All paragraphs begin with citations, not claims" — EC pattern → supports 8
+
+CATEGORY S — Cross-row interactions affecting Row 4:
+
+"Row 4 = 12 AND Row 3 = 6 borderline → trigger cross-row tie-breaker → Row 3 → 9" — cross-row signal
+"Row 4 = 0 confirmed → Row 3 cap check (if Row 4 = 0, Row 3 can still score independently)" — independence confirmed
+"Row 4 = 0 confirmed → Row 2 scoring unaffected (Row 2 independent)" — independence confirmed
+"Row 4 = 12 → confidence HIGH if all other rows also in upper band" — confidence boost
+"Row 4 = 0 with Row 5 = 9 → flag LOW confidence (unusual profile)" — unusual profile flag
+
+CATEGORY T — Row 4 detection notes for teacher view:
+
+"thesisDetected = [true/false] — basis: [named pattern that matched or failed]" — teacher note
+"exploratoryMode = [true/false] — basis: [named exploratory pattern]" — teacher note
+"echoRatio = [value] — [N] echoing / [M] developing commentary sentences detected" — teacher note
+"counterclaimPresent = [true/false] — [named pattern matched or absent]" — teacher note
+"conclusionAligned = [true/false] — [named conclusion pattern matched or failed]" — teacher note
+
+CATEGORY U — Thesis patterns that look like theses but are not:
+
+"'This paper will show that [X] is important' — importance claim is not arguable" — pseudo-thesis
+"'[X] is a serious issue that deserves attention' — attention claim is not arguable" — pseudo-thesis
+"'[X] is a complex problem with no easy answers' — complexity claim is not arguable" — pseudo-thesis
+"'Both perspectives on [X] have merit' — balance claim is not a thesis" — pseudo-thesis
+"'This essay will analyze [X] using multiple lenses' — method statement is not a thesis" — pseudo-thesis
+"'[X] has been debated for years and continues to be controversial' — controversy statement is not a thesis" — pseudo-thesis
+"'The question of [X] is an important one for society to consider' — importance framing is not a thesis" — pseudo-thesis
+"'This paper will prove that [X] exists' — existence proof is not an arguable thesis" — pseudo-thesis
+"'[X] affects [named group] in many ways' — multi-effect statement is not a thesis" — pseudo-thesis
+"'It is important to understand [X]' — comprehension goal is not a thesis" — pseudo-thesis
+
+CATEGORY V — Row 4 patterns for papers just above or below 8/12 boundary:
+
+"Conclusion develops one new implication from thesis → borderline 8/12 → check echoRatio" — borderline
+"One strong named counterclaim with rebuttal → borderline 8/12 → check commentaryDepthRatio" — borderline
+"commentaryDepthRatio = exactly 0.30 → borderline 8/12 → check commentaryStructureScore" — borderline
+"echoRatio = 0.45 → borderline 8/12 → check other 12-gates" — borderline
+"Thesis present, strong organization, but conclusion one sentence only → cap at 8" — short conclusion cap
+
+CATEGORY W — Row 4 language-specific detection notes:
+
+"Attributive thesis ('This argument will demonstrate')" — valid third-person thesis
+"First-person thesis ('I argue that')" — valid first-person thesis
+"Passive thesis ('It is argued here that')" — valid passive thesis
+"Conditional thesis ('If [condition], then [institution] must [action]')" — valid conditional thesis
+"Comparative thesis ('[X] is more [quality] than [Y] because [reason]')" — valid comparative thesis
+
+CATEGORY X — Papers that score Row 4 = 8 by design (should not be pushed to 12):
+
+"Paper has a clear thesis but all commentary summarizes sources without developing new implications" — designed 8
+"Paper has organized argument but counterargument is weak (anonymous) and rebuttal is missing" — designed 8
+"Paper has thesis, evidence, and structure but conclusion only restates thesis" — designed 8
+"Paper has all 8-criteria but none of the 12-criteria: organized, thesis, evidence, no development" — confirmed 8
+"Paper's highest commentary is EC (evidence then restatement), never CEC or C-only" — confirmed 8 ceiling
+
+CATEGORY Y — Papers that score Row 4 = 0 by design (should not be pushed to 8):
+
+"Paper is entirely descriptive — every paragraph describes a source with no argumentative framing" — confirmed 0
+"Paper is entirely exploratory — 'both sides' framing throughout with no position taken" — confirmed 0
+"Paper has no thesis in any sentence of the full body text" — confirmed 0
+"Paper's conclusion explicitly states 'there is no clear answer'" — confirmed 0
+"Paper is a literature review with no argued position" — confirmed 0
+
+CATEGORY Z — Miscellaneous Row 4 triggers:
+
+"Quote proportion > 70% — more than 70% of non-citation text is direct quotation" — heavy quotation → caps at 8
+"Student commentary sentences = 0 — paper is entirely citations and transitional language" — no commentary → Row 4 = 0
+"Student commentary appears only in transitions between paragraphs, not within paragraphs" — transition-only commentary → caps at 8
+"Every body paragraph ends with a citation rather than a student sentence" — citation-ending → high echoRatio likely
+"Body consists of alternating source paragraphs with no synthesis" — alternating-source pattern → Row 4 = 8 max
+"Paper has a thesis but the thesis is proven by the first paragraph of evidence — no development needed argument structure" — underdeveloped thesis → caps at 8
+"Paper's argument is purely logical without evidence (pure deductive reasoning, no sources)" — sourceless argument → Row 4 = 0
+"Paper's thesis is stated and then immediately supported by a single source with no further development" — single-source thesis → caps at 8
+"Paper has 1 body paragraph only" — single-paragraph argument → Row 4 caps at 8
+"Paper has 0 body paragraphs after stripping (only introduction and conclusion)" — structure failure → Row 4 = 0
+
+ROW 5 — EVIDENCE: DEDUCTION TRIGGERS AND CREDIBILITY PENALTIES
+ROW5_DEDUCTION_TRIGGERS — these 200 patterns reduce credibilityPoints, force Row 5 = 0, or cap at Row 5 = 6:
+CATEGORY A — Hard cap triggers (Row 5 = 0 regardless of other signals):
+
+"bibliography contains only URLs with no author, title, or date" — URL-only → Row 5 = 0
+"bibliography is absent entirely" — no bibliography → Row 5 = 0
+"no well-vetted sources beyond stimulus sources" — stimulus-only → Row 5 = 0
+"all sources are from blogspot, medium, or personal websites" — junk sources only → Row 5 = 0
+"all sources are Wikipedia entries" — Wikipedia-only → Row 5 = 0
+"all sources are social media posts" — social media only → Row 5 = 0
+"all sources are AI-generated" — AI sources only → Row 5 = 0
+"all sources are retracted papers" — retracted only → Row 5 = 0
+"sources listed in bibliography are 0 after stimulus exclusion" — zero non-stimulus sources → Row 5 = 0
+"bibliography contains only the stimulus sources with no additional research" — stimulus-only bibliography → Row 5 = 0
+
+CATEGORY B — Cap at Row 5 = 6 triggers (even if credibilityPoints ≥ 12):
+
+"scholarlyRatio < 0.5 (fewer than half the sources are Tier 1 or Tier 2)" — ratio failure → cap at 6
+"analysisDepthCount < 2 (fewer than 2 sources used with 2+ sentences of analytical commentary)" — depth failure → cap at 6
+"only 1 peer-reviewed journal source in the entire bibliography" — single scholarly source → cap at 6
+"journalistic sources constitute more than 60% of the source portfolio" — journalism-dominated → cap at 6
+"all sources are Tier 3 (journalistic/organizational) with no Tier 1 or Tier 2" — no scholarly/gov → cap at 6
+"no sources with DOI or volume/issue/page format in bibliography" — no scholarly format → cap at 6
+"all sources used as evidence dumps (3+ citations in sequence with no commentary between)" — evidence dump → cap at 6
+"total non-stimulus source count = 1 (only one beyond-stimulus source)" — single source → cap at 6
+"totalCredibilityPoints ≥ 12 but scholarlyRatio = 0.3 or below" — quality-ratio cap
+"all scholarly sources used only for general or simplistic claims (no analytical engagement)" — shallow use → cap at 6
+
+CATEGORY C — credibilityPoints = 0 per source (junk source patterns):
+
+"Wikipedia" — 0 credibilityPoints for this entry
+"blogspot.com" — 0 credibilityPoints
+"wordpress.com" — 0 credibilityPoints
+"medium.com" — 0 credibilityPoints
+"tumblr.com" — 0 credibilityPoints
+"reddit.com" — 0 credibilityPoints
+"quora.com" — 0 credibilityPoints
+"answers.com" — 0 credibilityPoints
+"about.com" — 0 credibilityPoints
+"ehow.com" — 0 credibilityPoints
+"wikihow.com" — 0 credibilityPoints
+"buzzfeed.com" — 0 credibilityPoints
+"huffingtonpost.com" — 0 credibilityPoints
+"dailymail.co.uk" — 0 credibilityPoints
+"tmz.com" — 0 credibilityPoints
+"people.com" (celebrity magazine) — 0 credibilityPoints
+"usmagazine.com" — 0 credibilityPoints
+"cosmopolitan.com" — 0 credibilityPoints
+"instyle.com" — 0 credibilityPoints
+"vogue.com" (when cited as research source) — 0 credibilityPoints
+"youtube.com" (video without scholarly framing) — 0 credibilityPoints
+"tiktok.com" — 0 credibilityPoints
+"instagram.com" — 0 credibilityPoints
+"twitter.com" — 0 credibilityPoints
+"facebook.com" — 0 credibilityPoints
+"AI-generated content cited as source" — 0 credibilityPoints
+"ChatGPT cited as source" — 0 credibilityPoints
+"retracted study" — 0 credibilityPoints, flag
+"predatory journal pattern detected" — 0 credibilityPoints, flag
+"no author + no date + URL only" — 0 credibilityPoints per entry
+
+CATEGORY D — credibilityPoints deduction patterns (-1 each):
+
+"news source used as the only source for a scientific claim" — misuse of journalistic source
+"organizational website (advocacy NGO) used as the only support for a factual claim" — advocacy-only support
+"source older than 2010 used for a rapidly evolving field (technology, AI, medicine)" — outdated source
+"source without named author used for factual claim" — anonymous source for factual claim
+"source used only once in body with no commentary — pure evidence dump" — no analytical use
+"same source cited 10+ times as the primary evidence for all claims" — over-reliance on single source
+"source cited without any indication of what it says (bare parenthetical only)" — empty citation
+"source used for claim outside its domain (e.g., economics source used for medical claim)" — domain mismatch
+"source's specific claim not attributed — paraphrase without attribution" — attribution failure
+"source cited for a stronger claim than the source actually makes" — overclaim
+
+CATEGORY E — analytical use failure patterns (reduce analysisDepthCount):
+
+"source cited in a 3+ citation string with no student sentence between them" — evidence dump
+"source cited at end of paragraph only, no commentary follows" — tail citation
+"source cited at start of paragraph, entire paragraph is summary of that source" — summary paragraph
+"source cited with 'this shows that [restatement]' as the only commentary" — echo commentary
+"source cited twice in the same paragraph for the same claim" — redundant citation
+"source cited with 'as [source] shows' and nothing else" — minimal attribution
+"all citations in body are parenthetical with no attributive phrases" — parenthetical-only citations
+"no sentence in body contains a student analytical claim about a source's significance" — no analytical commentary
+"every paragraph in body consists entirely of citations with no student sentences" — citation-only paragraphs
+"every citation is followed immediately by another citation rather than student commentary" — citation chain
+
+CATEGORY F — Source count and diversity failure patterns:
+
+"total non-stimulus sources = 1" — single source → cap Row 5 at 6 max
+"total non-stimulus sources = 2 with both from same publisher or organization" — limited diversity
+"all sources from same single discipline (e.g., all economics journals)" — limited disciplinary diversity
+"all sources from same single country (e.g., all US-based)" — limited geographic diversity
+"all sources from same publication (e.g., all from one newspaper)" — single-publication sourcing
+"all sources are from the same author (e.g., three articles by the same person)" — same-author sourcing
+"all sources are from same institutional context (e.g., all government reports from one agency)" — single-institution sourcing
+"all sources cited are from a single year" — single-year sourcing
+"all sources are from the same ideological perspective" — ideological uniformity
+"all sources are secondary (no primary research — all summaries of other research)" — secondary-only sourcing
+
+CATEGORY G — Row 5 = 9 confirmation patterns:
+
+"totalCredibilityPoints ≥ 12 + scholarlyRatio ≥ 0.5 + analysisDepthCount ≥ 2" — all gates met → 9
+"at least 2 Tier 1 peer-reviewed journal sources used analytically" — Tier 1 minimum for 9
+"at least 4 non-stimulus sources with credibilityPoints ≥ 2 each" — quality portfolio
+"NAS report + peer-reviewed journal + government data all used analytically" — high-quality mix
+"10+ non-stimulus sources with scholarlyRatio ≥ 0.6 and analytical use throughout" — CB 2025 Sample A profile
+
+CATEGORY H — Row 5 = 6 confirmation patterns:
+
+"only one clearly scholarly source among multiple sources" — CB 2025 Sample B profile → 6
+"scholarly sources present but used for general claims only" — CB 2024 Sample B profile → 6
+"credibility established inconsistently (some sources credentialed, others not)" → 6
+"2 Tier 1 sources + 4 Tier 3 sources → scholarlyRatio = 0.33 → cap at 6" — ratio-based 6
+"totalCredibilityPoints = 8-11 with some analytical use" — medium credibility → 6
+
+CATEGORY I — Source tier misidentification guards:
+
+"Harvard Business Review misclassified as Tier 1 (it is Tier 3 — management magazine)" — guard
+"Greater Good Magazine misclassified as scholarly (it is Tier 3 — newsletter)" — guard
+"Reason.com misclassified as scholarly (it is Tier 3 — opinion site)" — guard
+"Psychology Today misclassified as Tier 1 (it is Tier 3 — popular psychology magazine)" — guard
+"National Geographic misclassified as scholarly (it is Tier 3 — popular science magazine)" — guard
+"The Economist misclassified as Tier 1 (it is Tier 3 — journalism/commentary)" — guard
+"Forbes misclassified as scholarly (it is Tier 3 — business journalism)" — guard
+"Vox misclassified as scholarly (it is Tier 3 — news/opinion website)" — guard
+"APA.org website misclassified as Tier 1 (the website is Tier 2; APA journal articles are Tier 1)" — guard
+"Wikipedia used as Tier 2 government source (Wikipedia is junk source = 0)" — guard
+
+CATEGORY J — Source quality patterns requiring annotation in teacher notes:
+
+"NAS report (National Academies) = Tier 1 — flag as high-quality in teacher note"
+"DOI confirmed in bibliography = +3 credibilityPoints — flag in teacher note"
+"Government report (.gov domain confirmed) = Tier 2 — flag in teacher note"
+"University press (Harvard/Yale/Princeton/Oxford/Cambridge) = Tier 1 — flag in teacher note"
+"Innocence Project = Tier 2 institutional — flag in teacher note"
+"RAND Corporation = Tier 2 institutional — flag in teacher note"
+"Brookings Institution = Tier 2 institutional — flag in teacher note"
+"Pew Research Center = Tier 2 institutional — flag in teacher note"
+"International peer-reviewed journal (non-US) = Tier 1 if DOI confirmed — flag"
+"Colorado DOC report = Tier 2 government institutional — flag"
+
+CATEGORY K — False positive guards for scholarly source detection:
+
+"'Published in [journal name]' where journal name is a known predatory publisher" — predatory flag
+"Journal with no volume/issue/page information — treat as Tier 3 until format confirmed" — format check
+"Book published by named publisher without DOI — treat as Tier 2 (academic press) not Tier 1" — press tier
+"Conference paper without peer-review confirmation — treat as Tier 2 not Tier 1" — conference tier
+"Working paper or preprint without publication confirmation — treat as Tier 2 not Tier 1" — preprint tier
+
+CATEGORY L — Source overclaim detection (student over-uses source for stronger claim than it supports):
+
+"Source used to claim [X] but source's actual finding is [weaker than X]" — overclaim
+"Correlation cited as causation ('X causes Y' when source only shows correlation)" — causal overclaim
+"Single study cited as 'research shows' (implying consensus)" — consensus overclaim
+"One country's data cited as globally applicable without qualification" — generalizability overclaim
+"Small sample study (N < 50) cited as if representative of entire population" — sample overclaim
+
+CATEGORY M — Evidence portfolio patterns indicating quality bands:
+
+"15+ sources, 10+ scholarly, 2+ government = CB Sample A profile → Row 5 = 9 confirmed"
+"5 sources, 1 scholarly, 4 journalistic = CB Sample B profile → Row 5 = 6 confirmed"
+"4 sources, 0 scholarly, 4 URLs = CB Sample C profile → Row 5 = 0 confirmed"
+"8 sources, 4 scholarly, 4 Tier 2/3 = strong portfolio → Row 5 = 9 likely"
+"3 sources, 2 scholarly = minimal portfolio → Row 5 = 6 max"
+
+CATEGORY N — Evidence not counted for Row 5:
+
+"Stimulus sources excluded from Row 5 count — not counted toward credibilityPoints or scholarlyRatio" — stimulus exclusion
+"Dictionary definitions excluded from Row 5 count" — definition exclusion
+"Encyclopedia entries excluded from Row 5 credibilityPoints" — encyclopedia exclusion
+"Student's own survey or primary data excluded from credibilityPoints" — primary-data exclusion
+"AI-generated content excluded from credibilityPoints" — AI exclusion
+
+CATEGORY O — Evidence portal sources for IRR/IWA cross-contamination guard:
+
+"Source used for IWA Row 5 that appears to be an IRR-style primary research source" — genre check
+"Source described as 'my own research/survey' — excluded from Row 5 for IWA" — self-research exclusion
+"Source appears to be the student's own data collection" — self-data exclusion
+"Source is an interview conducted by the student" — self-interview exclusion
+"Source is a personal observation" — personal observation exclusion
+
+CATEGORY P — Source citation matching for Row 5 and Row 6 cross-check:
+
+"Source in bibliography not cited in body — not counted for Row 5 analysisDepth" — uncited source exclusion
+"Source cited in body not in bibliography — flag as missing for Row 6, still count for Row 5 if used analytically" — missing bib flag
+"Source cited only in bibliography with no in-text use — excluded from Row 5" — bibliography-only exclusion
+"Duplicate bibliography entries for same source — count as one source" — deduplication
+"Same source listed under two different names — count as one source" — deduplication
+
+CATEGORY Q — Row 5 teacher note requirements:
+
+"List all Tier 1 sources detected in teacher note"
+"List all Tier 2 sources detected in teacher note"
+"List all junk sources detected with 0 credibilityPoints in teacher note"
+"Show scholarlyRatio calculation in teacher note"
+"Show totalCredibilityPoints breakdown per source in teacher note"
+"Show analysisDepthCount with which sources passed in teacher note"
+"Flag any overclaim detected in teacher note"
+"Flag any domain-mismatch use in teacher note"
+"Flag any outdated source used for rapidly evolving field in teacher note"
+"Flag any single-source over-reliance in teacher note"
+
+CATEGORY R — Row 5 cross-row interactions:
+
+"Row 5 = 0 AND Row 6 = 0 (both triggered by URL-only bibliography) — confirm both hard caps"
+"Row 5 = 9 AND Row 6 = 0 — unusual profile, flag LOW confidence"
+"Row 5 = 9 AND Row 6 = 3 — common profile for strong but imperfect citation"
+"Row 5 = 0 AND Row 6 = 5 — impossible profile (no sources + perfect citation) — flag ERROR"
+"Row 5 = 6 AND Row 4 = 12 — normal profile for strong argument with limited source portfolio"
+
+CATEGORY S — Row 5 patterns for papers at the 6/9 boundary:
+
+"totalCredibilityPoints = 11 (one point below 12 threshold) — confirm scholarlyRatio and analysisDepth before scoring 6"
+"scholarlyRatio = 0.48 (just below 0.5 threshold) — apply 6, not 9"
+"analysisDepthCount = 1 (one below 2 threshold) — apply 6, not 9"
+"2 Tier 1 sources + 4 Tier 3 sources: totalCredibilityPoints = 8, scholarlyRatio = 0.33 → 6"
+"3 Tier 1 sources + 3 Tier 2 sources: totalCredibilityPoints = 15, scholarlyRatio = 0.5, analysisDepthCount = 2 → 9"
+
+CATEGORY T — Government source tier clarification:
+
+".gov domain = Tier 2 (not Tier 1)" — tier clarification
+"WHO = Tier 2 (not Tier 1)" — tier clarification
+"World Bank = Tier 2 (not Tier 1)" — tier clarification
+"Pew Research = Tier 2 (not Tier 1)" — tier clarification
+"RAND = Tier 2 (not Tier 1)" — tier clarification
+"Brookings = Tier 2 (not Tier 1)" — tier clarification
+"Government report = Tier 2 unless peer-reviewed (Tier 1 requires peer review)" — tier boundary
+"NAS report = Tier 1 exception (National Academies is treated as Tier 1 due to rigorous review process)" — NAS exception
+"Congressional Budget Office = Tier 2 (government institutional)" — tier clarification
+"State health department = Tier 2 (government institutional)" — tier clarification
+
+CATEGORY U — Evidence depth patterns at the 6 vs 9 boundary:
+
+"Sources cited with commentary that echoes rather than develops = analysisDepth contribution = 0" — echo-commentary exclusion
+"Sources cited with commentary that introduces new implication = analysisDepth contribution = +1" — development inclusion
+"Source cited in evidence dump (3+ citations in a row) = analysisDepth = 0 for that block" — dump exclusion
+"Source cited with 2+ sentences of student analysis that derive new implication = analysisDepth = +1" — qualified depth
+"Source cited with only 1 sentence of student analysis = analysisDepth = +0.5 (borderline)" — borderline depth
+
+CATEGORY V — Evidence portfolio title signals:
+
+"Title includes '[Peer-reviewed field]' — expect Tier 1 sources present" — positive expectation
+"Title includes specific policy name — expect government sources present" — positive expectation
+"Title includes 'Historical Analysis' — expect primary historical sources present" — positive expectation
+"Title includes 'Case Study of [specific institution]' — expect institutional sources" — positive expectation
+"Title includes 'A Review of the Literature' — expect multiple scholarly sources" — positive expectation
+
+CATEGORY W — Evidence portfolio title negative signals:
+
+"Title includes 'My Opinion on [Topic]' — expect few scholarly sources" — negative expectation
+"Title includes 'Why I Believe [Topic]' — expect personal essay, few sources" — negative expectation
+"Title includes 'An Introduction to [Topic]' — expect introductory sources only" — negative expectation
+"Title includes 'What I Learned About [Topic]' — expect personal essay format" — negative expectation
+"Title includes 'My Research on [Topic]' — expect student primary data" — negative expectation
+
+CATEGORY X — Evidence source patterns by paper quality tier:
+
+"Below Minimum papers (0-15 total) typically: URL-only sources or no sources → Row 5 = 0"
+"Developing papers (16-30 total) typically: 2-4 sources, mixed quality → Row 5 = 6"
+"Strong papers (31-42 total) typically: 4-8 sources, at least 2 scholarly → Row 5 = 6 or 9"
+"High papers (43-48 total) typically: 8+ sources, majority scholarly, analytical use → Row 5 = 9"
+"Paper at 48/48 profile: 8+ DOI sources, 10/15 scholarly, analytical engagement throughout → Row 5 = 9 confirmed"
+
+CATEGORY Y — Row 5 scoring decision tree summary:
+
+"URL-only bibliography → Row 5 = 0 (hard cap)"
+"No beyond-stimulus well-vetted sources → Row 5 = 0"
+"1 scholarly source + any other sources → Row 5 = 6 max"
+"Multiple sources but scholarlyRatio < 0.5 → Row 5 = 6"
+"Multiple sources with scholarlyRatio ≥ 0.5 but analysisDepthCount < 2 → Row 5 = 6"
+"totalCredibilityPoints ≥ 12 + scholarlyRatio ≥ 0.5 + analysisDepthCount ≥ 2 → Row 5 = 9"
+"All gates met (cred ≥ 12, ratio ≥ 0.5, depth ≥ 2) but 1 source is junk → recalculate after removing junk"
+"Gates met but all scholarly sources used only for simplistic claims → cap at 6 (CB 2024 Sample B rule)"
+"Gates met and scholarly sources used analytically (2+ sentences of development per source) → Row 5 = 9"
+"Row 5 score must be confirmed against both quality gates (cred + ratio) and use gate (depth) — all three required for 9"
+
+ROW 6 — CITATION: DEDUCTION TRIGGERS AND LINKAGE FAILURE PATTERNS
+ROW6_DEDUCTION_TRIGGERS — these 200 patterns reduce linkingRatio, force Row 6 = 0, or cap at Row 6 = 3:
+CATEGORY A — Row 6 = 0 hard triggers:
+
+"bibliography completely absent" — no bibliography → Row 6 = 0
+"bibliography present but all entries are bare URLs with no author, title, or date" — URL-only → Row 6 = 0
+"inTextCitationCount = 0 (zero in-text citations in body text)" — no in-text → Row 6 = 0
+"inTextCitationCount = 1 (single in-text citation in entire paper)" — near-zero → Row 6 = 0
+"bibliography has 2+ entries but body text has zero in-text citations" — bib without in-text → Row 6 = 0
+"body text has in-text citations but bibliography is entirely absent" — in-text without bib → Row 6 = 3 max
+"all in-text citations are hyperlinks with no author name" — hyperlink-only → Row 6 = 0
+"bibliography entries have no authors — all anonymous" — anonymous bib → Row 6 = 0
+"bibliography entries have no dates — all undated" — undated bib → Row 6 = 3 max
+"paper contains only one source (stimulus) and no additional sources cited" — single-source → Row 6 = 0 unless stimulus-only OK
+
+CATEGORY B — Row 6 = 3 triggers (cap prevents Row 6 = 5):
+
+"linkingRatio < 0.7 (fewer than 70% of in-text citations linked to bibliography entry)" — low linking → Row 6 = 3
+"missingFromBibliographyCount ≥ 3 (3+ in-text citations have no matching bibliography entry)" — 3+ missing → Row 6 = 3
+"citation style inconsistency throughout (APA mixed with MLA throughout)" — style inconsistency → Row 6 = 3
+"attributivePhraseRatio < 0.35 (fewer than 35% of citations use attributive phrases)" — low attribution → Row 6 = 3
+"citationStyleViolations ≥ 5 (5 or more style violations throughout paper)" — violation accumulation → Row 6 = 3
+"bibliography present and organized but inTextCitationCount < 1 per 400 words" — under-citation density → Row 6 = 3
+"all citations are attributive phrases only with no parenthetical citations and no bibliography entries" — attributive-only → Row 6 = 3
+"bibliography has 2+ entries but only 1 source is cited in body text" — bib-body mismatch → Row 6 = 3
+"MLA and APA styles mixed throughout with no dominant style" — style mixing → Row 6 = 3
+"citations present but bibliography entries missing essential elements (author, year, title all absent)" — incomplete bib → Row 6 = 3
+
+CATEGORY C — Row 6 = 5 confirmation patterns:
+
+"linkingRatio ≥ 0.9 (90%+ of in-text citations linked to bibliography)" — high linking → supports 5
+"missingFromBibliographyCount ≤ 1 (0 or 1 missing entries)" — near-perfect linking → supports 5
+"citation style consistent throughout (all APA or all MLA)" — style consistency → supports 5
+"attributivePhraseRatio ≥ 0.35 (at least 35% of citations use attributive phrases)" — good attribution → supports 5
+"bibliography alphabetically organized with consistent format" — organized bib → supports 5
+"every named source in body text has a corresponding bibliography entry" — complete linking → supports 5
+"in-text citations appear at rate of at least 1 per 400 words" — adequate density → supports 5
+"all bibliography entries have author, date, title, and source information" — complete entries → supports 5
+"parenthetical citations link correctly to author-date bibliography entries" — correct format → supports 5
+"stimulus sources correctly excluded from missingFromBibliographyCount" — stimulus exclusion applied → supports 5
+
+CATEGORY D — False positive guards for citation detection:
+
+"Author name appearing only in running head — not counted as in-text citation" — running head exclusion
+"Author name appearing only in paper title — not counted as in-text citation" — title exclusion
+"Author name appearing only in another author's bibliography entry — not counted" — bib-embedded exclusion
+"Author name appearing only in a URL — not counted as in-text citation" — URL exclusion
+"Author name appearing in a figure or table caption — counted only if paper text references it" — caption check
+
+CATEGORY E — False negative guards for citation detection:
+
+"Attributive phrase 'According to [Author]' counted as in-text citation even without parenthetical" — attributive inclusion
+"'As [Author] argues' counted as in-text citation" — attributive inclusion
+"'[Author] notes that' counted as in-text citation" — attributive inclusion
+"'Drawing on [Author]' counted as in-text citation" — attributive inclusion
+"'Per [Author]' counted as in-text citation" — attributive inclusion
+"'[Author] ([Year])' counted as in-text citation" — author-year inclusion
+"'(Author, Year)' in parenthetical counted as in-text citation" — parenthetical inclusion
+"'[Author] ([Year]) found that' counted as in-text citation" — author-year inclusion
+"Footnote citation counted as in-text citation" — footnote inclusion
+"Endnote citation counted as in-text citation" — endnote inclusion
+
+CATEGORY F — Missing entry detection methods:
+
+"In-text '[Author, Year]' with no bibliography entry beginning '[Author]' — missing" — standard missing
+"In-text 'et al.' with no bibliography entry for that first author — missing" — et al. missing
+"Attributive '[Author] argues' with no bibliography entry for [Author] — missing" — attributive missing
+"Bibliography '[Author]' with no in-text citation of [Author] — extra entry (flag, do not penalize)" — extra entry
+"In-text citation of '[Author] (Year)' where year in parenthetical doesn't match bibliography year — mismatch flag" — year mismatch
+
+CATEGORY G — Common matching errors to avoid:
+
+"Loftus (1996) in text matching Loftus, E. F. (1996) in bib — correct match (last name + year)" — correct match
+"Howe and Knott (2015) in text matching Howe, M., & Knott, L. (2015) in bib — correct match" — correct match
+"et al. in text: first author last name + year matches any bib entry beginning with that last name + year — correct" — et al. match
+"Corporate author 'EPA' in text matching 'U.S. Environmental Protection Agency' in bib — correct match via alias" — alias match
+"Government author 'CDC' in text matching 'Centers for Disease Control and Prevention' in bib — correct match via alias" — alias match
+
+CATEGORY H — Citation density patterns:
+
+"Paper has 1,200 words body text and 1 in-text citation — density failure → Row 6 = 0" — density failure
+"Paper has 1,200 words body text and 2 in-text citations — density borderline → Row 6 = 3" — density borderline
+"Paper has 1,200 words body text and 3+ in-text citations — density adequate → check other signals" — density adequate
+"Paper has 500 words body text and 4 in-text citations — adequate density for paper length" — density adequate
+"Paper has 2,000 words body text and 5 in-text citations — borderline density → flag under-citation" — borderline density
+
+CATEGORY I — Citation style identification patterns:
+
+"(Author, Year)" — APA parenthetical confirmed
+"(Author, Year, p. N)" — APA with page confirmed
+"(Author Year)" — APA parenthetical (missing comma — minor violation, not a miss)
+"(Author N)" or "(Author p. N)" — MLA parenthetical confirmed
+"Author (Year)" — APA in-text confirmed
+"[Author N]" — MLA parenthetical confirmed (bracket form)
+"ibid." — classical citation — acceptable, not a violation
+"op. cit." — classical citation — acceptable
+"(1)" footnote-style — numbered footnote style — different from APA/MLA but acceptable
+"Chicago/Turabian format detected (footnote numbers)" — Chicago style — acceptable if consistent
+
+CATEGORY J — Style violation patterns (-1 citationStyleViolation each):
+
+"parenthetical cite uses author first name instead of last name" — first-name error
+"parenthetical cite missing year when year is required by style" — missing year
+"bibliography entry not in reverse chronological or alphabetical order (when style requires)" — organization error
+"bibliography entry missing required element (author, year, title, or source)" — missing element
+"inconsistent capitalization in bibliography titles within the same style" — capitalization inconsistency
+"inconsistent punctuation between bibliography entries (some with periods, some without)" — punctuation inconsistency
+"mixing parenthetical and footnote citations without justification" — format mixing
+"parenthetical citation inside another parenthetical — nested citation error" — nesting error
+"in-text citation appearing after the period instead of before (APA/MLA violation)" — placement error
+"bibliography entries not sorted alphabetically when alphabetical order is the stated style" — sort error
+
+CATEGORY K — Bibliography organization patterns:
+
+"Bibliography alphabetically sorted by author last name — correct for APA/MLA" — correct organization
+"Bibliography organized by first name — incorrect, flag as style violation" — incorrect
+"Bibliography organized chronologically — acceptable for some styles, flag if APA/MLA" — context-dependent
+"Bibliography organized by topic — acceptable if noted, flag if APA/MLA" — context-dependent
+"Bibliography entries numbered — Chicago/Turabian style — acceptable if consistent" — numbered style
+"Bibliography has no organizational principle — random order — citationStyleViolation += 1" — no organization
+"Bibliography starts mid-paper (not at end) — flag as formatting issue" — placement issue
+"Bibliography separated from body by clear heading (Works Cited, References, Bibliography)" — correct placement
+"Bibliography uses hanging indent consistently — correct format" — formatting correct
+"Bibliography has no hanging indent — minor violation, not a point deduction unless 5+ violations" — minor violation
+
+CATEGORY L — Specific source-type citation format requirements:
+
+"Journal article: author, year, title, journal, volume, issue, pages — all required for APA" — journal format
+"Book: author, year, title, publisher — all required for APA" — book format
+"Website: author (if available), year, title, URL, access date — required for APA" — website format
+"Government report: agency, year, title, URL or publishing body — required" — gov report format
+"Edited volume chapter: author, year, chapter title, in Editor (Ed.), book title, pages, publisher" — chapter format
+"DOI required when available for journal articles in APA 7th edition" — DOI requirement
+"Access date required for web sources that may change" — web date requirement
+"Volume and issue required for journal articles — missing = style violation" — journal elements
+"Publisher location required in APA 6th (not required in APA 7th) — version-specific" — edition-specific
+"Author last name first in bibliography (First, I. (Year)) — APA format" — APA format
+
+CATEGORY M — Stimulus source citation treatment:
+
+"Stimulus source cited in body with no bibliography entry — excluded from missingFromBibliographyCount" — stimulus exclusion
+"Stimulus source listed in bibliography but not cited in body — excluded from excess entry count" — stimulus exclusion
+"Stimulus source bibliography entry not required if it's part of the packet — context-dependent" — packet-source treatment
+"Norberg cited in body: if Norberg appears in bibliography under full citation, linked correctly" — Norberg matching
+"Howe and Knott cited in body: match against bibliography for Howe, M. and Knott, L." — Howe/Knott matching
+
+CATEGORY N — Row 6 teacher note requirements:
+
+"List all in-text citations detected in teacher note"
+"List all bibliography entries detected in teacher note"
+"Show linkingRatio calculation in teacher note"
+"List all missing entries (in-text without bib match) in teacher note"
+"List all extra entries (bib without in-text match) in teacher note"
+"Show citationStyleViolations count with examples in teacher note"
+"Show attributivePhraseRatio in teacher note"
+"Flag any citation style inconsistency with examples in teacher note"
+"Flag any source cited for stronger claim than source supports in teacher note"
+"Show inTextCitationCount and density (cites per 400 words) in teacher note"
+
+CATEGORY O — Specific missing entry detection examples:
+
+"Shaw and Porter cited in body but bibliography shows only Shaw — partial match, flag missing" — partial name match
+"Garry (2005) cited in body but bibliography shows Garry (2006) — year mismatch, flag" — year mismatch
+"Loftus et al. cited in body but bibliography shows Loftus (sole author) — et al. mismatch, check" — et al. check
+"Wells and Olson cited in body as 'Wells et al.' but bibliography shows 'Wells, G. L., & Olson, E. A.' — correct match via et al. alias" — et al. match
+"Yang cited in body but bibliography shows multiple Yang entries — flag ambiguous match" — ambiguous match
+
+CATEGORY P — Row 6 cross-row interactions:
+
+"Row 6 = 0 + Row 5 = 0 (URL-only hard cap applied to both)" — URL-only dual cap
+"Row 6 = 5 + Row 5 = 0 — unusual profile (perfect citation but no scholarly sources)" — unusual flag
+"Row 6 = 3 + Row 5 = 9 — common profile (strong sources, imperfect citation)" — common profile
+"Row 6 = 0 + Row 5 = 9 — impossible profile (scholarly sources but no citations) — flag ERROR" — impossible
+"Row 6 = 5 + Row 5 = 9 — ideal profile (strong sources + perfect citation)" — ideal profile
+
+CATEGORY Q — Patterns confirming Row 6 = 5:
+
+"linkingRatio ≥ 0.9 + missingFromBibliographyCount ≤ 1 + consistent style throughout" — Row 6 = 5 confirmed
+"All in-text citations have bibliography matches + organized bibliography + consistent style" — Row 6 = 5
+"Zero missing entries + zero style mixing + complete bibliography entries" — Row 6 = 5
+"Perfect APA throughout: parenthetical, bibliography with DOIs, attributive phrases" — Row 6 = 5
+"linkingRatio = 1.0 with 2 exceptions tolerated (stimulus sources)" — Row 6 = 5
+
+CATEGORY R — Patterns confirming Row 6 = 3:
+
+"linkingRatio = 0.7-0.89 + missingFromBibliographyCount = 2-4" — Row 6 = 3 confirmed
+"Style mixing throughout (APA opening, MLA middle, inconsistent end)" — Row 6 = 3
+"Bibliography present but 3-5 in-text citations have no bibliography match" — Row 6 = 3
+"In-text citations present but bibliography missing essential elements for 3+ entries" — Row 6 = 3
+"citationStyleViolations ≥ 5 confirmed" — Row 6 = 3
+
+CATEGORY S — Patterns confirming Row 6 = 0:
+
+"Bibliography absent entirely" — Row 6 = 0 confirmed
+"Bibliography present but all entries are URLs with no author/date/title" — Row 6 = 0
+"inTextCitationCount = 0 in body text" — Row 6 = 0
+"inTextCitationCount = 1 in body text" — Row 6 = 0
+"Bibliography has 1 entry: the stimulus source only" — Row 6 = 0
+
+CATEGORY T — Citation detection edge cases:
+
+"Paper uses footnotes instead of in-text citations — count footnote markers as in-text citations" — footnote handling
+"Paper uses numbered citations [1], [2] instead of author-year — count as in-text citations" — numbered handling
+"Paper uses endnotes — count endnote markers as in-text citations" — endnote handling
+"Paper uses hyperlinks as citations — do not count as in-text citations unless author name appears" — hyperlink exclusion
+"Paper cites sources in figure/table captions only — count as in-text citations if they have author names" — caption handling
+
+CATEGORY U — Specific handling of incomplete citations:
+
+"Author-only citation (no year): '(Loftus)' — counts as in-text citation but adds 1 style violation" — author-only
+"Year-only citation: '(1996)' — does not count as in-text citation (no author match possible)" — year-only exclusion
+"Title-only citation: '[Memory and Suggestibility]' — does not count as in-text citation" — title-only exclusion
+"URL-only in-text: '[www.source.com]' — does not count as in-text citation" — URL exclusion
+"Page-number-only citation: '(p. 45)' — does not count as in-text citation" — page-only exclusion
+
+CATEGORY V — Bibliography entry completeness scoring:
+
+"Author + year + title + journal/publisher — complete entry = 0 style violations for this entry"
+"Author + year + title (missing source) — 1 style violation for this entry"
+"Author + title (missing year) — 1 style violation for this entry"
+"Author only (missing year, title, source) — 2 style violations for this entry"
+"URL only (no author, year, title) — 3 style violations for this entry + junk source flag"
+
+CATEGORY W — Over-citation patterns (flag, do not penalize):
+
+">1 citation per 100 words — flag as over-citation in teacher note, no score deduction"
+"Same source cited 5+ times in single paragraph — flag as over-reliance, no score deduction"
+"3+ citations in a single sentence — flag as citation dump, no score deduction"
+"Bibliography has 20+ entries for a 1,000-word paper — flag as bibliography padding, no score deduction"
+"Same source cited 10+ times in entire paper — flag as single-source dependence, no score deduction"
+
+CATEGORY X — Under-citation patterns (flag and potentially penalize):
+
+"Paper body > 1,000 words with fewer than 3 in-text citations — flag and reduce to Row 6 = 3"
+"Paper body > 1,500 words with fewer than 4 in-text citations — flag and reduce to Row 6 = 3"
+"Paper body > 2,000 words with fewer than 5 in-text citations — flag and reduce to Row 6 = 3"
+"Long quotation paragraph (100+ words of quoted text) with only one citation — flag"
+"Entire body paragraph with no citation where a citation is clearly needed — flag"
+
+CATEGORY Y — Row 6 edge case resolutions:
+
+"Paper cites stimulus in body but no other sources — Row 6 scoring based on stimulus citation quality alone"
+"Paper has 1 non-stimulus source cited in body with correct bibliography entry — Row 6 = 3 minimum"
+"Paper cites sources consistently in attributive phrases with no parenthetical — acceptable, Row 6 = 5 possible"
+"Paper uses ibid. correctly — acceptable, no style violation"
+"Paper mixes Chicago footnotes with APA bibliography — major style inconsistency → Row 6 = 3"
+
+CATEGORY Z — Row 6 absolute boundary decisions:
+
+"Bibliography absent AND no in-text citations → Row 6 = 0 — confirmed"
+"Bibliography present (any kind) AND any in-text citations → Row 6 ≥ 3 possible"
+"Bibliography well-organized AND linkingRatio ≥ 0.9 AND consistent style → Row 6 = 5 possible"
+"linkingRatio < 0.5 → Row 6 = 0 regardless of other signals" — severe linking failure
+"missingFromBibliographyCount > 5 → Row 6 = 3 cap regardless of other signals" — severe missing cap
+"Row 6 = 5 requires: bibliography present + consistent style + linkingRatio ≥ 0.9 + missingCount ≤ 1" — all gates for 5
+"Row 6 = 3 requires: bibliography present + in-text citations present + at least some linking" — minimum for 3
+"Row 6 = 0 requires: bibliography absent OR in-text absent OR URL-only bibliography" — triggers for 0
+"High anchor (48-tier paper) does not override Row 6 = 3 if missingFromBibliographyCount ≥ 3" — no anchor override for citation
+"Row 6 scoring is entirely signal-based — anchor never overrides citation row" — anchor exclusion confirmed
+
+CATEGORY AA — Row 6 student feedback trigger patterns:
+
+"Row 6 = 0 → feedback: 'Your paper has no bibliography or in-text citations. Every source must appear in your Works Cited and be cited within your essay.'"
+"Row 6 = 0 (URL-only) → feedback: 'A list of URLs alone does not constitute a bibliography. Include author, date, title, and source for every entry.'"
+"Row 6 = 3 → feedback: 'Your citations are partially linked but [N] in-text citations could not be matched to bibliography entries. Add those entries to your Works Cited.'"
+"Row 6 = 3 (style mixing) → feedback: 'Your citation style is inconsistent — some entries follow APA format and others follow MLA. Choose one format and apply it throughout.'"
+"Row 6 = 5 → feedback: 'Your citations are accurate and clearly linked. Strong citation practice throughout.'"
+"Row 6 = 5 with 1 minor exception → feedback: 'Your citation system is strong. One source in your bibliography ([Author]) was not cited in your essay — use it or remove it.'"
+"Row 6 = 3 (under-citation density) → feedback: 'Your paper has [N] words but only [N] in-text citations. Aim for at least one citation per 400 words.'"
+"Row 6 = 3 (missing entries) → feedback: 'We found [N] sources cited in your essay that do not appear in your Works Cited: [Author A], [Author B]. Add these entries.'"
+"Row 6 = 0 (no in-text) → feedback: 'Your bibliography has entries but your essay contains no in-text citations. Every claim from a source must be attributed within the text.'"
+"Row 6 = 0 (no bibliography) → feedback: 'Your essay has in-text citations but no bibliography. Add a Works Cited or References page at the end of your essay.'"
+
+CATEGORY BB — Row 6 patterns unique to IWA (vs IRR):
+
+"IWA citation style: APA or MLA both acceptable — do not penalize for either" — IWA style flexibility
+"IWA stimulus sources: not required in bibliography — excluded from missing count" — stimulus exclusion
+"IWA bibliography: should follow Works Cited or References format — not numbered" — IWA format
+"IWA in-text citation density: 1 per 400 words minimum for Row 6 > 0" — IWA density
+"IWA bibliography: at minimum 2 non-URL non-stimulus entries for Row 6 = 5 consideration" — IWA minimum
+
+CATEGORY CC — Row 6 patterns for papers near the 3/5 boundary:
+
+"linkingRatio = 0.85-0.89 — borderline 3/5 → check missingCount before deciding" — borderline
+"missingFromBibliographyCount = 2 — borderline → check linkingRatio and style consistency" — borderline
+"1 major style inconsistency only — borderline → check other signals before capping at 3" — borderline
+"Bibliography present with 1 URL-only entry among otherwise complete entries — not URL-only → continue scoring" — URL-among-others
+"inTextCitationCount = 2 in a 500-word paper — borderline density → check body word count before penalizing" — density-to-length check
+
+ROW 7 — STYLE: DEDUCTION TRIGGERS AND REGISTER FAILURE PATTERNS
+ROW7_DEDUCTION_TRIGGERS — these 200 patterns reduce Row 7 score or force Row 7 = 0:
+CATEGORY A — Severity 3 patterns (force Row 7 = 0 immediately):
+
+"lol" — severity 3
+"lmao" — severity 3
+"lmfao" — severity 3
+"omg" — severity 3
+"omfg" — severity 3
+"wtf" — severity 3
+"tbh" — severity 3
+"ngl" — severity 3
+"imo" — severity 3
+"smh" — severity 3
+"emoji anywhere in body text" — severity 3
+"🤣 😂 😭 😱 👀 🔥 💯 ❤️ or any emoji character" — severity 3
+"text speak abbreviations (tbh, ngl, imo, idk, idc)" — severity 3
+"slang: no cap, on god, deadass, periodt, bussin, slay, lowkey, highkey" — severity 3
+"slang: it's giving, hits different, main character energy, rent free" — severity 3
+"extreme informality: 'bruh', 'bro', 'fam', 'dawg', 'bestie', 'sis'" — severity 3
+"profanity anywhere in body text" — severity 3
+"'at the end of the day' used as conclusion phrase (cliché severity 2; if dominant = severity 3)" — context-dependent
+"memes or internet culture references (e.g., 'the struggle is real', 'throwing shade')" — severity 3
+"chatbot-style language ('Great question!', 'Certainly!', 'Absolutely!')" — severity 3
+
+CATEGORY B — Severity 2 patterns (force Row 7 ≤ 2 when 3+ instances):
+
+"a lot of [noun]" — informal
+"lots of [noun]" — informal
+"kind of [adjective/verb]" — informal
+"sort of [adjective/verb]" — informal
+"a bit [adjective]" — informal
+"a little bit" — informal
+"pretty [adjective]" — informal intensifier
+"really [adjective]" — informal intensifier
+"very very" — doubled intensifier
+"so so" — doubled intensifier
+"totally [adjective/adverb]" — informal
+"literally [adjective/verb]" — informal filler
+"actually [adjective/verb]" — informal filler
+"basically [verb/adjective]" — informal filler
+"honestly [adjective]" — informal filler
+"obviously [without evidence]" — unsupported certainty
+"clearly [without evidence]" — unsupported certainty
+"of course [without evidence]" — unsupported certainty
+"it goes without saying" — cliché
+"needless to say" — cliché
+"stuff" — informal noun
+"things" (as vague filler) — informal noun
+"good" as an analytical descriptor — vague
+"bad" as an analytical descriptor — vague
+"nice" as an analytical descriptor — informal
+"great" as an analytical descriptor — informal
+"awesome" — informal
+"terrible" (without specificity) — informal
+"awful" (without specificity) — informal
+"interesting" (as filler) — vague
+"big problem" — vague informal
+"huge problem" — vague informal
+"major problem" — vague informal
+"real problem" — vague informal
+"lots of people" — informal
+"many people [without citation]" — vague informal
+"most people [without citation]" — vague informal
+"people everywhere [without citation]" — vague informal
+"everyone [without citation]" — vague informal
+"nowadays" — informal temporal marker
+"these days" — informal temporal marker
+"today's world" — informal temporal marker
+"right now" — informal temporal marker
+"need to [informal prescriptive]" — informal
+"have to [informal prescriptive]" — informal
+"got to [informal prescriptive]" — informal
+"deal with" — informal verb
+"look at" (when meaning examine/analyze) — informal
+"work on" — informal
+"try to fix" — informal
+
+CATEGORY C — Patterns that confirm Row 7 = 2 (academic but not distinguished):
+
+"Competent academic vocabulary but few discipline-specific terms" — Row 7 = 2 profile
+"No colloquial language but limited sentence variety" — Row 7 = 2 profile
+"Academic register maintained but grammar errors present (2-3 instances)" — Row 7 = 2 profile
+"Academic tone throughout with occasional cliché (1-2 instances)" — Row 7 = 2 profile
+"First person used appropriately (not colloquially)" — acceptable, does not reduce Row 7
+"Second person 'you' appears 1-2 times in an otherwise academic paper" — minor, Row 7 = 2 max
+"Passive voice used consistently — no penalty" — acceptable
+"Short sentences present but varied by longer sentences — no penalty" — acceptable variety
+"Spelling errors detected (3 or fewer) — Row 7 = 2 cap" — minor spelling
+"Run-on sentences (2-3) in otherwise well-written paper — Row 7 = 2 cap" — minor grammar
+
+CATEGORY D — Patterns that confirm Row 7 = 3 (distinguished academic register):
+
+"Disciplinary vocabulary used precisely: [named field-specific terms]" — Row 7 = 3 signal
+"Legal register maintained throughout (due process, adjudicate, pursuant to)" — Row 7 = 3 signal
+"Policy register maintained (mandate, regulatory, statutory, codification)" — Row 7 = 3 signal
+"Scientific register maintained (epidemiological, longitudinal, correlation)" — Row 7 = 3 signal
+"Sociological register maintained (socioeconomic, intersectional, systemic)" — Row 7 = 3 signal
+"No colloquial language of any kind detected" — Row 7 = 3 signal
+"Sentence variety present: mix of complex, compound-complex, and simple" — Row 7 = 3 signal
+"Attributive verb variety: argues, contends, maintains, demonstrates, establishes, corroborates" — Row 7 = 3 signal
+"Paragraph transitions appropriate and varied: furthermore, conversely, consequently, notwithstanding" — Row 7 = 3 signal
+"Zero grammar errors detected in full body text" — Row 7 = 3 signal
+
+CATEGORY E — Grammar error deduction patterns:
+
+"Subject-verb agreement error: '[plural subject] is'" — grammar error
+"Tense inconsistency: mixing past and present tense without reason" — grammar error
+"Pronoun-antecedent disagreement: 'Everyone should understand their [correct] / his [error in some contexts]'" — grammar error
+"Comma splice: two independent clauses joined by comma only" — grammar error
+"Run-on sentence: two independent clauses joined without punctuation or conjunction" — grammar error
+"Fragment: sentence without subject or verb" — grammar error
+"Dangling modifier: modifier doesn't connect to the right subject" — grammar error
+"Apostrophe error: 'its' vs 'it's' misused" — grammar error
+"Double negative: 'cannot not' or 'doesn't never'" — grammar error
+"Preposition at end of sentence (acceptable in modern English, not an error)" — do not penalize
+
+CATEGORY F — Colloquial language accumulation tracking:
+
+"colloquialSeverity = 0: no colloquial patterns detected → Row 7 = 3 (if other signals support)"
+"colloquialSeverity = 1 (1-2 instances of severity-2 patterns): no penalty, Row 7 = 3 still possible"
+"colloquialSeverity = 2 (3+ instances of severity-2 patterns or 1-2 severity-3): Row 7 = 2 cap"
+"colloquialSeverity = 3 (any severity-3 pattern or 5+ severity-2 patterns): Row 7 = 0"
+"colloquialSeverity accumulates across paper — does not reset paragraph-to-paragraph"
+
+CATEGORY G — Context-dependent formality patterns:
+
+"'I argue' in academic paper — acceptable first-person argumentative phrase, no penalty"
+"'I believe' in academic paper — acceptable when used critically, not as a personal preference substitute"
+"'We' in academic paper — acceptable royal/authorial we, no penalty"
+"Rhetorical questions used analytically — acceptable, no penalty"
+"First person 'I' used to introduce analysis — acceptable, no penalty"
+"'In conclusion' as paragraph opener — cliché but not colloquial, no penalty"
+"'To sum up' — borderline cliché, count as severity-1 signal (needs 3+ for effect)"
+"'In short' — acceptable academic transition, no penalty"
+"'First and foremost' — borderline cliché, count as severity-1 if used repeatedly"
+"'Last but not least' — cliché, count as severity-2 instance"
+
+CATEGORY H — Row 7 false positive guards (do not penalize):
+
+"Technical jargon that appears informal but is discipline-specific — do not penalize"
+"Contractions in quotations from sources — do not penalize (student didn't write them)"
+"Colloquial language in block quotes — strip quotes before scanning, do not penalize"
+"Informal language in the research question (student-facing) — do not penalize"
+"Second person in the research question ('How can we address...') — acceptable"
+
+CATEGORY I — Paper quality band patterns for Row 7:
+
+"Below Minimum papers (0-15 total): Row 7 typically 0 (severe informality)"
+"Developing papers (16-30 total): Row 7 typically 2 (academic but limited)"
+"Strong papers (31-42 total): Row 7 typically 2 or 3 (consistently academic)"
+"High papers (43-48 total): Row 7 typically 3 (distinguished academic register)"
+"Paper 1 (social media warnings, 433 words, 'kind of', 'a lot'): Row 7 = 0 confirmed"
+
+CATEGORY J — Specific paper profiles for Row 7:
+
+"Paper 2 (fast fashion, 458 words, mostly academic, brief): Row 7 = 2"
+"Paper 5 (UBI/automation, 732 words, full academic register): Row 7 = 3"
+"Paper 11 (memory/criminal justice, 1379 words, legal-scientific register): Row 7 = 3"
+"CB 2025 Sample A (memory distortion, legal register): Row 7 = 3 confirmed by CB"
+"CB 2025 Sample B (nostalgia, balanced register): Row 7 = 3 confirmed by CB"
+
+CATEGORY K — Style register identification by paper type:
+
+"Legal/policy paper: expect 'adjudication', 'due process', 'statutory', 'regulatory' — confirms Row 7 = 3"
+"Scientific/medical paper: expect 'epidemiological', 'longitudinal', 'clinical', 'dosage' — confirms Row 7 = 3"
+"Sociological paper: expect 'socioeconomic', 'systemic', 'institutional', 'intersectional' — confirms Row 7 = 3"
+"Historical paper: expect 'contemporaneous', 'archival', 'historiographical', 'antecedent' — confirms Row 7 = 3"
+"Economic paper: expect 'allocative efficiency', 'externalities', 'marginal', 'Pareto' — confirms Row 7 = 3"
+"Psychological paper: expect 'cognitive', 'behavioral', 'neurological', 'empirical' — confirms Row 7 = 3"
+"Political science paper: expect 'democratic', 'hegemonic', 'pluralistic', 'geopolitical' — confirms Row 7 = 3"
+"Environmental paper: expect 'ecological', 'anthropogenic', 'sustainability', 'biodiversity' — confirms Row 7 = 3"
+"Educational paper: expect 'pedagogical', 'metacognitive', 'constructivist', 'scaffolding' — confirms Row 7 = 3"
+"Technology paper: expect 'algorithmic', 'computational', 'cryptographic', 'decentralized' — confirms Row 7 = 3"
+
+CATEGORY L — Sentence variety assessment patterns:
+
+"Average sentence length 8-12 words: short-sentence dominant — Row 7 = 2 likely"
+"Average sentence length 13-20 words: appropriate range — Row 7 = 2 or 3"
+"Average sentence length 21-30 words: complex-sentence dominant — Row 7 = 3 supported"
+"Average sentence length > 35 words: overly complex, possible run-ons — flag"
+"All sentences roughly same length: low variety — Row 7 = 2 cap"
+"Mix of short (< 10 words) and long (> 20 words) sentences: good variety — Row 7 = 3 supported"
+"All sentences are simple sentences: very low variety — Row 7 = 2 cap"
+"All sentences are complex or compound-complex: very high complexity — Row 7 = 3 supported"
+"Sentence variety score below threshold: cap Row 7 at 2"
+"Sentence variety score at or above threshold: Row 7 = 3 possible if other signals support"
+
+CATEGORY M — Word-level register assessment patterns:
+
+"Vague noun 'things' used 3+ times — severity 2 accumulation"
+"Vague noun 'stuff' used 1+ times — severity 2 instance"
+"Vague verb 'get' used as formal verb ('government gets more power') — severity 2"
+"Vague verb 'make' as primary analytical verb ('this makes the problem worse') — severity 1"
+"Vague adjective 'big' as primary descriptor — severity 1"
+"Vague intensifier 'very' used 5+ times — severity 2 accumulation"
+"Vague intensifier 'really' used 3+ times — severity 2 accumulation"
+"Precise noun substitutes present ('legislation' for 'law', 'evidence' for 'proof') — positive signal"
+"Precise verb substitutes present ('contends' for 'says', 'demonstrates' for 'shows') — positive signal"
+"Precise adjective substitutes present ('empirical' for 'real', 'systematic' for 'organized') — positive signal"
+
+CATEGORY N — Row 7 cross-row interactions:
+
+"Row 7 = 0 does not affect other row scores — Row 7 is independent"
+"Row 7 = 3 combined with Row 4 = 12 confirms high-tier paper profile"
+"Row 7 = 0 combined with Row 4 = 0 (exploratory + colloquial) — confirmed below minimum"
+"Row 7 = 2 combined with Row 4 = 8 — common mid-tier profile"
+"Row 7 = 0 combined with Row 5 = 9 — unusual profile — flag LOW confidence"
+
+CATEGORY O — Row 7 specific feedback triggers:
+
+"Row 7 = 0 → feedback: 'Your essay contains language that is too informal for an academic audience. Phrases like [quoted example] should be replaced with academic equivalents.'"
+"Row 7 = 2 → feedback: 'Your essay maintains an academic tone overall. To reach the highest level, vary your sentence structure and use more precise, discipline-specific vocabulary.'"
+"Row 7 = 3 → feedback: 'Your academic register is consistently appropriate, with precise vocabulary and controlled syntax throughout.'"
+"Row 7 = 2 (colloquial severity 2) → feedback: 'Phrases like [quoted offending phrase] read as informal. Consider replacing them with more formal equivalents.'"
+"Row 7 = 0 (emoji) → feedback: 'Emojis are not appropriate in academic writing. Remove all emojis before submitting.'"
+
+CATEGORY P — Paper-specific Row 7 edge cases:
+
+"ESL patterns present (non-standard article use, verb tense issues) — do not add colloquial severity, flag separately"
+"Non-standard capitalization patterns (all caps for emphasis) — minor style issue, not colloquial severity"
+"Bullet points in body text — formatting issue, not Row 7 issue"
+"Headers between body paragraphs — formatting issue, not Row 7 issue"
+"Footnotes present — not a Row 7 issue unless footnote content is colloquial"
+
+CATEGORY Q — Row 7 patterns specific to IWA genre:
+
+"IWA essays may use first person ('I argue', 'I contend') — acceptable, no penalty"
+"IWA essays may use rhetorical questions analytically — acceptable, no penalty"
+"IWA essays may use second person in research question — acceptable, no penalty"
+"IWA essays should not use second person directed at reader ('you should consider') — minor flag"
+"IWA essays should not use conversational asides ('as you can see', 'as we all know') — severity 1"
+
+CATEGORY R — Row 7 patterns that look problematic but are not:
+
+"Latin phrases (inter alia, prima facie, mutatis mutandis) — academic register, positive signal"
+"Passive voice used throughout — acceptable in academic writing, no penalty"
+"Long sentences (25+ words) — acceptable if well-constructed, no penalty"
+"Discipline-specific abbreviations (APA, GINA, EPA, GDP) — acceptable, no penalty"
+"Technical terms that sound informal but are disciplinary (e.g., 'bug' in computer science) — no penalty"
+
+CATEGORY S — Row 7 patterns unique to specific paper types:
+
+"Personal essay format: 'I felt', 'I experienced', 'I believe' throughout — severity 2 accumulation"
+"Exploratory essay: 'maybe', 'perhaps', 'it could be' throughout — hedging, not colloquial — minor"
+"Persuasive speech format: 'today I will show you' — wrong genre, not severity issue — flag genre"
+"Narrative essay format: 'one day', 'it all began when' — narrative, not colloquial — flag genre"
+"Research report format submitted as IWA: 'this investigation found' — genre mismatch, not style issue"
+
+CATEGORY T — Row 7 = 0 confirmed profiles:
+
+"Paper 1 profile: 'kind of', 'a lot of time', 433 words, explicitly exploratory — Row 7 = 0"
+"CB Sample C profile: 'many times we don't know what we've got until it's stripped away or we're shown what we missed out on' — Row 7 = 0"
+"Paper with emoji throughout body text — Row 7 = 0"
+"Paper with text speak (tbh, ngl, lol) — Row 7 = 0"
+"Paper with 'at the end of the day' as primary conclusion phrase (3+ uses) — Row 7 = 0"
+
+CATEGORY U — Row 7 = 2 confirmed profiles:
+
+"Paper with academic vocabulary but limited variety and 2-3 informal phrases — Row 7 = 2"
+"Paper 2 profile: mostly academic, short, 'a lot of money at first' — Row 7 = 2"
+"Paper with consistent academic register but average sentence length < 12 words — Row 7 = 2"
+"Paper with academic tone but heavy use of 'really', 'very', 'quite' — Row 7 = 2"
+"Paper with academic intent but 2-3 grammar errors in 800-word paper — Row 7 = 2"
+
+IMPLEMENTATION NOTES
+All patterns above are additions only. Do not remove any existing patterns from the IWA engine. Every category in this prompt adds to the WITHHOLD/DEDUCTION side of the scoring logic — these are not new positive signals but penalty triggers, zero-floor triggers, and false positive guards.
+Implementation approach per category:
+STIMULUS_WITHHOLD_TRIGGERS: Add to the stimulusZeroReason detection logic in seminarStimulus.ts and stimulusAuthorMatch.ts. When a pattern from CATEGORY A-T matches, set stimulusZeroReason to the appropriate label and return Row 1 = 0 regardless of author name presence.
+ROW2_ZERO_TRIGGERS: Add to the specificityScore penalty logic in seminarDeepCalibration.ts. Penalties are applied during the contextScanText() pass. Zero-floor triggers override the specificityScore sum when they dominate.
+ROW3_ZERO_TRIGGERS: Add to the perspectiveIsolated and namedPerspectiveCount gating logic in iwaRows.ts. Isolation confirmed patterns prevent Row 3 from scoring above 0. Cap triggers prevent scoring above 6.
+ROW4_ZERO_TRIGGERS: Add to the thesisDetection, exploratoryMode, and commentaryDepthRatio logic in iwaRows.ts. Row 4 = 0 triggers override all other signals. Cap-at-8 triggers prevent Row 4 from reaching 12.
+ROW5_DEDUCTION_TRIGGERS: Add to the credibilityPoints, scholarlyRatio, and analysisDepthCount calculation logic in iwaRows.ts. Hard caps (Row 5 = 0) override all signals. Cap-at-6 triggers prevent Row 5 = 9.
+ROW6_DEDUCTION_TRIGGERS: Add to the linkingRatio, missingFromBibliographyCount, and citationStyleViolations logic in iwaRows.ts. Row 6 = 0 triggers override all signals. Cap-at-3 triggers prevent Row 6 = 5.
+ROW7_DEDUCTION_TRIGGERS: Add to the colloquialSeverity accumulation logic in seminarDeepCalibration.ts. Severity 3 triggers force Row 7 = 0 immediately. Severity 2 accumulation (3+ instances) caps Row 7 at 2.
+After implementation run:
+npm run seminar:regression — must hold 18/18 at ±3
+npx tsx scripts/seminar-golden-batch.ts — must hold 11/11
+npx tsc --noEmit — must be clean
+Bump SEMINAR_GRADER_VERSION to "seminar-2.5.6" in seminarTypes.ts.

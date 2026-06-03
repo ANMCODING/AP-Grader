@@ -1,0 +1,136 @@
+Taxing the Sweet: Sugar-Sweetened Beverage Taxes,
+Consumption Patterns, and Population Health Outcomes
+
+Sofia Reyes
+
+AP Seminar, Period 2
+
+Ms. Diaz
+
+Northside High School
+
+Sofia Reyes
+Ms. Diaz
+AP Seminar, Period 2
+18 March 2025
+
+Taxing the Sweet: Sugar-Sweetened Beverage Taxes, Consumption Patterns, and
+Population Health Outcomes
+
+Americans consume an average of 145 calories per day from sugar-sweetened beverages (SSBs)—sodas, energy drinks, sports drinks, and sweetened juices—making SSBs the single largest source of added sugar in the American diet and the dietary component most consistently associated with obesity, type 2 diabetes, and cardiovascular disease in prospective epidemiological studies (Colchero et al., 2016). Several American cities—Berkeley,
+Philadelphia, Seattle, and others—have implemented excise taxes on SSBs over the past decade, following Mexico's national SSB tax implemented in 2014, providing natural experiments for evaluating whether fiscal policies can reduce consumption of a product whose excess consumption is associated with significant population health costs. This investigation asks: to what extent do sugar-sweetened beverage taxes reduce SSB consumption and caloric intake among low-income populations, and what do the studies using the most rigorous quasi-experimental designs establish about the magnitude and distributional impacts of these effects? The evidence from difference-in-differences and regression discontinuity designs consistently shows significant consumption reductions in taxed jurisdictions, with effects concentrated in lower-income populations who are both most affected by SSB-related disease and most responsive to price signals.
+
+Jennifer Falbe and colleagues' evaluation of Berkeley's one-cent-per-ounce SSB
+tax—the first in the United States, implemented in 2015—used a difference-in-differences design comparing changes in SSB consumption and purchase prices in Berkeley before and after implementation against simultaneous changes in comparable California cities without the tax (Falbe et al., 2016). The study found a 21 percent reduction in SSB consumption in low-income Berkeley neighborhoods post-tax, with an offsetting 63 percent increase in water consumption—suggesting substitution toward untaxed alternatives rather than simply reduced total beverage intake. The methodological strength of Falbe's evaluation lies in the difference-in-differences design's capacity to control for concurrent secular trends in beverage consumption: by comparing Berkeley to control cities, the study isolates the tax's effect from broader trends that might affect both taxed and untaxed jurisdictions simultaneously. Falbe's finding
+
+that
+
+the
+
+largest
+
+consumption
+
+reductions
+
+occurred
+
+in
+
+low-income
+
+neighborhoods—where SSB-related disease rates are highest—directly addresses the distributional concern that SSB taxes are regressive: the tax appears to reduce consumption most among the population with the greatest health benefit to gain, which is the appropriate criterion for evaluating a health policy intervention.
+
+Colchero and colleagues' evaluation of Mexico's peso-per-liter national SSB tax provides evidence at a scale and population size that the city-level American studies cannot match, using similar difference-in-differences methodology comparing actual purchase data from consumer panel surveys before and after implementation against a synthetic control constructed from pre-tax trends (Colchero et al., 2016). The Mexican study found a 6 percent average reduction in SSB purchases nationally in the first year, increasing to 12 percent by the second year—a pattern consistent with consumers learning over time about the price change and adjusting their shopping patterns accordingly. Consistent with Falbe's Berkeley findings, the consumption reductions were largest in the lowest-income quintile at approximately 17
+
+percent reduction, confirming that the tax's health benefits are concentrated in the population most
+
+affected
+
+by
+
+SSB-related
+
+diseases.
+
+Colchero's
+
+team
+
+evaluated
+
+the
+
+price
+
+pass-through—whether manufacturers and retailers passed the tax to consumers or absorbed it—finding near-complete pass-through, which is necessary for the tax to affect consumption and was consistent with standard economic incidence theory for excise taxes with relatively inelastic supply.
+
+The perspectives of Falbe, Colchero, and public health economists who have evaluated
+SSB tax evidence reflect a productive convergence on the direction of effects alongside ongoing debate about magnitude. Falbe's focus on low-income consumption and substitution patterns provides the most direct evidence for the health equity argument: the largest consumption reductions occur where the potential health benefit is greatest, which challenges the standard regressivity critique of SSB taxes. Colchero's national-scale Mexican evidence establishes that the effect is not an artifact of local Berkeley dynamics and that the consumption response grows over time, suggesting that price signals have lasting behavioral effects rather than being overcome as consumers adapt. A third perspective, represented by economists including Hunt Allcott and colleagues, argues that the welfare analysis of SSB
+taxes depends on whether consumers are misinformed about SSB health effects—if they are, the tax corrects a market failure analogous to a Pigouvian tax on externalities; if they are fully informed and choose high SSB consumption rationally, the tax is paternalistic. Allcott's survey evidence finding systematic misunderstanding of SSB caloric content supports the informational market failure interpretation, providing an efficiency rationale for the tax that complements the public health case (Allcott et al., 2019). The disagreement between these perspectives is not about the empirical effect—taxes reduce consumption—but about the normative framework for evaluating whether that effect is welfare-improving.
+
+This investigation established that SSB taxes produce consistent and significant reductions in sugar-sweetened beverage consumption, with effects concentrated in lower-income populations who face the greatest SSB-related health risks. The research question asked to what extent taxes reduce consumption among low-income populations and what rigorous designs establish: Falbe's Berkeley difference-in-differences study found 21
+percent reductions in low-income neighborhoods; Colchero's Mexican national evaluation found 17 percent reductions in the lowest-income quintile growing over time. The methodological quality of both studies—pre-registered, with well-constructed comparison groups and comprehensive purchase data—provides strong causal evidence for the policy effect. The normative debate between Falbe and Colchero's public health framing and Allcott's economic welfare framing reflects a genuine disagreement about how to evaluate paternalistic policies when consumers may be misinformed—a disagreement that Allcott's own evidence on informational failures partially resolves in favor of the tax. Population health policy that reduces consumption of a product whose excess consumption causes disease, with the largest effects among the highest-risk populations, represents a defensible use of fiscal policy instruments that the available evidence strongly supports.
+
+The long-term health impact projections from SSB tax models provide the strongest justification for treating SSB taxes as a public health priority rather than merely a fiscal instrument. Teng and colleagues' meta-analysis of SSB tax studies found that the consumption reductions documented by Falbe and Colchero translate into meaningful reductions in obesity and diabetes incidence at the population level, with modeling studies projecting significant reductions in long-term healthcare costs that substantially exceed the tax revenue generated
+(Teng et al., 2019). The cost-effectiveness calculation is particularly favorable for taxes targeted at lower-income populations with high SSB consumption rates, where the combination of large consumption reductions and high rates of diet-related disease produces the greatest health return per tax dollar. Silver and colleagues' two-year follow-up analysis of the Berkeley tax confirmed that the consumption reductions documented by Falbe persisted and grew in the second year, consistent with the habit formation mechanism through which price changes produce durable behavioral change rather than temporary adaptation to a new price environment (Silver et al., 2017). The persistence of the Berkeley effect is particularly important for evaluating SSB taxes as a public health tool: short-lived consumption reductions would produce minimal health benefits, but persistent reductions over years would produce the caloric deficit necessary for meaningful effects on obesity and metabolic disease outcomes.
+
+Works Cited
+
+Colchero, M. A., Popkin, B. M., Rivera, J. A., & Ng, S. W. (2016). Beverage purchases from stores in Mexico under the excise tax on sugar sweetened beverages. BMJ, 352,
+Article h6704. https://doi.org/10.1136/bmj.h6704
+
+Falbe, J., Thompson, H. R., Becker, C. M., Rojas, N., McCulloch, C. E., & Madsen, K.
+A. (2016). Impact of the Berkeley excise tax on sugar-sweetened beverage consumption.
+
+American
+
+Journal
+
+of
+
+Public
+
+Health,
+
+106(10),
+
+1865–1871.
+
+https://doi.org/10.2105/AJPH.2016.303362
+
+Allcott, H., Lockwood, B. B., & Taubinsky, D. (2019). Should we tax sugar-sweetened beverages? An overview of theory and evidence. Journal of Economic Perspectives,
+33(3), 202–227. https://doi.org/10.1257/jep.33.3.202
+
+Silver, L. D., Ng, S. W., Ryan-Ibarra, S., Taillie, L. S., Induni, M., Miles, D. R., Poti, J.
+M., & Popkin, B. M. (2017). Changes in prices, sales, consumer spending, and beverage consumption one year after a tax on sugar-sweetened beverages in Berkeley.
+PLOS
+
+Medicine,
+
+14(4),
+
+Article
+
+e1002283.
+
+https://doi.org/10.1371/journal.pmed.1002283
+
+Teng, A. M., Jones, A. C., Mizdrak, A., Signal, L., Genç, M., & Wilson, N. (2019).
+Impact of sugar-sweetened beverage taxes on purchases and dietary intake: Systematic review
+
+and
+
+meta-analysis.
+
+https://doi.org/10.1111/obr.12868
+
+Obesity
+
+Reviews,
+
+20(9),
+
+1187–1204.
+
+========================================================================
