@@ -786,6 +786,16 @@ export function HomePage() {
                 with, endorsed by, or a product of College Board. Scores are
                 estimates and may differ from official AP exam scoring.
               </p>
+              <p className="mt-2 w-full text-xs text-gray-400">
+                If you have any questions, email me at{" "}
+                <a
+                  href="mailto:anmosman@gmail.com"
+                  className="underline hover:text-gray-500"
+                >
+                  anmosman@gmail.com
+                </a>
+                .
+              </p>
 
               {phase === "analyzing" &&
                 gradingCourse === "research" &&
