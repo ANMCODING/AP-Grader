@@ -5,6 +5,7 @@ import {
   isAdminSecretConfigured,
   verifyAdminSessionCookie,
 } from "@/lib/server/gradeStats";
+import { getSchoolStats } from "@/lib/server/schoolStats";
 
 const COOKIE_NAME = "ap_grader_admin";
 
@@ -22,6 +23,9 @@ export async function GET() {
     return NextResponse.json({ error: "Unauthorized." }, { status: 401 });
   }
 
-  const stats = await getGradeStats();
-  return NextResponse.json(stats);
+  const [grades, schools] = await Promise.all([
+    getGradeStats(),
+    getSchoolStats(),
+  ]);
+  return NextResponse.json({ ...grades, schools });
 }

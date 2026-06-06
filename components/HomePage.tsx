@@ -9,6 +9,7 @@ import { SubmissionTipsPanel } from "@/components/SubmissionTipsPanel";
 import { SubmissionAccuracyTip } from "@/components/SubmissionAccuracyTip";
 import { SectionDetectionPreview } from "@/components/SectionDetectionPreview";
 import { SubmissionHistoryPanel } from "@/components/SubmissionHistoryPanel";
+import { SchoolSelector } from "@/components/SchoolSelector";
 import {
   emptySectionPreview,
   scanSectionsForPreview,
@@ -585,6 +586,8 @@ export function HomePage() {
                     : "Submit your IWA or IRR for rubric row scoring."}
                 </p>
               </header>
+
+              <SchoolSelector />
 
               {gradingCourse === "seminar" && (
                 <div className="mb-6">
